@@ -1,0 +1,992 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-17",
+  "captured_at": "2026-09-17T03:00:55.546020",
+  "score_fn_hash": "093f59b0",
+  "raw_count": 54,
+  "selected_count": 4,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "Pingyao Festival Sets 10th Edition Lineup With Fei Mu Restoration, Films From Cristian Mungiu, James Gray",
+      "url": "https://variety.com/2026/film/festivals/pingyao-festival-10th-edition-lineup-fei-mu-restoration-1236865252/",
+      "summary": "The Pingyao International Film Festival has unveiled the full lineup for its 10th edition, with a 4K restoration of Fei Mu\u2019s 1948 classic \u201cSpring in a Small Town\u201d opening the anniversary program and Hong Kong dramedy \u201cGood Trip\u201d set to close it. The festival, founded by Jia Zhangke in Shanxi province, will run Sept. 24-30. [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T09:55:17+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Happily Ever After\u2019: First Look Footage Of K-Pop Star Shuhua In Movie Debut \u2014 Toronto Film Festival",
+      "url": "https://deadline.com/2026/09/shuhua-movie-debut-first-look-happily-ever-after-1237106263/",
+      "summary": "EXCLUSIVE: Here\u2019s your first-look footage of K-pop star Shuhua in her movie debut, Happily Ever After, which is debuting this week at the Toronto Film Festival. The Korea-based Taiwanese singer, a member of the girl group I-dle, stars alongside Xuan Chen (I, Myself) in the second feature from Taiwanese writer-director Feng-i Fiona Roan. Taiwanese outfit [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T09:45:23+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Belzebubs\u2019 Created by JP Ahonen Is a Relatable Story About Liberal Values Where \u2018The Addams\u2019 Family Meets \u2018Modern Family\u2019 \u2013 and Satanism (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/global/belzebubs-jp-ahonen-animation-satanism-1236864378/",
+      "summary": "Finnish artist JP Ahonen is ready to unleash the animated series \u201cBelzebubs\u201d onto the unsuspecting world. Based on his successful webcomic, it will premiere at Helsinki Intl. Film Festival \u2013 Love & Anarchy. Banijay Kids & Family is handling distribution. Terhi V\u00e4\u00e4n\u00e4nen is producing for Pyjama Films, Samppa Kukkonen directs and Lassi Vierikko is responsible [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T09:40:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "King Charles Denies Bombshell Book Claim That He Said World Would \u2018Forget\u2019 Princess Diana",
+      "url": "https://variety.com/2026/global/global/king-charles-princess-diana-book-forget-after-death-1236865202/",
+      "summary": "King Charles III has issued a rare statement regarding a new book about his ex-wife, the late Princess Diana. Written by Diana\u2019s brother, Charles Spencer, the book claims (according to reports) that after Diana\u2019s sudden death in a car crash in 1997, Spencer got into a heated argument with Charles, then still heir to the [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T09:27:07+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "STV Studios Ups Stake In \u2018Patrick Melrose\u2019 & \u2018Army Of Shadows\u2019 Producer Two Cities Once Again",
+      "url": "https://deadline.com/2026/09/stv-stake-two-cities-upped-patrick-melrose-blue-lights-1237106246/",
+      "summary": "EXCLUSIVE: STV Studios has once again upped its stake in Patrick Melrose and Blue Lights producer Two Cities Television. The Scottish production giant has shifted its ownership from 51% to 75%, according to a recent Companies House filing. STV, which owns Criminal Record maker STV Studios, confirmed the move. \u201cAs was the plan from the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T09:25:10+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lasse Hallstr\u00f6m, Lena Olin, Trine Dyrholm, Fares Fares, \u00d3lafur Darri \u00d3lafsson Among Awardees at The Freyas",
+      "url": "https://variety.com/2026/film/global/lasse-hallstrom-lena-olin-trine-dyrholm-the-freyas-1236865236/",
+      "summary": "The Freyas, also known as the Nordic Film and TV Awards, has revealed its first honorees and award-winners. They are Lasse Hallstr\u00f6m, Lena Olin, Trine Dyrholm, \u00d3lafur Darri \u00d3lafsson, Fares Fares, Thea Sofie Loch N\u00e6ss, Laura Birn and Ebba Katr\u00edn Finnsd\u00f3ttir. The first-ever edition will be held in Helsinki on Sept. 22, bringing together leading [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T09:24:47+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sonia Rovai Appointed Disney Italy VP of Original Production (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/sonia-rovai-disney-italy-original-production-1236865201/",
+      "summary": "Sonia Rovai, one of Italy\u2019s most respected TV and film production executives, has been appointed VP of original production at the Italian unit of The Walt Disney Company. Rovai, who since 2024 served as CEO of Fremantle-owned Wildside \u2014 the Rome-based company behind \u201cMy Brilliant Friend\u201d and, more recently, Netflix\u2019s hit series \u201cThe Monster of [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T09:16:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "King Charles Makes Rare Statement Over Bombshell Memoir Claim He Told Diana\u2019s Brother: \u201cWe\u2019ll Forget Her Soon Enough\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/king-charles-statement-earl-spencer-diana-memoir-book-royal-1236704403/",
+      "summary": "The royal family has, as the British press put it, been dragged into a war of words with Charles Spencer, the younger brother of the beloved Princess Diana.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T08:57:29+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Avengers\u2019 Studio AGBO\u2019s Chris Brearton, Dominic Hughes to Keynote Tokyo Market on Artist-Led AI in Storytelling",
+      "url": "https://variety.com/2026/film/markets-festivals/avengers-agbo-tokyo-market-keynote-ai-1236865186/",
+      "summary": "TIFFCOM, the content market held in coordination with the Tokyo International Film Festival, will host a keynote presentation by Chris Brearton and Dominic Hughes, partner and chief scientific Officer, respectively, of AGBO, the studio founded by Anthony and Joe Russo. The session, titled \u201cTechnology and Storytelling,\u201d takes place Oct. 29 and will be moderated by [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T08:24:58+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Princess Diana Documentary Featuring Unheard Tapes Set For International Launch At MIPCOM",
+      "url": "https://deadline.com/2026/09/princess-diana-unheard-tapes-documentary-sales-cineflix-1237106198/",
+      "summary": "EXCLUSIVE: Diana Unheard, a new documentary series featuring previously unheard audio recordings of the Princess candidly discussing her life, loves and the royal family, is getting an international launch. Cineflix has landed the rights and the show will be a big launch at MIPCOM in Cannes. The three-part doc was made by Love Monday TV, [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T08:13:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Audiences Flocking To Anime On Netflix At 10 Times The Rate Of Other Genres, Report Reveals",
+      "url": "https://deadline.com/2026/09/netflix-anime-viewing-rising-fast-mpa-report-reveals-1237106192/",
+      "summary": "Viewing to anime on Netflix has rocketed at almost 10 times the rate of the streamer\u2019s total viewing numbers over the past three years. A Media Partners Asia (MPA) report into anime shone a spotlight on audiences\u2019 love for the genre on the U.S. streaming behemoth, which has anime hits like Blue Eye Samurai, Cyberpunk: [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T08:08:46+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "CJ ENM Sells \u2018Hotel Del Luna\u2019, \u2018Signal\u2019 & Other Hit K-Dramas To CME Slovakia & Czech Channels",
+      "url": "https://deadline.com/2026/09/hotel-del-luna-signal-cj-enm-cme-central-eastern-europe-1237106124/",
+      "summary": "Korean studio CJ ENM has signed partnerships with TV Mark\u00edza in Slovakia and TV Nova in the Czech Republic, both owned by European media giant Central European Media Enterprises (CME), as part of an expansion of its K-Content distribution efforts in Central and Eastern Europe. The deals cover a total of 10 scripted titles including [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T07:59:30+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Matthew Rhys, Ruth Wilson, Phoebe Dynevor & Harriet Walter Set For Audible Thriller \u2018All She Wants For Christmas\u2019",
+      "url": "https://deadline.com/2026/09/matthew-rhys-ruth-wilson-phoebe-dynevor-audible-cast-1237105149/",
+      "summary": "EXCLUSIVE: Matthew Rhys, fresh off his double Emmy win, Ruth Wilson, Phoebe Dynevor and Harriet Walter have been set to star in Lisa Jewell\u2019s Audible Original, All She Wants for Christmas, which will launch November 2. Described as a \u201cchilling tale of obsession, ambition, and the dangerous space between truth and fiction\u201d, the synopsis reads: [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T07:01:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jacki Weaver Replacing Judy Davis In ITV & Stan Drama \u2018Two Birds\u2019",
+      "url": "https://deadline.com/2026/09/two-birds-jacki-weaver-replacing-judy-davis-itv-stan-1237105053/",
+      "summary": "EXCLUSIVE: Two-time Oscar nominee Jacki Weaver has replaced Judy Davis in Two Birds, the upcoming thriller from the UK\u2019s ITV and Australia\u2019s Stan. First look images are above and below. Davis has dropped out due to scheduling conflicts, we understand. Her place playing the formidable Mrs Baxter is taken by Weaver, who has starred in [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T07:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Jujutsu Kaisen\u2019 Vaults MAPPA to Anime Studio Lead as Streaming Shifts From Licensing to Ownership, Media Partners Asia Report Finds",
+      "url": "https://variety.com/2026/tv/news/jujutsu-kaisen-mappa-anime-lead-streaming-1236865122/",
+      "summary": "Anime drew a larger monthly audience than any other genre on Asian streaming platforms between July 2025 and August 2026, and viewing on Netflix grew nine times faster than the service overall, according to a new report from Media Partners Asia (MPA). \u201cThe Anime Economy\u201d report draws on ampd audience panels MPA runs across eight [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T06:55:13+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Eddie Cahyono\u2019s Busan Competition Title \u2018Ibuku,\u2019 Starring Christine Hakim, Boarded by Asian Shadows for World Sales (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/eddie-cahyono-busan-ibuku-christine-hakim-asian-shadows-1236865115/",
+      "summary": "Asian Shadows has boarded international sales rights to Eddie Cahyono\u2019s \u201cIbuku,\u201d starring Christine Hakim and Ayushita Nugraha, which the Busan International Film Festival has selected for its Competition lineup. \u201cIbuku\u201d centers on Sumiati (Hakim), a widow in her 60s isolated in a small Javanese village since her husband took his own life. Her daughter, Sri [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T06:23:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Stan Sets \u2018McLeod\u2019s Daughters\u2019 Revival, Rachel Griffiths-Starrer \u2018Slander\u2019 & Angourie Rice\u2019s \u2018Pride & Prejudice\u2019 Reimagining",
+      "url": "https://deadline.com/2026/09/stan-mcleods-daughters-revival-angourie-rice-stuck-up-stupid-1237104979/",
+      "summary": "EXCLUSIVE: Australia\u2019s Stan is remaking iconic rural series McLeod\u2019s Daughters and has greenlit shows starring Rachel Griffiths, Angourie Rice and Anna Friel. The revival of Nine Network\u2019s McLeod\u2019s Daughters comes 25 years after the original, an early 2000s drama about sisters who take over a cattle ranch in South Australia. A lot has happened since [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T06:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zhang Yimou to Lead Busan Competition Jury",
+      "url": "https://variety.com/2026/film/festivals/zhang-yimou-busan-competition-jury-1236865108/",
+      "summary": "The 31st Busan International Film Festival (BIFF) has confirmed seven jurors for its Competition section, with Chinese director Zhang Yimou serving as jury president for the section\u2019s second edition. Zhang has won prizes at each of the three major European festivals: the Golden Bear at Berlin for his 1987 debut \u201cRed Sorghum,\u201d the Golden Lion [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T05:53:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Virender Sehwag\u2019s \u2018Rise & Fall\u2019 Season 2 Sets September Launch on Prime Video, Reveals First Four Contestants (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/virender-sehwag-rise-and-fall-season-2-prime-video-september-1236864206/",
+      "summary": "Virender Sehwag-hosted reality series \u201cRise & Fall Season 2\u201d is heading to Prime Video this September, with the first four of 15 contestants set to compete across the 42-day run confirmed. The Banijay Asia production will be available free of charge on Prime Video and the MX Player Android app \u2013 the latter now operating [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-17T05:25:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jimmy Fallon Roasts Trump for Shutting Down Kennedy Center Because It Lacks His Name \u2014 Unlike His Failed Casinos",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-reacts-trump-kennedy-center-closure/",
+      "summary": "\u201cTrump canceled the renovations. The Reflecting Pool looked at the Kennedy Center and said, \u2018Consider yourself lucky,'\" the late night host adds The post Jimmy Fallon Roasts Trump for Shutting Down Kennedy Center Because It Lacks His Name \u2014 Unlike His Failed Casinos appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T05:21:36+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018South Park\u2019 Returns as \u2018South America\u2019 as Plot Stays Local and Trump-Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/south-park-returns-south-america-plot-stays-local-trump-free-1236704264/",
+      "summary": "Trey Parker and Matt Stone leave the White House behind for a more localized \u2014 but no less pointed \u2014 satire.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T04:50:38+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jimmy Kimmel Edits Usha Vance\u2019s Diaper Bank Ad to Mock Trump\u2019s Age and Suggest Incontinence Issues",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-mocks-usha-vance-diaper-bank-ad-trump-dig/",
+      "summary": "\"Our fourth baby is just a few weeks old and our president just turned 80 a few months ago. Both of these busy guys go through a lot of diapers,\" the second lady says in the new footage The post Jimmy Kimmel Edits Usha Vance\u2019s Diaper Bank Ad to Mock Trump\u2019s Age and Suggest Incontinence Issues appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T04:40:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zhang Yimou To Head Seven-Member Competition Jury At Busan International Film Festival",
+      "url": "https://deadline.com/2026/09/zhang-yimou-busan-competition-jury-bi-gan-moon-choi-1237105937/",
+      "summary": "Chinese director Zhang Yimou has been named as Jury President for the main competition section at this year\u2019s Busan International Film Festival (October 6-15). Joining him are fellow Chinese filmmaker Bi Gan, whose 2025 film Resurrection played in Busan competition last year; Korean actress Moon Choi, who produced and acted in Bedford Park, which is [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T03:56:15+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tony-Winning Composer Duncan Sheik Hospitalized in \u2018Critical but Stable Condition\u2019",
+      "url": "https://www.thewrap.com/creative-content/theater/duncan-sheik-hospitalized-critical-condition/",
+      "summary": "The \u201cSpring Awakening\u201d co-creator\u2019s hospitalization comes weeks before two new shows are set to open The post Tony-Winning Composer Duncan Sheik Hospitalized in \u2018Critical but Stable Condition\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T03:16:44+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bleachers Bring Out The Chicks to End Five Nights of Underplays at the Troubadour",
+      "url": "https://www.hollywoodreporter.com/music/music-news/bleachers-concert-review-troubador-1236703808/",
+      "summary": "The Jack Antonoff-fronted indie pop band played a mixture of older classics and new songs off their latest album, 'everyone for ten minutes.'",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T03:11:31+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Duncan Sheik Hospitalized In \u201cCritical But Stable Condition\u201d Weeks Before Two Major Off Broadway Musicals Set To Begin",
+      "url": "https://deadline.com/2026/09/duncan-sheik-hospitalized-1237106068/",
+      "summary": "Duncan Sheik, the singer and composer whose new musical Memoirs of Amorous Gentlemen is set to begin performances Off Broadway later this month and whose 2006 Broadway musical Spring Awakening is being revived for a major Off Broadway production in November, has been hospitalized and is in \u201ccritical but stable condition\u201d for undisclosed reasons. The [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T02:56:24+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Josh Johnson Leaves \u2018Daily Show\u2019 Audience Stunned With MLK Jr. Death Joke",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/josh-johnson-stuns-daily-show-audience-fbi-mlk-jr-death-joke/",
+      "summary": "The comedian\u2019s jab comes as he discusses Kash Patel\u2019s Senate Judiciary Committee oversight hearing The post Josh Johnson Leaves \u2018Daily Show\u2019 Audience Stunned With MLK Jr. Death Joke appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T02:54:33+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018South Park\u2019 Back With Fellatio Shout-Outs Galore, No Trump, Lots Of \u201cChinese Sh*tty E-Bikes\u201d & \u2018South America\u2019 Re-Branding",
+      "url": "https://deadline.com/2026/09/south-park-recap-season-debut-south-america-maga-paramount-1237106057/",
+      "summary": "South Park is back for its 29th season and while Trey Parker and Matt Stone\u2019s satire is now called South America in homage to Donald Trump\u2019s mastery of geography, the Comedy Central show\u2019s bite is still stars-and-stripes sharp \u2014 on or off \u201cChinese sh*tty e-bikes.\u201d Yep, it was the kids\u2019 status symbol of \u201cdamn e-bikes\u201d [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T02:48:32+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018South Park\u2019 Prays Grand Theft Auto VI Saves America as Town Battles E-Bike Epidemic",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/south-park-season-29-episode-1-name-change-grand-theft-auto/",
+      "summary": "The Comedy Central series commits to its \u201cSouth America\u201d name change, but lays off direct Trump attacks The post \u2018South Park\u2019 Prays Grand Theft Auto VI Saves America as Town Battles E-Bike Epidemic appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T02:44:57+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Universal Is Getting Cold Feet on Releasing the Elon Musk Documentary (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/elon-musk-movie-gibney-canceled-universal-1236704232/",
+      "summary": "The Comcast-owned studio is not yet committing to rolling out Alex Gibney's movie that it paid millions to acquire for non-North American release before the political winds shifted.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T02:44:20+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Rodney Charters Dies: \u201824,\u2019 \u2018Shameless\u2019 Cinematographer Was 80",
+      "url": "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046/",
+      "summary": "Rodney Charters, the cinematographer who shot 184 episodes of 24 and helped craft the show\u2019s distinct look, died suddenly in Amsterdam on September 13. The news was announced by the ASC, of which he was a longtime member. He was 80. Charters\u2019 work on the Kiefer Sutherland-starring thriller was structured to capture the energy and [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T02:40:13+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Matthew Lillard Says He\u2019s \u201cEmbarrassed\u201d About Returning for \u2018Scream 7\u2019 After Melissa Barrera\u2019s Firing",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/matthew-lillard-embarrassed-scream-7-return-melissa-barreras-firing-1236704224/",
+      "summary": "Barrera was dropped from the seventh installment in the slasher franchise after expressing support for Palestinians in 2023.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T02:24:22+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018DWTS\u2019 Premiere Night 2: Maura Higgins Stuns Judges With \u2018Traitors\u2019-Inspired Foxtrot",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-season-35-premiere-night-2-results-dwts/",
+      "summary": "Jenna Dewan and Julia Stiles show off and address the haters before an emotional elimination The post \u2018DWTS\u2019 Premiere Night 2: Maura Higgins Stuns Judges With \u2018Traitors\u2019-Inspired Foxtrot appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T02:03:12+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Boasting Record-Breaking Sales and a \u2018Spider-Man\u2019 Spot, Samsung\u2019s Galaxy Z Fold8 Gets Limited-Time Discount",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/samsung-galaxy-z-fold-8-buy-spider-man-2026-foldable-phone-1236704175/",
+      "summary": "How to secure the promo on Samsung's buzziest launch to date \u2014 no trade-in required.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T01:42:24+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How to Watch the \u2018South Park\u2019 Season 29 Premiere on TV and Streaming",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/how-to-watch-south-park-season-29-tv-streaming/",
+      "summary": "Actually, it's \"South America\" now The post How to Watch the \u2018South Park\u2019 Season 29 Premiere on TV and Streaming appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T01:30:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Whoopi Goldberg Has Complicated Feelings About Filming Documentary on Her Life: \u2018I Don\u2019t Remember a Lot\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/whoopi-goldberg-complicated-feelings-about-documentary-on-her-life-video/",
+      "summary": "\"It's been odd,\" the EGOT-winning performer admits of her project with Geeta Gandbhir The post Whoopi Goldberg Has Complicated Feelings About Filming Documentary on Her Life: \u2018I Don\u2019t Remember a Lot\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T00:58:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netanyahu to Introduce Bills Revoking \u2018NAZA\u2019 Directors\u2019 Israeli Citizenship: \u2018Their Place Is Not Among Us\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/netanyahu-introduces-bills-revoking-naza-directors-citizenship/",
+      "summary": "The prime minister seeks to pass legislation that takes the citizenship from \"anyone who slanders IDF soldiers\" The post Netanyahu to Introduce Bills Revoking \u2018NAZA\u2019 Directors\u2019 Israeli Citizenship: \u2018Their Place Is Not Among Us\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T00:58:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Re/Pair\u2019 Review: David Schwimmer, W. Kamau Bell and Van Jones Lead Pragmatic Doc About the Past and Present of Black-Jewish Relations",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/re-pair-review-black-jewish-relations-documentary-1236702418/",
+      "summary": "Lacey Schwartz Delgado's TIFF-premiering documentary explores the shifting dynamic between Blacks and Jews in America via 19 paired conversations.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T00:35:56+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Robert Kraft Responds After Macklemore Invites Him to Match His $1M Donation to Support Palestinian People",
+      "url": "https://www.hollywoodreporter.com/music/music-news/macklemore-invites-robert-kraft-match-donation-palestine-1236704156/",
+      "summary": "\"I will be donating the entire $1 million of my net earnings from Ed Sheeran\u2019s Loop Tour to six organizations working directly to support the Palestinian people. And I invite Robert Kraft to match my donation,\" the rapper wrote in a statement after being dropped from Ed Sheeran\u2018s tour over his pro-Palestine speeches.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T00:29:51+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Biopic About Gambling Influencer Vegas Matt in the Works From Filmmaker Mike Young (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/gambling-influencer-vegas-matt-the-chop-mike-young-1236702695/",
+      "summary": "'The Chop' is inspired by the real-life path of Stephen Matt Morrow, a dedicated father who became a gambler and YouTube personality.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-17T00:01:32+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Dancing With the Stars\u2019 Caps Off Season 35 Premiere With the Female Celebrities and an Elimination: See the Scores, Who Went Home",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-premiere-recap-female-celebs-scores-elimination-1236703772/",
+      "summary": "Closing out the two-night premiere, which kicked off on Tuesday, Sept. 15, the female stars performed a dance to a No. 1 song from the year they were born.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-16T23:58:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How Kenneth Branagh and Boyd Holbrook Approached Playing Real-Life People in \u2018Atonement\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/kenneth-branagh-boyd-holbrook-atonement-tiff-interview/",
+      "summary": "TIFF 2026: This harrowing drama is based on an actual incident from the Iraq War The post How Kenneth Branagh and Boyd Holbrook Approached Playing Real-Life People in \u2018Atonement\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-16T23:44:40+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "As the \u2018Digger\u2019 Awards Campaign Launches, Will Tom Cruise Do What it Takes to Win an Oscar?",
+      "url": "https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/",
+      "summary": "Warners is going all in to promote Hollywood's last movie star, but \"Digger\" faces box office hurdles and a star unaccustomed to navigating the awards season gauntlet.",
+      "source": "IndieWire",
+      "published": "2026-09-16T22:17:41+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "NewFest Lineup Showcases \u2018La Bola Negra\u2019 NYC Premiere, Plus \u2018Elsinore,\u2019 \u2018Club Kid,\u2019 and More",
+      "url": "https://www.indiewire.com/news/festivals/newfest-2026-lineup-la-bola-negra-nyc-premiere-1235217368/",
+      "summary": "Exclusive: New York City's premier LGBTQ+ film festival runs October 15-25 with 144 films representing 23 countries.",
+      "source": "IndieWire",
+      "published": "2026-09-16T17:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Stuffed\u2019 Review: There Are No Certainties in Life Besides Death and Taxidermy in This Zany, Bleakly Romantic Body Horror Musical",
+      "url": "https://www.indiewire.com/criticism/movies/stuffed-movie-review-harry-melling-jodie-comer-musical-1235217409/",
+      "summary": "Infectious tunes and killer performances from Jodie Comer and Harry Melling have Theo Rhys' film destined for cult classic status.",
+      "source": "IndieWire",
+      "published": "2026-09-16T16:11:07+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 Review: Zach Cregger\u2019s Relentless Adaptation Is the Future of Video Game Movies, Even When Too Goofy for Its Own Good",
+      "url": "https://www.indiewire.com/criticism/movies/resident-evil-movie-review-2026-zach-cregger-1235217403/",
+      "summary": "Austin Abrams dives into the heart of a zombie apocalypse in a lean, mean, 85-minute thrill ride that captures the experience of playing the \"Resident Evil\" games.",
+      "source": "IndieWire",
+      "published": "2026-09-16T16:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Sacrifice\u2019 Trailer: Anya Taylor-Joy, Chris Evans, John Malkovich, and Charli XCX Take Aim at Celebrity Vapidity",
+      "url": "https://www.indiewire.com/news/trailers/sacrifice-trailer-anya-taylor-joy-chris-evans-romain-gavras-1235217384/",
+      "summary": "In Romain Gavras' English-language debut, a Ruben \u00d6stlund-ish set-up gets a fiery edge.",
+      "source": "IndieWire",
+      "published": "2026-09-16T15:10:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Woodstock Film Festival Unveils 2026 Lineup Featuring \u2018The Debut,\u2019 \u2018I Play Rocky,\u2019 \u2018Club Kid,\u2019 and More",
+      "url": "https://www.indiewire.com/news/festivals/woodstock-film-festival-2026-lineup-the-debut-musk-club-kid-1235217362/",
+      "summary": "Exclusive: Woodstock Film Festival will also include awards contenders like \"Musk,\" \"Possible Love,\" and \"Being Heumann.\"",
+      "source": "IndieWire",
+      "published": "2026-09-16T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The History of Concrete\u2019 Review: John Wilson Illustrates How to Get Over a Beloved TV Show with a Moving and Hilarious Meditation on Death",
+      "url": "https://www.indiewire.com/criticism/movies/the-history-of-concrete-movie-review-john-wilson-1235174386/",
+      "summary": "DMX, Hallmark movies, Kim Kardashian, and public diarrhea are just some of the countless things mixed into John Wilson's excellent debut feature.",
+      "source": "IndieWire",
+      "published": "2026-09-16T12:51:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How to Make IndieWire a Preferred Source on Google",
+      "url": "https://www.indiewire.com/news/general-news/how-to-make-indiewire-preferred-news-source-google-1235217335/",
+      "summary": "You can ensure that IndieWire's reporting and analysis informs all of your searches in a few simple steps.",
+      "source": "IndieWire",
+      "published": "2026-09-16T12:30:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Final Trailer for \u2018Wildwood\u2019 Provides Deepest Look Yet at an Epic Adventure",
+      "url": "https://www.indiewire.com/news/trailers/wildwood-final-trailer-1235217365/",
+      "summary": "Laika's sixth stop-motion feature will be available in 4DX, DBOX, and Dolby Cinema.",
+      "source": "IndieWire",
+      "published": "2026-09-16T12:30:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Faith\u2019 Review: Erin Doherty Approaches Sublimation in a Drama with Otherworldly Overtones",
+      "url": "https://www.indiewire.com/criticism/movies/faith-review-erin-doherty-james-mcavoy-1235217359/",
+      "summary": "TIFF: Paul Andrew Williams\u2019 focused direction refuses to exploit the script\u2019s genre trappings beyond the realm of its characters\u2019 interiority.",
+      "source": "IndieWire",
+      "published": "2026-09-15T23:45:20+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018At Night\u2019 Review: A Feminist Feature Debut Refutes the Idea of Monolithic Womanhood",
+      "url": "https://www.indiewire.com/criticism/movies/at-night-review-1235217342/",
+      "summary": "TIFF: First-time feature filmmaker Beatrice Gibson adapts the poetry of Alice Notley into a spellbinding work of autofiction.",
+      "source": "IndieWire",
+      "published": "2026-09-15T21:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018About a Hero,\u2019 AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer \u2014 Watch",
+      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
+      "summary": "Exclusive: Director Piotr Winiewicz and the AI that was trained on Herzog\u2019s body of work, with his permission, will do Q&As when the film screens.",
+      "source": "IndieWire",
+      "published": "2026-09-15T20:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://www.thewrap.com/creative-content/theater/duncan-sheik-hospitalized-critical-condition/",
+    "https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/",
+    "https://www.indiewire.com/news/festivals/woodstock-film-festival-2026-lineup-the-debut-musk-club-kid-1235217362/",
+    "https://www.thewrap.com/creative-content/movies/netanyahu-introduces-bills-revoking-naza-directors-citizenship/"
+  ]
+}

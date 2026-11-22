@@ -1,0 +1,996 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-14",
+  "captured_at": "2026-09-14T03:00:57.284822",
+  "score_fn_hash": "95589781",
+  "raw_count": 54,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "\u2018Heated Rivalry\u2019 Distributor Sphere Abacus Buys Digital Outfit Rocket Rights",
+      "url": "https://deadline.com/2026/09/sphere-abacus-buys-rocket-rights-booster-heated-rivalry-1237101529/",
+      "summary": "Canada\u2019s Heated Rivalry distributor Sphere Abacus has bought digital seller Rocket Rights/Rights Booster, renaming it Rocket Booster. Founder Matthew Frank has become executive director of the newly-named company while former COO Cat Davie is now MD. Both will report to Sphere Abacus boss Jonathan Ford. Founder by Frank with his late brother David in 2021, [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T09:42:28+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Emily Maitlis To Host Global Podcast Tracing Jeffrey Epstein\u2019s Links To The UK",
+      "url": "https://deadline.com/2026/09/emily-maitlis-global-podcast-jeffrey-epstein-links-uk-1237101528/",
+      "summary": "EXCLUSIVE: After laying bare Andrew Mountbatten-Windsor\u2019s links to Jeffrey Epstein in a bombshell interview, Emily Maitlis is now delving deeper into the world of the deceased child sex offender. The former BBC presenter will host A Very British Epstein for UK audio company Global. It will trace Epstein\u2019s ties to the UK through exclusive interviews [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T09:42:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
+      "url": "https://variety.com/lists/international-oscar-submissions-2027/",
+      "summary": "The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T09:20:29+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Adolescence\u2019 Scribe Jack Thorne Claims Fellow Writers Are Using AI To \u201cCheat\u201d & Says Those Caught Should Be Punished",
+      "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
+      "summary": "Jack Thorne, one of the UK\u2019s most respected screenwriters, has alleged that some of his peers are using artificial intelligence to generate scripts. In a wide-ranging speech about AI on behalf of the Writers\u2019 Guild of Great Britain (WGGB), the Adolescence and Lord of the Flies writer said he was aware of fellow creatives turning [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T08:51:03+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hyun Bin, Lee Min-ho, Jung Woo-sung, Isabelle Huppert Headline Busan Open Talk and Outdoor Stage Greeting Lineup",
+      "url": "https://variety.com/2026/film/festivals/hyun-bin-lee-min-ho-isabelle-huppert-busan-talks-1236860985/",
+      "summary": "The 31st Busan International Film Festival (BIFF) has unveiled the lineup and schedule for three of its fan-facing programs: Open Talk, Outdoor Stage Greeting and Talk-to-Talk. Held at the Busan Cinema Center Roof Theater and the HANMAC Smooooth Lounge, the sessions give audiences a chance to meet directors and cast members from a wide range [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T08:41:08+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Life And Deaths Of Wilson Shedd\u2019 Review: Amanda Seyfried\u2019s Complex Portrayal Enriches Tim Blake Nelson\u2019s  Downbeat Prison Picture \u2013 Toronto Film Festival",
+      "url": "https://deadline.com/2026/09/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1237101506/",
+      "summary": "Amanda Seyfried\u2019s sad school teacher is the heart and confused soul of Tim Blake Nelson\u2019s latest directorial outing, The Life And Deaths Of Wilson Shedd. The movie itself appears to have had a lot of \u201clife and deaths\u201d itself along the way as Nelson has been trying to get it made for years, and finally [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T08:25:48+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lee Chang-dong\u2019s Films Head to Netflix Worldwide After \u2018Possible Love\u2019 Wins Silver Lion at Venice",
+      "url": "https://variety.com/2026/tv/festivals/lee-chang-dong-netflix-films-possible-love-venice-1236860979/",
+      "summary": "Netflix will expand its lineup of Lee Chang-dong films worldwide, following the Silver Lion (Grand Jury Prize) win for \u201cPossible Love\u201d at the Venice Film Festival. The expansion will let viewers everywhere explore titles including \u201cSecret Sunshine\u201d and \u201cPeppermint Candy.\u201d \u201cPossible Love,\u201d Lee\u2019s first film in eight years, opens in South Korean theaters Sept. 23, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T08:16:51+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sydney Sweeney\u2019s Nude Sports Betting Ad Sparks Backlash Among Female Olympians: \u201cA Kick In The Face To Every Woman\u201d",
+      "url": "https://deadline.com/2026/09/sydney-sweeney-novig-ad-backlash-female-olympians-1237101507/",
+      "summary": "Sydney Sweeney is no stranger to starring in a controversial ad \u2014 and her latest effort has infuriated female athletes, including Olympians. Sweeney posed for sports betting company Novig \u201cwearing just sports,\u201d meaning she was only covering her modesty with footballs, tennis rackets, and basketball hoops. The campaign dropped last week, prompting inevitable headlines about [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T08:14:53+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix to Stream Lee Chang-dong\u2019s Films Globally as \u2018Possible Love\u2019 Awards Campaign Heats Up",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-awards-campaign-1236700399/",
+      "summary": "All six of the Korean auteur\u2019s previous features, including \u2018Burning,\u2019 \u2018Peppermint Candy\u2019 and \u2018Secret Sunshine,\u2019 are rolling out across various territories ahead of the global streaming launch of \u2018Possible Love\u2019 on Nov. 6.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T08:03:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Former Sony, Endemol & Talpa Exec Ziad Kebbi Takes The Reins At MForMedia As Dubai-Based Production Company Refocuses On Originals & AI",
+      "url": "https://deadline.com/2026/09/ziad-kebbi-joins-mformedia-dubai-producer-pivots-to-ip-ai-1237100669/",
+      "summary": "EXCLUSIVE: Industry vet Ziad Kebbi is taking charge at MForMedia with a remit to take the Dubai-based production biz in a new direction built on the ownership of IP. \u201cThe best stories from this region have not been told yet,\u201d the exec said as he stepped into his new role. Kebbi becomes Managing Director at [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T07:36:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018All That She Wants\u2019 Review:  Annie Murphy And Cooper Raiff In Smart, Fun Romcom Where Gen Z And Millennial Meet Cute In Bed -Toronto Film Festival",
+      "url": "https://deadline.com/2026/09/all-that-she-wants-review-annie-murphy-cooper-raiff-romcom-1237101323/",
+      "summary": "All That She Wants is one of those cutesy titles that I can never quite remember right after seeing a movie. The good news is this one is refreshingly smart and funny with actors you would like to see get together despite their age difference. Plus this film, which had its World Premiere Sunday night [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T07:06:04+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Walsh Sisters\u2019 Are Coming Back: RT\u00c9 & BBC Order Season 2 Of Comedy-Drama Based On Marian Keyes Novels",
+      "url": "https://deadline.com/2026/09/the-walsh-sisters-renewed-for-season-2-rte-bbc-stan-1237100622/",
+      "summary": "EXCLUSIVE: The Walsh Sisters are coming back. Irish pubcaster RT\u00c9 has greenlit a Season 2, which the BBC will once again show in the UK. The new series, based on Marian Keyes\u2019 novels, will stream on Stan in Australia. Peter Coonan (Bad Sisters) joins the Season 2 cast, as do Aisl\u00edn McGuckin (Normal People), Art [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T07:01:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Korea Box Office: \u2018The Odyssey\u2019 Secures Sixth Weekend Crown as \u2018Obsession\u2019 Ascends",
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-obsession-1236860949/",
+      "summary": "\u201cThe Odyssey\u201d continued its voyage at the summit of the South Korean box office during the weekend of Sept. 11\u201313. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $3.9 million from 449,474 admissions over the three-day frame across 1,648 screens, capturing 51.4% of the [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T06:38:53+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A Bland \u201860 Minutes\u2019 Season Premiere Suggests a Limited Bari Weiss Effect (So Far)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/60-minutes-season-premiere-review-bari-weiss-1236700346/",
+      "summary": "Led by familiar faces Lesley Stahl, Jon Wertheim and Norah O'Donnell, Sunday night's episode was often mediocre, but not in any shocking or dramatically different ways.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T06:29:55+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "China Box Office: \u2018Once Upon a Time in the Middle East\u2019 Stays on Top as \u2018The Odyssey\u2019 Crosses $100 Million",
+      "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-100-million-1236860945/",
+      "summary": "Dirty Monkeys\u2019 war comedy-drama \u201cOnce Upon a Time in the Middle East\u201d held the number one spot at the mainland China box office for the fifth straight frame, collecting RMB52.9 million ($7.8 million) over the Sept. 11\u201313 weekend, according to data from Artisan Gateway. Directed by Wen Muye (\u201cDying to Survive\u201d) and starring Shen Teng, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T06:20:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Pretenders\u2019 Review: A Superb Portrait of Chrissie Hynde and Her Legendary Band Captures Their Incandescence\u2026and Tragedy",
+      "url": "https://variety.com/2026/film/reviews/pretenders-review-chrissie-hynde-tiff-1236860631/",
+      "summary": "Hynde, though she had the feelings of punk in her bones, was the most romantic songwriter of that entire scene. I don\u2019t mean romantic as in \"love songs,\" but as in conjuring the majestic romanticism of life. Just listen to \"Kid,\" a song so happy and sad at the same time that it\u2019s worthy of the Beatles.",
+      "source": "Variety",
+      "published": "2026-09-14T05:42:48+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix To Stream Lee Chang-Dong\u2019s Previous Works Following \u2018Possible Love\u2019 Silver Lion Win In Venice",
+      "url": "https://deadline.com/2026/09/netflix-venice-lee-chang-dong-possible-love-1237101493/",
+      "summary": "Following the Silver Lion win for Lee Chang-dong\u2019s Possible Love at this year\u2019s Venice film festival, Netflix is set to stream more of the director\u2019s work worldwide. Lee\u2019s earlier films Green Fish and Secret Sunshine are already available on Netflix, streaming from August in Italy, the UK, France, Australia, and New Zealand. Peppermint Candy and [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T04:52:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Life and Deaths of Wilson Shedd\u2019 Review: Amanda Seyfried and Scoot McNairy Are Wrenching in Bold Drama",
+      "url": "https://www.thewrap.com/creative-content/movies/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried/",
+      "summary": "Toronto Film Festival: Tim Blake Nelson's crime drama, inspired by a real incident, doesn't let characters or viewers off the hook The post \u2018The Life and Deaths of Wilson Shedd\u2019 Review: Amanda Seyfried and Scoot McNairy Are Wrenching in Bold Drama appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-14T04:40:46+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zack Snyder\u2019s \u2018The Last Photograph\u2019: First Reactions",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/",
+      "summary": "The film, Snyder's first indie production, debuted at the Toronto Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T04:10:29+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Israel\u2019s Culture Minister Calls For Oscar-Winning Israeli Filmmakers Behind Gaza Doc \u2018NAZA\u2019 To Lose Their Citizenship",
+      "url": "https://deadline.com/2026/09/israel-culture-minister-naza-filmmakers-citizenship-1237101397/",
+      "summary": "The day after Yuval Abraham and Rachel Szor\u2018s bombshell Israeli documentary NAZA alleging the Israeli army targeted civilians in Gaza won the Special Jury Prize at Venice, Israel\u2019s Culture Minister Miki Zohar announced that he would \u201cact immediately to revoke the Israeli citizenship\u201d of the directing duo. According to a translation provided by X, Zohar went on to call [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T03:33:27+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018All That She Wants\u2019 Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom",
+      "url": "https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/",
+      "summary": "Millennials get their Mrs. Robinson moment with \u201cAll That She Wants,\u201d an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it\u2019s time to ask your doctor about perimenopause. Professional dancer Emma (Annie Murphy) isn\u2019t quite there yet, but in her early thirties, she\u2019s [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T03:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018All That She Wants\u2019 Review: Annie Murphy Is All That in a Fizzy Rom-Com\u00a0That Works Best When It Isn\u2019t Trying Too Hard",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/all-that-she-wants-review-annie-murphy-cooper-raiff-1236698118/",
+      "summary": "Toplining a feature for the first time, the \u2018Schitt\u2019s Creek\u2019 star plays a 30-something who\u2019s ready for motherhood, if not a relationship, in a comedy that also stars Zosia Mamet, Cooper Raiff and Christine Baranski.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T03:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Life and Deaths of Wilson Shedd\u2019 Review: Amanda Seyfried Falls for a Convicted Killer in Tim Blake Nelson\u2019s Sad and Sober Death Penalty Drama",
+      "url": "https://www.indiewire.com/criticism/movies/the-life-and-deaths-of-wilson-shedd-movie-review-1235216620/",
+      "summary": "TIFF: Scoot McNairy seduces his prison writing teacher in a true-life drama with no easy answers.",
+      "source": "IndieWire",
+      "published": "2026-09-14T03:30:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018All That She Wants\u2019 Review: It\u2019s Time to Welcome Annie Murphy to the Rom-Com Queen Club",
+      "url": "https://www.indiewire.com/criticism/movies/all-that-she-wants-movie-review-annie-murphy-rom-com-1235213198/",
+      "summary": "TIFF: Filmmakers (and real-life spouses) Scarlett Bermingham and Andrew Rhymer direct Murphy and Cooper Raiff in a warm rom-com about generational disconnect, real chemistry, and hard choices. It's adorable.",
+      "source": "IndieWire",
+      "published": "2026-09-14T03:15:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Last Photograph\u2019 Review: DC\u2019s Zack Snyder Comes Back Down To Earth With A Violent But Surprisingly Human Action Drama \u2013 Toronto Film Festival",
+      "url": "https://deadline.com/2026/09/the-last-photograph-review-zack-snyder-stuart-martin-toronto-1237101249/",
+      "summary": "After so many years in the DC universe, Zack Snyder comes back down to earth again with a violent but surprisingly human action thriller set in the jungles of an unidentified Latin American country. Its plotline \u2014 more of which later \u2014 could go either way, and since the director has been unfairly accused of [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T03:14:12+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u201960 Minutes\u2019 Debuts New Season With A Pentagon Exclusive And Hidden Camera Expose \u2014 Amid Plenty Of Scrutiny Of The Show Itself",
+      "url": "https://deadline.com/2026/09/60-minutes-debut-bari-weiss-1237101187/",
+      "summary": "60 Minutes debuted its new season on Sunday with an exclusive sit down with an Air Force officer who told of his harrowing rescue in Iran. It featured a hideen camera segment on pardon brokers who collect hundreds of thousands or even millions to try to secure Trump\u2019s clemency. And it profile the Los Angeles [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-14T03:00:25+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lemonade\u2019 Review: Newcomer Lewis Brophy and Barry Keoghan Lead a Paint-by-Numbers Irish Drama About a Teen Caught in the System",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/lemonade-review-barry-keoghan-1236697925/",
+      "summary": "Kim Bartley's TIFF-bowing film revolves around an Irish teenager navigating a multitude of problems all at once.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T02:58:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Seth Rogen Surprised By Toronto Career Achievement Award at 44: \u201cYou Got a Letter From My Doctors?\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-toronto-film-festival-tribute-awards-winners-list-1236700159/",
+      "summary": "Helen Mirren, Penelope Cruz and Isabelle Huppert were also honored at the Tribute Awards on Sunday night at the Toronto Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T02:54:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Love of Your Life\u2019 Review: Margaret Qualley Plays a Woman Adrift in the Kind of Lush and Tender Romantic Drama Hollywood Rarely Makes Anymore",
+      "url": "https://www.indiewire.com/criticism/movies/love-of-your-life-movie-review-margaret-qualley-1235216321/",
+      "summary": "TIFF: Rachel Morrison's second feature stars Margaret Qualley as a Boston nurse who beautifully crashes out after her marriage dies.",
+      "source": "IndieWire",
+      "published": "2026-09-14T02:30:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Oscars: Philippines Picks Rafael Manuel\u2019s \u2018Filipi\u00f1ana\u2019 as Best International Feature Selection",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/philippines-rafael-manuel-filipinana-2027-oscars-1236700190/",
+      "summary": "The Sundance-winning debut is a sly class satire set inside an elite country club in Manila.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T02:14:27+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u201960 Minutes\u2019 Changed Its Look, Not Its Formula | Analysis",
+      "url": "https://www.thewrap.com/media-platforms/journalism/60-minutes-season-59-episode-1-review-analysis/",
+      "summary": "The CBS newsmagazine kept its investigative muscle in the Season 59 premiere, while Pentagon access tested its independence The post \u201960 Minutes\u2019 Changed Its Look, Not Its Formula | Analysis appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-14T02:00:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Star Poorna Jagannathan Breaks Down Zoe\u2019s Brutal Episode 5: \u2018It\u2019s a Faustian Play She Makes\u2019",
+      "url": "https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/",
+      "summary": "SPOILER ALERT: This article contains spoilers for \u201cLanterns\u201d Episode 5, titled \u201cLights Out,\u201d now streaming on HBO Max. This week\u2019s episode of \u201cLanterns\u201d finally unmasks the Manhunter, who\u2019s been at the heart of the mystery in Rushville throughout the season. As revealed at the end of Episode 4, the Manhunter is in fact Zoe Macon, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T02:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Burns It All Down: Episode 5 Director Explains John Stewart\u2019s Shocking Decision",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-5-is-john-stewart-still-green-lantern-director-interview/",
+      "summary": "Geeta Vasant Patel tells TheWrap about staging the DC Studios show's biggest fight scenes yet The post \u2018Lanterns\u2019 Burns It All Down: Episode 5 Director Explains John Stewart\u2019s Shocking Decision appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-14T02:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Review: Episode 5 Lights Up Rushville with a Sh*tstorm of Consequences \u2014 Spoilers",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-5-review-lights-out-rushville-spoilers-1235216271/",
+      "summary": "Hal's recklessness finally catches up to him, John's dubiousness pays hard-won dividends, and one case comes to a definitive, devastating end \u2014 leaving three full episodes to address that other investigation.",
+      "source": "IndieWire",
+      "published": "2026-09-14T02:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lucy Dacus on Closing Out the \u2018Forever Is a Feeling\u2019 Chapter, Finding Fandom Boundaries and What\u2019s Next",
+      "url": "https://www.hollywoodreporter.com/music/music-features/lucy-dacus-forever-is-a-feeling-hollywood-bowl-interview-1236699997/",
+      "summary": "The 31-year-old singer-songwriter is set to play her final show for the album with the Hollywood Bowl Orchestra.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T01:58:41+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "CBS Warns Humanity May Have a \u201cNarrow Window\u201d to Avoid AI Calamity, Right After ChatGPT Sponsors Its NFL Broadcast",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/chatgpt-cbs-nfl-ads-60-minutes-warning-1236700161/",
+      "summary": "ChatGPT was revealed as a surprise presenting sponsor of the 'NFL on CBS,' which was followed by '60 Minutes,' where one of its correspondents outlined a stark warning about the future if the technology remains unchecked.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-14T01:41:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "L\u00e9a Seydoux Was Worried She Wasn\u2019t Going to Get Hired for \u2018Gentle Monster\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/gentle-monster-lea-seydoux-interview-tiff-2026/",
+      "summary": "TIFF 2026: The actress talks about postponing her initial call with filmmaker Else K\u00fchn and their candid discussions about nude scenes The post L\u00e9a Seydoux Was Worried She Wasn\u2019t Going to Get Hired for \u2018Gentle Monster\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-14T01:14:08+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u201960 Minutes\u2019 Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks",
+      "url": "https://variety.com/2026/tv/news/60-minutes-season-59-launch-cbs-news-old-tricks-ticks-1236860783/",
+      "summary": "CBS News says it needs to push \u201c60 Minutes\u201d into the future if the show is to survive, but the first telecast of the 59th season following a shocking overhaul of its on-air and behind-the-camera staff in May and June relied on many elements from the program\u2019s past. The new season of \u201c60 Minutes\u201d burnished [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T01:11:14+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Cynthia Erivo\u2019s Riveting \u2018Prima Facie\u2019 Performance Earns TIFF Standing Ovation",
+      "url": "https://variety.com/2026/film/news/cynthia-erivo-prima-facie-tiff-standing-ovation-1236860782/",
+      "summary": "Cynthia Erivo already earned two best actress Oscar nominations for portraying Harriet Tubman and the green-skinned Elphaba in \u201cWicked\u201d \u2014 not to mention her Tony-winning work in \u201cThe Color Purple\u201d \u2014 but her latest film, \u201cPrima Facie,\u201d might be her most challenging high-wire act yet. She pulled it off, according to the audience at the [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-14T01:00:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Onwards and Sideways\u2019 Review: Laura Linney and Rhys Ifans Are Devastatingly Great in Parkinson\u2019s Disease Tearjerker",
+      "url": "https://www.thewrap.com/creative-content/movies/onwards-and-sideways-review-laura-linney-rhys-ifans/",
+      "summary": "TIFF 2026: Director John Madden's latest is an affecting look at Parkinson's disease through the eyes of two people living with it at the same time The post \u2018Onwards and Sideways\u2019 Review: Laura Linney and Rhys Ifans Are Devastatingly Great in Parkinson\u2019s Disease Tearjerker appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-14T00:52:51+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Carrie\u2019 Creator Mike Flanagan Also Wasn\u2019t Sure About the Streaming Series",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/carrie-mike-flanagan-asked-stephen-king-approval/",
+      "summary": "TIFF 2026: The first two episodes of the new adaptation of Stephen King\u2019s classic were unveiled at the festival The post \u2018Carrie\u2019 Creator Mike Flanagan Also Wasn\u2019t Sure About the Streaming Series appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-14T00:16:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Prima Facie\u2019 Review: Cynthia Erivo Stars as a Lawyer Who Becomes a Rape Victim in This Misfire of an Adaptation",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/prima-facie-review-cynthia-erivo-1236696972/",
+      "summary": "The Oscar nominee tackles the role originated by Jodie Comer on the West End and Broadway in Susanna White's film version of Suzie Miller's award-winning play.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T23:45:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Prima Facie\u2019 Review: Cynthia Erivo Leads a Complex, Fascinating Adaptation of the Powerful One-Woman Show",
+      "url": "https://www.thewrap.com/creative-content/movies/prima-facie-review-cynthia-erivo/",
+      "summary": "TIFF 2026: The \"Wicked\" star plays a barrister who becomes the plaintiff in a strong, but incredibly different take on Suzie Miller\u2019s award-winning play The post \u2018Prima Facie\u2019 Review: Cynthia Erivo Leads a Complex, Fascinating Adaptation of the Powerful One-Woman Show appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T23:35:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Closing Night\u2019 Review: A Ferocious Sarah Paulson Buoys Cody Fern\u2019s Directorial Debut",
+      "url": "https://www.thewrap.com/creative-content/movies/closing-night-review-sarah-paulson-cody-fern/",
+      "summary": "TIFF 2026: This drama about an unraveling family aims for sincerity but ends up in melodrama The post \u2018Closing Night\u2019 Review: A Ferocious Sarah Paulson Buoys Cody Fern\u2019s Directorial Debut appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T22:51:20+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Israeli Culture Minister Vows to Revoke Citizenship of \u2018NAZA\u2019 Directors After Venice Win",
+      "url": "https://www.thewrap.com/creative-content/movies/israel-culture-minister-vows-revoke-naza-directors-citizenship/",
+      "summary": "The culture minister says the documentary filmmakers' work commits \"treason against the state\" The post Israeli Culture Minister Vows to Revoke Citizenship of \u2018NAZA\u2019 Directors After Venice Win appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T22:30:44+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 3 Best Movies to Watch on Prime Video This Week (Sept. 14 \u2013 20)",
+      "url": "https://www.thewrap.com/creative-content/movies/3-best-movies-prime-video-this-week-september-14-20/",
+      "summary": "Happy Fall, folks The post The 3 Best Movies to Watch on Prime Video This Week (Sept. 14 \u2013 20) appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T21:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018How We Stand\u2019 Review: Amber Midthunder Stars in a Richly Drawn, Magical-Realist Indigenous Tale",
+      "url": "https://www.indiewire.com/criticism/movies/how-we-stand-review-amber-midthunder-1235216754/",
+      "summary": "TIFF: Marie Clements' \"How We Stand\" ambitiously seeks to examine hidden and violent sociopolitical aspects of recent Indigenous history through a deeply personal lens.",
+      "source": "IndieWire",
+      "published": "2026-09-13T20:15:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Why Do Men Keep Telling Anna Biller She\u2019s \u2018Camp\u2019?",
+      "url": "https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/",
+      "summary": "TIFF: After nearly quitting filmmaking, \"The Love Witch\" director returns with \"The Face of Horror\" \u2014 and tells IndieWire why she believes her bloody medieval tragedy is already being misunderstood.",
+      "source": "IndieWire",
+      "published": "2026-09-13T19:33:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Uprising\u2019 Bombs at Box Office Despite Last-Ditch Scramble to Market Film as Robin Hood Origin Story",
+      "url": "https://www.indiewire.com/news/box-office/the-uprising-bombs-box-office-robin-hood-marketing-1235216733/",
+      "summary": "Paul Greengrass's historical epic opens with an anemic $3.25 million, becoming the latest film about the outlaw to fall flat.",
+      "source": "IndieWire",
+      "published": "2026-09-13T19:20:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "From Tragedy to \u2018Everest\u2019: Inside Jimmy\u00a0Chin and Chai\u00a0Vasarhelyi\u2019s Most Ambitious\u00a0Film Yet",
+      "url": "https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/",
+      "summary": "Summiting the North Side of Everest and skiing down was a feat. So was filming it. In the NatGeo documentary \"Everest: The Other Side,\" we not only witness ski-mountaineer Jim Morrison's athletic heroism, but also Jimmy Chin's filmmaking prowess. This could be an Oscar contender.",
+      "source": "IndieWire",
+      "published": "2026-09-13T18:40:02+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018I Play Rocky\u2019 Review: Sylvester Stallone\u2019s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
+      "url": "https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/",
+      "summary": "TIFF: Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.",
+      "source": "IndieWire",
+      "published": "2026-09-13T18:30:04+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Mr. Irrelevant\u2019 Trailer: David Corenswet Toughs and Smiles His Way to the NFL as Last Draft Pick John Tuggle",
+      "url": "https://www.indiewire.com/news/trailers/mr-irrelevant-trailer-david-corenswet-john-tuggle-1235216155/",
+      "summary": "Jonathan Levine directs the inspiring sports story that opens in theaters from Paramount and Skydance Sports on Christmas Day.",
+      "source": "IndieWire",
+      "published": "2026-09-13T17:25:54+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Practical Magic 2,\u2019 the Sequel to a 28-Year-Old Box Office Bomb, Opens to Lackluster $30 Million",
+      "url": "https://www.indiewire.com/news/box-office/practical-magic-2-box-office-bomb-sandra-bullock-nicole-kidman-1235216664/",
+      "summary": "Hey Hollywood, stop giving us sequels we didn't ask for to movies that opened way too long ago for us to care.",
+      "source": "IndieWire",
+      "published": "2026-09-13T16:01:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How Susanna White Brought Lauded One-Woman Play \u2018Prima Facie\u2019 to the Big Screen (Casting Cynthia Erivo Helped)",
+      "url": "https://www.indiewire.com/features/interviews/prima-facie-movie-adaptation-susanna-white-cynthia-erivo-1235216255/",
+      "summary": "TIFF: The director tells IndieWire that turning the celebrated one-woman play into a feature film with multiple locations, characters, and some extremely demanding scenes was exactly the kind of challenge she loves. Plus: a major star.",
+      "source": "IndieWire",
+      "published": "2026-09-13T16:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://deadline.com/2026/09/the-last-photograph-review-zack-snyder-stuart-martin-toronto-1237101249/",
+    "https://www.thewrap.com/creative-content/movies/closing-night-review-sarah-paulson-cody-fern/",
+    "https://variety.com/2026/tv/festivals/lee-chang-dong-netflix-films-possible-love-venice-1236860979/",
+    "https://www.thewrap.com/creative-content/movies/onwards-and-sideways-review-laura-linney-rhys-ifans/",
+    "https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/",
+    "https://www.hollywoodreporter.com/movies/movie-news/philippines-rafael-manuel-filipinana-2027-oscars-1236700190/",
+    "https://variety.com/2026/film/reviews/pretenders-review-chrissie-hynde-tiff-1236860631/",
+    "https://www.hollywoodreporter.com/movies/movie-reviews/all-that-she-wants-review-annie-murphy-cooper-raiff-1236698118/"
+  ]
+}

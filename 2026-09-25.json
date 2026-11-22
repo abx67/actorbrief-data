@@ -1,0 +1,1918 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-25",
+  "captured_at": "2026-09-25T03:01:27.767166",
+  "score_fn_hash": "64ce434e",
+  "raw_count": 105,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "Block the Merger Coalition Asks Court to Reject Paramount\u2019s Settlement With States Over Warner Bros. Deal",
+      "url": "https://variety.com/2026/film/global/block-the-merger-amicus-brief-reject-settlement-1236875410/",
+      "summary": "A coalition of groups under the Block the Merger banner have filed an amicus brief \u2013 a third party representation in a court case \u2013 opposing the Paramount Skydance-Warner Bros. Discovery merger. The brief was filed late Thursday by Free Press, the Committee for the First Amendment, the Freedom of the Press Foundation, the Future [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T09:49:33+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Oscars: Denmark Selects May el-Toukhy\u2019s Golden Lion Winner \u2018Woman Unknown\u2019 for International Feature Race",
+      "url": "https://variety.com/2026/film/global/oscars-denmark-may-el-toukhys-golden-lion-woman-unknown-1236875415/",
+      "summary": "May el-Toukhy\u2019s \u201cWoman Unknown\u201d as be chosen as Denmark\u2019s official entry for the international feature film race at the Oscars. \u201cWoman Unknown\u201d just won the Golden Lion at the Venice Film Festival from a jury presided over by Maggie Gyllenhaall. El-Toukhy was the sole female director in competition at this year\u2019s Venice fest. In addition [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T09:33:46+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tales Of Syria\u2019s Disappeared; Lebanese Wartime Adoption & Palestinian Mental Health Set For Cinemed-Aflamuna Project Incubator",
+      "url": "https://deadline.com/2026/09/cinemed-aflamuna-project-incubator-selection-2026-1237113656/",
+      "summary": "France\u2019s Montpellier Mediterranean Film Festival, also known as Cinemed, and Beirut-based Arab cinema platform Aflamuna have unveiled the selection for their fifth project incubator event, which will take place within the framework of the festival in October. The initiative, bannered the Aflamuna x Cinemed Encounters and supporting Arab filmmakers from across the Middle East and [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T09:26:36+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Florid\u2019 Director Billy Lumby on Challenging \u2018Misrepresentation\u2019 of Schizophrenia on Screen and Casting Non-Actors in Feature Debut",
+      "url": "https://variety.com/2026/film/global/florid-director-billy-lumby-misrepresentation-schizophrenia-1236874198/",
+      "summary": "The depiction of schizophrenia on screen \u2014 especially in horror movies \u2014 has largely seen the mental health condition linked to violent and unpredictable rages, showing people when something has gone horribly wrong. This \u201cmisrepresentation,\u201d according to British filmmaker Billy Lumby (a BAFTA nominee for his short film \u201cSamuel-613\u201d), was part of the inspiration behind his [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T09:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Oscars: Denmark Selects May El-Toukhy\u2019s \u2018Woman Unknown\u2019 For International Feature Film Race",
+      "url": "https://deadline.com/2026/09/may-el-toukhy-woman-unknown-oscars-denmark-1237113653/",
+      "summary": "Denmark has selected May el-Toukhy\u2019s Golden Lion-winning title Woman Unknown as its entry for the Best International Feature Film category at the 99th Academy Awards. The post-World War II, Denmark-set psychological drama stars Mathilde Arcel as a young nanny and housemaid, who is about to marry her wealthy older employer, a widower still haunted by [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T08:59:32+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Have I Got News For You\u2019 Producer Torches BBC Investigation Into Victoria Beckham Joke As \u201cTotal Waste\u201d Of Money",
+      "url": "https://deadline.com/2026/09/have-i-got-news-for-you-attacks-bbc-victoria-beckham-ruling-1237113643/",
+      "summary": "EXCLUSIVE: Have I Got News for You producer Jimmy Mulville is unhappy with the BBC\u2019s decision to censure the show over a joke involving Victoria Beckham. In a statement shared with Deadline, Mulville \u2014 a producer who rarely pulls his punches \u2014 said the nearly year-long investigation into the joke after two viewer complaints was [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T08:37:44+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "ParaBros Foes Urge Court To Reject Settlement In Midnight Filings: \u201cThis Merger Lessens Competition\u201d",
+      "url": "https://deadline.com/2026/09/paramont-merger-foes-latest-1237113622/",
+      "summary": "\u201cThe Attorney General for the lead Plaintiff State, California, publicly criticized the very behavioral remedies that the parties now ask the Court to approve,\u201dexclaims an amicus brief just filed in federal court by the Block the Merger coalition to take one last swing at stopping the antitrust settlement deal for Paramount\u2019s $111 billion purchase of [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T08:07:38+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Lion King\u2019 Director Rob Minkoff To Develop & Exec Produce Family Pic \u2018Storm Dogs\u2019 From Tilly Norwood Creator Particle 6",
+      "url": "https://deadline.com/2026/09/the-lion-king-rob-minkoff-storm-dogs-tilly-norwood-1237113606/",
+      "summary": "EXCLUSIVE: Rob Minkoff, co-director of Disney\u2019s classic animated hit The Lion King, is in advanced discussions to develop and executive produce Storm Dogs, an upcoming family adventure title from Tilly Norwood creator Particle 6. Minkoff, who also directed Stuart Little, will be the creative lead on the upcoming feature film and will work closely with [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T07:33:20+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Halima,\u2019 First Finnish Pic Ever by Black Female Filmmaker, Bags Fiction Project Prize, \u2018Sauna Diplomacy\u2019 Named Best Genre Project at Finnish Film Affair",
+      "url": "https://variety.com/2026/film/global/its-alive-films-halima-finnish-film-affair-1236875378/",
+      "summary": "Former BBC journalist Naima Mohamud\u2019s heartfelt and warm comedy \u201cHalima,\u201d about a 10-year-old Somali girl trying to fit in Finland in 1998 took home Helsinki\u2019s Finnish Film Affair\u2019s top prize for Best Fiction on Thursday evening. The award was handed out by the jury, including U.S. producer and executive Jodi Hildebrand (formerly at Cond\u00e9 Nast [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T07:31:41+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Unabomber\u2019 Review: A Portrait of the Terrorist as a Young Man, Given a Hokey TV-Movie Gloss",
+      "url": "https://variety.com/2026/film/reviews/unabomber-review-1236874990/",
+      "summary": "The Unabomber may be a figure of enduring public fascination, but it\u2019s hard to see that extending to \u201cUnabomber,\u201d Netflix\u2019s unimaginatively titled and prosaically assembled drama about how domestic terrorist Ted Kaczynski was radicalized, and how he was caught. Alternating between a standard-issue procedural thriller, dramatizing the FBI\u2019s final year of investigation on the case, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T07:10:08+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zee 5 Global Releases \u2018Hi\u2019, Romantic Pic Starring Nayanthara & Kavin",
+      "url": "https://deadline.com/2026/09/zee-5-global-hi-release-nayanthara-kavin-1237113613/",
+      "summary": "EXCLUSIVE: Zee 5 Global is today saying Hi to its latest movie premiere. The Indian content-focused streamer will premiere the pic, which stars Nayanthara and Kavin, today. The pic is billed as \u201can unconventional yet heartwarming romance that offers a fresh perspective on modern relationships.\u201d Directed by Vishnu Edavan, the film follows a young man [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T06:43:23+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Silver Lion Winner \u2018Miss Violence\u2019 Director Alexandros Avranas to Helm Greek Adaptation of Globoplay\u2019s Hit Series \u2018The Others\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/miss-violence-alexandros-avranas-globoplay-the-others-1236873711/",
+      "summary": "Alexandros Avranas, who won the Venice Film Festival Silver Lion for best director for the harrowing drama \u201cMiss Violence,\u201d will helm the Greek adaptation of Globoplay\u2019s hit series \u201cThe Others.\u201d The project, which is currently in production, follows the format sales agreement signed between Alpha TV and Brazilian media powerhouse Globo in late 2024. Created [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T06:32:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Still Has Unfinished Business With Her Exes \u2014 Thank God! \u2014 While Also Mooning Over Her Groom in \u2018The Life of a Showgirl: The Encore\u2019: New Tracks Review",
+      "url": "https://variety.com/2026/music/news/taylor-swift-review-life-showgirl-encore-new-tracks-1236875342/",
+      "summary": "If you\u2019re a Taylor Swift fan, one of your deepest fears this year might have been that the pop superstar will be so wrapped up in a long, rapturous honeymoon that she\u2019ll neglect to bring us down by continuing to write about the bums that got away, or any lingering regrets that were accumulated on [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T06:09:05+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Gaussian Scout, Pixentinel Take Top Prizes at San Sebasti\u00e1n\u2019s Zinemaldia Startup Challenge",
+      "url": "https://variety.com/2026/global/global/gaussian-scout-pixentinel-win-zinemaldia-startup-challenge-1236874175/",
+      "summary": "SAN SEBASTI\u00c1N, Spain \u2014 Finland\u2019s Gaussian Scout (formerly listed Virtual Location Scouting) and Spain\u2019s Pixentinel claimed the top prizes at the 2026 Zinemaldia Startup Challenge, the San Sebasti\u00e1n Festival\u2019s flagship technology competition. Gaussian Scout, a browser-based virtual location scouting platform being developed by Finnish cinematographer Antti Ahokoivu, won Best European Project with its \u20ac10,000 and [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T06:01:13+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018American Idol\u2019s Luke Bryan, Lionel Richie, Carrie Underwood & Ryan Seacrest Return For Season 25",
+      "url": "https://deadline.com/2026/09/idol-luke-bryan-lionel-richie-carrie-underwood-return-1237110492/",
+      "summary": "American Idol might be moving to a new location but it will have the same judges and host as before. Luke Bryan, Lionel Richie and Carrie Underwood are returning as judges for Season 25 of the music competition show alongside host Ryan Seacrest. Bryan announced the news on stage at a show in Nashville, Tennessee. [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T05:00:35+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Avengers: Endgame: Encore\u2019 & \u2018Primetime\u2019 Eye $3M Previews Each In Box Office Weekend Where There\u2019s Something For Everyone",
+      "url": "https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/",
+      "summary": "EXCLUSIVE: Here\u2019s what\u2019s cool about this weekend. Without any wide entry opening to north of $30M, it\u2019s going to be a fantastic late September frame at the box office. It wouldn\u2019t be shocking if the marketplace sees the best late September weekend since 2018 when all films totaled $106.4M. From a pure box office standpoint [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T04:52:33+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018American Horror Story\u2019 Season 13 Review: Jessica Lange Returns in Beautifully Puzzling Ode to Superfans",
+      "url": "https://www.thewrap.com/creative-content/reviews/ahs-13-review-jessica-lange-ryan-murphy/",
+      "summary": "Ryan Murphy kicks off a spooky all-stars season that is a treat to decode \u2014 if you can make sense of it The post \u2018American Horror Story\u2019 Season 13 Review: Jessica Lange Returns in Beautifully Puzzling Ode to Superfans appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T04:24:24+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Jimmy Kimmel Live\u2019 Sets Brooklyn Week With Guests Mamdani, Springsteen, Fellow Late-Night Hosts & More",
+      "url": "https://deadline.com/2026/09/jimmy-kimmel-live-brooklyn-week-mamdani-springsteen-1237113526/",
+      "summary": "As Jimmy Kimmel returns to his late-night post, he\u2019s ready to take the show across the river for Brooklyn Week once again. On Thursday, ABC announced that Jimmy Kimmel Live! will head to Brooklyn Academy of Music\u2019s Howard Gilman Opera House for the eighth Brooklyn Week, which will kick off next Monday with an all-star [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T04:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jimmy Kimmel Recruits Zohran Mamdani, Late Night Hosts and Bruce Springsteen for Brooklyn Week",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-live-brooklyn-week-guests-zohran-mamdani-late-night-hosts/",
+      "summary": "As Seth Meyers and John Oliver join their late night peer in New York, will others pop in too? The post Jimmy Kimmel Recruits Zohran Mamdani, Late Night Hosts and Bruce Springsteen for Brooklyn Week appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T04:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount\u2019s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event",
+      "url": "https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/",
+      "summary": "David Ellison, CEO of Paramount Skydance, dined at the White House Thursday evening at the state dinner held for visiting Chinese President Xi Jinping \u2014 but the White House shut out reporters for CNN, the Warner Bros. Discovery-owned news network Ellison is on the cusp of gaining control over, as well as MS NOW. Ellison [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T03:53:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hannah Einbinder Shares Statement After Being Arrested at United Nations Netanyahu Protest",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/hannah-einbinder-statement-arrest-netanyahu-protest-1236709847/",
+      "summary": "The 'Hacks' star was arrested Thursday during a protest ahead of Israeli Prime Minister Benjamin Netanyahu's United Nations address.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-25T03:28:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Here\u2019s When You Can Watch the Next Episodes of \u2018AHS 13\u2019",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/american-horror-story-season-13-release-date-time-episodes-schedule/",
+      "summary": "Jessica Lange returns for the latest entry in the anthology The post Here\u2019s When You Can Watch the Next Episodes of \u2018AHS 13\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T02:43:30+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Disney Legal Chief Warns Of \u201cHard Choices\u201d & \u201cMuch Smaller Organization\u201d Coming As Company Layoffs Loom",
+      "url": "https://deadline.com/2026/09/disney-layoffs-warning-legal-executive-1237113458/",
+      "summary": "EXCLUSIVE: An end-of-week memo from Disney\u2019s Chief Legal and Global Affairs Officer has given an blunt warning that layoffs are coming amidst a \u201ctransformation process\u201d that includes \u201cautomating certain workflows by leveraging the latest technologies.\u201d Without actually saying that AI is taking over or that job losses are on the horizon, the memo by Horacio [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T02:40:31+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018American Horror Story\u2019 13 Plot: What Brings All Your Favorite Characters Back Together",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/ahs-13-plot-episode-1-3-recap/",
+      "summary": "Jessica Lange, Sarah Paulson, Evan Peters and more return for a frightening and surprising crossover season The post \u2018American Horror Story\u2019 13 Plot: What Brings All Your Favorite Characters Back Together appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T02:31:07+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hannah Einbinder Speaks Out After Being Arrested at Netanyahu Protest: \u2018Let Us Not Mistake the Spectacle for the Story\u2019",
+      "url": "https://variety.com/2026/politics/news/hannah-einbinder-speaks-out-arrested-netanyahu-protest-1236875306/",
+      "summary": "Hannah Einbinder is speaking out after being arrested earlier Thursday while protesting an appearance by Israeli Prime Minister Benjamin Netanyahu. The \u201cHacks\u201d star, who was protesting alongside Sarah Sherman, Susan Sarandon and others, posted on her Instagram story asking her followers to focus on \u201cthe devastating genocidal war Israel is waging against the people of [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-25T02:17:15+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hannah Einbinder Breaks Silence After Arrest, Condemns Netanyahu as \u2018Butcher of Gaza\u2019",
+      "url": "https://www.thewrap.com/media-platforms/politics/hannah-einbinder-arrest-statement-benjamin-netanyahu-butcher-of-gaza/",
+      "summary": "The \"Hacks\" Emmy winner denounces the U.S. for hosting the Israeli prime minister and calls for an end to his \"genocidal war\" The post Hannah Einbinder Breaks Silence After Arrest, Condemns Netanyahu as \u2018Butcher of Gaza\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T02:04:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Big Brother\u2019 Season 28, Week 11 Eviction Results: Final 3 Houseguests Revealed",
+      "url": "https://deadline.com/2026/09/big-brother-season-28-week-11-eviction-results-final-3-1237113438/",
+      "summary": "SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 39, which aired on Thursday, September 24. Big Brother Season 28 is down to its final four, and the night will reveal the final three houseguests who can still win the whole game. Week 11 saw an Egyptian Eviction, which saw Melody Morris fall [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T01:47:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "David Ellison, Tech Titans and Fox News Hosts Attend White House State Dinner Honoring China\u2019s President",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/david-ellison-elon-musk-fox-news-hosts-white-house-dinner-1236709831/",
+      "summary": "Elon Musk, Sam Altman, Tim Cook, Jensen Huang, Jesse Watters and Laura Ingraham were among the attendees of the dinner, hosted by President Trump.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-25T01:45:34+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Stuart Fails To Save The Universe\u2019 Creators On Magic Of Returning To \u2018Big Bang\u2019 Stage, Going Multi-Cam In Meta Season 1 Finale & Season 2 Plans",
+      "url": "https://deadline.com/2026/09/stuart-fails-season-1-finale-ending-explained-multi-cam-qa-1237107301/",
+      "summary": "SPOILER ALERT: The story includes details about the Season 1 finale \u201cSpoiler: Filmed In Front Of a Live Studio Audience\u201d of HBO Max\u2019s Stuart Fails To Save the Universe. The Big Bang Theory single-camera spinoff Stuart Fails To Save the Universe went full-circle in the Season 1 finale by turning multi-camera and returning to the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-25T01:25:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Ultimate Guide to the Massive Cast and Many Characters of \u2018American Horror Story\u2019 Season 13",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/ahs-13-cast-and-characters-list-details/",
+      "summary": "The coven's all here The post The Ultimate Guide to the Massive Cast and Many Characters of \u2018American Horror Story\u2019 Season 13 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T01:20:27+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Inside the Hollywood Home Studio That\u2019s Birthed Several Pop Hits",
+      "url": "https://www.hollywoodreporter.com/music/music-features/leland-home-studio-interview-troye-sivan-the-shards-1236707280/",
+      "summary": "Music producer Leland speaks with The Hollywood Reporter about his Hollywood home studio, his collaborator Troye Sivan's new album and making queer art.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-25T01:12:53+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Unabomber\u2019 Review: Jacob Tremblay Stuns in a Biopic That Still Can\u2019t Decide If Kaczynski Was Crazy",
+      "url": "https://www.indiewire.com/criticism/movies/unabomber-review-netflix-1235218559/",
+      "summary": "Russell Crowe adds to the confusion in a biopic that gives Ted Kaczynski a dangerously tidy origin story.",
+      "source": "IndieWire",
+      "published": "2026-09-25T01:08:22+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "David Ellison Joins Trump at White House Dinner for Xi Jinping as CNN Barred Entry",
+      "url": "https://www.thewrap.com/media-platforms/politics/david-ellison-trump-white-house-dinner-xi-jinping/",
+      "summary": "The news network is soon coming under the Paramount CEO's control following the Warner Bros. Discovery merger The post David Ellison Joins Trump at White House Dinner for Xi Jinping as CNN Barred Entry appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T01:05:35+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Unabomber\u2019 Review: Jacob Tremblay and Russell Crowe in a Facile Rendering of Ted Kaczynski\u2019s College Days",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/unabomber-review-jacob-tremblay-russell-crowe-netflix-1236709412/",
+      "summary": "Director Janus Metz's psychological true-crime thriller, also starring Shailene Woodley, attempts to plumb the depths of a pivotal moment in the infamous murderer\u2019s life, during his time as a Harvard student.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-25T01:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Unabomber\u2019 Review: Netflix\u2019s Unfocused Ted Kaczynski Thriller Is a Dud",
+      "url": "https://www.thewrap.com/creative-content/movies/unabomber-review-netflix-jacob-tremblay-shailene-woodley-russell-crowe/",
+      "summary": "Jacob Tremblay, Shailene Woodley and Russell Crowe star in a true crime drama that tries to be everything but doesn\u2019t amount to much The post \u2018Unabomber\u2019 Review: Netflix\u2019s Unfocused Ted Kaczynski Thriller Is a Dud appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T01:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Reacher\u2019 and New Spinoff \u2018Neagley\u2019 Provide a 1-2 Punch Atop the Streaming Top 10 | Chart",
+      "url": "https://www.thewrap.com/commentary-analysis/data-analysis/reacher-neagley-streaming-top-10/",
+      "summary": "Amazon's streaming hits held off Netflix's latest installment of \"Monster\" to hold the top spots The post \u2018Reacher\u2019 and New Spinoff \u2018Neagley\u2019 Provide a 1-2 Punch Atop the Streaming Top 10 | Chart appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T00:00:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "CNN and MS NOW Blocked From White House Coverage of Xi Jinping Welcome Despite Lifted Ban",
+      "url": "https://www.thewrap.com/media-platforms/politics/cnn-ms-now-blocked-from-white-house-coverage-despite-lifted-ban/",
+      "summary": "\u201cJust a pretty typical event here at the White House that we would regularly cover,\u201d MS NOW\u2019s Laura Barr\u00f3n-L\u00f3pez reports The post CNN and MS NOW Blocked From White House Coverage of Xi Jinping Welcome Despite Lifted Ban appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-25T00:00:29+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "America\u2019s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on",
+      "url": "https://www.indiewire.com/news/analysis/federal-film-tax-incentive-bill-competitive-analysis-1235218557/",
+      "summary": "With a credit up to 30 percent that's fully stackable, it's a \"game-changer\" that can compete with anywhere.",
+      "source": "IndieWire",
+      "published": "2026-09-24T23:03:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Streaming Ratings: \u2018Reacher\u2019 Tops 1 Billion Viewing Minutes for Fifth Straight Week",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-sept-7-13-2026-1236709681/",
+      "summary": "Former TNT series 'Major Crimes' debuts on the Nielsen charts after being added to Netflix.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-24T22:13:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "SCAD Savannah Film Fest: Directors of 10 of 2026\u2019s Top Documentaries Set for \u2018Docs to Watch\u2019 Panel (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/scad-savannah-film-fest-2026-docs-to-watch-panel-1236705876/",
+      "summary": "'American Doctor,' 'Avedon,' 'Cookie Queens,' 'Everest: The Other Side,' 'The Last First: Winter K2,' 'My Undesirable Friends: Part II \u2013 Exile,' 'Once Upon a Time in Harlem,' 'One in a Million,' 'The Trial of Alec Baldwin' and 'You Can See Everything' will be represented at the Oct. 28 gathering.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-24T22:07:03+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Why California Was Willing to Cave to Paramount",
+      "url": "https://www.hollywoodreporter.com/business/business-news/california-paramount-court-hearing-1236709725/",
+      "summary": "A court hearing offered insight into the states' decision to settle the case while bringing to the forefront some of the deal's shortcomings, which have positioned CEO David Ellison as the ultimate winner.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-24T21:58:20+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Adam Schiff Teamed Up With Spencer Pratt on Hollywood Federal Tax Credit Push",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/adam-schiff-spencer-pratt-federal-tax-credit-push-1236709693/",
+      "summary": "In an interview with The Hollywood Reporter, the Democratic lawmaker from California explained that he and the former reality star first interacted as a result of disaster relief legislation he co-sponsored.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-24T21:26:36+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zurich Film Festival Underway With Golden Eye Award for Tom Hiddleston",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-tom-hiddleston-tenzing-golden-eye-1236709651/",
+      "summary": "The Swiss film festival has opened with the European premiere of Hiddleston's latest feature, an Everest drama called 'Tenzing.'",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-24T21:01:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bill Hader to Share Details About Directing His First Feature at IndieWire\u2019s Future of Filmmaking Summit",
+      "url": "https://www.indiewire.com/news/events/bill-hader-indiewire-future-of-filmmaking-summit-1235218140/",
+      "summary": "Hader will participate in a one-on-one conversation with IndieWire about his upcoming horror film 'They Know' at the Los Angeles event on October 17.",
+      "source": "IndieWire",
+      "published": "2026-09-24T21:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "When and Where to Watch \u2018American Horror Story\u2019 Season 13 Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-american-horror-story-season-13-free-streaming-2026-1236709672/",
+      "summary": "Ryan Murphy and Brad Falchuk's horror anthology returns with an all-star cast for its 13th installment.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-24T20:50:41+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How New York Film Festival Landed Movies Like Controversial OpenAI Biopic \u2018Artificial\u2019 and Toho\u2019s \u2018Godzilla Minus Zero\u2019",
+      "url": "https://www.indiewire.com/features/general/how-new-york-film-festival-landed-artificial-godzilla-1235218495/",
+      "summary": "The festival's artistic director walks IndieWire through this year's highlights and buzziest scoops, like the world premiere of Luca Guadagnino's \"Artificial.\" Several titles are also seeking distribution out of NYFF, including Ira Sachs' AIDS-era New York City drama \"The Man I Love.\"",
+      "source": "IndieWire",
+      "published": "2026-09-24T19:10:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A24\u2019s \u2018V/H/S\u2019 Movie Inspired by Online Horror Universe SCP Foundation Faces Licensing Pushback",
+      "url": "https://www.indiewire.com/news/analysis/a24-vhs-movie-scp-foundation-licensing-pushback-1235218298/",
+      "summary": "Admins with the SCP Foundation Wiki tell IndieWire their work is covered by a Creative Commons License \u2014 and that it should be respected.",
+      "source": "IndieWire",
+      "published": "2026-09-24T18:46:51+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Strand Releasing Buys Distribution Rights to \u2018Sparks,\u2019 a Drama About Time-Travel Obsessed Teens",
+      "url": "https://www.indiewire.com/news/breaking-news/strand-releasing-buys-sparks-jodie-foster-son-elsie-fisher-1235218473/",
+      "summary": "Exclusive: \"Eighth Grade\" breakout Elsie Fisher and Charlie B. Foster star in the indie drama, which will open in theaters next spring.",
+      "source": "IndieWire",
+      "published": "2026-09-24T17:38:53+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Can Brad Pitt and a Cute Dog Save Paramount\u2019s Year at the Box Office?",
+      "url": "https://www.indiewire.com/news/box-office/can-brad-pitt-dog-movie-save-paramount-heart-of-the-beast-1235218312/",
+      "summary": "While Paramount CEO David Ellison enjoys his WarnerMount merger win, the studio's 2026 box office is not a pretty picture. Enter \"Heart of the Beast.\"",
+      "source": "IndieWire",
+      "published": "2026-09-24T17:15:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018V/H/S/Mixtape\u2019 Trailer: Horror\u2019s Unkillable Anthology Franchise Returns with a Music-Inspired Twist",
+      "url": "https://www.indiewire.com/news/trailers/v-h-s-mixtape-trailer-1235218397/",
+      "summary": "The latest entry, which includes shorts directed by Flying Lotus, RZA, and Ernest Dickerson, streams on Shudder next month.",
+      "source": "IndieWire",
+      "published": "2026-09-24T17:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hold Everything! Paramount Warner Bros. Merger Hits a Delay as Judge Grants Last-Ditch Effort from Block the Merger Coalition",
+      "url": "https://www.indiewire.com/news/breaking-news/paramount-wbd-merger-delay-judge-grants-last-ditch-lawsuit-1235218472/",
+      "summary": "An emergency amicus brief was filed just ahead of a hearing this morning to approve the antitrust settlement agreement.",
+      "source": "IndieWire",
+      "published": "2026-09-24T16:45:06+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Primetime\u2019 Review: Robert Pattinson Is Even Creepier Than IRL Chris Hansen in a Bleakly Invigorating \u2018To Catch a Predator\u2019 Thriller",
+      "url": "https://www.indiewire.com/criticism/movies/a24-primetime-movie-review-robert-pattinson-chris-hansen-1235215068/",
+      "summary": "Lance Oppenheim scuzzies up his fiction feature debut about hidden-camera, reality-TV exploitation with a grim style and often twisted performances from Merritt Wever, Skyler Gisondo, and singer/songwriter Phoebe Bridgers.",
+      "source": "IndieWire",
+      "published": "2026-09-24T16:17:07+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ed Helms Might Be Growing Into More \u2018Maturing Adult\u2019 Roles, but He\u2019s Still Ready for That \u2018Vacation\u2019 Sequel",
+      "url": "https://www.indiewire.com/features/interviews/ed-helms-maturing-vacation-sequel-the-stunt-driver-1235218071/",
+      "summary": "The \"Office\" and \"Hangover\" actor is starting to embrace roles in which he's the grown-up in the room, like in the fact-based \"The Stunt Driver,\" but that doesn't mean the silly stuff is behind him.",
+      "source": "IndieWire",
+      "published": "2026-09-24T16:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paul Feig in Talks to Direct Sequel to 'The Italian Job' at Paramount",
+      "url": "https://www.thewrap.com/creative-content/movies/paul-feig-the-italian-job-sequel-paramount/",
+      "summary": "The 2003 heist film starring Mark Wahlberg, Charlize Theron and Edward Norton made $176 million worldwide",
+      "source": "Wrap",
+      "category": "greenlight",
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Orders 'Lonesome Dove' Series From Zoe Kazan & Jeb Stuart",
+      "url": "https://deadline.com/2026/09/lonesome-dove-netflix-series-zoe-kazan-jeb-stuart-1237071579/",
+      "summary": "Larry McMurtry\u2019s classicLonesome Dovenovel is returning to television as aNetflixseries. The streamer has greenlighted the Western drama fromZoe KazanandJeb Stuart, co-showrunners of Netflix\u2019s upcomingEast of Edenlimited series, and Teton Ridge Entertainment.",
+      "source": "Deadline",
+      "category": "greenlight",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Congress Begins Drafting 20% Federal Film Incentive With Trump's OK",
+      "url": "https://variety.com/2026/film/news/congress-draft-federal-film-incentive-trump-1236855119/",
+      "summary": "Members of Congress are drafting legislation that would create a 20% federal film and TV incentive \u2014 with bonuses that could bring it as high as 30% \u2014 after President Trump endorsed the idea last week.",
+      "source": "Variety",
+      "category": "union_rule",
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sarah Catherine Hook Joins 'Crush' Thriller From 20th Century Studios",
+      "url": "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236/",
+      "summary": "EXCLUSIVE:Sarah Catherine Hook, the actress who broke out with her role in the Thailand-set third season of HBO\u2019sThe White Lotus, is set to star inCrush, the snake-themed thriller from20th Century Studios.",
+      "source": "Deadline",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Still Has Unfinished Business With Her Exes \u2014 Thank God! \u2014 While Also Mooning Over Her Groom in 'The Life of a Showgirl: The Encore': New Tracks Review",
+      "url": "https://e.mail.variety.com/click?ZdJBda_IwGIbzWwKe6Ws-bJMKL8x1VZlDVubnTiRNntQyU2erLTL230dHHTvZ8fPc93VzRTnUOdTlMVFO3aVOZYcGiMIP7DKDh5iKgHAqqOdzJpTPBnxg1CAgBnexPuMhfne6V6kig_O1x00AOiGJAG4sBFb62kphgVpBOElkj-IuLpraHxL-RMubgiqD-t_3oS1sHvoOylKlUPb_nNIvVI1eXqc7V-k2uXuYL0ZzEjCPEeZrxhmnnkBPrpLo1EgC-N9hY292PF1FRKJ4M1n6ccy3Ol-p9dTfXzbCjuk6nsjsMl3dv82e92Yj0yLssHGSB6dleDQHSluNv6dJlKpiu4hG6PHGD1v-1wAel5fe87824",
+      "summary": "Taylor Swift Still Has Unfinished Business With Her Exes \u2014 Thank God! \u2014 While Also Mooning Over Her Groom in 'The Life of a Showgirl: The Encore': New Tracks Review\n\nSubject Line: Taylor Swift Still Has Unfinished Business With Her Exes \u2014 Thank God! \u2014 While Also Mooning Over Her Groom in 'The Life of a Showgirl: The Encore': New Tracks Review\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBda_IwGIbzWwKe6Ws-bJMKL8x1VZlDVubnTiRNntQyU2erLTL230dHHTvZ8fPc93VzRTnUOdTlMVFO3aVOZYcGiMIP7DKDh5iKgHAqqOdzJpTPBnxg1CAgBnexPuMhfne6V6kig_O1x00AOiGJAG4sBFb62kphgVpBOElkj-IuLpraHxL-RMubgiqD-t_3oS1sHvoOylKlUPb_nNIvVI1eXqc7V-k2uXuYL0ZzEjCPEeZrxhmnnkBPrpLo1EgC-N9hY292PF1FRKJ4M1n6ccy3Ol-p9dTfXzbCjuk6nsjsMl3dv82e92Yj0yLssHGSB6dleDQHSluNv6dJlKpiu4hG6PHGD1v-1wAel5fe87824\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJDbavJAFEbnWQa80985mMxE-KE2jUot0lCPvZE57MRQJ9bERKT03UtKLL3p9d6s9bGiHC45XMqjVk7dpU5lh0aIwg_sMouHmIqAcCqo53MmlM8GfGDVICAWd7E54yF-d6ZXqyKD87XHbQBGEy2A2wSCRPomkSIBmgjCiZY9iru4aLA_JvyJlrcEdQaXf9-HFtg89B2UpUqh7P85pV_lZaVLU2Qa0MvrdOdq0xJ2D_PFaE4C5jHCfMM449QT6MnVEp2aWAD_O2zszY6nq4hIFG8mSz-O-dbkK7We-vtqI5IxXccTmVXT1f3b7HlvNzItwg4b6zw4LcOjPVDa5vw9UaJUFdtFNEKPN3_Y-r8GAAen443e1632",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-25T06:22:08",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Disney Legal Chief Warns Of \"Hard Choices\" & \"Much Smaller\r\n Organization\" Coming As Company Layoffs Loom",
+      "url": "https://e.mail.deadline.com/click?ZdNDLTvJAGAbgXssk7OjPnGinJH9i5aAikiAUGjZkOvO11nSotMgoxns3NdS4cf0dnjfveA92D7YuE2nkVWZkXjSgM_xAJtdogIgfYIY55T6hQerzRARCgq8o6iJ1RAP0YpSrQeoi34P7VBbFuy1L7SqeisTjHqN-nzLST6XGWokkDTABIL5LUBdVjfCDok8nats45WD_fQ_a381Gz0Bdywzq3p-xepW0znJ7uzNatae70XwVznFA-xRTT1FGGcHEmRntOYemMYD_97Fdd-gkXNHoMDurDp3EfPl8hPF8uuEPXiXsYr0Ss8e3KL45p4q9RndCb64Xx5FJ4nCtpyezvHT6KxsjTiarONuGzrT1hxf_awA2p679205f2",
+      "summary": "Disney Legal Chief Warns Of \"Hard Choices\" & \"Much Smaller\r\n Organization\" Coming As Company Layoffs Loom\n\nSubject Line: Disney Legal Chief Warns Of \"Hard Choices\" & \"Much Smaller Organization\" Coming As Company Layoffs Loom\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNDLTvJAGAbgXssk7OjPnGinJH9i5aAikiAUGjZkOvO11nSotMgoxns3NdS4cf0dnjfveA92D7YuE2nkVWZkXjSgM_xAJtdogIgfYIY55T6hQerzRARCgq8o6iJ1RAP0YpSrQeoi34P7VBbFuy1L7SqeisTjHqN-nzLST6XGWokkDTABIL5LUBdVjfCDok8nats45WD_fQ_a381Gz0Bdywzq3p-xepW0znJ7uzNatae70XwVznFA-xRTT1FGGcHEmRntOYemMYD_97Fdd-gkXNHoMDurDp3EfPl8hPF8uuEPXiXsYr0Ss8e3KL45p4q9RndCb64Xx5FJ4nCtpyezvHT6KxsjTiarONuGzrT1hxf_awA2p679205f2\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBLT8JAFAXg_pZJ2FHpPGinJCZWHioiCUKhYUPmcVtrOq20QBXjfzc11LhxfW_Od3LGOdQ51FUhhRE3iRFp1oDW8BOZVKMBwp7vUIcR5mHixx6T3OcCPEVQF6kDGqA3o2wNQmdpDvZLkWUfdVFoW7GYS5e5lHh9QnE_FtrRisvYdzAA9myMuqhshF8UfVlhu8Yphfrq59BmNx89A1UlEqh6_9bqHfPqKCtVphKs5fZ-Z7RqI3aj-SqYOz7pE4e4ilBCsYOtmdGutW-WA7h-jOp1h0yCFQn3s7PqkEnElq8HGM-nG_bklrxerFd89vweRnfnWNFj-MD15nZxGBkZBWs9PZnlZds_HSm2ElFGyTawpq0_vPjfAwA7m6c1ef3a4",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-25T02:45:56",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Unabomber' Review: Jacob Tremblay Stuns in a Biopic That Still Can't\r\n Decide if Kaczynski Was Crazy",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrwBrJ2f9qSmCigIQjzAeTfC2m7Mq-4snViQ4zf3cwA8cXne_M7J-fBGm-Nrw9KFvIuLyS8N0A0-MIFZLiHCRMBFZxFjMUsDI0kkmZcxgluY_2Be7gsdAdsBsaDMx2lFeFxSJSMJGNCZdFuJzKWyDhSmpOgQ3Abu2b4ysLf6OUS4ROMv_k9XCebl25h6lrmpu7-q9N10qPZZrQtwGuwmYftMJ3fp4GgMQ1oomlIw0AQNPGQoKrpZMxtZIbDfbmYijXhy1k5X4sW7YtNlKjTkVsSp1MAPSrHqT1UbpCfJi3aT1b7x6VbPL_OjpUapfZc8q8ZR7l0q6e3HI0v_MGZ_zMA9uf28b5eb9",
+      "summary": "'Unabomber' Review: Jacob Tremblay Stuns in a Biopic That Still Can't\r\n Decide if Kaczynski Was Crazy\n\nSubject Line: 'Unabomber' Review: Jacob Tremblay Stuns in a Biopic That Still Can't Decide if Kaczynski Was Crazy\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrwBrJ2f9qSmCigIQjzAeTfC2m7Mq-4snViQ4zf3cwA8cXne_M7J-fBGm-Nrw9KFvIuLyS8N0A0-MIFZLiHCRMBFZxFjMUsDI0kkmZcxgluY_2Be7gsdAdsBsaDMx2lFeFxSJSMJGNCZdFuJzKWyDhSmpOgQ3Abu2b4ysLf6OUS4ROMv_k9XCebl25h6lrmpu7-q9N10qPZZrQtwGuwmYftMJ3fp4GgMQ1oomlIw0AQNPGQoKrpZMxtZIbDfbmYijXhy1k5X4sW7YtNlKjTkVsSp1MAPSrHqT1UbpCfJi3aT1b7x6VbPL_OjpUapfZc8q8ZR7l0q6e3HI0v_MGZ_zMA9uf28b5eb9\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrwBrJ2f9qSmCigIQjzAeTfC2m7Mq-4MlZnQ4zf3cwA8cXne_M7J-fBGm-NdwclC3mXFxLeGyAafOECMtzDhImACs4ixmIWhkYSSTMu4wS3sf7APVwWugM2A-OhMh2lFeFxSJSMJGNCZdFuJzKWyDhSmpOgQ3AbV83wlYW_0cslwicYf_N7uE42L93COCdz47r_6nRr62rldAXKoNlmtC3Aa7CZh-0wnd-ngaAxDWiiaUjDQBA08ZCgY9PLmNvIDIf7cjEVa8KXs3K-Fi3aF5soUaeaWxKnUwA9KsepPRyrQX6atGg_We0fl9Xi-XVWH9Uoteeifw05ymW1enrL0fjCH5z5PwMAcqfc77629d",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-25T01:12:46",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Unabomber' Review: Jacob Tremblay and Russell Crowe in a Facile\r\n Rendering of Ted Kaczynski's College Days",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJDLbuIwGIX9LJZmRwZfYjtGGmmSzKj0IkoKVG02yHFMEjUm4JCmqOq7V6kAddP1_5_zHX3_t6bfmr5tMmXV38Kqqh6AIH6HtsrhBGIhEZEBkb4gmEviG0mVUnkAR1Af4ATurPbKpq6PfdPknjO7xh2M8zKGNxufIOETyiTHgklshKYcmVxrnnsYjqAbCBco_ACrs43XyvS_vw6X7nP18Dq2pm1VYdrxj_vGTvVgkU7XtnS6bOohvv43W4YzJAkjiHBNKKEoYODOlhLsB3XG_GH1IQ4VJmKRzp_FQxb8IhFN7rP0kcnNcsrLNH6ZV2_7MEi2y1UUdWESLdCKd93x9kolSd-d1H5fRkGh3NM1KsDNmR6f6J8DAAanc3568e1a",
+      "summary": "'Unabomber' Review: Jacob Tremblay and Russell Crowe in a Facile\r\n Rendering of Ted Kaczynski's College Days\n\nSubject Line: 'Unabomber' Review: Jacob Tremblay and Russell Crowe in a Facile Rendering of Ted Kaczynski's College Days\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJDLbuIwGIX9LJZmRwZfYjtGGmmSzKj0IkoKVG02yHFMEjUm4JCmqOq7V6kAddP1_5_zHX3_t6bfmr5tMmXV38Kqqh6AIH6HtsrhBGIhEZEBkb4gmEviG0mVUnkAR1Af4ATurPbKpq6PfdPknjO7xh2M8zKGNxufIOETyiTHgklshKYcmVxrnnsYjqAbCBco_ACrs43XyvS_vw6X7nP18Dq2pm1VYdrxj_vGTvVgkU7XtnS6bOohvv43W4YzJAkjiHBNKKEoYODOlhLsB3XG_GH1IQ4VJmKRzp_FQxb8IhFN7rP0kcnNcsrLNH6ZV2_7MEi2y1UUdWESLdCKd93x9kolSd-d1H5fRkGh3NM1KsDNmR6f6J8DAAanc3568e1a\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBdT7MwHEf5LE2eu_GsL7SlS0wENM6XzOE2o9wspXRApLCVIS7G724w2-KN1_9_zvnlXNe6r3XfNqk08jI3sqwGoRN9AlNmYAIQFxALHwuPY8QE9rQgUsrMByOg9mACtka5RVNVh75pMtfqbWP32ropRZuNhyH3MKGCIU4F0lwRBnWmFMtcBEbADoazFHw5q1ON91L3_38OZ_YJPbyOjW5bmet2_Oe-cVe3XdoqW6baWSTTtSmsKppqwKyvZstgBgWmGGKmMMEE-tR5MIVwdkNCrS9otY8CiTBfJPNX_pT6_3BI4sc0eaZis5yyIone5uXHLvDjerkKwy6IwwVcsa473N_IOO67Y-LfC4mTS_tyC3Pn7mSPjvbvAQAftd11992b9",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-25T01:05:22",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Star Trek: Strange New Worlds' Star Celia Rose Gooding Breaks Down\r\n That Time-Jumping Season 4 Finale",
+      "url": "https://e.mail.variety.com/click?ZdJBfT_IwFMb7WZq8d_DSdhvdITFRAWFiUPmjzhvSdnWO0DG30Q2N393MDOON1-c8z-_Jb5zqKtVVsZfCiPPYiGTXANHwA5skwgNMORAGzAfiUd9RnAFXir6AiztYlXiAM6O6VuSJLo9dKoSMuOtIRl1HcFBagOd7kkvuy6hPuxR3cN7U_pDwJ1qfFNhEV_-_D21h89AzuihErIven1N6uajQ8nm6MVa1yc1ovrqYE2AuI6yvmMMc0vfQjbE-emskaX22W4T_2NU2Hs9v19nlPWSjQIUWDvXEu6uC4GGVQh5J9XoMlu-RO0zKrd2F43ofTieLenkoZk-txN_DAMUifySzGF2f6MOW_jUAfq9418ae3a",
+      "summary": "'Star Trek: Strange New Worlds' Star Celia Rose Gooding Breaks Down\r\n That Time-Jumping Season 4 Finale\n\nSubject Line: 'Star Trek: Strange New Worlds' Star Celia Rose Gooding Breaks Down That Time-Jumping Season 4 Finale\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT_IwFMb7WZq8d_DSdhvdITFRAWFiUPmjzhvSdnWO0DG30Q2N393MDOON1-c8z-_Jb5zqKtVVsZfCiPPYiGTXANHwA5skwgNMORAGzAfiUd9RnAFXir6AiztYlXiAM6O6VuSJLo9dKoSMuOtIRl1HcFBagOd7kkvuy6hPuxR3cN7U_pDwJ1qfFNhEV_-_D21h89AzuihErIven1N6uajQ8nm6MVa1yc1ovrqYE2AuI6yvmMMc0vfQjbE-emskaX22W4T_2NU2Hs9v19nlPWSjQIUWDvXEu6uC4GGVQh5J9XoMlu-RO0zKrd2F43ofTieLenkoZk-txN_DAMUifySzGF2f6MOW_jUAfq9418ae3a\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBfT_IwFIf7WZq8d_CydhvdITFRAWFiUPmjzhvSdnWW0IEr60Djdzczw3jj9Tl5nl-eYa6qXFV2K7jh55nhelMLUf8DG53iHiYMPAo0Ai8kkS8ZBSYleYEAt7Dc4x7eGdl2vNBqf2wTzkXKAl9QEvicgVQcwigUTLBIpF3SJriFixr7Y8KfaHlK4LSq_n8fGmD90DHKWp4p2_lzSqfMbSmsLLRQaP48XhknG8JqMF1cTD2gAfVoV1Kf-l43RDfGReitjqXU2WaW_KNX62w4vV3uLu9hN4hl4qA8jMK7Ko4fFjkUqZCvx3j-ngZ9vV-7TTI8bJPxaHaYl3by1MT8PRBQxotHb5Kh65O939i_BgAcmb72f17fa",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T23:37:14",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "America\u2019s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on",
+      "url": "https://e.mail.indiewire.com/click?ZdJDdTupAFEbnWSbpHRymu79DcpIDPQKpMio_Grkh03a3TnAKttQRjO9uaoB44_Xe-dbKuirRlGjqbSK1_FdoqV5aIIk-qFYZ7VM74Ay4DYHnh0GCYeDKECXLOe3QdE_7dKfTriozhUZV2HWdNEGWckzQsZ0kcXkeAso8lxAwz3e6Nu3Qqh2-sOgnWZ4jvCk0f74Pl8n2paexrmWBde9XnV4lDZmvJmutTKrKzKj1f7EYCMbBBQZ-Cg44zPPIjVE-eW07If4dC5g8R7d8UR-D3ILhfHmAZhcdp7N72B4G46rZzKZiIFbv8dMmi93rpSgsGDaC39WNBcORBaPYgtGDPvX86ReSQlaPe2lIfLaIThZfAwA4k583a7b9d",
+      "summary": "America\u2019s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on\n\nSubject Line: America\u2019s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJDdTupAFEbnWSbpHRymu79DcpIDPQKpMio_Grkh03a3TnAKttQRjO9uaoB44_Xe-dbKuirRlGjqbSK1_FdoqV5aIIk-qFYZ7VM74Ay4DYHnh0GCYeDKECXLOe3QdE_7dKfTriozhUZV2HWdNEGWckzQsZ0kcXkeAso8lxAwz3e6Nu3Qqh2-sOgnWZ4jvCk0f74Pl8n2paexrmWBde9XnV4lDZmvJmutTKrKzKj1f7EYCMbBBQZ-Cg44zPPIjVE-eW07If4dC5g8R7d8UR-D3ILhfHmAZhcdp7N72B4G46rZzKZiIFbv8dMmi93rpSgsGDaC39WNBcORBaPYgtGDPvX86ReSQlaPe2lIfLaIThZfAwA4k583a7b9d\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDdTupAFEb7LJP0Dg7t7u-QnORAj0CqVOVHIzdkZrpbJzgFO9QRjO9uaoB44_Xe-dbKuqrQVGj0ljPF_pWKyZcWaCUfRMmc9IkbUQeoC1EQxhHHOPJZjMwpKOkQsSd9slOiK6tcopE1dn1PcHQERY6e63Hu0yIGZEXBIHKC0Ou6pEPqdvjCIp_W8hzhTaL58324TLYvPYVasxJ171edXlPphmtRS47WfDVZK2mErHIj1_-zxSBzKPjgQCjAA88JAuvGyNB6bXsh_h1nMHlObulCH6PChuF8eYBmlxyns3vYHgbjutnMptkgW72nT5s89a-XWWnDsMnonW5sGI5sGKU2jB7UqetPz9gqWf24Z8ZKzxbJyeJrAAak5f817cc7",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T23:08:27",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Reality Producers Rejoice As Federal Film & TV Incentive Bill Includes\r\n Unscripted Series",
+      "url": "https://e.mail.deadline.com/click?ZdNBbT8IwGAbg_pYm3jFpu9FZEhMBJ2bhqKDGG9K1H9103WQD6yH-dzPDjDdef4fnzRsV4ApwdZlIKy-MlVnegGj0iW2mcR_TUBAmiOCUC3_LhdTC3yaMn-EOVnvcxy9WeRqkzrMCvLTM83dXltoTAfihkKyXUC4opYwqHQquqSDgU049iju4aoRfFH-hddvGawbu9GfQ_m42uhbqWhqou__G6lbSodvH643Vqj3dXM5WgxkRLGCEccV85pMgRBOrOdo1jQGcp-k4782HCVSziXHTfbw4YVc3dvkA8wMfGL1TsljYeLoYmmdVrO8-DuM3uixIGkXRqjRxGR0b_ZssQEZW9_WTQXGrj4769wA5rc1a8fe54",
+      "summary": "Reality Producers Rejoice As Federal Film & TV Incentive Bill Includes\r\n Unscripted Series\n\nSubject Line: Reality Producers Rejoice As Federal Film & TV Incentive Bill Includes Unscripted Series\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBbT8IwGAbg_pYm3jFpu9FZEhMBJ2bhqKDGG9K1H9103WQD6yH-dzPDjDdef4fnzRsV4ApwdZlIKy-MlVnegGj0iW2mcR_TUBAmiOCUC3_LhdTC3yaMn-EOVnvcxy9WeRqkzrMCvLTM83dXltoTAfihkKyXUC4opYwqHQquqSDgU049iju4aoRfFH-hddvGawbu9GfQ_m42uhbqWhqou__G6lbSodvH643Vqj3dXM5WgxkRLGCEccV85pMgRBOrOdo1jQGcp-k4782HCVSziXHTfbw4YVc3dvkA8wMfGL1TsljYeLoYmmdVrO8-DuM3uixIGkXRqjRxGR0b_ZssQEZW9_WTQXGrj4769wA5rc1a8fe54\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNDNTuMwFAXgPIul2TVT20mdcaWRaEsoivoLLSA2lWPfOoHYoXFD-BHvjoIaxIb1vTrf0YktNBYaV6bCiDNtRF60oDd5RyZXaIhIxDHlmDPCeLBnXCge7FPK_qEekkc0RE9G-gqEKnILflYWxWtTlsrnIQQRF3SQEsYJIZRIFXGmCMcQEEZ8gnqoaoVvFH14226N5xyav1-HLrv96BtwTmhw_V9r9Wvr6tTJKk_Bu76_3Bklu4jd-WIzWmBOQ4opkzSgAQ4jb2YU8w7tcgD_s2xaDJbjFKrFTDfzY7L6Qy-uzPoOljUbaXWQwq5MMl-N9aO025u3evpC1hZncRxvSp2U8WnZnw1DT4vq1j1oL-n0yUn_HAAdv30f57d33",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T23:04:46",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'The Love Hypothesis' Stars Lili Reinhart and Tom Bateman Want to Make\r\n You Believe in Love Again",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBdT8IwGIX7W3rNpGvpupKYaCZRCSEgCOIN6RdsstLREes0_nczA8Qbr9_3nOfkGexN2JtQOymsuNlaUZQtEGRf0BYa9mHMOMIp55RTniRUMcRjpolSsAPVEfZhZVWUu7JsgnM68qZy_mh8RGJNJE0lYpRhJTWRBsc8YULo3oZqE8WwA31LuEDhN3g-23gvTLj6PVy6z9Xta9eauhZbU3f_3df1IoDZ68Pa5l7lrmzj67vx_HaMOO5hhBOFCSYo5mBkcw4OrTpjrneZRXRSpIu5W6SPpDqMyW4hh0vnViPyYTNTydXLTKiNTgeyCbMJaZRF4Uk2-f3bcvp5Evt3FwNb4ZdOTMHwzM5O7J8BAA7of605da70",
+      "summary": "'The Love Hypothesis' Stars Lili Reinhart and Tom Bateman Want to Make\r\n You Believe in Love Again\n\nSubject Line: 'The Love Hypothesis' Stars Lili Reinhart and Tom Bateman Want to Make You Believe in Love Again\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBdT8IwGIX7W3rNpGvpupKYaCZRCSEgCOIN6RdsstLREes0_nczA8Qbr9_3nOfkGexN2JtQOymsuNlaUZQtEGRf0BYa9mHMOMIp55RTniRUMcRjpolSsAPVEfZhZVWUu7JsgnM68qZy_mh8RGJNJE0lYpRhJTWRBsc8YULo3oZqE8WwA31LuEDhN3g-23gvTLj6PVy6z9Xta9eauhZbU3f_3df1IoDZ68Pa5l7lrmzj67vx_HaMOO5hhBOFCSYo5mBkcw4OrTpjrneZRXRSpIu5W6SPpDqMyW4hh0vnViPyYTNTydXLTKiNTgeyCbMJaZRF4Uk2-f3bcvp5Evt3FwNb4ZdOTMHwzM5O7J8BAA7of605da70\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJDfTsIwGEf7LL1m0rV0XUlMNJOohBAQBPGG9B9sstLRgXMa393MMOKN19-Xc345g72p9qYqnRRW3GytyPJGCJIvaDMN-zBkHOGYc8opjyKqGOIh00Qp2IHqCPuwsCpIXZ7XlXM68KZw_mh8QEJNJI0lYpRhJTWRBoc8YkLo3oZqE4SwA31juEjhN3hua7xnprr6PVzYLbp57VpTlmJryu6_-7qnfXmSpfKZNGD2-rC2qVepyxvM-m48vx0jjnsY4UhhggkKORjZlINDk9CY611iEZ1k8WLuFvEjKQ5jslvI4dK51Yh82MQUcvUyE2qj44Gsq9mE1Mqi6knW6f3bcvp5Dvx3HwNb4ZdOTMGwdSdn988A3kf3987683",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T22:47:05",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Why California Was Willing to Cave to Paramount",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBRa_IwFIb7WwLe2c_0tDaN8MFE54psdaOzDm8kNse2o2k0lYYx9t9Hh8pudn3O-z4vz32DtkHb6r1Q4q5Qoqp7oDP7JKqSZEI8xilELPCBMyp9Hkb7PfNkkJMhyc9kQo4qd0td1x9Wa-kaPGpzRuOKkMOB04gxn439YMxEwEMeUBmiRC9irkeGxPSEG5R8Oeurja5C--_ncOu-VvevI4VtKwpsR3_uGxlhnXQb71Rp8lLXfXw3T16nCeUQAIUwBx-AR2PnUZXcOfXqEP9n6zSjeruNxZS92EVWL9M3WFLTxN28WaXxagCLp2RlBrDA53NXyI6-q85GTVIlp4dmwzfH7CL39zZwCmE2eLDO8sqfXfjfAwA1t5afb1294",
+      "summary": "Why California Was Willing to Cave to Paramount\n\nSubject Line: Why California Was Willing to Cave to Paramount\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBRa_IwFIb7WwLe2c_0tDaN8MFE54psdaOzDm8kNse2o2k0lYYx9t9Hh8pudn3O-z4vz32DtkHb6r1Q4q5Qoqp7oDP7JKqSZEI8xilELPCBMyp9Hkb7PfNkkJMhyc9kQo4qd0td1x9Wa-kaPGpzRuOKkMOB04gxn439YMxEwEMeUBmiRC9irkeGxPSEG5R8Oeurja5C--_ncOu-VvevI4VtKwpsR3_uGxlhnXQb71Rp8lLXfXw3T16nCeUQAIUwBx-AR2PnUZXcOfXqEP9n6zSjeruNxZS92EVWL9M3WFLTxN28WaXxagCLp2RlBrDA53NXyI6-q85GTVIlp4dmwzfH7CL39zZwCmE2eLDO8sqfXfjfAwA1t5afb1294\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBRa_owFEf7WQK-2b9pWptG-MNE54psdaOzDl8kba5tR5Noqg1j7LuPDpW97Plezvlx7hVYBbbVOZf8rpS8bnqhM_tEshZogjzKMIlo4BNGsfBZGOU59URQoCEqTmiCDrJwK900H1Zr4Ro4aHMC4_KQkT3DEaU-HfvBmPKAhSzAIgQBXkRdDw2R6Q03Kfpy1tcaXQ3238_hxr6i-9eRhLblJbSjP_eNzqo9521h6hycdBvvZGWKSjc9ZjdPXqcJZiQgmIQF8Qlh0dh5lBVzjn1CgP_ZOs2w3m5jPqUvdpE1y_SNLLFRcTdXqzReDcjiKVmZAVnA86krRYffZWcjldTJ8UFt2OaQXSL_3kickpsN7K2zvPpnF__3AA2o4d492f00",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T22:04:47",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bill Hader to Share Details About Directing His First Feature at\r\n IndieWire's Future of Filmmaking Summit",
+      "url": "https://e.mail.indiewire.com/click?ZdJBBa_pAEEf3syzkpn83kzjZCH9oo7Viaw7VKHiR3WQiW92oiXSR0u9eUlR66XmG33u8p4pcRa45aGXVw9Yqs2-BbPjJrSn4gPtRLECGIsYYggB9FUYoAgGSd3h-5gN-tHnXVIUhZ2rq-pEQZVgGlMtSKwxKkCilj2U_LxFQdX3e4XU7fGfxL5bdInwYcv9-DvfJ9qVnqWnUlprenzq9Wjk2X0821rjcVIUzm1G6eExFDCEIwBwCACkFe3UG2antRPQ_2yXzy27lQbIYojyY5dKD5OUyc1F0zKYejNf71R6RsO-Hk0P6nMzOa_1OI61N5sFYnXV60scLXWv-tgvZVtWrt8Kx6c1heHX4HgA4k012dfb40",
+      "summary": "Bill Hader to Share Details About Directing His First Feature at\r\n IndieWire's Future of Filmmaking Summit\n\nSubject Line: Bill Hader to Share Details About Directing His First Feature at IndieWire's Future of Filmmaking Summit\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBBa_pAEEf3syzkpn83kzjZCH9oo7Viaw7VKHiR3WQiW92oiXSR0u9eUlR66XmG33u8p4pcRa45aGXVw9Yqs2-BbPjJrSn4gPtRLECGIsYYggB9FUYoAgGSd3h-5gN-tHnXVIUhZ2rq-pEQZVgGlMtSKwxKkCilj2U_LxFQdX3e4XU7fGfxL5bdInwYcv9-DvfJ9qVnqWnUlprenzq9Wjk2X0821rjcVIUzm1G6eExFDCEIwBwCACkFe3UG2antRPQ_2yXzy27lQbIYojyY5dKD5OUyc1F0zKYejNf71R6RsO-Hk0P6nMzOa_1OI61N5sFYnXV60scLXWv-tgvZVtWrt8Kx6c1heHX4HgA4k012dfb40\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBRa-JAFEbntwzkTdfJTbyZCAu70XXF1jxUo-CLzExuZKqJmmgHKf3vJUWlL32-l-8czr-KXEWuOWhVqj_bUtl9C2TDd17anA-4H8UCZChijCEI0FdhhCIQIHmHmzMf8GNpurbKLTlbU9ePhCjCIiAjC60wKECilD4WfVMgoOr6vMPrdvjB4h8su0d4s-R-fR0ek-1Lr6SmUVtqej_q9C5Vc9GNqa0mNl9PNqV1xla5s5tRuvibihhCEIAGAgApBXt2Ftmp7UX0O9sl8-tu5UGyGKI82OXSg-TpOnNRdMymHozX-9UekbDvh5ND-j-Zndf6lUZa28yDsTrr9KSPV7pV_W4Zsq2qVy-5Y9O7w_Dm8DkA2md9b1c9b1",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T21:09:11",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Avengers: Endgame Encore' Adds 4 New Scenes Tying to 'Doomsday':\r\n [SPOILER] Fights Doctor Doom, [SPOILER] Travels to the Past and the Multiverse\r\n Collapses",
+      "url": "https://e.mail.variety.com/click?ZdJBdT_JAEIX3t2zy3sHLdlq2WxITTQXlMykfIr0hw3aKNWyFtrQS4383NcV44_XMOc_J00-pSqnK33Zo8HZvMDnUQOZ_cJNEvMct1xOgwFUWSE-DjSISzg67Hm9xXfAePxrdLjFLqLi0hYtd0dWCYnJiDYIEWl4cRbYrlY1ktS3e4lld-0Pin2x1VVAmVP3_PjSF9UPHUJ7jnvLOn1M6GVZsET5uTamb5PZ-trybCQ8cECA12ABKSjYxpWKnWhLRzUUeq38weJil4emwfuk_b8jfQDB4n4fnpT8saPX0elmrIAinztnkE3-8mI_jUZQuhhPrWODGNBJ_DXMF22O2noYBG13pfkP_GgAev3f9b030c",
+      "summary": "'Avengers: Endgame Encore' Adds 4 New Scenes Tying to 'Doomsday':\r\n [SPOILER] Fights Doctor Doom, [SPOILER] Travels to the Past and the Multiverse\r\n Collapses\n\nSubject Line: 'Avengers: Endgame Encore' Adds 4 New Scenes Tying to 'Doomsday': [SPOILER] Fights Doctor Doom, [SPOILER] Travels to the Past and the Multiverse Collapses\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBdT_JAEIX3t2zy3sHLdlq2WxITTQXlMykfIr0hw3aKNWyFtrQS4383NcV44_XMOc_J00-pSqnK33Zo8HZvMDnUQOZ_cJNEvMct1xOgwFUWSE-DjSISzg67Hm9xXfAePxrdLjFLqLi0hYtd0dWCYnJiDYIEWl4cRbYrlY1ktS3e4lld-0Pin2x1VVAmVP3_PjSF9UPHUJ7jnvLOn1M6GVZsET5uTamb5PZ-trybCQ8cECA12ABKSjYxpWKnWhLRzUUeq38weJil4emwfuk_b8jfQDB4n4fnpT8saPX0elmrIAinztnkE3-8mI_jUZQuhhPrWODGNBJ_DXMF22O2noYBG13pfkP_GgAev3f9b030c\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBbT_pAEEf3s2zyf4M_22nphcREU0G5JuUi0hcy3U6xhq3Q7UVi_O6mphhffJ7JOb-cYUZ1RrV-i1Dh7UFhemyEzP_gKo35gBuOJ8AFxzXA9iSYKGJhRdj3eIfLgg_4ScluhXlKxaUrHOyLvhSUkJVIECTQ8JI4Nh3bNZGMrsE7PG-wPyb-yTbXBFVK9f_vQwtsHnqKtMYD6d6fU3plpstIyzyNiK3Cx72qZEvY3y_WdwvhgQUCbAkmgGvbbKYql52bWEQ3F_tU_4PRwyILz8fty_B5R_4OgtH7MizX_rigzdPrZesGQTi3SqVn_nS1nCaTOFuNZ8apwJ1qY_4a6Ah2wHw7DwM2udr91v41AAeu8d6e909a",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T20:47:33",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How 'All American' Survived Long Enough To End Its 8-Season Run As The\r\n Lone YA Series Left At The CW: An Oral History",
+      "url": "https://e.mail.deadline.com/click?ZdNBda-owGAfwfJaAd_aYpDVthAPHN46WWhnOFbyRp8lj7WhaZ9UiY999dNixm10_L78__3mJTYlNXaVg4V9mIS9akEzfqc0NHVHuKyYCwWQgA1e6angAMB74B9qn-kJH9GS1YxBMkZfoHKuiuDdVZRzPTzX3XeA-cgYHhto3AodMaWGYStHhtE_PrfCN0g-y7dq45dj8-Rp0v9uNgcW6hgzrwa-xBmdoyGa32Fuju9P9LH4ex0wJTzAhtXCFCDxOImskeWsbQ_w7Xqltspjd3XUYqE20eN3BTi2jKE5SXIbRMSwxzS4y5uvrda63_0_azC9PCVv1xOSmemIiJy-PTn9m80gG5yS8ZyTs_OnD_xwA9gae980234",
+      "summary": "How 'All American' Survived Long Enough To End Its 8-Season Run As The\r\n Lone YA Series Left At The CW: An Oral History\n\nSubject Line: How 'All American' Survived Long Enough To End Its 8-Season Run As The Lone YA Series Left At The CW: An Oral History\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBda-owGAfwfJaAd_aYpDVthAPHN46WWhnOFbyRp8lj7WhaZ9UiY999dNixm10_L78__3mJTYlNXaVg4V9mIS9akEzfqc0NHVHuKyYCwWQgA1e6angAMB74B9qn-kJH9GS1YxBMkZfoHKuiuDdVZRzPTzX3XeA-cgYHhto3AodMaWGYStHhtE_PrfCN0g-y7dq45dj8-Rp0v9uNgcW6hgzrwa-xBmdoyGa32Fuju9P9LH4ex0wJTzAhtXCFCDxOImskeWsbQ_w7Xqltspjd3XUYqE20eN3BTi2jKE5SXIbRMSwxzS4y5uvrda63_0_azC9PCVv1xOSmemIiJy-PTn9m80gG5yS8ZyTs_OnD_xwA9gae980234\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBfa8IwFAXwfJaAb3YmaU0bYTD_MS21Mpwr-CL5c60dTeustcjYdx8dduxlz_dyfoczL6ApoKlKJa18Sq3M8hZE009sM4NHmPqCsIARHvDA5a4YHqQ0nvQPuI_1BY_wyWrHgDR5VoBzLPP81pSlcTxfaeq7kvpAiTwQ0L5hMCRCM0OEAofiPj63wi-Kv9C2W-OaQfPwc-iy24-BhaqSKVSDf2sN6qKqVaXPmQK02S321uguYj-LX8cxEcxjhHHNXMYCj6LIGo4-2uUAHscrsU0Ws5u7DgOxiRbvO7kTyyiKEwXLMDqGBaj0wmO6ruu53j6ftJlfXhKy6rHJVfTYhE_e7tv-7eihVJ6T8JaisPOnd_97AA1t8357b5ae",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T20:36:26",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Fake Skating' Feature Adaptation At Sony Taps Am\u00e9lie Hoeferle and Graham Campbell To Star",
+      "url": "https://e.mail.deadline.com/click?ZdJDdTsJAEIX3WTbxjko7u2y7JCbyl5KqRANqwg0ZOkupdFukxEWN725qqPHG65lzvpNvUhpXGldXa7R4nVnMiwbIRp_c5sT7PAi1D1EAUkAv1LjWG9wQrX3kHZ4eeZ_vbeqRQSry0njbqijeXVWR1wulFlEgSKGSqKSMQp9EBKlOVVPgBbzDDw3hF8q_2GNr4y037vLn0HY3H11r6hozU3f_ndU9oGPz5XRlKW2jq_FsMZj5GiT4oFIQAKGO2K0lxV4bY8ZcTZJdLuYfyWn5tFcUT3YEe3tfZcPpBQwHCntycfOQuE1yWtzhNhmXO4rj4_I4EvNS-oZe4rPRv8siluHhOa4zlrT00Zn-PQA8g9821e0f0",
+      "summary": "'Fake Skating' Feature Adaptation At Sony Taps Am\u00e9lie Hoeferle and Graham Campbell To Star\n\nSubject Line: 'Fake Skating' Feature Adaptation At Sony Taps Am\u00e9lie Hoeferle and Graham Campbell To Star\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJDdTsJAEIX3WTbxjko7u2y7JCbyl5KqRANqwg0ZOkupdFukxEWN725qqPHG65lzvpNvUhpXGldXa7R4nVnMiwbIRp_c5sT7PAi1D1EAUkAv1LjWG9wQrX3kHZ4eeZ_vbeqRQSry0njbqijeXVWR1wulFlEgSKGSqKSMQp9EBKlOVVPgBbzDDw3hF8q_2GNr4y037vLn0HY3H11r6hozU3f_ndU9oGPz5XRlKW2jq_FsMZj5GiT4oFIQAKGO2K0lxV4bY8ZcTZJdLuYfyWn5tFcUT3YEe3tfZcPpBQwHCntycfOQuE1yWtzhNhmXO4rj4_I4EvNS-oZe4rPRv8siluHhOa4zlrT00Zn-PQA8g9821e0f0\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJBfT8IwFEf7WZr4xmRrS7eSmMi_jEwlGlATXshdbxmTdUMKDjV-dzPDjC8-35tzfjmT0tSlqV2VgoXrzEJeNEIy-qQ2R9qnQah8FgVMcNYLFaRqDWvE1AfaofpA-3RntYcGsMhL422qonivqwq9XigUjwKOEqQAKUQU-sgjppWWDcALaIfuG8OvlH6Rx7bGW27qy59Dy24-utY4B5lx3X9ndY-lO6ZO7_PUkPlyurKoW8RqPFsMZr5igvlMasYZC1VEbi1K8tqUM-ZqkmxzPv9ITsunncR4skW2s_dVNpxesOFAQk8sbh6Sep2cFnewScblFuP4sDyM-LwUvsGX-Fz278KIZLB_jl1GktY-Otu_BwAcr15617bef",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T20:23:14",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Susan Sarandon, Hannah Einbinder Detained at United Nations Netanyahu Protest",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBfa8IwFMXzWQK-2Znc_o0w2KhK3UZl6qzzRWJ6bR2N1VSsY-y7jw4re9nzPfecH7_hHus91lW5kVo-ZFruimaQhF9U71Lap9wXDPxAuHbAxRY4Q4-ljucq2qXqRPv0oJWVl0XxWZdlahk8lOaExuK-StHx-IbZW2QSpYsA9gYhcLnHwLE47VLTLNxG6Td5a22cd1jf_R5u3W11E-1prCqZYdX7l69nZE1mq2itc6Pysmje14N4_hgzAQ4w8BTYAJ4IyIvOBTk26hDv_UNhJ5f8FU3I0qX6mHZgJObnJErexyAHq4GzvMyz4-xZjidOMTMqSYZxEHZgFLNFFDXpyZRd9f6hA04yaRZiWpOnliC8EvwMAAcoaebb81bd",
+      "summary": "Susan Sarandon, Hannah Einbinder Detained at United Nations Netanyahu Protest\n\nSubject Line: Susan Sarandon, Hannah Einbinder Detained at United Nations Netanyahu Protest\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfa8IwFMXzWQK-2Znc_o0w2KhK3UZl6qzzRWJ6bR2N1VSsY-y7jw4re9nzPfecH7_hHus91lW5kVo-ZFruimaQhF9U71Lap9wXDPxAuHbAxRY4Q4-ljucq2qXqRPv0oJWVl0XxWZdlahk8lOaExuK-StHx-IbZW2QSpYsA9gYhcLnHwLE47VLTLNxG6Td5a22cd1jf_R5u3W11E-1prCqZYdX7l69nZE1mq2itc6Pysmje14N4_hgzAQ4w8BTYAJ4IyIvOBTk26hDv_UNhJ5f8FU3I0qX6mHZgJObnJErexyAHq4GzvMyz4-xZjidOMTMqSYZxEHZgFLNFFDXpyZRd9f6hA04yaRZiWpOnliC8EvwMAAcoaebb81bd\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfa8IwFEf7WQK-2Znc_o0w2KhK3UZl6qzzRdL02nY0VlO1jrHvPjpU9rLne_mdwxlusdliU1eJUOIhU6IoW6ARfBFVpKRPmMcpeD53LJ_xDTCKLk1t15GkS-SB9MlOSTOvyvKzqarU1Lir9AG1yTyZou2yhFobpAKFgwBWguA7zKVgm4x0iW4JNyj5Nt6uNU4FNne_h9v2dbp97Smsa5Fh3fvXr3fc1seklrpI0JitwrXKtcyrsp1ZD6L5Y0Q52EDBlWABuNw3XlTOjX2bEPHe25VWfM5fUQc0XcqPaQdGfH6Kw_h9DGKwGtjL8zzbz57FeGKXMy3jeBj5QQdGEV2EYfs9mdJL5j-WwIxM6AWfNsbT1SC4GPwMAAbg3a26efb0",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T19:43:03",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Saw': New Lionsgate & Blumhouse Atomic Monster Pic To Be Directed By\r\n Mike P. Nelson",
+      "url": "https://e.mail.deadline.com/click?ZdNDfTvIwGAbwXkuT74x9dO-2diMxEUFElJEwNOoJ6doyGtdtdMBQ472bGWY88fj983vyXBeqKVRTlyk3_DIzXOctiEYf2GiJB9hlEQEW-jQMGPFotAFwhR-4DPew2OMBroxwpOIy14VytmWevzVlKR2RUumGIiRsw9KUEt8HoEAiwkhAaKQcF_ewbYUfFH-ih66No1bN_-9B97vd6BtV1zxTdf_PWH3LG5S8TNdGiu50PY5Xw5hE4AMBKsADoCxA90ZStGsbU-oieTZ3XrrTitTFJLRLPR9vZ3O5qOwwz2j2KuPDTXE6TZeH1YLfjpN_cAV2EsdVxffHjZc8vZ8b_Z3MRRm3j-yYoVmnj8761wA7p4362216a",
+      "summary": "'Saw': New Lionsgate & Blumhouse Atomic Monster Pic To Be Directed By\r\n Mike P. Nelson\n\nSubject Line: 'Saw': New Lionsgate & Blumhouse Atomic Monster Pic To Be Directed By Mike P. Nelson\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNDfTvIwGAbwXkuT74x9dO-2diMxEUFElJEwNOoJ6doyGtdtdMBQ472bGWY88fj983vyXBeqKVRTlyk3_DIzXOctiEYf2GiJB9hlEQEW-jQMGPFotAFwhR-4DPew2OMBroxwpOIy14VytmWevzVlKR2RUumGIiRsw9KUEt8HoEAiwkhAaKQcF_ewbYUfFH-ih66No1bN_-9B97vd6BtV1zxTdf_PWH3LG5S8TNdGiu50PY5Xw5hE4AMBKsADoCxA90ZStGsbU-oieTZ3XrrTitTFJLRLPR9vZ3O5qOwwz2j2KuPDTXE6TZeH1YLfjpN_cAV2EsdVxffHjZc8vZ8b_Z3MRRm3j-yYoVmnj8761wA7p4362216a\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBfb6JAFAVwPssk-ybrcIEZMNlkXV1rbcVEbNP2xcw_cVIGkBGxbfrdGxpp-tLne3N-J-d_odpCtbbkzLC_mWE670Bn8oaMlmiEPBpjoFFAopBin8Q7AE8EoUfRAIkjGqHKCFcqJnNdKHdf5vlLW5bSFZxILxIRpjvKOcFBAEAAx5jiEJNYuR4aoLoTvlD07tz1a5y0an9_Hvrs7mNolLUsU3b4Y61hU9iGW1Frrpz0ab41UvQR22myGSc4hgAwEAE-AKGhc2skcQ7dckr9SR_Njc8PWmFbzKJ6rZfT_WIpV1U9zjOSPcukuSrO5_m62azY9TT9Bf-gniVJVbHjaeenD6-XZb839JyM1ff0lDmLXp9c9I8BAA9r4c447668",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T19:36:30",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Shrinking' Season 4 Casts Judith Light (EXCLUSIVE)",
+      "url": "https://e.mail.variety.com/click?ZdJBNT_JAFIXnt0zCDl6mt33ng8REUgQDBGOghrAhM9MLVpkiLXRA4383NcW4cX3vOc_Jc5ejz9GXe6Odvt06ne1qIIk_qMtS2qOBUAyEjMKAScEYTxGETC0ztE3tkfbom7OdShcZHi-dyKjIKGW4NIaDDq0wHAC1URZTNLwT0DYt6tofEv0kyVVBlaH_931oCuuHrsOy1Fssu39O6Rbak_nqfu0q2yTXg9miP2MKImDALYQAnCsydZUkh1oS4s2zz8QZNqd0tZn8f5Hh4-Y1d4dgkKTLk5OXCfctGEb70WL68K5Xk-V53oLhbhfHwMaJj6ZyPEoajb-nSbLVxZNY9Mn4yo8b_tcA2j07fc2c19",
+      "summary": "'Shrinking' Season 4 Casts Judith Light (EXCLUSIVE)\n\nSubject Line: 'Shrinking' Season 4 Casts Judith Light (EXCLUSIVE)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBNT_JAFIXnt0zCDl6mt33ng8REUgQDBGOghrAhM9MLVpkiLXRA4383NcW4cX3vOc_Jc5ejz9GXe6Odvt06ne1qIIk_qMtS2qOBUAyEjMKAScEYTxGETC0ztE3tkfbom7OdShcZHi-dyKjIKGW4NIaDDq0wHAC1URZTNLwT0DYt6tofEv0kyVVBlaH_931oCuuHrsOy1Fssu39O6Rbak_nqfu0q2yTXg9miP2MKImDALYQAnCsydZUkh1oS4s2zz8QZNqd0tZn8f5Hh4-Y1d4dgkKTLk5OXCfctGEb70WL68K5Xk-V53oLhbhfHwMaJj6ZyPEoajb-nSbLVxZNY9Mn4yo8b_tcA2j07fc2c19\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJDPavJAFEfnWQbc6efkJt_8EQqVWC0qlqIp4kZmJlebNhNrYhJt6buXlFi66fpezvlx7jKsM6yLg9FO3-6dTtJGSMIP6pKYDqgnFAMhA99jUjDGYwQhY8sM7VJ7ogP65myv0nmCp0svMCowShkujeGgfSsMB0BtlMUYDe95tEvzBvtjop8kuiaoEqz_fR9aYPPQd1gUeo9F_88p_TIrSlPYPDFIlpv7ratsS9iOFqvhgikIgAG34ANwrsjcVZIcm1iIN891Is6wK-PNbvb_RfqPu9fMHb1RFK9LJy8zXndgHBwmq_nDu97M1udlB8ZpGobAplEdzOV0ErU5f0-UZK_zJ7EakunVH7b-rwEA4n49534776",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T19:34:36",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "New 'Saw' Movie Ensnares Mike P. Nelson to Direct",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBda_IwGIb7WwKe2dfmSWxS4YX5xeYQ6_wYmycSk9R2NqamxbKN_ffRobKTHT_PfV831_io66OuS7sTRtztjcjyBugNP5HJFOohzKIAGKeYACM8ooQSRTlhgNpIVqiHCiP91Ob5e22t8p0urKu08xnnCacBYVrRhHCFsQp0FyjnOya7RPkYtZFrCDco-vLWVxvnTNf_fg637mt189oxuizFXpedP_d1nKi95eZha1InU5s38e1oturPgggoBBBKIABhyLypSSPv1KjT-r98NUkxH6X36mBWL_1IsFOx3rxNWzDI1hCOlweB5SKWLRjM48rgyXERnz_EYUxdNY2TwdyOJhe5v7d1vb1wz2z25D1e-cML_3sA7o0284ad76",
+      "summary": "New 'Saw' Movie Ensnares Mike P. Nelson to Direct\n\nSubject Line: New 'Saw' Movie Ensnares Mike P. Nelson to Direct\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBda_IwGIb7WwKe2dfmSWxS4YX5xeYQ6_wYmycSk9R2NqamxbKN_ffRobKTHT_PfV831_io66OuS7sTRtztjcjyBugNP5HJFOohzKIAGKeYACM8ooQSRTlhgNpIVqiHCiP91Ob5e22t8p0urKu08xnnCacBYVrRhHCFsQp0FyjnOya7RPkYtZFrCDco-vLWVxvnTNf_fg637mt189oxuizFXpedP_d1nKi95eZha1InU5s38e1oturPgggoBBBKIABhyLypSSPv1KjT-r98NUkxH6X36mBWL_1IsFOx3rxNWzDI1hCOlweB5SKWLRjM48rgyXERnz_EYUxdNY2TwdyOJhe5v7d1vb1wz2z25D1e-cML_3sA7o0284ad76\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJDLbuIwGEb9LJbYkSG-EDtIIw03zTBChHKpWjbIsR2SEsfBCURt1XevUgHqpuv_1zmfzrTQTaGbysbCiD8HI7K8FYLxOzSZggOIWOhjxikimBEeUkKJopwwDLtQ1nAASyO91Ob5a2Ot8pwurau18xjnCac-YVrRhHCFkPJ1H1POYyb7RHkIdqFrDXcp_ADbW41LpptfX4c7-4ZuX3tGV5U46Kr3477euajOcSVdFmuw3v3bm9TJ1OYtZj9ZbIYLP8QU-ziQmGAcBAzMTRqCU5tQ69_y2STlcpL-VUezeRqGgp3K7e5l3sGjbIuD6fookFxFsoNHy6g2aFasosubOE6pq-dRMlrayewa-fvGPjgI98gWD-D_zT---j8HAA9gf8ef23e2",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T19:34:13",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "New York Times and A24 Among Letterboxd Suitors As Deal For Film Community Nears",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBRT_IwFIb7W3rNPrq237qSmIhANIIjKiJ6Q067si2s6-iIE43_3cwA8cbrc973efNMKtNWpm2cAguXmYWi7IBo9IltkeIBDoUkVMSESBkyE3MNKmZSKYV7WO_xANdWB7kry0PrXBp4Uzu_Nz7Y6JDLVGpDuNxwIkBtRBQS0LGSAiIWhLiHfUc4Q_EXejrZeCtM--_ncO4-VXevfWuaBjLT9P_c1_fQosfXm7XNvc5d2cXX42QxTIiknBIaacoojZhAM5tLtOvUGXOR7B_Ejs2FDN3B3k_07LmY3zXjacQ-VjN-mC9XtmYVKbZjWpHkfbG6StPt9XAC053zLwKOYn_v4igDv_xfZ-j2xB4d2d8DAA0ud4d8dc90",
+      "summary": "New York Times and A24 Among Letterboxd Suitors As Deal For Film Community Nears\n\nSubject Line: New York Times and A24 Among Letterboxd Suitors As Deal For Film Community Nears\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBRT_IwFIb7W3rNPrq237qSmIhANIIjKiJ6Q067si2s6-iIE43_3cwA8cbrc973efNMKtNWpm2cAguXmYWi7IBo9IltkeIBDoUkVMSESBkyE3MNKmZSKYV7WO_xANdWB7kry0PrXBp4Uzu_Nz7Y6JDLVGpDuNxwIkBtRBQS0LGSAiIWhLiHfUc4Q_EXejrZeCtM--_ncO4-VXevfWuaBjLT9P_c1_fQosfXm7XNvc5d2cXX42QxTIiknBIaacoojZhAM5tLtOvUGXOR7B_Ejs2FDN3B3k_07LmY3zXjacQ-VjN-mC9XtmYVKbZjWpHkfbG6StPt9XAC053zLwKOYn_v4igDv_xfZ-j2xB4d2d8DAA0ud4d8dc90\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBRT_IwGEb7W3rNPrq237qSmIhANIIjKiJ6Q9qubAvrOlpwovG_mxlGvPH6fXPOkzOpdFPpxlspjLjMjCjKVghGn9AUKRzAkHGEWYwQ5yHRMVVCxoRLKWEPqj0cwNqoILdleWysTQOna-v22gUbFVKecqUR5RuKmJAbFoVIqFhyJiIShLAHXWs4S-EXeOpqvBW6-fdzOLM7dPvaN9p7kWnf_3Nf_1D5g_TKFVKDx9ebtcmdym3ZYtbjZDFMEMcUIxwpTDCOCAMzk3OwaxNqfZHsH9iOzBkP7dHcT9TsuZjf-fE0Ih-rGT3OlytTkwoV2zGuUPK-WF2l6fZ6OBHTnXUvTJwC_95HQSbc8n-dgdvOPTq5vwcA8pf2b4ec06",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T19:27:34",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "No ParaBros Decision Today: Inquisitive Judge Delays Settlement\r\n Sign-Off; CA AG's Office Insists Deal \"Not The Result Of Collusion\"",
+      "url": "https://e.mail.deadline.com/click?ZdJBRT_IwGEb7W5rsjn30LaxdSb5ENiAGF4KRKXhDSlvGcN1kg01j_O9mhhlvvH7a95ycaW6a3DRVsZNW3iRWplkLROEHtqnGIwxcEMr5kAjmCW4UZ8L3-U7vcQ-rMx7hV6tcbaTO0ty4hyLL3pui0K70CPhqDwQYMCB84IERbMh80S5CuoB7uGwJP1D8ieKuRp2a5t_30N1uX_StqSqZmKr_p1a_lA16eL7dWq26r9vJYjVeEEGHlFCm6IBSBoAiqxk6tcWM-e_BchYX51hEdRJf9g4NlENn5WZ-PhwjNZtswlI4NHgqp6dgmayDJUxWm7voktfwFgYODV7W46OuvGvXX36MoESWjwNzj-adQ3h1-BoAer7e3bb18b",
+      "summary": "No ParaBros Decision Today: Inquisitive Judge Delays Settlement\r\n Sign-Off; CA AG's Office Insists Deal \"Not The Result Of Collusion\"\n\nSubject Line: No ParaBros Decision Today: Inquisitive Judge Delays Settlement Sign-Off; CA AG's Office Insists Deal \"Not The Result Of Collusion\"\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJBRT_IwGEb7W5rsjn30LaxdSb5ENiAGF4KRKXhDSlvGcN1kg01j_O9mhhlvvH7a95ycaW6a3DRVsZNW3iRWplkLROEHtqnGIwxcEMr5kAjmCW4UZ8L3-U7vcQ-rMx7hV6tcbaTO0ty4hyLL3pui0K70CPhqDwQYMCB84IERbMh80S5CuoB7uGwJP1D8ieKuRp2a5t_30N1uX_StqSqZmKr_p1a_lA16eL7dWq26r9vJYjVeEEGHlFCm6IBSBoAiqxk6tcWM-e_BchYX51hEdRJf9g4NlENn5WZ-PhwjNZtswlI4NHgqp6dgmayDJUxWm7voktfwFgYODV7W46OuvGvXX36MoESWjwNzj-adQ3h1-BoAer7e3bb18b\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJBRb7IwGEb7W5pwJ59tlZaafMkENYsjxmWy6W5MaSviKEwqsGXZf19YZNnNrt83zzk580K3hW5tmQgjblIjsrwDgvADmkzBCcSMI8LYGHHqcaYlo9z3WaIOcADlBU7gq5Gu0kLlWaHdY5nn721ZKld4CPvygBGmmGLERh7WnI6pz7sLFy6GA1h1hB8o_ARxX6PJdPvv-9Bvdx9Do60VqbbDP7WGdWHrxMoqSzR4eL7dGyX7if1stZmuECdjggiVZEQIxRhERlFw7spp_d_D60VcXmIeNWlcHxwSSIcsqt3ycjxFcjHbhRV3SPBUzc_BOt0Gazzb7O6iumjwWxg4JHjZTk_Kete-vzwpAqmoHkf6Hix7h_Dq8DUAcv3ab4b14b",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T19:18:17",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hannah Einbinder and Susan Sarandon Detained by Police While Protesting\r\n Benjamin Netanyahu's Speech at the U.N.",
+      "url": "https://e.mail.variety.com/click?ZdJBfT8IwFMX7WZrwBlJuGWtJTGSgEkGM_4Mv5K7r5gxlsxsd0_jdzcwwvvh87znnl9_5Tlc7XRVZiAbPEoPpthkk009q0oiO6cCXDHwfhOBccE8MVRz5GGlJu1SVdExzo3oObarLuufH2kPmwShUwKQEjLgQMQfFYyYZDnoD2qW2qf1dol_k8ajApbo6-Tm0hc1D3-iiwEQX_X9R-hYrcv8y3xin2uRmtnqYrJiEITAYKeAAQwlkaZwg740krU_Xs4XjHQjUbS46cLG9jiwsb7aXd6tRndb7JO9AUGf7VB7WwdtrxufhOi-DA374E-fZZP5sw1plrci_cJIkaJ_4IiFXR4JpS_A9AA4u8ecbc4d7",
+      "summary": "Hannah Einbinder and Susan Sarandon Detained by Police While Protesting\r\n Benjamin Netanyahu's Speech at the U.N.\n\nSubject Line: Hannah Einbinder and Susan Sarandon Detained by Police While Protesting Benjamin Netanyahu's Speech at the U.N.\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFMX7WZrwBlJuGWtJTGSgEkGM_4Mv5K7r5gxlsxsd0_jdzcwwvvh87znnl9_5Tlc7XRVZiAbPEoPpthkk009q0oiO6cCXDHwfhOBccE8MVRz5GGlJu1SVdExzo3oObarLuufH2kPmwShUwKQEjLgQMQfFYyYZDnoD2qW2qf1dol_k8ajApbo6-Tm0hc1D3-iiwEQX_X9R-hYrcv8y3xin2uRmtnqYrJiEITAYKeAAQwlkaZwg740krU_Xs4XjHQjUbS46cLG9jiwsb7aXd6tRndb7JO9AUGf7VB7WwdtrxufhOi-DA374E-fZZP5sw1plrci_cJIkaJ_4IiFXR4JpS_A9AA4u8ecbc4d7\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFEf7WZrwBlJuGWtJTGSgEkGM_4MvpOu6WUPZbFnHNH53MzOMLz7fm_M7Oec7Ve1U5fJYGHGWGaG3zSCafmKjEzzGg5ATCENgjFJGAzaUaRKKRHHcxXKPx7gwsueF1Wpf98JUBYIEMIolEM5BJJSxlIKkKeFEDHoD3MW2wf4u4S_0eEzgtapOfg4tsHnoG-WcyJTr_6vSL3eujJ20Olbo_mW-MV62hM1s9TBZEQ5DIDCSQAGGHNDSeIbem1hKna5nC087EMnbgnXgYnudWFjebC_vVqNa12VWdCCq81Lzwzp6e83pPF4X--ggPsKJD2w2f7ZxLfM26F9JjjJhn-giQ1dHg2lr8D0Abm1f135cd6",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T19:16:58",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How New York Film Festival Landed Movies Like Controversial OpenAI\r\n Biopic 'Artificial' and Toho's 'Godzilla Minus Zero'",
+      "url": "https://e.mail.indiewire.com/click?ZdJBdT_owFMb7WZpw9-fPerrRjcREXsZbAGWgUW_IWVeWBrrBKtZo_O5mBog3Xp_zPM8vv7hQrlDOlikavM0N6n09SPqf1OiMdigTkQdCQMA8H8IoYiplEUfB6D8qX2mHHoxs6iLTyulKNSUPELfAUk_KgKPPPIGcAQopQz_LeLPOVXXxdYt-kYeLhDet3P-fw7WyfmkZZS3myrb-xGlV6MjqZbwx2kldZE5vBot1d-FF4IMHbQkcIGBtMnO6TY61J6VuTuU2HZySlZ0MAfXs-T5uQE8lbJfYfgOGSfe9_BjfhcdqzSbBYT4N58sRf-pNosWoAUPb3e5yEcdnl7_ZOMmxeoT9kkwvBP0zwfcA9u60abed46",
+      "summary": "How New York Film Festival Landed Movies Like Controversial OpenAI\r\n Biopic 'Artificial' and Toho's 'Godzilla Minus Zero'\n\nSubject Line: How New York Film Festival Landed Movies Like Controversial OpenAI Biopic 'Artificial' and Toho's 'Godzilla Minus Zero'\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBdT_owFMb7WZpw9-fPerrRjcREXsZbAGWgUW_IWVeWBrrBKtZo_O5mBog3Xp_zPM8vv7hQrlDOlikavM0N6n09SPqf1OiMdigTkQdCQMA8H8IoYiplEUfB6D8qX2mHHoxs6iLTyulKNSUPELfAUk_KgKPPPIGcAQopQz_LeLPOVXXxdYt-kYeLhDet3P-fw7WyfmkZZS3myrb-xGlV6MjqZbwx2kldZE5vBot1d-FF4IMHbQkcIGBtMnO6TY61J6VuTuU2HZySlZ0MAfXs-T5uQE8lbJfYfgOGSfe9_BjfhcdqzSbBYT4N58sRf-pNosWoAUPb3e5yEcdnl7_ZOMmxeoT9kkwvBP0zwfcA9u60abed46\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBdT_owFMb7WZpw9-fPerrRjcREXsZbAGWgUW9I15XlBDpgddZo_O5mBog3Xp_zPM8vv7jQrtDOHlJp5G1uJO7rQdL_pAYz2qFMRB4IAQHzfAijiOmURVwKRv9R9Uo79GhUE4sMtcNSNxUPpNwCSz2lAi595gnJGUihVOhnGW_WubIuvm7RL_JwkfCG2v3_OVwr65eW0dbKXNvWnzitqrBValWJqSarl_HGoFNYZA43g8W6u_Ai8MGDtgIOELA2mTlsk1PtS-ub6rBNB1WyspMhSJw938cN6OmE7RLbb8Aw6b4fPsZ34alcs0lwnE_D-XLEn3qTaDFqwNB2t7tcxPHZ6W9GTnJZPsJ-SaYXgv6Z4HsAal76a697a4",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T19:14:29",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'La Bola Negra' Sets Awards Categories: Guitarricadelafuente and Rest\r\n of Cast Will All Go Supporting (Exclusive)",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJDNbuIwFEb9LJaymwzOtcEEaaRhYCyEUoRC6d8G2Y5JUmJCHFSXVn33KhWgbrq273eOzv-98Xvj21pJK__mVpZVB0STd2zLDI9wxGMCnBNCYsKzvmJaS6IMjfAvrI94hA9Wh0VdVSdf11nozKF2R-PCgepHIBVkhFKipWJAGVV9wulAc51FYTfgOsIVij_Q-lLjpTT-99fDdfsy3X3tWdO2Mjdt70e_npMerZ5mG1s4XdRVd76ZLm7HCxIDAwIDDRSADSlKbBGjpktnzB_7dmJpcpL31m396zJtZkuesEP2_Jiuk4d5E4BwVrjUN6t_VIgABMC4jG6GW2lXAYjddLdjAYhz4O9-Q5RLdxe1OZpfHCZnh88BAA5mfde10c61",
+      "summary": "'La Bola Negra' Sets Awards Categories: Guitarricadelafuente and Rest\r\n of Cast Will All Go Supporting (Exclusive)\n\nSubject Line: 'La Bola Negra' Sets Awards Categories: Guitarricadelafuente and Rest of Cast Will All Go Supporting (Exclusive)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJDNbuIwFEb9LJaymwzOtcEEaaRhYCyEUoRC6d8G2Y5JUmJCHFSXVn33KhWgbrq273eOzv-98Xvj21pJK__mVpZVB0STd2zLDI9wxGMCnBNCYsKzvmJaS6IMjfAvrI94hA9Wh0VdVSdf11nozKF2R-PCgepHIBVkhFKipWJAGVV9wulAc51FYTfgOsIVij_Q-lLjpTT-99fDdfsy3X3tWdO2Mjdt70e_npMerZ5mG1s4XdRVd76ZLm7HCxIDAwIDDRSADSlKbBGjpktnzB_7dmJpcpL31m396zJtZkuesEP2_Jiuk4d5E4BwVrjUN6t_VIgABMC4jG6GW2lXAYjddLdjAYhz4O9-Q5RLdxe1OZpfHCZnh88BAA5mfde10c61\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfa_IwFIf7WQK9e_uankRjhcGcLoh0InXu340kaWw7G2sTXefGvvvoUNnNrs_h-T08t1vdbHXjKimMuM6MKMp20Bt9IlOkaIBCFmFgDGMcYZZ2JVVKYKlJiP4htUcDtDMqyKuyPDZVlQZW7yq71zboyW4IQkKKCcFKSAqEEtnFjPQUU2kYtADbLlxG0Ze3PNd4K3Tz_-dwYZ_R7WvHaOdEpl3nT7_OYesO0ilbSO0tXiYrk1uVV2WLWY1n98MZjoAChp4CAkD7xItNHnl1m1DrK_NxpEl8FI_Grpv3eVJP5iymu_T1OVnGT9PaB24Nt0lTL24I5z5wgGER3vXXwix84JvxZkN94KfQvz37XibsQ-gyb3p2GJ0cvgcA5p36ccc61d",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T19:10:42",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Oscars Predictions 2027: Post-TIFF Temperature Check as 'La Bola Negra'\r\n Surges and 'Digger' Stumbles",
+      "url": "https://e.mail.variety.com/click?ZdJBdT8IwGIX7W5p4J9J1K21JTGR8hOAyDMgWuCHtaJdGi9DhKhj_u5kZxhuv3_ec5-QZ75XfK1-9SWHFQ2mFeW2AYPgJrdnBPgwoR5j2KOohQrRElGtNtFABvIXFCfbhwRadWjijTudOxImWOhBMcIVIyGWAmGIRYwTjHadhp0m5pvaXBL_A6qqgNsrf_Rzawuaha1VViVJV3X-ndJ3wYLmZbm1dtMntKH0epIjjCCPcK3CIcURDkNiagWMjSan7xF3Gy49N_XTJzyZekOnK87F8XM2zozR2vZixaTbJQ71g8_ckT2P5YtjyECcidusbPPHpqJX4dxgFpXBZkA3A7EoftvTvAQAel3cfb7877",
+      "summary": "Oscars Predictions 2027: Post-TIFF Temperature Check as 'La Bola Negra'\r\n Surges and 'Digger' Stumbles\n\nSubject Line: Oscars Predictions 2027: Post-TIFF Temperature Check as 'La Bola Negra' Surges and 'Digger' Stumbles\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBdT8IwGIX7W5p4J9J1K21JTGR8hOAyDMgWuCHtaJdGi9DhKhj_u5kZxhuv3_ec5-QZ75XfK1-9SWHFQ2mFeW2AYPgJrdnBPgwoR5j2KOohQrRElGtNtFABvIXFCfbhwRadWjijTudOxImWOhBMcIVIyGWAmGIRYwTjHadhp0m5pvaXBL_A6qqgNsrf_Rzawuaha1VViVJV3X-ndJ3wYLmZbm1dtMntKH0epIjjCCPcK3CIcURDkNiagWMjSan7xF3Gy49N_XTJzyZekOnK87F8XM2zozR2vZixaTbJQ71g8_ckT2P5YtjyECcidusbPPHpqJX4dxgFpXBZkA3A7EoftvTvAQAel3cfb7877\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBfa_IwGEfzWQLv3etM08YkwmDWP4grdeis6I0k9YmELU4bbadj33101LGbXSfPOT_OcA_VHir_ppVTDzun7GstRP0P7OwWd3HAJaG8w0mHMGY04dIYZhQE-D_OT7iLDy5vlaqwcLq0IsmMNoESSgJhodQBESAiIRilW8nDVn1V1NgfE_5Ei1uC0kJ19_3QAOsPbQfeqx349p9T2ue9P2ufF1YDmq_HG1fmDWEzSJ97KZE0ooR2chpSGvEQJa4U6FjHArhPiutw_r4un67Li41nbLyo5FA_LqbZUVu3mk3EOBstQzMT03OyTGP9YsX8ECcqLlb_6KhKB03M3wM52qkiC7Iemtzs_cb-NQA7m6fec882a",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T19:09:08",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Judge Questions Legal Points of Paramount's Settlement With States at\r\n Hearing, Says a Ruling Will Come in 'Due Course'",
+      "url": "https://e.mail.variety.com/click?ZdJBRT8IwFIX7W5r4BtLdja6QmIiIoJAJDI34Qm63DhfsmOvSZRj_u5kZxhef7z3nO_kmmaoyVZmjRI3Xe43pewMk40-q05gOqeMPGPicc4_7zPNkxPoclZCCdmhU0iHNddS1WKSqrLuDGBOXJW4CDhNcSunEIBCcBH1XYSy6Du3Qoqn9JdEv8nRWYFNVXf4c2sLmoaeVMbhXpvfvlF6BFQlfZzttoza5uw02o4ANwAMGPAIXwOMuWWgryEcjSamrzQXcLNNpPrt7WeVTWc6zhKVmUm7X4cmEfb5-q0-8CIKDecyD-60nNkKv5oflcbbS_sLWYd1K_DsMyB6LZ2ZH5OFMH7f07wEA4m23ba2340",
+      "summary": "Judge Questions Legal Points of Paramount's Settlement With States at\r\n Hearing, Says a Ruling Will Come in 'Due Course'\n\nSubject Line: Judge Questions Legal Points of Paramount's Settlement With States at Hearing, Says a Ruling Will Come in 'Due Course'\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBRT8IwFIX7W5r4BtLdja6QmIiIoJAJDI34Qm63DhfsmOvSZRj_u5kZxhef7z3nO_kmmaoyVZmjRI3Xe43pewMk40-q05gOqeMPGPicc4_7zPNkxPoclZCCdmhU0iHNddS1WKSqrLuDGBOXJW4CDhNcSunEIBCcBH1XYSy6Du3Qoqn9JdEv8nRWYFNVXf4c2sLmoaeVMbhXpvfvlF6BFQlfZzttoza5uw02o4ANwAMGPAIXwOMuWWgryEcjSamrzQXcLNNpPrt7WeVTWc6zhKVmUm7X4cmEfb5-q0-8CIKDecyD-60nNkKv5oflcbbS_sLWYd1K_DsMyB6LZ2ZH5OFMH7f07wEA4m23ba2340\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBRT8IwFEb7W5r4BtLdja6QmIiIoJAJDI34QtquwwY75jpKhvG_m5lhfPH53pzz5YwydczU0e4FN_x6a7h-r4Vo-ImNTnAfe2GPQEgpDWhIgkBI0qVcMcFwC8sS93FuZNvxQquyavcSnvok9VPwCKNCCC8BxsFLeegrnrC2h1u4qLG_JvyFns4JnFbHy59DA6wfOkZZy7fKdv6d0jlk9iCsLLRQKH6dbIyTDWFzG60GEelBAASoBB8goD6aGcfQRx1LqavVBdzM9Tif3L0s8rEop1lKtB2V62V8snGXLt-qEy2iaGcf8-h-HbAVM4vpbr6fLEw4c1VcNTH_DgS05cUzcQP0cLYPG_v3AA0gb8fda5b3",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T19:06:36",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A24's 'V/H/S' Movie Inspired by Online Horror Universe SCP Foundation\r\n Faces Licensing Pushback",
+      "url": "https://e.mail.indiewire.com/click?ZdJDNTsJAFEbnWSZhBzK9TFtKYiLykxGlCQGLcUPmDxjClNKqV2J8d1MDxI3re_OdkzPKLeYWq4OSXt5tvHT7GkgGX9Q7Q3s0iBMGcZh0eJiAXoNkcayZUUCbVL_RHi28brncOIuutC0ecCuVlOvEGBXF3UiHEVdcK8ZNoMKkFdAmLevhK4t-k-dLhA9n8eb3cJ2sX9reVpXc2Kr9r067lEjmr2LlHWqXG3SrYbropywBDgwiDR0ADpw8oYvIse5k7e3wMJ4pkU2VL-LRbIKndDKdnRZi2YD701IXqsgy3B36InsJ9js9f2_A-JGH2wrZcb4V2H0Q6bnkX7MO2cgy-_RIJhf-4Mz_GQA3r4520529a",
+      "summary": "A24's 'V/H/S' Movie Inspired by Online Horror Universe SCP Foundation\r\n Faces Licensing Pushback\n\nSubject Line: A24's 'V/H/S' Movie Inspired by Online Horror Universe SCP Foundation Faces Licensing Pushback\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJDNTsJAFEbnWSZhBzK9TFtKYiLykxGlCQGLcUPmDxjClNKqV2J8d1MDxI3re_OdkzPKLeYWq4OSXt5tvHT7GkgGX9Q7Q3s0iBMGcZh0eJiAXoNkcayZUUCbVL_RHi28brncOIuutC0ecCuVlOvEGBXF3UiHEVdcK8ZNoMKkFdAmLevhK4t-k-dLhA9n8eb3cJ2sX9reVpXc2Kr9r067lEjmr2LlHWqXG3SrYbropywBDgwiDR0ADpw8oYvIse5k7e3wMJ4pkU2VL-LRbIKndDKdnRZi2YD701IXqsgy3B36InsJ9js9f2_A-JGH2wrZcb4V2H0Q6bnkX7MO2cgy-_RIJhf-4Mz_GQA3r4520529a\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBNa_JAFEbntwy409fJdZIY4YVaP0htDYg2lm5kvtQRJ8ZM7a2U_veSotJN1_fynMMZFQYLg_4ghRN3GyfsvgaSwSd1VtMeDeKEQRwmHR4moNYgWBwrpiXQJlVvtEdLp1q20NagrUyLB9wIKcQ60VpGcTdSYcQlV5JxHcgwaQW0Sat6-MaiX-T5GuHdGvz3c7hN1i9tZ7wXG-Pbf-q0T4U_Sa8qKw2Zv6YrZ1HZQqNdDbNFP2MJcGAQKegAcODkCW1EjnUvY_4PD-OZTPOpdGU8mk3wnE2ms_MiXTbg_rxUpSzzHHeHfpq_BPudmp8aMH7k4dYjO863KXYf0uxS9Ldhh2xElX84JJMrf3Dhfw8A2rd933798e",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T18:53:15",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mekki Leeper Workplace Comedy Set In World Of Private Equity Ordered To\r\n Series By Prime Video",
+      "url": "https://e.mail.deadline.com/click?ZdJBRT7MwFIb7W5p8dx-OHmCFJSY65tRlwwsH6m6W0h4YGS0Kbo0a_7vBDOON1-e87_PmuTJoDdquyYUWF6UWVd0DSfxBdaXohDIeucADDgELeV6EgQe-Ar9g9D-Vr3RCn7V0FApVVwadXVPXb7ZplIO-8CLMi0AJQBFGEpAr10WJCiCPCqcvaHvCD5R-knSwcazQnn0fhu7-Y6Sx60SJ3ejPWaNWWHK_udlqJYfodpasLxM3Ah9cGEvwAHwWkqVWY_LSG0M8N8VUmHw1PuzYsrtdzyTjhZpn6Z33bqcdVxmPs0VyvUqt3ZvU6L2U3oHP_8F893B8TJ7izcno72UhKUWbWVaSxUCPT_SvAQA0hf228faad",
+      "summary": "Mekki Leeper Workplace Comedy Set In World Of Private Equity Ordered To\r\n Series By Prime Video\n\nSubject Line: Mekki Leeper Workplace Comedy Set In World Of Private Equity Ordered To Series By Prime Video\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJBRT7MwFIb7W5p8dx-OHmCFJSY65tRlwwsH6m6W0h4YGS0Kbo0a_7vBDOON1-e87_PmuTJoDdquyYUWF6UWVd0DSfxBdaXohDIeucADDgELeV6EgQe-Ar9g9D-Vr3RCn7V0FApVVwadXVPXb7ZplIO-8CLMi0AJQBFGEpAr10WJCiCPCqcvaHvCD5R-knSwcazQnn0fhu7-Y6Sx60SJ3ejPWaNWWHK_udlqJYfodpasLxM3Ah9cGEvwAHwWkqVWY_LSG0M8N8VUmHw1PuzYsrtdzyTjhZpn6Z33bqcdVxmPs0VyvUqt3ZvU6L2U3oHP_8F893B8TJ7izcno72UhKUWbWVaSxUCPT_SvAQA0hf228faad\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJDPTrNAFEd5lkm-3YeFC3SgiYmWWrVpcWFB7aaZPxdKygzakU7U-O4GU4wb1_fmnF_OlUar0ZqWM8UuKsXqphc66QdRtSQT4tPEAxpRiPyY8jKOAgglhKVP_hPxSibkWQlXIpNNrdHdtU3zZttWuhiyIEFeRpIBsjgRgFR6HgqUADwp3R5w6A0_UvLp5EONY4327PswsPuPkUJjWIVm9OesUadNx4041Byd-83NVkkxILazbH2ZeQmE4MFYQAAQ-rGzVHLsvPTlEM91OWWar8bdzl-a2_VM-LSU8yK_C97t1FBZ0LRYZNer3Nq9zrXaCxF0dP4P5ruH42P2lG5OZX8vjJ2KHQrrV85isKcn-9cA4uc302b880",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T18:49:58",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lawmakers Introduce Bill For 20% Federal Film & TV Incentive",
+      "url": "https://e.mail.deadline.com/click?ZdNBbT7MwGAfwfpYm791415Zy2BITt3mYxBCXoTG7WZ7RB8RQijApavzuBjOMN14_h98__8sKbYW2NQfQcJ5rKMoBJKsPqgtF55QHMyYCTzDPDYVUGKZyJriLAZ3Q9EjntNapoxBUWVToPJmyfLPGKIdjAJ6vDswNs9DzfMlTlrEDB-RZAJl0OJ3QZhB-UPpJ7sc2ugLt_-_B-HvYmGpsW8ixnf4Za9qAJdvdeq9VOp7uL-JkEbOZkIIJPxWuEG7ok1utfPIyNIZ4ZuLksbs2myRWu7C-qTd9lC_bf-KqX-d82dtV33R-B-9JdFflykbrHQaMsePzpsNtZrWEU6O_k0mSQ_PwyhckGvXVSf8aAA0t8d11da0b",
+      "summary": "Lawmakers Introduce Bill For 20% Federal Film & TV Incentive\n\nSubject Line: Lawmakers Introduce Bill For 20% Federal Film & TV Incentive\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBbT7MwGAfwfpYm791415Zy2BITt3mYxBCXoTG7WZ7RB8RQijApavzuBjOMN14_h98__8sKbYW2NQfQcJ5rKMoBJKsPqgtF55QHMyYCTzDPDYVUGKZyJriLAZ3Q9EjntNapoxBUWVToPJmyfLPGKIdjAJ6vDswNs9DzfMlTlrEDB-RZAJl0OJ3QZhB-UPpJ7sc2ugLt_-_B-HvYmGpsW8ixnf4Za9qAJdvdeq9VOp7uL-JkEbOZkIIJPxWuEG7ok1utfPIyNIZ4ZuLksbs2myRWu7C-qTd9lC_bf-KqX-d82dtV33R-B-9JdFflykbrHQaMsePzpsNtZrWEU6O_k0mSQ_PwyhckGvXVSf8aAA0t8d11da0b\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBfS8MwFAXwfJaAb6tL0vTPBoLb_DOLFMeqyF5GmtzWStPOZm2q4neXyiq--Hwv53c41xXYCqypU6HFZa5FUQ4gWn1iXSg8xzSYERZ4jHhuyLiCUPIZoy4EeILlEc_xQUtHgVBlUYHzUpflu61r5VAIhOerlLhhFnqez6kkGUmpAJoFIuMOxRPcDMIvir_Q47hGV4A9_zmM2cPHVIMxIgcz_bfWtK1MmxrZFCmg7W6910qOEfurOFnEZMY4I8yXzGXMDX10r5WP3oblAC7qOHnubutNEqtdeLg7bPooX5ozdtOvc7rs7apvOr8TH0n0UOXKRusdBISQ4-umg21mNRenZf825CgXzVNLFyga9dVJ_x4A5s868caa66",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T18:41:24",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Federal Film and TV Tax Credit Hits Congress: Bipartisan Group\r\n Introduces Hollywood Bill",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBRT8IwFIX7W5r4xmTrupaRmLihhoCOGJUEXkjX3THISkuHFGL872aGEV98vvec7-R73IHbgWt0LpS4XyuxqVsgGn1htSnwEAc89gmnEQsGPuEMWAhU8jwucQ_LAx5io6RX6bo-O60Lz4LR9gDWkzktKBWlAMbLMiA8iqMiHpQc8lxIwb0A97BtCVco_kYfnY3jBtzt7-Ha3VW3r30FTSPW0PT_3de3wqG35XilKisrXbfx1UP2nmR-TCjxCZMkJCQMQ_SsqhjtW3UAd8liambFfl-Z4JQsP29Iqnc5iMGTW9hynhzlfJqezDkxabGtsvO0SV-ATzK2hWg7Tqxhy4vav8soWgs7b2avaNLRRxf6zwAfs60278d0b",
+      "summary": "Federal Film and TV Tax Credit Hits Congress: Bipartisan Group\r\n Introduces Hollywood Bill\n\nSubject Line: Federal Film and TV Tax Credit Hits Congress: Bipartisan Group Introduces Hollywood Bill\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBRT8IwFIX7W5r4xmTrupaRmLihhoCOGJUEXkjX3THISkuHFGL872aGEV98vvec7-R73IHbgWt0LpS4XyuxqVsgGn1htSnwEAc89gmnEQsGPuEMWAhU8jwucQ_LAx5io6RX6bo-O60Lz4LR9gDWkzktKBWlAMbLMiA8iqMiHpQc8lxIwb0A97BtCVco_kYfnY3jBtzt7-Ha3VW3r30FTSPW0PT_3de3wqG35XilKisrXbfx1UP2nmR-TCjxCZMkJCQMQ_SsqhjtW3UAd8liambFfl-Z4JQsP29Iqnc5iMGTW9hynhzlfJqezDkxabGtsvO0SV-ATzK2hWg7Tqxhy4vav8soWgs7b2avaNLRRxf6zwAfs60278d0b\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJDRa-owFIf7twTum722aZpY4cJtvXeIbpWxTdAXSdJTW2mamKhVxv730aGylz2fw_f9-P630LXQOS244n-3itdNL_Qm70jVBRqjkCUBZiSm4SjAjAKNgEgmkhINkDygMTJK-pVumkundeFbMNoewPpSkIIQXnKgrCxDzOIkLpJRyUAILjnzQzRAtjfcpejDe7vVONXQ_f463Nk3dP86VOAc34Ib_rhveGzdUThpawHey3q6UZWVlW56zOZf_prmQYIJDjCVOMI4iiLvUVWJt-8TAvxJV3OzKPb7yoTndH38hTPdCuCjh25ly2V6kst5djaX1GTFrsovc5c9AZvldAfxbppaQ9fXxN8XEm_L7dItnr3ZzT652j8HAA8t632916c2",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T18:30:17",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sam Worthington and Sofia Carson to Star in 'The Parsifal Mosaic' TV\r\n Show in the Works at Hulu (EXCLUSIVE)",
+      "url": "https://e.mail.variety.com/click?ZdJBdT_JAEIX3t2zCHby0M2w_SN5EqBBEIDGAptyQYbs0FbbWXWhR4383NcV44_XMOefJM8pVlavKvuxI002qKTvWgyz64DpLeJ-7fuiAj4ChcB2HYE8hSPLR520uT7zPCy07JZlMnd46BBD0PCH2O4XS93u42yMKxMR1MPHQ67i8zU1d-7PEP9n6qqDMVPXv-9AU1g9draylVNnunyhdQxVbbiZbXcomub1drAYLJ4QeOOBJQAAQAZvpMmCvtSSl_utYivPm-I52Hl6iZQvGo8HE2BaMp-OHi4mFjOf22RwGLRimHgXBbHp3P0lneZHEtK4O56dVEQ0bkb_hXJaSecyXFZteCaKG4GsA1g4ee00a35",
+      "summary": "Sam Worthington and Sofia Carson to Star in 'The Parsifal Mosaic' TV\r\n Show in the Works at Hulu (EXCLUSIVE)\n\nSubject Line: Sam Worthington and Sofia Carson to Star in 'The Parsifal Mosaic' TV Show in the Works at Hulu (EXCLUSIVE)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBdT_JAEIX3t2zCHby0M2w_SN5EqBBEIDGAptyQYbs0FbbWXWhR4383NcV44_XMOefJM8pVlavKvuxI002qKTvWgyz64DpLeJ-7fuiAj4ChcB2HYE8hSPLR520uT7zPCy07JZlMnd46BBD0PCH2O4XS93u42yMKxMR1MPHQ67i8zU1d-7PEP9n6qqDMVPXv-9AU1g9draylVNnunyhdQxVbbiZbXcomub1drAYLJ4QeOOBJQAAQAZvpMmCvtSSl_utYivPm-I52Hl6iZQvGo8HE2BaMp-OHi4mFjOf22RwGLRimHgXBbHp3P0lneZHEtK4O56dVEQ0bkb_hXJaSecyXFZteCaKG4GsA1g4ee00a35\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBRT_owFEf7WZrwBn-2e-m6kfwTYUIQgcQAmvFCuq4sEzpnyzbU-N3NzDC--Hxvzu_kTHJV56q2L7HQ4ibVIjs1gyT8oDpL6JC6PHCAI2DAXMcRcBABSMGR0y6VZzqkhZa9SphMnd96AsAfeIwdYoWS8wHGB0SGmLgOJh56PZd2qWmwP0v0k2yvCapM1f--Dy2weehrZa1Ile3_qdIvc1vGVposVmS9m-11JVvC_na1Ga2cAAbggCcBAYD5ZKErn7w2sZT6ryPJyt3pHe0yuITrDkwno5mxHZjOpw8XEzEZLe2zOY46ME494fuL-d39LF3kRRKJbX0snzZFOG6D_pZ0SSrMY76uyfxqELYGXwMA0p9c5e79d1",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T18:09:15",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Your Mother Your Mother Your Mother' Review: Faith, Family, and\r\n Firearms Drive Bassam Tariq's Intriguingly Strange Action-Drama",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfa_IwFIfzWQLe6Wt60rRGeGH-w82J4ly3sRtJm2MJ2GhbaTLGvvvoUNnNrs_h9zw8M4vOoquPqSrUXV4oc2iBZPJJC6PpkAaxZBBzACEDxuOQa4kp53xAuzQ70yE9FVnPWG3QmQp7TIss1pqh0qESYiAFiDCV0V4Dgz0PewHt0qodvrHoF0muERqD7t_P4TbZvvQLrGuVY93_U6dfKUe27_e7wrjMWO3Mbrp6Hq2YhBAYRBlwABARWToTkbLthPj_Q-m89iV_Lb33h0Zvl5g8yik7l-PEd2D8Zjswns_MYB40TzCKTvNltlkv1j5KFg9NerS8Ol9K_jYLSK6qFzvZkMWVP7nwvwcA6i6c2de692",
+      "summary": "'Your Mother Your Mother Your Mother' Review: Faith, Family, and\r\n Firearms Drive Bassam Tariq's Intriguingly Strange Action-Drama\n\nSubject Line: 'Your Mother Your Mother Your Mother' Review: Faith, Family, and Firearms Drive Bassam Tariq's Intriguingly Strange Action-Drama\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa_IwFIfzWQLe6Wt60rRGeGH-w82J4ly3sRtJm2MJ2GhbaTLGvvvoUNnNrs_h9zw8M4vOoquPqSrUXV4oc2iBZPJJC6PpkAaxZBBzACEDxuOQa4kp53xAuzQ70yE9FVnPWG3QmQp7TIss1pqh0qESYiAFiDCV0V4Dgz0PewHt0qodvrHoF0muERqD7t_P4TbZvvQLrGuVY93_U6dfKUe27_e7wrjMWO3Mbrp6Hq2YhBAYRBlwABARWToTkbLthPj_Q-m89iV_Lb33h0Zvl5g8yik7l-PEd2D8Zjswns_MYB40TzCKTvNltlkv1j5KFg9NerS8Ol9K_jYLSK6qFzvZkMWVP7nwvwcA6i6c2de692\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa_IwFIfzWQLe6Wt60rRGeGH-w82J4ly3sRtJk1gCNtqmNh1j3310qOxm1-fwex6emdXeau-OqcjFXZYLc2iBaPKJc6PwEAcxJxBTAMYDQuOQKq5TSukAd7Gs8BCfctkzVhntTal7RDEZK0W0UKFgbMAZsDDl0V4BgT0NewHu4rIdvrHwF0quEWqj_b-fw22yfenn2jmRadf_U6d_tu6cOlmaVKPt-_0uN14aq7zZTVfPoxXhEAKBSAIFABahpTcRKtpeWv__ECpzTUFfi6ZpDrXaLnXyyKekKsZJ04Hxm-3AeD4zg3lQP8EoOs2XcrNerJsoWTzU6dHSsroU_W0YoEyUL3ayQYsrf3Lhfw8A9kb9f11208",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T18:08:09",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lawmakers Unveil 20%-30% U.S. Film Incentive in Bid to Restore\r\n Hollywood Production",
+      "url": "https://e.mail.variety.com/click?ZdJBfa_IwFMbzWQLe6Wt6mrdJhcGcc4hTmXOKeiMnMSmxi3_a0iJj33101LGbXZ_zPL-H3_BoqqOp8pNCj_eJR_deA8ngg3q3pz0aiJiBAAAZyXhvrQ2FVlpGjLapLmiPnr3ulJg5U1w72oYGEf9zK5USWnG558awyHIIuRLQCWibZnXtD4l-kuVNQelM9e_70BTWD11v8hwTk3f_nNLNsCKL7WjnS90kd4-zt_6MxcCBQaQhBICAk4kvJbnUkoy5G0_lJDizw0shVAueXgeL1SKdOnaZ2M1oOVwnm3k_cOtiPjz1JY90-pzybTpKcmlDdNiCh-W10fhrWsxIgtnqMK_I-MYfNPyvAQA2p503732e8",
+      "summary": "Lawmakers Unveil 20%-30% U.S. Film Incentive in Bid to Restore\r\n Hollywood Production\n\nSubject Line: Lawmakers Unveil 20%-30% U.S. Film Incentive in Bid to Restore Hollywood Production\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfa_IwFMbzWQLe6Wt6mrdJhcGcc4hTmXOKeiMnMSmxi3_a0iJj33101LGbXZ_zPL-H3_BoqqOp8pNCj_eJR_deA8ngg3q3pz0aiJiBAAAZyXhvrQ2FVlpGjLapLmiPnr3ulJg5U1w72oYGEf9zK5USWnG558awyHIIuRLQCWibZnXtD4l-kuVNQelM9e_70BTWD11v8hwTk3f_nNLNsCKL7WjnS90kd4-zt_6MxcCBQaQhBICAk4kvJbnUkoy5G0_lJDizw0shVAueXgeL1SKdOnaZ2M1oOVwnm3k_cOtiPjz1JY90-pzybTpKcmlDdNiCh-W10fhrWsxIgtnqMK_I-MYfNPyvAQA2p503732e8\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBRa_owFEfzWQK-6d_0Nv8mFQZzziFOZc4p6oskMSmxS9WmtsjYdx8ddexlz_dyzo8zzHSV6cofpXDiPnHCvtdCNPjAzu5xDwcsJsAAgEc83htjQqak4hHBbawK3MMnpzqlyK0urh1lQi2E-E8Nl5IpSfmeak0iQyGkkkEnwG2c19gfE_5Ey1uC0urq3_ehAdYPXae9F4n23T-ndC-Zv0ivcis1WmxHO1eqhrB7nL31ZyQGCgQiBSEABBRNXMnRuY6l9d14yifBiRxeCiZb8PQ6WKwW6dSS88RsRsvhOtnM-4FdF_Phsc9ppNLnlG7TUeK5CYUVLXhYXpucvybGBCUiXx3mFRrf_IPG_zUAcmcafae2d6",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T17:52:03",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Jenkins Reid Movie 'Atmosphere' Lands at Black Bear",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBRT_IwFIb7W5p8d-xjPYyuJTGRIGqUkBlAE29I1x7ZsGXQ4iYa_7uZAeKN1-e87_PmGW-w2WATqlw5dblyqrQtkIw-qSsNHVCWyhhSACakZLyntEmVyaXMaYfqPR3QrdNRUVl7aKrKRB63ld-jj9AonUrJBde54HnCYiZ6gmk0GmLBdMRoh_qWcIbSL7I42ahLbP7_HM7dp-r2teswBLXC0P1zX9erhsyeb5eu8LqobBtfXk3nw2ksIYEYuIYeADAgE1dIsmvVIV5k3JViXk_e-Ow9rLNcJ_3FP7jOPsxa7IK5H45N-tTH7DBKEjOpg7VQL_oz8_rwsmWpyOz0qPb3MiAr5R_XNw25O9FHR_r3AA7mce4954b2",
+      "summary": "Taylor Jenkins Reid Movie 'Atmosphere' Lands at Black Bear\n\nSubject Line: Taylor Jenkins Reid Movie 'Atmosphere' Lands at Black Bear\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBRT_IwFIb7W5p8d-xjPYyuJTGRIGqUkBlAE29I1x7ZsGXQ4iYa_7uZAeKN1-e87_PmGW-w2WATqlw5dblyqrQtkIw-qSsNHVCWyhhSACakZLyntEmVyaXMaYfqPR3QrdNRUVl7aKrKRB63ld-jj9AonUrJBde54HnCYiZ6gmk0GmLBdMRoh_qWcIbSL7I42ahLbP7_HM7dp-r2teswBLXC0P1zX9erhsyeb5eu8LqobBtfXk3nw2ksIYEYuIYeADAgE1dIsmvVIV5k3JViXk_e-Ow9rLNcJ_3FP7jOPsxa7IK5H45N-tTH7DBKEjOpg7VQL_oz8_rwsmWpyOz0qPb3MiAr5R_XNw25O9FHR_r3AA7mce4954b2\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfT8IwFEf7WZr4xmS9jK4lMZEgapSQGUATX0j_yYYtgxY20fjdzQwjvvh8b8755Yw3pt6YOpRSOHG9cqKwjRCNvrArNB5gkvIYUgDCOCe0J5ROhZacS9zBao8HeOtUlJfWHuuy1JE329LvjY-MFirlnDKqJKMyITFhPUaU0QpiRlREcAf7xnCW4m-0aGtUhakvfw9ndotuXrvOhCBWJnT_3dc9bMJBBuULadDs9X7pcq_y0jaY5c10PpzGHBKIgSroAQABNHE5R7smoTFXGXUFm1eTA519hHUmVdJfXMBt9qnXbBf043Cs05e-yY6jJNGTKlgL1aI_0-9Pb1uSssxOT4n_LgS0Ev55fVejh9Y-Otl_BgAevb8e6071a",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T17:51:23",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Strand Releasing Buys Distribution Rights to 'Sparks,' a Drama About\r\n Time-Travel Obsessed Teens",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrwBtJ23T8SE8eQAJqFIErkhfTPFRroBhtSp_G7mxkgvvh8b37n5Nzn4HJwVSGFFXdrK8yuAaL0C1ujcQ_TMCYspKHPI848EggqQHGqfdzG6oh7eG9Vx-TagDMldGIZRX6kfUYCQt8kKEoIlTzSAQUutN-huI3LZvjKwt_o-RLhZMDd_B6uk81L10JViTVU3X91uqVw6Gk5WlnjlMm1M6tBNk8yEjPOCAsU8xijMUePzgTo0HQCuN0m9aBepN5YZDTdDerN1HvV-6Gck9F21mLDehkpXqgW69d2Ex4SWW0fFu_HyVgRbzb91MXpo38u-dfMQ2tRvmyyBE0u_PTM_xkA1tc53876fb",
+      "summary": "Strand Releasing Buys Distribution Rights to 'Sparks,' a Drama About\r\n Time-Travel Obsessed Teens\n\nSubject Line: Strand Releasing Buys Distribution Rights to 'Sparks,' a Drama About Time-Travel Obsessed Teens\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrwBtJ23T8SE8eQAJqFIErkhfTPFRroBhtSp_G7mxkgvvh8b37n5Nzn4HJwVSGFFXdrK8yuAaL0C1ujcQ_TMCYspKHPI848EggqQHGqfdzG6oh7eG9Vx-TagDMldGIZRX6kfUYCQt8kKEoIlTzSAQUutN-huI3LZvjKwt_o-RLhZMDd_B6uk81L10JViTVU3X91uqVw6Gk5WlnjlMm1M6tBNk8yEjPOCAsU8xijMUePzgTo0HQCuN0m9aBepN5YZDTdDerN1HvV-6Gck9F21mLDehkpXqgW69d2Ex4SWW0fFu_HyVgRbzb91MXpo38u-dfMQ2tRvmyyBE0u_PTM_xkA1tc53876fb\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfayIxFEfzWQK-6ZpkMv-EhR3HFXWXQayt1BfJn1sNmlEnajot_e5likpf-nwvv3M4f0vwJXi3l8KKP2srzK4BovwdW6NxD9M4JSymccgTzgISCSpAcapD3MbqhHv4YFXHlNqANxV0UpkkYaJDRiJCXyQoSgiVPNERBS502KG4jatm-M7CH-jxFuFiwP_6Otwnm5euBefEGlz3R53uuXRn6VRlJKCH5WhljVem1N6sBsU8K0jKOCMsUixgjKYc_fcmQsemF8DvbVYP6kUejEVB892g3kyDZ30YyjkZbWctNqyXieJ71WL92m7iYybd9t_ifJqMFQlm0ze9v7z2r0W_GwZoLaqnTZGhyY2fX_mfAwAfl46c1ad5f",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T17:43:16",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Can Brad Pitt and a Cute Dog Salvage Paramount's Brutal Year at the Box Office?",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrsDaS9bCsjMXEbEkWyYECCvJCuvcwaOsam1j_xu5sZIL74fG9-5-Rcl-hKdM0-l1ZeFVaaXQsk6Re1RtMh5SJiIJjP-mzAtpGEyOcoAp3TDlUvdEgrq7qm1AadqbEbCBWFGMBAKEQuudYq9KN8u1W5zgMlu5x2aN0On1n0mzycIrwZdBe_h_Nk-9Kz2DSywKb3r06vlo7M1zcba5wypXZmM8oWccYi8IFBqKAPwHlIps6E5NB2Qrx89iC5v7PsvfJgLGKMDwv_dpI-yliPZ9lyJVPhf8yqT23WU-HBGHaj17Xba_AgiT1IXGarp9Vq5ObHnn_9gBSyXqokJpOTRXq0-BkA1p6302b43c",
+      "summary": "Can Brad Pitt and a Cute Dog Salvage Paramount's Brutal Year at the Box Office?\n\nSubject Line: Can Brad Pitt and a Cute Dog Salvage Paramount's Brutal Year at the Box Office?\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT8IwFEf7WZrsDaS9bCsjMXEbEkWyYECCvJCuvcwaOsam1j_xu5sZIL74fG9-5-Rcl-hKdM0-l1ZeFVaaXQsk6Re1RtMh5SJiIJjP-mzAtpGEyOcoAp3TDlUvdEgrq7qm1AadqbEbCBWFGMBAKEQuudYq9KN8u1W5zgMlu5x2aN0On1n0mzycIrwZdBe_h_Nk-9Kz2DSywKb3r06vlo7M1zcba5wypXZmM8oWccYi8IFBqKAPwHlIps6E5NB2Qrx89iC5v7PsvfJgLGKMDwv_dpI-yliPZ9lyJVPhf8yqT23WU-HBGHaj17Xba_AgiT1IXGarp9Vq5ObHnn_9gBSyXqokJpOTRXq0-BkA1p6302b43c\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa-JAFEfnswzkTdeZa5IxwsImcWXXSrBoxfoi8-dqpzgxJrXTP_S7lxSVvvT5Xn7ncP6W6Ev0zUFJJ__snLT7Fkjyd-qsoUPKRcJAsJD12YBtEwlJyFFERtEO1U90SCunu7Y0Fr2tsRsJncQYwUBoRC65MToOE7XdamVUpGWX0w6t2-Eri36Qu0uEZ4v-19fhOtm-9Bw2jdxh0_tRp3cqm5NqdG0Vkvn638ZZr21pvN2MikVasARCYBBr6ANwHpOptzE5tr0Qfz8GkN3eOPZSBTAWKabHRfh_kt_L1IxnxXIlcxG-zqo3Y9dTEcAY9qPT2h8MBJClAWS-cNXDajXy83PX755AdrJe6iwlk4tFfrb4HAAdq66688179",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T17:21:08",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Beast in Me' Renewed for Season 2 With Claire Danes Returning",
+      "url": "https://e.mail.variety.com/click?ZdJBfT8IwFMX7WZrwBtLe1XUlMRHZxAghUdSQvZD-A5dQhA1amPG7m5lhfPH53nN-J79sa8PWhupDSSdv104WmwaIRp_YFQYPMOWCQCyuBQUSw0owKRRoCwJ3sT7gAd453fOyLOzh3GM0UZJpoZSEyBgeJQyI5tbECeORID2Ku7hsan9J-Au9XhT4woarn0Nb2Dz0na0qubZV_98p_VIGNM8fls7rNrlMZy_DGRHAgECsIQIgjKOp8wnaN5Ksvdmd07AZLtI8XamhyCZnqTw7LeYnXr_TYrvqwJ16VvV0HI4mpdUk2_sO3O_GR1KXo6d5FtPctBr_TuNoLcu3fBbQ44U_avnfAwAdgcafbc563",
+      "summary": "'Beast in Me' Renewed for Season 2 With Claire Danes Returning\n\nSubject Line: 'Beast in Me' Renewed for Season 2 With Claire Danes Returning\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFMX7WZrwBtLe1XUlMRHZxAghUdSQvZD-A5dQhA1amPG7m5lhfPH53nN-J79sa8PWhupDSSdv104WmwaIRp_YFQYPMOWCQCyuBQUSw0owKRRoCwJ3sT7gAd453fOyLOzh3GM0UZJpoZSEyBgeJQyI5tbECeORID2Ku7hsan9J-Au9XhT4woarn0Nb2Dz0na0qubZV_98p_VIGNM8fls7rNrlMZy_DGRHAgECsIQIgjKOp8wnaN5Ksvdmd07AZLtI8XamhyCZnqTw7LeYnXr_TYrvqwJ16VvV0HI4mpdUk2_sO3O_GR1KXo6d5FtPctBr_TuNoLcu3fBbQ44U_avnfAwAdgcafbc563\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBRT8IwFEb7W5rwBtLe1XUlMRHZxAghUdSQvZC2K7iETljZCjP-dzMzjC8-35tzvpykML4w3n0oaeXt1sp81wrR5BPbPMMjTLkgEIprQYGEsBFMCgXagMB9rI94hPdWD2pZ5uZ4HjAaKcm0UEpCkGU8iBgQzU0WRowHggwo7uOyxf6a8Bd6vSSoc-Ovfg4dsH0YWuOc3Bo3_HfKsCpcpZwuc2XQMn1Y21p3hHW8eBkviAAGBEINAQBhHM1tHaFDG8uYm_059rvxKk7jjRqLZHaWqman1fLEm3eaF5se3Kln1cynvspi6mbJoe7B_X5akaacPC2TkKZZl_PvRI62snxLFx49XvyTzv89AAakb9fb43e6",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T17:09:11",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'The Beast In Me' Renewed For Season 2 With Claire Danes Reprising\r\n Role; Howard Gordon Back With Netflix Overall Deal",
+      "url": "https://e.mail.deadline.com/click?ZdJBdT_owFMb7WZpwx_60p2vHSP6JMF8IEsCXLYYbUtrDnK5MmTKG8bubGWa88fqc5_k9-V1ssdpiVRZr7fRZ6nSWN0ASfVCXWTqgPAgZqFD2Qck-WsO1tkZxMLRLzRsd0BdnPIva5tkWvcciz-uqKKxnNj4XAiWuZSBCrnCN4EvOQ6GtYgHzOO3SXUP4gdJPErc29hlW_74PbXfz0XNYljrFsvfnrN5OV-RuOV45a9ro6nx2P5yxEHxgoAwIAOZLMnVWkdfGGOL_sdJlLdVxczttQgfDkkU2749cB0Y3Hbgs06Sw8bM8imWwENHoKh5e8zp-ipJDNN3LQs7fH05Of28LSap3yXKSkknLj078rwEA9lb595da15",
+      "summary": "'The Beast In Me' Renewed For Season 2 With Claire Danes Reprising\r\n Role; Howard Gordon Back With Netflix Overall Deal\n\nSubject Line: 'The Beast In Me' Renewed For Season 2 With Claire Danes Reprising Role; Howard Gordon Back With Netflix Overall Deal\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJBdT_owFMb7WZpwx_60p2vHSP6JMF8IEsCXLYYbUtrDnK5MmTKG8bubGWa88fqc5_k9-V1ssdpiVRZr7fRZ6nSWN0ASfVCXWTqgPAgZqFD2Qck-WsO1tkZxMLRLzRsd0BdnPIva5tkWvcciz-uqKKxnNj4XAiWuZSBCrnCN4EvOQ6GtYgHzOO3SXUP4gdJPErc29hlW_74PbXfz0XNYljrFsvfnrN5OV-RuOV45a9ro6nx2P5yxEHxgoAwIAOZLMnVWkdfGGOL_sdJlLdVxczttQgfDkkU2749cB0Y3Hbgs06Sw8bM8imWwENHoKh5e8zp-ipJDNN3LQs7fH05Of28LSap3yXKSkknLj078rwEA9lb595da15\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJBbT8IwGIb7W5pwx6SHtWMkJsI8ECSAhy2GG9K1H3O6bkqFAcb_bmaY8cbr73vf581zVUJdQu2qVFl1kVmVFw0QRZ_Y5gYPMA1CwmQo-kyKPhhNlTJaUqZxF-sPPMBvVnsGlCnyErznqigOdVUZT699yjkISEXAQyohBeYLSkOujCQB8Sju4k1D-IXiLxS3NnY51Gc_h7a7-ehZcE5l4Hr_zuptS7dNnd7kKaCH5XhljW4rVpezx-GMhMxnhEnNOGPEF2hqjUTvjTmA87FU7iDkcX0_bUJ7TZJFPu-PbIeN7jrs2mVJZeJXceTLYMGj0U08vKWH-CVK9tF0Jyox3z6d3P7dGKJMbZLlJEOTlh-d-N8DAAft65fdfafa",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T17:08:54",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'V/H/S/Mixtape' Trailer: Horror's Unkillable Anthology Franchise\r\n Returns with a Music-Inspired Twist",
+      "url": "https://e.mail.indiewire.com/click?ZdJBRT8IwFEb7W5rwBrLebu1GYiIMphAlRGUIL6Rry1Jip9uQIsb_bmaA-OLzvfnOyRkV2hXa1W-ZsOImt8K8NkAUf2FrFO5hwiMPWBT4UUBByZBSIiRQ7uM2ljvcw-9WdkyhjHam0h0IiQdKeJnOuAoJbDKmgkASCVSGhKkOwW1cNcMXFv5G83OEvdHu6vdwmWxeulbXtch13f1Xp1sJh55Wd2trnDSFcmY9nD73p14EPnjAJFAALyDo3hmGyqaT1tejmi_jHSSwfVzwYQsGD27TV37_c0zScThPZodjuorZcRSTJN2z7e1LufU_eAsGiVnONgs2OchTyb9mFOWiSpdljiZnfnzi_wwAes63670d89",
+      "summary": "'V/H/S/Mixtape' Trailer: Horror's Unkillable Anthology Franchise\r\n Returns with a Music-Inspired Twist\n\nSubject Line: 'V/H/S/Mixtape' Trailer: Horror's Unkillable Anthology Franchise Returns with a Music-Inspired Twist\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBRT8IwFEb7W5rwBrLebu1GYiIMphAlRGUIL6Rry1Jip9uQIsb_bmaA-OLzvfnOyRkV2hXa1W-ZsOImt8K8NkAUf2FrFO5hwiMPWBT4UUBByZBSIiRQ7uM2ljvcw-9WdkyhjHam0h0IiQdKeJnOuAoJbDKmgkASCVSGhKkOwW1cNcMXFv5G83OEvdHu6vdwmWxeulbXtch13f1Xp1sJh55Wd2trnDSFcmY9nD73p14EPnjAJFAALyDo3hmGyqaT1tejmi_jHSSwfVzwYQsGD27TV37_c0zScThPZodjuorZcRSTJN2z7e1LufU_eAsGiVnONgs2OchTyb9mFOWiSpdljiZnfnzi_wwAes63670d89\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBRT_owFEf7WZrwBn_W263bSP6JMJhClBCVIbyQri1LiZ2yMooYv7uZAeKLz_fmd07OqFSuVM6-5dzwm8Jw_doAUfKJjZa4h0kYe8DiwI8DClJElBIugIY-bmOxxz38bkRHl1IrpyvVgYh4ILmXqzyUEYFNzmQQCCKAiogw2SG4jatm-MrCX2h-iXDQyv37OVwnm5euUdbyQtnunzrdurR1bkWlc4WeVndro53QpXR6PZw-96deDD54wARQAC8g6N5phnZNL6X-j2y4TPaQwvZxEQ5bMHhwm770-x9jko2jeTo7nrJVwk6jhKTZgW1vX3Zbvw5bMEj1crZZsMlRnIv-NqSo4FW23BVocuEnZ_73AAbg2e3b2fd8",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T17:06:50",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hold Everything! Paramount Warner Bros. Merger Hits a Delay as Judge\r\n Grants Last-Ditch Effort from Block the Merger Coalition",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfa-owGIfzWQLnTo_J2zRthQOnaKesQ5h_0RtJk1cXWbrayiKOfffRobKbXb8vv-fhyUr0JfrmrVBO_d87ZV9bIBl8UGcN7VMeJQxkLDmLecRC5DvDeZDognaoPtE-rZzu2tJY9LbGrpYqENzICJMi1iIxTEIoAowjEbGd1F1OO7Ruh-8s-kkWtwjvFv3f78N9sn3pOWwatcem96tOr1aezDbjrbNe29J4ux1O5umEJSCAgdQQADAA8uStJMe2E-I_sc420-FhuV4kf-BhsjvJSzUIn8M5r8ZVnr1MV6PiiFGWXyA9N4ecuRmvpTlVTAgYzVfn_Nrxp1dM9qpeLtOUPN7ogyv9awAdo8e4abab1",
+      "summary": "Hold Everything! Paramount Warner Bros. Merger Hits a Delay as Judge\r\n Grants Last-Ditch Effort from Block the Merger Coalition\n\nSubject Line: Hold Everything! Paramount Warner Bros. Merger Hits a Delay as Judge Grants Last-Ditch Effort from Block the Merger Coalition\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa-owGIfzWQLnTo_J2zRthQOnaKesQ5h_0RtJk1cXWbrayiKOfffRobKbXb8vv-fhyUr0JfrmrVBO_d87ZV9bIBl8UGcN7VMeJQxkLDmLecRC5DvDeZDognaoPtE-rZzu2tJY9LbGrpYqENzICJMi1iIxTEIoAowjEbGd1F1OO7Ruh-8s-kkWtwjvFv3f78N9sn3pOWwatcem96tOr1aezDbjrbNe29J4ux1O5umEJSCAgdQQADAA8uStJMe2E-I_sc420-FhuV4kf-BhsjvJSzUIn8M5r8ZVnr1MV6PiiFGWXyA9N4ecuRmvpTlVTAgYzVfn_Nrxp1dM9qpeLtOUPN7ogyv9awAdo8e4abab1\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa8IwFEf7WQJ705ncpmkrDFa0U9YhzL_oi7TJ1UWWrja6iGPffXSo7GXP9_I7h5OW6Ep09qPITf64Nbl-b4Be74sYrUiXsDCmICLBaMRCGiDbKMb8WBakReSBdEllZFuXSqPTNbalyH3OlAgxLiLJY0UFBNzHKOQh3QjZZqRF6mb4xiLf3uwa4VOju_893Cabl45Ba_Mt2s6_Op1jaY-FlbUu0JushmujndSlcnrdH02TEY2BAwUhwQegAN6L08LbN70QH_gyXY37u_lyFt_B02hzEOeqF7wGU1YNqyx9Gy8GxR7DNDtDcrK7jJoJq4U6VJRzGEwXp-zS869f5G3zej5PEu_5Su9d6D8DAA3u0a30eff1",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T16:51:12",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Off Campus' Star Belmont Cameli Joins Sydney Sweeney In Sony's 'Hollow'",
+      "url": "https://e.mail.deadline.com/click?ZdNBdT4MwFAbg_pYm3g0Hp9DCEhPJppvLXJZ9Om-Wlh6QSEFBrdP43w1mGG-8Ph_Pm_eqRFuibSoljbzMjMyLFiTDT2pyTQfUE5ELXPBAMM5Q-ZimAfMFC2iPJi90QJ9M4miUushLdB6qojjaqtKOTlLmByoNVegzyTyteIRKhKkHwoUQHY_2aN0Kvyj9Ipuujbcc7fnPoPvdbvQNNo3MsOn_G6tfS0tW95OD0Ul3ehjN1_HcjcAHF3gCDLxIAJkZzclz2xjiRcPrxev8DK55sV1_wG6fqelu9b6YeOuUHUMBVX0bxqgelws9Hu-LMj6qOB_VM7SBvYE7szk1-jeZTzJZb5dNRqadPjzp3wMA6l6ed54237",
+      "summary": "'Off Campus' Star Belmont Cameli Joins Sydney Sweeney In Sony's 'Hollow'\n\nSubject Line: 'Off Campus' Star Belmont Cameli Joins Sydney Sweeney In Sony's 'Hollow'\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBdT4MwFAbg_pYm3g0Hp9DCEhPJppvLXJZ9Om-Wlh6QSEFBrdP43w1mGG-8Ph_Pm_eqRFuibSoljbzMjMyLFiTDT2pyTQfUE5ELXPBAMM5Q-ZimAfMFC2iPJi90QJ9M4miUushLdB6qojjaqtKOTlLmByoNVegzyTyteIRKhKkHwoUQHY_2aN0Kvyj9Ipuujbcc7fnPoPvdbvQNNo3MsOn_G6tfS0tW95OD0Ul3ehjN1_HcjcAHF3gCDLxIAJkZzclz2xjiRcPrxev8DK55sV1_wG6fqelu9b6YeOuUHUMBVX0bxqgelws9Hu-LMj6qOB_VM7SBvYE7szk1-jeZTzJZb5dNRqadPjzp3wMA6l6ed54237\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBfT7MwFAbwfpYm7914B6fQwhITyaaby1yW_XXeLC09IJGCUidO43c3mGG88fqcPL8nz1WJTYmNrZQ08jIzMi9akAw_qMk1HVBPRC5wwQPBOEPlY5oGzBcsoD2avNABfTKJo1HqIi_ReaiK4tRUlXZ0kjI_UGmoQp9J5mnFI1QiTD0QLoToeLRH61b4Qekn2XRrvObY_P8-dNntR9-gtTJD2_-zVv9Y2qOySZ0rJKv7ycHopIs4jObreO5G4IMLPAEGXiSAzIzm5LldDvHC8npxnP-Da15s1--w22dqulu9LSbeOmWnUEBV34YxqsflQo_H-6KMTyrOR_UMm6C5gTuzOS_7u6FPMllvlzYj004fnvWvAQA0rba260015",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T16:37:06",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "ParaBros Merger Settlement Sign-Off Delayed As Deal Foes Granted Hail\r\n Mary Move By Judge",
+      "url": "https://e.mail.deadline.com/click?ZdJDLauMwFED9LYLs4ol0rUgoMDCT50yeDalT6CbI1rVjYtmpHSqS0n8vLnHppuv7OIczKdAV6Ooy0lb_Sa3O8gbojd6IzQwZECYVBSEE5yxQUsQ6ANCopCBdEl_IgJxt7BvUJs8K9I9lnl9dWRq_zxXtC5ACNEfs00QymmBEMdFaRCrxGemSqiF8Qcm7F7Y1XjN0vz4H7e9mo2exrnWKde9HrV6lnbd7_newJm5PD-P14981VcCBgoghAKYYeEtrhPfSFEP8HYezxfC2mfHbSkaRYR2YBg9b3F1cUJoODP_Pr9tc0dVidBofn8IOTGen6a2u2EVu9vOwiBbLYJLeq36z49RLdbVfn503bw1Gd4OPAQA6tddb27878",
+      "summary": "ParaBros Merger Settlement Sign-Off Delayed As Deal Foes Granted Hail\r\n Mary Move By Judge\n\nSubject Line: ParaBros Merger Settlement Sign-Off Delayed As Deal Foes Granted Hail Mary Move By Judge\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJDLauMwFED9LYLs4ol0rUgoMDCT50yeDalT6CbI1rVjYtmpHSqS0n8vLnHppuv7OIczKdAV6Ooy0lb_Sa3O8gbojd6IzQwZECYVBSEE5yxQUsQ6ANCopCBdEl_IgJxt7BvUJs8K9I9lnl9dWRq_zxXtC5ACNEfs00QymmBEMdFaRCrxGemSqiF8Qcm7F7Y1XjN0vz4H7e9mo2exrnWKde9HrV6lnbd7_newJm5PD-P14981VcCBgoghAKYYeEtrhPfSFEP8HYezxfC2mfHbSkaRYR2YBg9b3F1cUJoODP_Pr9tc0dVidBofn8IOTGen6a2u2EVu9vOwiBbLYJLeq36z49RLdbVfn503bw1Gd4OPAQA6tddb27878\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJBda_owFIf7WQLe2b_JaU2J8IfN183XiauD3UjSnNZi07pGV3Tsu48OO3az63P4PQ_PKMcqx8oWShp5lxiZZjXQGXwQk2rSIywQFDjnvs88EfBIegASRcBJm0Qn0iNHE7kapc7SHN19kWWXqii02_UF7XIIOEgfsUvjgNEYFcVYSq5E7DLSJmVN-IGSTydsarynWP37PjTb9UfHoLUyQdv5U6tzzu1Z2ahMFTqb14ed0VEzsRsun--XVIAPFHgEHjDBwJkbzZ23uhzi_yiczPrX1cS_LgKlNGvB2Hta4-ZUeYVuQf9xellngi5mg8Nw_xK2YDw5jK-2ZKdgtZ2GuZrNvVFyq_vL0qdOIsvt8lg508ZgcDP4GgAfhe57fc40f",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T16:19:51",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Primetime' Review: Robert Pattinson Is Even Creepier Than IRL Chris\r\n Hansen in a Bleakly Invigorating 'To Catch a Predator' Thriller",
+      "url": "https://e.mail.indiewire.com/click?ZdJDLbvIwEEb9LJbYwY_Hzu8QpEotl_QiQCAuCzZoEhs6LQ6QhLq06rtXqQB10_WMvnN0-pn1mfXFLkGHtxuHtK2ArPvJHRne5hBGQmodggIBAtYIgWglkChe52nJ23zv0gZlhqyn3DakCUGL_5gEWhgIUbbSIAEVQqRVYFA1gNd5Xg1fWfyLzS8R3sj6fz-H62T10nS2KHBji-afOs0cPZsuH1aOfEqZ8bTqjWZ3IxHJQAqpU6kkRKDZwJNmh6qTtTfxeGaz7bIm4w_fEfNSTaivi-N4KobTNEZ1Cob7snVcx4fdodfvvOJYl4sTqeO-Jjv3z_HgUb2fS_42k2yD-WL0MmFPF373zP8eAA6h1885f812",
+      "summary": "'Primetime' Review: Robert Pattinson Is Even Creepier Than IRL Chris\r\n Hansen in a Bleakly Invigorating 'To Catch a Predator' Thriller\n\nSubject Line: 'Primetime' Review: Robert Pattinson Is Even Creepier Than IRL Chris Hansen in a Bleakly Invigorating 'To Catch a Predator' Thriller\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJDLbvIwEEb9LJbYwY_Hzu8QpEotl_QiQCAuCzZoEhs6LQ6QhLq06rtXqQB10_WMvnN0-pn1mfXFLkGHtxuHtK2ArPvJHRne5hBGQmodggIBAtYIgWglkChe52nJ23zv0gZlhqyn3DakCUGL_5gEWhgIUbbSIAEVQqRVYFA1gNd5Xg1fWfyLzS8R3sj6fz-H62T10nS2KHBji-afOs0cPZsuH1aOfEqZ8bTqjWZ3IxHJQAqpU6kkRKDZwJNmh6qTtTfxeGaz7bIm4w_fEfNSTaivi-N4KobTNEZ1Cob7snVcx4fdodfvvOJYl4sTqeO-Jjv3z_HgUb2fS_42k2yD-WL0MmFPF373zP8eAA6h1885f812\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDLbvIwEEb9LJbYwY_Hzu8QpEotl_QiQCAuCzbIdgydlgQSJ3Vp1XevUgHqpusZfefoDDPrM-vdQatU3e5ShfsaSPqfNMWEdimEEeNShiCAAYOtgoB1NGhBm9SUtEuPqWlhlqD1WNgWT0KQ7L_SgWQJhIp3TKBBhBBJESRKtIA2aVEPX1n0iywvEd7Q-n8_h-tk_dJOrXNqZ137T512lblKO1OgtmS-ftik6A1micfNYLK4m7CIB5xxabjgEIEkI4-S5HUva2_i6cJm-3WDxx--x5almOFQumo6Z-O5iZU4BeNj2am2cX7IB8Peq5rKcnVCUR0bvHf_HI8exfu56G9DTnaqWE1eZuTpwu-f-d8DAA1re498cf2f",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T16:19:25",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "U2's First Album in Nine Years, \u2018Carnaval De Luz,' Will Feature a Dolly Parton Duet With Bono, Said to Be Her Last Recorded Vocal",
+      "url": "https://e.mail.variety.com/click?ZdJBfT_IwFMb7WZpwBy_rYZx2JG-iA_8EkaEgEW9I15Zl0aLbsNUZv7uZGcYbr895nt-T39ne-L3x1XMqrTzJrMyfGiAZf1CbazqijEcBIA5gGCAiDs1QgtZcaNql6kBH9MWqnpNlbg7vPaa5Esh5IJVkaagYIOO4M4A65RGXPUa7tGxqf0j0k9wdFbjc-H_fh7aweehbU1UyM1X_zyn9UnqyfLjcWqfa5HYyX53OgwhCCAAVDIAJIcjMOkGKRpIx_wuRHDoQr20sqvrtwmGyi69f97rONmgWHm7rIlxEk2y2fCySm02YrVLm7nfx5vwqTjoQT1d10Gr8PY2TTJbrGfdkeuSPW_7XAA2jd9789d38",
+      "summary": "U2's First Album in Nine Years, \u2018Carnaval De Luz,' Will Feature a Dolly Parton Duet With Bono, Said to Be Her Last Recorded Vocal\n\nSubject Line: U2's First Album in Nine Years, \u2018Carnaval De Luz,' Will Feature a Dolly Parton Duet With Bono, Said to Be Her Last Recorded Vocal\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT_IwFMb7WZpwBy_rYZx2JG-iA_8EkaEgEW9I15Zl0aLbsNUZv7uZGcYbr895nt-T39ne-L3x1XMqrTzJrMyfGiAZf1CbazqijEcBIA5gGCAiDs1QgtZcaNql6kBH9MWqnpNlbg7vPaa5Esh5IJVkaagYIOO4M4A65RGXPUa7tGxqf0j0k9wdFbjc-H_fh7aweehbU1UyM1X_zyn9UnqyfLjcWqfa5HYyX53OgwhCCAAVDIAJIcjMOkGKRpIx_wuRHDoQr20sqvrtwmGyi69f97rONmgWHm7rIlxEk2y2fCySm02YrVLm7nfx5vwqTjoQT1d10Gr8PY2TTJbrGfdkeuSPW_7XAA2jd9789d38\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFEf7WZrwBrJexm1HYqID_wSRoSARX0jXlmXRTrfCpjN-dzMzjC8-35tzfjkXmakyU7nXWFp5lliZvjRCMv6kNtV0RBkPPEAcwNBDRByaoQStudC0S9WejuibVb1SFqnZf_SY5kog555UksW-YoCM484A6pgHXPYY7dKiwf6a6Bd5OCYoU1Od_BxaYPPQt8Y5mRjX_3dK_5C5Q-xUkcaGLJ-ut7ZULWE7ma_O514APniACgbAhBBkZktB8iaWMae5iPYdCNc2FK5-vyox2oW3h0zXyQbNooL7OvcXwSSZLZ_z6G7jJ6uYlY-7cHN5E0YdCKer2mtz_p3ISSKL9YxXZHr0j1v_9wA1v0021b433",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T16:12:31",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'The Graham Norton Show,' With Its Taylor Swift-Fueled Momentum, Lands\r\n Two-Year Pickup at BBC America and AMC Global Media Streamers (EXCLUSIVE)",
+      "url": "https://e.mail.variety.com/click?ZdJDbavJAFIXnWQa809_JnjgThR-qNlCKWIONPdzIHLZxpBObAwlt6buXlFh60-u91_oWX5xjm2NbnbXy6irzyr10QLL8oN5ZOqOBnDIQgvFoGkIIyMREcm0s0iE1NZ3RV29GjSod1m8jFFraSCMXwK2Fg4y0YdzaCVfc8okeBXRIy672h0Q_SXpR0Dhs_30f-sLuYeyxqlSG1fjPKeNStWT7fLP3jemT--v1_XzNphACA2GAQxBxSVa-iUjRSUL8fx7AQocyS0ySmoNLw7iqCwuJ3OiTZYnHoinujrt3kAwhzouTW8ZPbluKR5k9uI0fwCLoNf6exkmmyt3qOCe3F_6y538NAA5odae374ca",
+      "summary": "'The Graham Norton Show,' With Its Taylor Swift-Fueled Momentum, Lands\r\n Two-Year Pickup at BBC America and AMC Global Media Streamers (EXCLUSIVE)\n\nSubject Line: 'The Graham Norton Show,' With Its Taylor Swift-Fueled Momentum, Lands Two-Year Pickup at BBC America and AMC Global Media Streamers (EXCLUSIVE)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJDbavJAFIXnWQa809_JnjgThR-qNlCKWIONPdzIHLZxpBObAwlt6buXlFh60-u91_oWX5xjm2NbnbXy6irzyr10QLL8oN5ZOqOBnDIQgvFoGkIIyMREcm0s0iE1NZ3RV29GjSod1m8jFFraSCMXwK2Fg4y0YdzaCVfc8okeBXRIy672h0Q_SXpR0Dhs_30f-sLuYeyxqlSG1fjPKeNStWT7fLP3jemT--v1_XzNphACA2GAQxBxSVa-iUjRSUL8fx7AQocyS0ySmoNLw7iqCwuJ3OiTZYnHoinujrt3kAwhzouTW8ZPbluKR5k9uI0fwCLoNf6exkmmyt3qOCe3F_6y538NAA5odae374ca\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBda_owFIfzWQLe6d_0pCZV-MPUFcYQZ3G6lxvJy7FGlro2WtnGvvvoqGM3uz6H5_nxpAWeCzyHg1ZeXeVeuZdGSKYf1DtLRzSSQwZCMJ4MY4gBmRhIro1F2qXmSEf01ZterSqHx7ceCi1topEL4NbCVibaMG7tgCtu-UD3ItqlVYP9MdFPsrokqB2e_30fWmDz0PcYgsox9P-c0j8V4aSDqZxGsny-2fjatITN9fx-PGdDiIGBMMAhSrgkM18npGxiIf4_dGCiY5lnJluZrVvFaTiWFjK50HvLMo9lXd7t1u8gGUJalHs3TZ_cshKPMn9wC9-BSdTm_D2Rk1xV69luTG4v_mnr_xoAdhbc83e3ba",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-24T16:10:44",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ed Helms Might Be Growing Into More 'Maturing Adult' Roles, but He's\r\n Still Ready for That 'Vacation' Sequel",
+      "url": "https://e.mail.indiewire.com/click?ZdJBRa8IwFEbzWwK-6UzSNG2EwcQpbogw3QR9kWuSljvazra2wY3999Ghspc938t3DmdaOF84X38cIIeHNAfMOiCZfNEcLR1RHmkmlOKBVKHkUWDBGhZZsLRPzYmO6DE3AywsOo-VG8SJUUkiI32I7QEixQ0HbQPNrXSKARtw2qdVN3xj0W_ydo3QovN3v4fbZPcyzF1dQ-rq4b86wwo8We_m-xy9wcJ63D8uX8dLpoUUTCgjAsHjQJOFR0XKrpNz99t2vAhhmyVZPJUvZfN0XG_W5Q6XcU_M5la2mRZJKNj5VKE_66asm_d6uvrUPTFzbdqclZ5dSv41C0kK1Wax8uT5yp9c-D8DAA8g70a1afd7",
+      "summary": "Ed Helms Might Be Growing Into More 'Maturing Adult' Roles, but He's\r\n Still Ready for That 'Vacation' Sequel\n\nSubject Line: Ed Helms Might Be Growing Into More 'Maturing Adult' Roles, but He's Still Ready for That 'Vacation' Sequel\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBRa8IwFEbzWwK-6UzSNG2EwcQpbogw3QR9kWuSljvazra2wY3999Ghspc938t3DmdaOF84X38cIIeHNAfMOiCZfNEcLR1RHmkmlOKBVKHkUWDBGhZZsLRPzYmO6DE3AywsOo-VG8SJUUkiI32I7QEixQ0HbQPNrXSKARtw2qdVN3xj0W_ydo3QovN3v4fbZPcyzF1dQ-rq4b86wwo8We_m-xy9wcJ63D8uX8dLpoUUTCgjAsHjQJOFR0XKrpNz99t2vAhhmyVZPJUvZfN0XG_W5Q6XcU_M5la2mRZJKNj5VKE_66asm_d6uvrUPTFzbdqclZ5dSv41C0kK1Wax8uT5yp9c-D8DAA8g70a1afd7\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBRa8IwFEbzWwK-6UzSNG2EwcQpbogw3QR9kTRJyx1tZxvb0I3999Ghspc938t3DmdeWl9a7z4SVaiHrFCQ90A0-8IFGDzBNJKECUEDLkJOo8Aoo0lklMFDrM94gk-FHkFpwHqo7ShOtUhTHskkNomKBNVUSRNIargVRJERxUNc98M3Fv5Gb9cILVh_93u4TfYv48I6pzLrxv_qjJvSNYnTNSQWbQ_LYwFeQ2k8HB_Xr9M1kYwzwoRmAaNxINHKg0BV38va-307XYVqn6d5POcvVfN02u621QHW8YAtloa3uWRpyEh3rsF3sqlc8-7mm085YAvbZk0n5OJS9K9hiDJV71Ybj56v_NmF_zMA4h7b10d9ff",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-24T16:09:43",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A24 Sets Ronan Corrigan Horror 'No One Is Coming'; Louis McCartney,\r\n Jessica Reynolds, Sky Yang & Gabriel Nagy To Star",
+      "url": "https://e.mail.deadline.com/click?ZdJDLboMwEEX9LZbYlcY2wYwjVWpISF9RFPW1yCYyeELcYkigLUJV_72iClU3XY5m5t6jk5TYltg2VaqdvsydtkVfSGaf1FlDJ5RHigkpGVcsAK7DHYBRPMg4PaPZG53Qg8t8g9oUtkR_XxVF11aV8QGUjEClXIccgBnFIVW7iIdcMUxN4PcBdd_wW0q_yNNg48Nie_6zGLL7i5HDptE5NqN_sUa1bsnD5nrrTDa8buerx-mKKTEWTMhMBILDOCBLZyQ59sYQL9Z39_pleuWJGPKNJ-Ipiw72yMMFzjt1YzIoWW1zTFbWE7HpqiRV78F-3U_pKxzkfCkh3yeeiE9m_xCOGcl1_bxctOR2oJidKL4HAA0m53cdbb9c",
+      "summary": "A24 Sets Ronan Corrigan Horror 'No One Is Coming'; Louis McCartney,\r\n Jessica Reynolds, Sky Yang & Gabriel Nagy To Star\n\nSubject Line: A24 Sets Ronan Corrigan Horror 'No One Is Coming'; Louis McCartney, Jessica Reynolds, Sky Yang & Gabriel Nagy To Star\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJDLboMwEEX9LZbYlcY2wYwjVWpISF9RFPW1yCYyeELcYkigLUJV_72iClU3XY5m5t6jk5TYltg2VaqdvsydtkVfSGaf1FlDJ5RHigkpGVcsAK7DHYBRPMg4PaPZG53Qg8t8g9oUtkR_XxVF11aV8QGUjEClXIccgBnFIVW7iIdcMUxN4PcBdd_wW0q_yNNg48Nie_6zGLL7i5HDptE5NqN_sUa1bsnD5nrrTDa8buerx-mKKTEWTMhMBILDOCBLZyQ59sYQL9Z39_pleuWJGPKNJ-Ipiw72yMMFzjt1YzIoWW1zTFbWE7HpqiRV78F-3U_pKxzkfCkh3yeeiE9m_xCOGcl1_bxctOR2oJidKL4HAA0m53cdbb9c\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJBba_IwHIfzWQK9e_uapDb9RxjMat1JRHa68EZysmZrWm3nShn77qPDjt3sMuTP73l4stK2pW2bSkkvL3MvXdED0ewDe2fwBNNEEMY5oYJEQGW8AzCCRprif1i_4Qk-eB0aK03hShvuq6Lo2qoyIYDgCQhFZUwBiBEUlNglNKaCWGWisB-oe8IPFH-ip6HGu7Pt_--PYbu_GHnbNDK3zehPrdGpbE6q0bVTFj1srrfe6GFiO189TldEsDEjjGsWMQrjCC294ejYl7P2Yn13L1-mVwFLId8ELJ2S5OCONF7YeSdujIaS1C632coFLDVdlSlxivbr_qVe4cDnSw75PgtYei78y3RMUC7r5-WiRbeDxexs8TUA3p5ac328e2",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T16:08:55",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Johnny Depp's Comeback Rolls On in 'Day Drinker' Trailer With Pen\u00e9lope Cruz",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBfT_IwGMX7WXrNXvqPbSV5ExHnABU0okFuSNd2G7BS6MgaYvzuZgaIN14_zzm_k1-y036nfW0zYcRNYcS6aoFg-AnNWsE-xBFHJKQURTEiEcM8DxXFignYgfII-3BvZFDaqjp5a1Xg9N66o3aBFjjDDMcSMd4TlMaU5EopJlEvxxlXAYYd6FrCFQq_wNvFRrPW_t_P4dp9qW5fu0bXtSh03f1zX9cJD16Xo5UpnSxt1cZXd9P5YIo4YQSRUBJKcMQQeDQlB4dWndb_c9XgbJxurCimYfowO9hbjfQp4n57SpaDZrHdp3GMn2aTcTKap37u8eJ4n0RN_bz5EJPtWezvXRQUwr0PRi9gcmEPz-zvAQAas8a4c3cc5",
+      "summary": "Johnny Depp's Comeback Rolls On in 'Day Drinker' Trailer With Pen\u00e9lope Cruz\n\nSubject Line: Johnny Depp's Comeback Rolls On in 'Day Drinker' Trailer With Pen\u00e9lope Cruz\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfT_IwGMX7WXrNXvqPbSV5ExHnABU0okFuSNd2G7BS6MgaYvzuZgaIN14_zzm_k1-y036nfW0zYcRNYcS6aoFg-AnNWsE-xBFHJKQURTEiEcM8DxXFignYgfII-3BvZFDaqjp5a1Xg9N66o3aBFjjDDMcSMd4TlMaU5EopJlEvxxlXAYYd6FrCFQq_wNvFRrPW_t_P4dp9qW5fu0bXtSh03f1zX9cJD16Xo5UpnSxt1cZXd9P5YIo4YQSRUBJKcMQQeDQlB4dWndb_c9XgbJxurCimYfowO9hbjfQp4n57SpaDZrHdp3GMn2aTcTKap37u8eJ4n0RN_bz5EJPtWezvXRQUwr0PRi9gcmEPz-zvAQAas8a4c3cc5\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBdT_IwHEf3WXrNHvoytpXkSUScA1TQiAa5IV3bvcBKoYU1xPjdzQwQb7z-_3POLyfZSreVzuqMKXZTKFbVrdAbfgJVCdAHKKIQh4TAKIY4ChDNQ0GQCBjoAH4AfbBT3C91XZ-c1sI3cqfNQRpfMpShAMUcBrTHCIkJzoUQAYe9HGVU-Ah0gGkNVyn48t4uNZpKun8_hyv7gm5fu0paywppu3_u6x639phZbqpMeq_L0UqVhpe6bjGru-l8MIUUBxjikGOCURRA71GV1Nu3CaX8n4sGZeN0rVkxDdOH2V7fSihPEXWbU7IcNIvNLo1j9DSbjJPRPHVzhxaH-yRq7PP6g00258C_9xGvYOZ9MHrxJhf38Oz-HgA6vcb2b3da3",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T15:22:05",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Tomlinson on the Messy Demise of Her Late Night Career\r\n (Exclusive Excerpt)",
+      "url": "https://e.mail.hollywoodreporter.com/click?ZdJBfT_IwGEf7WZpwx162p1u7kryJ_FODCAYlQW5Iu5VtYaWjQ6oYv7uZAeKN1-3zOydntFNup1xtpNDiJtOiKBsgGnxiXaS4iwPGfaBAGI84Dbkfy9BXmziOcBsnB9zFlU683JTlhzMm9ayqjD0o60GUKBGJiAgqN37EGKMAaUxTKsMNIcILcBvbhnCF4i-0uNQ4Fsr9-3m4bl-mm68drepaZKru_OnXscKh59X9Wuc2yU3ZnK-H05fe1OcQgg80AQIBJQRNdM7Rvkmn1P_TmM1q-1j2zEzu5V7I2bbicgzVsggn_bkdygfbgj5_L4L59m1kg6cW3C7vXAv6wfF1aFbbCTuNznl_2zGUCbuITYbGF4PB2eB7AA0na0454f13",
+      "summary": "Taylor Tomlinson on the Messy Demise of Her Late Night Career\r\n (Exclusive Excerpt)\n\nSubject Line: Taylor Tomlinson on the Messy Demise of Her Late Night Career (Exclusive Excerpt)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfT_IwGEf7WZpwx162p1u7kryJ_FODCAYlQW5Iu5VtYaWjQ6oYv7uZAeKN1-3zOydntFNup1xtpNDiJtOiKBsgGnxiXaS4iwPGfaBAGI84Dbkfy9BXmziOcBsnB9zFlU683JTlhzMm9ayqjD0o60GUKBGJiAgqN37EGKMAaUxTKsMNIcILcBvbhnCF4i-0uNQ4Fsr9-3m4bl-mm68drepaZKru_OnXscKh59X9Wuc2yU3ZnK-H05fe1OcQgg80AQIBJQRNdM7Rvkmn1P_TmM1q-1j2zEzu5V7I2bbicgzVsggn_bkdygfbgj5_L4L59m1kg6cW3C7vXAv6wfF1aFbbCTuNznl_2zGUCbuITYbGF4PB2eB7AA0na0454f13\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.hollywoodreporter.com/click?ZdJBfa-owGIfzWQLe2WP7pk0a4cDx39lwToeb4LyRpI1tsTE1Ubs59t1Hh8pudv2-_J6HZ7RT9U7Vzkihxb9Mi6JsgGjwgXWR4i4OGPeBAmE84jTkfixDX23iOMJtnBxwF1c68XJTlu-1MalnVWXsQVkPokSJSEREULnxI8YYBUhjmlIZbggRXoDb2DaEGxR_osW1xqlQ9Z_vw237Ot28drRyTmTKdX716xx37ihdYgup0PPqfq1zm-SmbGbWw-lLb-pzCMEHmgCBgBKCJjrnaN8kVOrvecxmzj6WPTOTe7kXcratuBxDtSzCSX9uh_LBtqDP34pgvj2ObPDUgv_Lu7oF_eD0OjSr7YSdR5fMPy0ZyoRdxCZD46vB4GLwNQA1tc09f1530",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-09-24T15:07:14",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'The Girl With The Dragon Tattoo': David Oyelowo & Viola Prettejohn\r\n Cast As Leads In Sky's TV Reimagining",
+      "url": "https://e.mail.deadline.com/click?ZdNBbb6JAGAbg-S2TeCfrHDmYbLIuiizb0otq2npjhpkPJGWkiJGSpv-9oZGmN73-Ds-bd3WE7ghdW2fKqj-FVWU1gCh8w7Y0eI6pFxDmEkko48LngjKjwePSw1Osz3iOX6x2DChTlUdwDnVV9V1dGyfIfXA94Qc-cTPgJgt8KjkjPJdaGuM7FE_xaRC-UPyOtmMblxK6X5-D8fewMbPQtqqAdvZjrNlJdeh-F--t0ePpfpluFikJmGCEuZpxRqVg6MYaFzVDYwC_yYRF8JRO2N8mOqRZSqN-LczdJXzIWRjFRXRxd30Cr5vzItBd8riKl30c5f-eRdP8L5N4LW93106_Z5OoUKcttQVKRj-8-h8DAAbvd2dd2efc",
+      "summary": "'The Girl With The Dragon Tattoo': David Oyelowo & Viola Prettejohn\r\n Cast As Leads In Sky's TV Reimagining\n\nSubject Line: 'The Girl With The Dragon Tattoo': David Oyelowo & Viola Prettejohn Cast As Leads In Sky's TV Reimagining\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBbb6JAGAbg-S2TeCfrHDmYbLIuiizb0otq2npjhpkPJGWkiJGSpv-9oZGmN73-Ds-bd3WE7ghdW2fKqj-FVWU1gCh8w7Y0eI6pFxDmEkko48LngjKjwePSw1Osz3iOX6x2DChTlUdwDnVV9V1dGyfIfXA94Qc-cTPgJgt8KjkjPJdaGuM7FE_xaRC-UPyOtmMblxK6X5-D8fewMbPQtqqAdvZjrNlJdeh-F--t0ePpfpluFikJmGCEuZpxRqVg6MYaFzVDYwC_yYRF8JRO2N8mOqRZSqN-LczdJXzIWRjFRXRxd30Cr5vzItBd8riKl30c5f-eRdP8L5N4LW93106_Z5OoUKcttQVKRj-8-h8DAAbvd2dd2efc\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBfb6JAFAXw-SyT-Cbr_OWPySbrosiyLX2opq0vBmYuSMpAEZWSpt-9oZGmL32-N-d3clYVdBV0bZ0mJvmTm6QoBxD5b9gUGs8xdTzCbCIJZVy4XFCmFThcOniK1QnP8YtRloZEl0UF1qEuy76ra215mQu2I1zPJXYKXKeeSyVnhGdSSa1di-IpPg7CF4rf0XZc41JA9-vzMGYPHzMDbZvk0M5-rDU7V-05bdWxSAHd78K90WqM2C_jzSImHhOMMFsxzqgUDN0YbaNmWA7gN5mwAJ7iCfvbBIc4jWnQr4W-u_gPGfODMA8u9q6P4HVzWniqix5X4bIPg-zfs2ia_0UUruXt7rrt944S5clxS02OotH3r_7HAAcneee94ec8",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-24T14:37:14",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-sept-7-13-2026-1236709681/",
+    "https://e.mail.indiewire.com/click?ZdJBfa_IwFIfzWQLe6Wt60rRGeGH-w82J4ly3sRtJm2MJ2GhbaTLGvvvoUNnNrs_h9zw8M4vOoquPqSrUXV4oc2iBZPJJC6PpkAaxZBBzACEDxuOQa4kp53xAuzQ70yE9FVnPWG3QmQp7TIss1pqh0qESYiAFiDCV0V4Dgz0PewHt0qodvrHoF0muERqD7t_P4TbZvvQLrGuVY93_U6dfKUe27_e7wrjMWO3Mbrp6Hq2YhBAYRBlwABARWToTkbLthPj_Q-m89iV_Lb33h0Zvl5g8yik7l-PEd2D8Zjswns_MYB40TzCKTvNltlkv1j5KFg9NerS8Ol9K_jYLSK6qFzvZkMWVP7nwvwcA6i6c2de692",
+    "https://e.mail.deadline.com/click?ZdNBbT8IwGAbg_pYm3jFpu9FZEhMBJ2bhqKDGG9K1H9103WQD6yH-dzPDjDdef4fnzRsV4ApwdZlIKy-MlVnegGj0iW2mcR_TUBAmiOCUC3_LhdTC3yaMn-EOVnvcxy9WeRqkzrMCvLTM83dXltoTAfihkKyXUC4opYwqHQquqSDgU049iju4aoRfFH-hddvGawbu9GfQ_m42uhbqWhqou__G6lbSodvH643Vqj3dXM5WgxkRLGCEccV85pMgRBOrOdo1jQGcp-k4782HCVSziXHTfbw4YVc3dvkA8wMfGL1TsljYeLoYmmdVrO8-DuM3uixIGkXRqjRxGR0b_ZssQEZW9_WTQXGrj4769wA5rc1a8fe54",
+    "https://deadline.com/2026/09/lonesome-dove-netflix-series-zoe-kazan-jeb-stuart-1237071579/",
+    "https://variety.com/2026/film/global/oscars-denmark-may-el-toukhys-golden-lion-woman-unknown-1236875415/",
+    "https://e.mail.hollywoodreporter.com/click?ZdJBda_IwGIb7WwKe2dfmSWxS4YX5xeYQ6_wYmycSk9R2NqamxbKN_ffRobKTHT_PfV831_io66OuS7sTRtztjcjyBugNP5HJFOohzKIAGKeYACM8ooQSRTlhgNpIVqiHCiP91Ob5e22t8p0urKu08xnnCacBYVrRhHCFsQp0FyjnOya7RPkYtZFrCDco-vLWVxvnTNf_fg637mt189oxuizFXpedP_d1nKi95eZha1InU5s38e1oturPgggoBBBKIABhyLypSSPv1KjT-r98NUkxH6X36mBWL_1IsFOx3rxNWzDI1hCOlweB5SKWLRjM48rgyXERnz_EYUxdNY2TwdyOJhe5v7d1vb1wz2z25D1e-cML_3sA7o0284ad76",
+    "https://e.mail.hollywoodreporter.com/click?ZdJBdT8IwGIX7W3rNpGvpupKYaCZRCSEgCOIN6RdsstLREes0_nczA8Qbr9_3nOfkGexN2JtQOymsuNlaUZQtEGRf0BYa9mHMOMIp55RTniRUMcRjpolSsAPVEfZhZVWUu7JsgnM68qZy_mh8RGJNJE0lYpRhJTWRBsc8YULo3oZqE8WwA31LuEDhN3g-23gvTLj6PVy6z9Xta9eauhZbU3f_3df1IoDZ68Pa5l7lrmzj67vx_HaMOO5hhBOFCSYo5mBkcw4OrTpjrneZRXRSpIu5W6SPpDqMyW4hh0vnViPyYTNTydXLTKiNTgeyCbMJaZRF4Uk2-f3bcvp5Evt3FwNb4ZdOTMHwzM5O7J8BAA7of605da70",
+    "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-tom-hiddleston-tenzing-golden-eye-1236709651/"
+  ]
+}

@@ -1,0 +1,2620 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-10-15",
+  "captured_at": "2026-10-15T03:01:59.185822",
+  "score_fn_hash": "69e3455b",
+  "raw_count": 113,
+  "selected_count": 8,
+  "config": {
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "R.J. Mitte Remembered by \u2018Breaking Bad\u2019 Casting Director Sharon Bialy",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rj-mitte-tribute-breaking-bad-casting-director-sharon-bialy-1236730103/",
+      "summary": "Bialy reflects on the audition, appeal and legacy of the cerebral palsy-afflicted actor, who she and her partner Sherry Thomas brought to the attention of Vince Gilligan, and who died on Oct. 12 at just 34.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 2,
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kelsey Grammer Returning To NBC As Star Of EMT Drama In Development\r\n From 'Chicago Med' Alum",
+      "url": "https://deadline.com/2026/10/kelsey-grammer-pops-nbc-emt-drama-1237157594/",
+      "summary": "Kelsey Grammer Returning To NBC As Star Of EMT Drama In Development\r\n From 'Chicago Med' Alum\n\nKelsey Grammer Returning To NBC As Star Of EMT Drama In Development From 'Chicago Med' Alum",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-14T22:11:57",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sally Rooney Speaks Out on Her Books Being Removed from U.K. Shelves Over Palestine Action Support: \u2018I am Wholly Prepared to Accept the Consequences\u2019",
+      "url": "https://variety.com/2026/biz/news/sally-rooney-uk-book-ban-palestine-action-israel-normal-people-1236912423/",
+      "summary": "Sally Rooney Speaks Out on Her Books Being Removed from U.K. Shelves Over Palestine Action Support: \u2018I am Wholly Prepared to Accept the Consequences\u2019\n\nSally Rooney Speaks Out on Her Books Being Removed from U.K. Shelves Over Palestine Action Support: \u2018I am Wholly Prepared to Accept the Consequences\u2019",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-14T20:23:25",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\"It Was Unpitchable\": How 'Wicker' Became the Horniest, Most Tender\r\n Film of the Year",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/how-wicker-horniest-tender-film-directors-interview-1236728674/",
+      "summary": "\"It Was Unpitchable\": How 'Wicker' Became the Horniest, Most Tender\r\n Film of the Year\n\n\"It Was Unpitchable\": How 'Wicker' Became the Horniest, Most Tender Film of the Year",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-10-14T19:14:41",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix TV Layoffs Include Director of Original Series Carolina Garcia,\r\n Who Exits After 10 Years",
+      "url": "https://variety.com/2026/tv/news/netflix-tv-layoffs-original-series-director-carolina-garcia-1236912163/",
+      "summary": "Netflix TV Layoffs Include Director of Original Series Carolina Garcia,\r\n Who Exits After 10 Years\n\nNetflix TV Layoffs Include Director of Original Series Carolina Garcia, Who Exits After 10 Years",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-14T17:59:56",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Liam Neeson\u2019s Stunt Double of Nearly 30 Years Steps Behind the Camera for \u2018The Mongoose\u2019",
+      "url": "https://www.indiewire.com/features/interviews/liam-neeson-stunt-double-directs-the-mongoose-interview-1235220493/",
+      "summary": "Stunt performer and coordinator Mark Vanselow has been doubling Neeson since 1998, and he takes full advantage of his experience to give Neeson his best action movie in years.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T10:00:00-07:00",
+      "_breadth": 2,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lisa Lang McMullen, James Oh, Andrew McQuinn & Carolina Garcia Among\r\n Netflix TV Execs Impacted By Layoffs",
+      "url": "https://deadline.com/2026/10/lisa-lang-mcmullen-james-oh-andrew-mcquinn-netflix-layoffs-1237156988/",
+      "summary": "Lisa Lang McMullen, James Oh, Andrew McQuinn & Carolina Garcia Among\r\n Netflix TV Execs Impacted By Layoffs\n\nLisa Lang McMullen, James Oh, Andrew McQuinn & Carolina Garcia Among Netflix TV Execs Impacted By Layoffs",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-14T17:06:29",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mediawan\u2019s Pierre-Antoine Capton on Buying Reese Witherspoon\u2019s Hello Sunshine and Doubling Down on Hollywood Amid Consolidation (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/mediawan-pierre-antoine-capton-reese-witherspoons-hello-sunshine-1236911189/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 2,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nia Long Joins Teyana Taylor's Directorial Debut 'Get Lite' at\r\n Paramount (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/nia-long-teyana-taylor-get-lite-cast-1236910445/",
+      "summary": "Nia Long Joins Teyana Taylor's Directorial Debut 'Get Lite' at\r\n Paramount (EXCLUSIVE)\n\nNia Long Joins Teyana Taylor's Directorial Debut 'Get Lite' at Paramount (EXCLUSIVE)",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-14T15:34:06",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Film VP Doug Belgrad Is Out Amid Layoffs",
+      "url": "https://variety.com/2026/film/news/netflix-film-vp-doug-belgrad-layoff-1236911877/",
+      "summary": "Netflix Film VP Doug Belgrad Is Out Amid Layoffs\n\nNetflix Film VP Doug Belgrad Is Out Amid Layoffs",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-14T15:01:43",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Doug Belgrad Leaving As Netflix VP Of Film Amid Layoffs",
+      "url": "https://deadline.com/2026/10/doug-belgrad-leaving-netflix-vp-film-layoffs-1237156752/",
+      "summary": "Doug Belgrad Leaving As Netflix VP Of Film Amid Layoffs\n\nDoug Belgrad Leaving As Netflix VP Of Film Amid Layoffs",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-14T14:37:02",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "American Black Film Festival Expands Into Theatrical Distribution with Launch of ABFF97",
+      "url": "https://www.indiewire.com/news/festivals/american-black-film-festival-expands-theatrical-distribution-amc-theaters-1235221891/",
+      "summary": "Exclusive: The new distribution arm will partner with AMC Theatres to create a theatrical pathway for more independent films.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T07:30:00-07:00",
+      "_breadth": 2,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Film VP Doug Belgrad Out In Layoffs",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-film-vp-doug-belgrad-layoffs-1236729799/",
+      "summary": "Netflix Film VP Doug Belgrad Out In Layoffs\n\nNetflix Film VP Doug Belgrad Out In Layoffs",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-10-14T14:31:14",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How to Build a \u2018Friday the 13th\u2019 Prequel: Blood Bags, Old-School Paranoia, and Linda Cardellini as Pamela Voorhees",
+      "url": "https://www.indiewire.com/features/interviews/friday-the-13th-prequel-show-blood-paranoia-cardellini-1235220840/",
+      "summary": "Star Cardellini and showrunner Brad Caleb Kane scare up a hell of a good \"Friday the 13th\" prequel. They tell IndieWire how '70s paranoia, their own horror proclivities, and Don Knotts (yes, Don Knotts) turn the story of Pamela Voorhees into something truly juicy.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T07:00:00-07:00",
+      "_breadth": 2,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\"Ruthless, Sexual Predator\": Russell Brand Rape Allegations Detailed as\r\n Prosecution Opens Case",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-rape-trial-prosecution-claims-sexual-assault-1236729752/",
+      "summary": "\"Ruthless, Sexual Predator\": Russell Brand Rape Allegations Detailed as\r\n Prosecution Opens Case\n\n\"Ruthless, Sexual Predator\": Russell Brand Rape Allegations Detailed as Prosecution Opens Case",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-10-14T14:02:04",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Lays Off Around 1,000 Employees In Largest Cuts Since 2022",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-hit-layoffs-growth-slows-1236720435/",
+      "summary": "Netflix Lays Off Around 1,000 Employees In Largest Cuts Since 2022\n\nNetflix Lays Off Around 1,000 Employees In Largest Cuts Since 2022",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-10-14T13:36:17",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The New 'Sense and Sensibility' Introduces a Different Marianne Dashwood, and a Breakout Star in Esm\u00e9 Creed-Miles",
+      "url": "https://www.indiewire.com/features/interviews/sense-and-sensibility-movie-star-esme-creed-miles-interview-1235221468/",
+      "summary": "The New 'Sense and Sensibility' Introduces a Different Marianne Dashwood, and a Breakout Star in Esm\u00e9 Creed-Miles\n\nThe New 'Sense and Sensibility' Introduces a Different Marianne Dashwood, and a Breakout Star in Esm\u00e9 Creed-Miles",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-14T13:33:47",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Film: London",
+      "url": "https://deadline.com/p/contenders-film-london-2026/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Television: Docs + Unscripted",
+      "url": "https://deadline.com/p/contenders-television-documentary-unscripted-2026/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Television",
+      "url": "https://deadline.com/p/contenders-television-2026/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ron Perlman Lines Up Hemingway Movie & Updates On \u2018Sons Of Anarchy\u2019 Spinoff \u2018Legends\u2019, That Third \u2018Hellboy\u2019 Film & Next Steps For His Asylm Studios: Q&A",
+      "url": "https://deadline.com/2026/10/ron-perlman-to-play-hemingway-updates-on-legends-hellboy-1237156805/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 2,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018American Doctor,\u2019 \u2018NAZA,\u2019 \u2018Musk,\u2019 Elizabeth Holmes Doc & More Make DOC NYC\u2019s Prestigious Short List",
+      "url": "https://deadline.com/2026/10/doc-nyc-2026-short-lists-announcement-1237156501/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Trine Dyrholm, Christian Slater & Dree Hemingway Join Zentropa\u2019s Dogma25 Picture \u2018Incidents of Intimacy\u2019",
+      "url": "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "was first announced during",
+      "url": "https://deadline.com/2025/05/dogma-25-zentropa-denmark-manifesto-1236402134/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sharon Osbourne Says Ozzy\u2019s Final Concert Film Was \u201cVery Hard To Watch,\u201d Would Have Made Him Feel Like A \u201cLucky Son Of A Bitch\u201d",
+      "url": "https://deadline.com/2026/10/sharon-osbourne-ozzy-final-concert-film-1237157835/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Crystal Lake\u2019 Pays Tribute To Snake Killed In Making Of \u2018Friday the 13th\u2019: \u201cA Direct Nod\u201d",
+      "url": "https://deadline.com/2026/10/crystal-lake-pays-tribute-snake-killed-friday-the-13th-1237157674/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bob Daly Resigning As AFI Board Chairman After 17 Years",
+      "url": "https://deadline.com/2026/10/bob-daly-resigning-afi-board-chairman-1237157587/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Skydance Shares Tumble In Technical Adjustment As Inflation, Interest Rate Jitters Roil Markets; Apple Regains $5 Trillion Market Cap",
+      "url": "https://deadline.com/2026/10/skydance-shares-tumble-media-tech-stocks-markets-inflation-1237156999/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Red Sonja\u2019 Producer Christa Campbell Launches Film & TV Company XTA Media",
+      "url": "https://deadline.com/2026/10/red-sonja-producer-christa-campbell-launches-xta-media-1237156630/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "SFFILM\u2019s Doc Stories To Open With Ava DuVernay\u2019s \u201814th,\u2019 Showcase \u2018Tutu,\u2019 \u2018Black Sunflowers,\u2019 \u2019Soul Patrol\u2019 & More",
+      "url": "https://deadline.com/2026/10/sffilm-doc-stories-2026-lineup-announcement-1237156521/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Maximum Pleasure Guaranteed\u2019 Renewed For Season 2 By Apple TV",
+      "url": "https://deadline.com/2026/10/maximum-pleasure-guaranteed-renewed-season-2-apple-tv-1237157176/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 2,
+      "_score": 1.5,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Miranda Cosgrove, Edi Patterson & Ali Wong In Attendance As \u2018Abbott Elementary\u2019 Season 6 Guest Stars",
+      "url": "https://deadline.com/2026/10/abbott-elementary-miranda-cosgrove-edi-patterson-ali-wong-1237156972/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Multitude Media Restructures Leader Team & Prepares Live Entertainment Push",
+      "url": "https://deadline.com/2026/10/multitude-media-promotes-gem-pinkney-leader-team-will-wood-1237157911/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "British True Crime Producer Association Welcomes Non-UK Producers For First Time Including America\u2019s Gennie Studios, My Entertainment and Texas Crew",
+      "url": "https://deadline.com/2026/10/uk-association-true-crime-producers-gennie-texas-crew-1237156790/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Friends\u2019 Returning To Channel 4 After 15 Years",
+      "url": "https://deadline.com/2026/10/friends-returning-channel-4-uk-stays-hbo-max-1237157876/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "October Surprise: \u2018The Diplomat\u2019 Kills Off One Politician, Brings In Another In Season 4",
+      "url": "https://deadline.com/2026/10/the-diplomat-season-4-death-prime-minister-change-explained-1237153276/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How LaRoyce Hawkins Exits \u2018Chicago P.D.\u2019 In Season 14",
+      "url": "https://deadline.com/2026/10/laroyce-hawkins-exits-chicago-p-d-season-14-1237157812/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "FBI Adds Ex-Bellum Entertainment CEO To Most Wanted Fraudsters List; Offering $150K Reward For Info On Fugitive Mary Carole McDonnell",
+      "url": "https://deadline.com/2026/10/fbi-most-wanted-list-ex-bellum-ceo-1237157643/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "after things started to go badly very quickly financially and otherwise",
+      "url": "https://deadline.com/2017/07/bellum-entertainment-bank-fraud-victim-payroll-delays-reality-tv-procucer-1202127486/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Dodgers-Brewers & Rays-Guardians MLB Playoff Game Times For Thursday Changed",
+      "url": "https://deadline.com/2026/10/dodgers-brewers-rays-guardians-game-times-thursday-changed-1237157652/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kirti Kulhari\u2019s Production Debut \u2018Kinaare\u2019 to Premiere at Dharamshala, Rima Das\u2019 \u2018Not a Hero\u2019 to Open Festival",
+      "url": "https://variety.com/2026/film/news/kirti-kulhari-kinaare-rima-das-not-a-hero-dharamshala-1236912276/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Academy CEO Bill Kramer to Head to Tokyo for Leadership Award and Onstage Summit With Toho Boss Matsuoka Hiro",
+      "url": "https://variety.com/2026/film/news/academy-ceo-bill-kramer-tokyo-award-toho-boss-summit-1236911117/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Critics Vindicate \u2018Artificial\u2019 After Messy Amazon MGM Breakup (and the Studios vs. Talent Wars Around AI Are Just Beginning)",
+      "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Markus Schleinzer on Sandra H\u00fcller, Star of His Austrian Oscar Entry \u2018Rose\u2019 and a Berlin Best Lead Performance Winner: \u2018She\u2019s the Queen\u2019",
+      "url": "https://variety.com/2026/film/news/markus-schleinzer-sandra-huller-austria-oscar-viff-1236912348/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bob Daly to Step Down as Chair of AFI Board of Directors (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/bob-daly-step-down-chair-of-afi-board-of-directors-1236912235/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mubi Sets Theatrical Release for Sundance Prize Winning Doc \u2018Nuisance Bear\u2019 \u2013 Film News in Brief",
+      "url": "https://variety.com/2026/film/news/film-news-in-brief-oct-12-2026-1236909107/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Dune\u2019 Immersive Experience Heads to L.A With Real Props, Sandworms and a $250 VIP Package",
+      "url": "https://variety.com/2026/film/news/dune-immersive-experience-los-angleles-buy-tickets-1236912185/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Steve Hilton, Republican Candidate for Governor, Rolls Out Expanded Hollywood Plan",
+      "url": "https://variety.com/2026/film/news/steve-hilton-hollywood-plan-1236912024/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Doc Stories Unveils 12th Annual Film Lineup (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/doc-stories-film-lineup-14th-1236910719/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Xavier Becerra\u2019s Film Policy Is Vague. Was It Written by AI?",
+      "url": "https://variety.com/2026/film/news/xavier-becerra-film-policy-vague-ai-1236910297/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Reese Witherspoon and Mediawan Partner to Buy Back Hello Sunshine From Candle Media",
+      "url": "https://variety.com/2026/tv/news/reese-witherspoon-buying-hello-sunshine-candle-media-1236910335/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018NCIS: Origins\u2019 to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years",
+      "url": "https://variety.com/2026/tv/news/ncis-origins-mark-harmon-michael-weatherly-reunite-1236910172/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Skydance Shares Skid Down 22% After Company Issues 471 Million Stock Warrants to Paramount Investors",
+      "url": "https://variety.com/2026/film/news/skydance-stock-drops-warrants-paramount-investors-1236911580/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "James McAvoy Got Bullied by Famous Co-Star on His First Day of Being a Professional Actor: I Got Laughed at For Three Minutes",
+      "url": "https://variety.com/2026/tv/news/james-mcavoy-bullied-band-of-brothers-actor-first-day-set-1236912034/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "What\u2019s Driving Spanish TV? Spanish Drama Originals on Platforms, Renewals and Crossover Genres",
+      "url": "https://variety.com/2026/tv/news/spanish-tv-fiction-2026-movistar-netflix-atresplayer-prime-1236912210/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "YouTube\u2019s Virtues, Industry Consolidation, Christie Brinkley and \u2018Baywatch\u2019: Trends and Themes From a Busy Mipcom",
+      "url": "https://variety.com/2026/tv/news/youtube-consolidation-christie-brinkley-baywatch-mipcom-1236912667/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 2,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Karla Sof\u00eda Gascon, Itziar Itu\u00f1o Set for Political Fantasy Satire \u2018When Devils Rule\u2019 from Spain\u2019s Atlantika Films (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/karla-sofia-gascon-itziar-ituno-when-devils-rule-1236912250/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mipcom Title \u2018The Castle\u2019 Shapes Up as Another Hit From \u2018La Bola Negra\u2019 Producer Movistar Plus",
+      "url": "https://variety.com/2026/tv/news/the-castle-movistar-plus-isabel-pena-eduardo-villanueva-1236912757/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018South Park\u2019: Stan Discovers Sephora\u2019s Backrooms Before Ike Aura Battles a Looksmaxxing Chad",
+      "url": "https://variety.com/2026/tv/news/south-park-season-29-sephora-backrooms-aura-battle-1236909613/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Lowdown\u2019 Creator Sterlin Harjo on the Films That Inspired Season 2, and What Convinced Tommy Lee Jones to Join the Show",
+      "url": "https://variety.com/2026/tv/news/the-lowdown-sterlin-harjo-season-2-tommy-lee-jones-1236912635/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Anthony Edwards Names Justin Bieber \u2018White Boy of the Year\u2019 in Satirical Believe That Awards (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/anthony-edwards-justin-bieber-white-boy-of-the-year-1236912577/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Full House\u2019 Star Jodie Sweetin Says Dave Coulier is \u2018Doing Great\u2019 Following \u2018Tough Battle\u2019 with Cancer",
+      "url": "https://variety.com/2026/tv/news/jodie-sweetin-dave-coulier-cancer-battle-full-house-1236912656/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Abbott Elementary\u2019 Star William Stanford Davis Sets Memoir \u2018Don\u2019t Mess With the Fat Kid\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/abbott-elementary-william-stanford-davis-memoir-1236912328/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Season 2 Won\u2019t Be Greenlit Until the Writers\u2019 Room \u2018Comes Up With a Worthy Successor to a Great First Season\u2019",
+      "url": "https://variety.com/2026/tv/news/lanterns-season-2-greenlit-writers-room-1236908603/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u201960 Minutes\u2019 Sees Audience Dip Without NFL Lead-In",
+      "url": "https://variety.com/2026/tv/news/60-minutes-tv-ratings-udience-dip-nfl-lesley-stahl-1236912445/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Fox\u2019s $22 Billion Roku Deal Approved by Shareholders of Both Companies",
+      "url": "https://variety.com/2026/tv/news/fox-roku-acquisition-approved-shareholders-1236912437/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Christian Slater, Trine Dyrholm,  Dree Hemingway Join Dogma25 Feature \u2018Incidents of Intimacy\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/christian-slater-trine-dyrholm-join-dogma25-feature-1236730700/",
+      "summary": "Johannes Lille\u00f8re, Julie Agnete Vang, Laura Drasb\u00e6k and Michael Moritzen will co-star in the low budget drama, directed by Jesper Just under the strict Dogma \"vow of chastity.\"",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u20187 Miles Out,\u2019 Starring Lucy Halliday, Tells a Coming-of-Age Story Full of Grief, Music and Friendship",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/7-miles-out-carol-morley-film-lucy-halliday-grief-music-lff-1236729975/",
+      "summary": "Carol Morley's adaptation of her semi-autobiographical novel about her adolescence near Manchester also stars Gemma Whelan and Aidan Gillen and premieres at the BFI London Film Festival.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Whale at the Center of \u2018Whalefall\u2019 is \u201cthe Good Guy,\u201d Actually",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/whale-whalefall-good-guy-austin-abrams-1236729944/",
+      "summary": "Director Brian Duffield and star Austin Abrams debuted their thriller in L.A. on Tuesday, explaining why the film is quite different than 'Jaws.'",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Anime Studio N LITE Taps Former Disney TV Animation Exec, Industry Veterans for Board of Directors (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/anime-studio-n-lite-board-of-directors-1236728950/",
+      "summary": "The move comes as the U.S.- and Tokyo-based studio expands its business across feature films, TV, consumer products and publishing",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Obsession\u2019 Star Inde Navarrette on Sudden Fame, Cut Scenes, Relationship Takeaways, a Possible Sequel and Going Rogue for Marvel",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-star-inde-navarrette-marvel-rogue-awards-chatter-1236727817/",
+      "summary": "In front of an audience at Chapman University, Hollywood's newest A-lister \u2014\u00a0the star of a $750,000 film that grossed more than $500 million worldwide \u2014\u00a0reflects on her \"whirlwind\" journey to Oscar contention.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How \u2018Everest: The Other Side\u2019 Explores the \u201cEthical Complexity of Big Ambitions\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/everest-the-other-side-film-interview-lff-2026-free-solo-1236729809/",
+      "summary": "At the BFI London Film Festival, director Elizabeth Chai Vasarhelyi and producer Shannon Dill, who also collaborated on 'Free Solo,'  discuss upping the stakes, and the scale, for their new cinematic adventure.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Eli Manning, Robin Roberts Board \u2018Panther Pat\u2019 Documentary Short as Executive Producers (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/eli-manning-robin-roberts-panther-pat-doc-executive-produce-1236729760/",
+      "summary": "Ashley Brandon's 12-minute film about the first female professional football player has been making the festival rounds.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jessie Buckley and Gwendoline Christie Headline a Buoyant BFI & Chanel Filmmakers Awards",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jessie-buckley-gwendoline-christie-bfi-chanel-filmmakers-1236729718/",
+      "summary": "At an opulent event at London's Claridge's Hotel, the Irish Oscar winner and the 'Game of Thrones' star \u2014\u00a0two of this year's jury members \u2014\u00a0were warmly welcomed on stage by BFI CEO Ben Roberts.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Guarding Stars\u2019 Trailer: Leighton Meester, Jared Padalecki Star in Fake-Dating Holiday Romance",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/guarding-stars-trailer-leighton-meester-jared-padalecki-1236729835/",
+      "summary": "Based on Katherine Center\u2018s 2022 bestseller 'The Bodyguard,' Meester stars as a no-nonsense bodyguard assigned to protect Hollywood action star Jack Stapleton (Padalecki).",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Pop Pop,\u2019 \u2018Kidney\u2019 and \u2018Sounds of the Desert\u2019: Tallinn Sets Rebels With a Cause, Critics\u2019 Picks Programs",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-film-fest-rebels-with-cause-critics-picks-1236729737/",
+      "summary": "U.S. filmmaker Dylan Stephen Levers' debut feature, exploring \"toxic masculinity, cancel culture, and radical positioning,\" and the latest from Estonia's Eeva M\u00e4gi are among the films pushing boundaries.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tallinn Black Nights Fest Unveils Baltic Film Competition",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-black-nights-baltic-film-competition-1236729636/",
+      "summary": "\u201cThis year\u2019s selection demonstrates the strength of Baltic co-productions and the growing contribution of our filmmakers to international cinema.\u201d",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Noah Centineo, Andrew Koji\u2019s \u2018Street Fighter\u2019: First Reactions",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/street-fighter-2026-movie-first-reactions-1236729666/",
+      "summary": "Director Kitao Sakurai's adaptation of the iconic Capcom video game is set to hit theaters on Oct. 16.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "DC Studios\u2019 \u2018Clayface\u2019: First Reactions",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618/",
+      "summary": "The body horror film co-written by Mike Flanagan and directed by James Watkins hits theaters on Oct. 23.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Sports Issue",
+      "url": "https://www.hollywoodreporter.com/p/the-sports-issue-2026/",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Christy Carlson Romano Says She Was Paid Half of Shia LaBeouf\u2019s Salary on \u2018Even Stevens\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/christy-carlson-romano-paid-half-shia-labeouf-even-stevens-1236730514/",
+      "summary": "The actress played Ren Stevens, the older sister to LaBeouf's Louis Stevens on the Disney sitcom, which ran from 2000 to 2003.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018DWTS\u2019: Val Chmerkovskiy References Will Smith\u2019s Oscars Slap While Defending Wife Jenna Johnson Amid Carrie Ann Inaba Criticism",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-val-will-smith-oscars-slap-jenna-carrie-ann-inaba-1236730426/",
+      "summary": "\u201cYou almost saw Fresh Prince enter the ballroom last night,\" Chmerkovskiy wrote on his TikTok Story on Wednesday.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Breaking Bad\u2019s\u2019 Dean Norris, Anna Gunn Mourn R.J. Mitte: \u201cWe\u2019re All Just Shocked and in Deep Despair\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rj-mitte-breaking-bad-dean-norris-anna-gunn-tribute-1236730350/",
+      "summary": "The actors from the massively successful show remember the actor who played Walt Jr., who died by suicide at age 34.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Versant Is Bringing\u2019s E!\u2019s Red Carpet Coverage to the WNBA Finals (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/versant-e-red-carpet-coverage-wnba-finals-1236730232/",
+      "summary": "'Live from the Orange Carpet: WNBA Finals' will bring E!'s flagship live coverage to perhaps the biggest event in USA Sports' calendar, with Lilly Singh set to host.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Justin Baldoni Makes Rare Public Appearance on \u2018Dancing With the Stars\u2019 Following Blake Lively Legal Battle",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-baldoni-rare-appearance-dancing-with-the-stars-1236730037/",
+      "summary": "According to Page Six, the actor attended ABC's dance competition with his wife and their two daughters as a guest of \"longtime family friend\" Julianne Hough, months after settling the 'It Ends With Us' lawsuit.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "R.J. Mitte\u2019s Longtime Manager Says He\u2019s \u201cin Complete Shock, Absolutely Devastated and Struggling\u201d in Wake of Actor\u2019s Suicide",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rj-mitte-suicide-breaking-bad-death-tribute-instagram-1236730032/",
+      "summary": "Ben Brucato shared a lengthy statement praising his longtime client turned family, someone he said had a zest for life, deep knowledge base and empathy in spades: \"R.J. was a rare kind of human being.\"",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Maximum Pleasure Guaranteed\u2019 Scores Season 2 Renewal at Apple TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/maximum-pleasure-guaranteed-renewed-season-2-apple-tv-1236729947/",
+      "summary": "Production on the second season is set to begin in the first half of 2027.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018South Park\u2019 Takes on Aura Battles in Midseason Episode",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-you-like-that-on-your-face-logline-1236729955/",
+      "summary": "Kyle tries to keep his little brother from being \u201ccringe\u201d as the viral trend sweeps South America.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix\u2019s \u2018Untold\u2019 to Tackle Daejon Love (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/daejon-love-viral-scammer-netflix-untold-documentary-1236729075/",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Yellowjackets\u2019: First Footage of Final Season Shows the Long-Awaited Homecoming",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/yellowjackets-final-season-4-first-look-rescue-1236729332/",
+      "summary": "The official teaser trailer, set to Alanis Morissette's \"Ironic,\" begins to unpack what happens when the stranded soccer team is finally rescued in the final season of the Showtime series.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "NBC\u2019s \u2018Dateline\u2019 Headed to Canada",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-dateline-canada-1236728864/",
+      "summary": "America\u2019s top-rated true crime series hosted by Canadian native and correspondent Keith Morrison will launch a local version on Citytv on Nov. 26.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mikael Marcimain\u2019s \u2018The Cold Song\u2019 Marks a Rare Return to Big Swing European TV Drama (Exclusive First Look)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/mikael-marcimain-the-cold-song-first-look-images-1236729634/",
+      "summary": "Miso Film Sweden\u2019s six-part adaptation of Linn Ullmann\u2019s novel, backed by SVT and the New8 collective, arrives at Mipcom as European drama budgets tighten and commissioners retreat to safer formats.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Drake Bell Slams SAG-AFTRA After Not Qualifying for Health Insurance: \u201cDo Not Become an Actor\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/drake-bell-slams-sag-aftra-health-insurance-not-qualifying-1236729416/",
+      "summary": "Bell, who rose to fame on 'Drake & Josh,' has turned his focus to music in recent years.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Touchdown! \u2018Dancing With the Stars\u2019 Throws Its Own Halftime Show for Super Bowl Night: See the Scores, Who Went Home",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-super-bowl-week-5-recap-scores-elimination-1236729153/",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "White House Slams The Chicks\u2019 Natalie Maines as a \u2018Despicable Nobody\u2019 After Singer\u2019s Jab at Trump",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/white-house-responds-the-chicks-natalie-maines-trump-jab/",
+      "summary": "\"[She] clearly suffers from a severe case of Trump Derangement Syndrome that has rotted her peanut-sized brain,\u201d a White House spokesperson adds The post White House Slams The Chicks\u2019 Natalie Maines as a \u2018Despicable Nobody\u2019 After Singer\u2019s Jab at Trump appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T22:37:12-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jimmy Kimmel Bungles Joke About Trump\u2019s Midterm Campaigning: \u2018Not Even Going to Attempt That Again\u2019",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-flubs-trump-midterm-campaign-joke/",
+      "summary": "\u201cIt was a hard night,\u201d the late night host adds The post Jimmy Kimmel Bungles Joke About Trump\u2019s Midterm Campaigning: \u2018Not Even Going to Attempt That Again\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T21:34:15-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Former Hollywood Executive Added to FBI\u2019s Most Wanted Fraudsters List",
+      "url": "https://www.thewrap.com/industry-news/public-policy-legal/former-hollywood-executive-mary-carole-mcdonnell-fbi-most-wanted-fraudsters-list/",
+      "summary": "Mary Carole McDonnell, CEO of Burbank's defunct Bellum Entertainment, is accused of fraudulently obtaining nearly $30 million The post Former Hollywood Executive Added to FBI\u2019s Most Wanted Fraudsters List appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T20:35:16-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Trump\u2019s New Press Secretary Katie Zacharia Didn\u2019t Pass the Bar Exam Despite President Calling Her an Attorney",
+      "url": "https://www.thewrap.com/media-platforms/politics/white-house-press-secretary-katie-zacharia-did-not-pass-bar-exam/",
+      "summary": "\"Katie is a fabulous and wonderful addition to the team,\" White House spokesman Steven Cheung defends The post Trump\u2019s New Press Secretary Katie Zacharia Didn\u2019t Pass the Bar Exam Despite President Calling Her an Attorney appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T19:57:19-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Fox News\u2019 Brit Hume Questions If Trump \u2018Should Be Out There Front and Center\u2019 Amid Dismal Polls",
+      "url": "https://www.thewrap.com/media-platforms/politics/brit-hume-questions-trump-front-and-center-polls/",
+      "summary": "\"His approval rating is, what, 36%,\" the network's chief political analyst adds The post Fox News\u2019 Brit Hume Questions If Trump \u2018Should Be Out There Front and Center\u2019 Amid Dismal Polls appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T18:28:26-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "HBO Max\u2019s \u2018Mister Miracle\u2019 Adds Josh Hutcherson as Scott Free, Mackenzie Davis as Barda",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/mister-miracle-adds-josh-hutcherson-mackenzie-davis/",
+      "summary": "DC Studios co-CEO Peter Safran shares the casting of the New Gods debuting in Tom King's animated series The post HBO Max\u2019s \u2018Mister Miracle\u2019 Adds Josh Hutcherson as Scott Free, Mackenzie Davis as Barda appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T18:07:35-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kelsey Grammer-Led Emergency Medicine Drama Series \u2018Pops\u2019 in Development at NBC",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/kelsey-grammer-led-emt-drama-series-pops-in-development-nbc/",
+      "summary": "\u201cChicago Med\u201d EP Danny Weiss will write and executive produce the series, which stars the \u201cFrasier\u201d alum as an EMT in his 60s The post Kelsey Grammer-Led Emergency Medicine Drama Series \u2018Pops\u2019 in Development at NBC appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T17:46:32-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018You Can See Everything\u2019 Could Turn Its Buzz Into The Biggest Doc Box Office Opening Since COVID",
+      "url": "https://www.thewrap.com/creative-content/movies/you-can-see-everything-box-office-preview/",
+      "summary": "Paramount's \"Street Fighter\" and 20th Century's \"Whalefall\" will top the charts, but A24's surprise film could be the standout The post \u2018You Can See Everything\u2019 Could Turn Its Buzz Into The Biggest Doc Box Office Opening Since COVID appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T17:25:12-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "White House Media Ban: Press Attorney Says Trump Legal Battle Signals \u2018Dangerous Problem\u2019 for Journalists",
+      "url": "https://www.thewrap.com/media-platforms/journalism/white-house-media-ban-attorney-trump-first-amendment-fight/",
+      "summary": "\"What President Trump and the Trump administration are trying to do is really snuff out that fundamental First Amendment principle,\" attorney Theodore Boutrous says The post White House Media Ban: Press Attorney Says Trump Legal Battle Signals \u2018Dangerous Problem\u2019 for Journalists appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T16:43:27-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "From $900 Million to Rock Bottom: How Reese Witherspoon\u2019s Hello Sunshine Cratered After Candle Media\u2019s Big Bet | Analysis",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/why-candle-media-sold-hello-sunshine-reese-witherspoon/",
+      "summary": "Kevin Mayer and Tom Staggs wagered that the actress and producer\u2019s star power could drive new revenue streams. It didn\u2019t work out The post From $900 Million to Rock Bottom: How Reese Witherspoon\u2019s Hello Sunshine Cratered After Candle Media\u2019s Big Bet | Analysis appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-14T15:43:35-07:00",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Is Finally Reporting Box Office Data. Why Is It Starting with \u2018La Bola Negra\u2019?",
+      "url": "https://www.indiewire.com/news/box-office/netflix-reporting-box-office-data-la-bola-negra-narnia-cliff-booth-1235221844/",
+      "summary": "The streamer's awards hopeful is a test balloon \u2014 opening in limited release on four screens this weekend \u2014 before it really tries to make a splash with \"Cliff Booth\" and \"Narnia.\"",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T15:30:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Future of Cinema Is the Cinema Itself",
+      "url": "https://www.indiewire.com/criticism/movies/cinema-deserts-rockaway-film-festival-sam-fleischner-1235221876/",
+      "summary": "The co-founder of the Rockaway Film Festival on developing a new model for community cinema.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T12:30:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Austin Film Society to Open New John H. McCall Theater with Screenings of \u2018Paper Tiger,\u2019 4K Restorations",
+      "url": "https://www.indiewire.com/news/general-news/austin-film-society-john-h-mccall-theater-open-paper-tiger-1235221860/",
+      "summary": "Exclusive: James Gray and AFS founder Richard Linklater will attend the final day of opening weekend.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T11:00:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Lowdown\u2019 Season 2 Review: Ethan Hawke and Betty Gilpin Light Up a Rollicking, Moving Mystery",
+      "url": "https://www.indiewire.com/criticism/shows/the-lowdown-season-2-review-ethan-hawke-betty-gilpin-1235221639/",
+      "summary": "Creator Sterlin Harjo's rich modern noir takes a closer, coarser look at our resident truthstorian in a second chapter that's darker, thornier, and still an absolute hoot.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T10:30:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "From \u2019You Can See Everything\u2019 to \u201914th\u2019 and \u2018Musk,\u2019 DOC NYC 2026 Reveals Influential Awards Short List",
+      "url": "https://www.indiewire.com/awards/industry/doc-nyc-2026-awards-short-list-you-can-see-everything-musk-1235221889/",
+      "summary": "The DOC NYC Short List is often predictive of December's eventual Oscar shortlist. Films that are also nominated for Best Feature at the Critics Choice Award Documentary Awards get a leg up for future non-fiction awards.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T09:00:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Whalefall\u2019 Review: Austin Abrams Battles a Bellyful of Daddy Issues in Brutal Survival Thriller",
+      "url": "https://www.indiewire.com/criticism/movies/whalefall-review-austin-abrams-1235221552/",
+      "summary": "Brian Duffield delivers exceptional underwater body horror in a sincere adaptation of Daniel Kraus' novel that packs enough emotional baggage to nearly sink its ingenious premise.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T09:00:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Josephine\u2019 Trailer: Channing Tatum and Gemma Chan Can\u2019t Parent Away an Act of Violence",
+      "url": "https://www.indiewire.com/news/trailers/josephine-trailer-channing-tatum-beth-de-arujo-mason-reeves-1235221908/",
+      "summary": "Writer and director Beth de Ara\u00fajo's second feature is all about the wrenching horror of the world that children can see and the cost of bearing witness.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T09:00:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Wilson\u2019s \u2018The History of Concrete\u2019 Crosses $2 Million at Box Office, Becoming a Major Documentary Hit for Magnolia",
+      "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-crosses-2-million-1235221888/",
+      "summary": "The absurdist look at urbanism and architecture is one of the best-performing indie docs of the year.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T08:45:00-07:00",
+      "_breadth": 1,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Flying Ace\u2019 Turns 100, Bringing a Forgotten Black Disabled Actor Back Into Focus",
+      "url": "https://www.indiewire.com/features/general/the-flying-ace-turns-100-black-disabled-actor-1235221479/",
+      "summary": "Disabled actors aren\u2019t new. In fact, they\u2019ve been around since cinema's foundation, and the proof is in 1926's \"The Flying Ace,\" which turns 100 this fall.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-14T08:30:00-07:00",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://deadline.com/2026/10/maximum-pleasure-guaranteed-renewed-season-2-apple-tv-1237157176/",
+    "https://variety.com/2026/film/news/dune-immersive-experience-los-angleles-buy-tickets-1236912185/",
+    "https://variety.com/2026/film/news/film-news-in-brief-oct-12-2026-1236909107/",
+    "https://deadline.com/2026/10/multitude-media-promotes-gem-pinkney-leader-team-will-wood-1237157911/",
+    "https://www.hollywoodreporter.com/movies/movie-features/how-wicker-horniest-tender-film-directors-interview-1236728674/",
+    "https://www.indiewire.com/features/interviews/liam-neeson-stunt-double-directs-the-mongoose-interview-1235220493/",
+    "https://www.hollywoodreporter.com/news/general-news/russell-brand-rape-trial-prosecution-claims-sexual-assault-1236729752/",
+    "https://variety.com/2026/tv/news/james-mcavoy-bullied-band-of-brothers-actor-first-day-set-1236912034/"
+  ]
+}

@@ -1,0 +1,1796 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-13",
+  "captured_at": "2026-09-13T11:03:53.490663",
+  "score_fn_hash": "95589781",
+  "raw_count": 98,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "\u2018Happily Ever After\u2019 Star Shuhua Yeh Makes the Leap From K-pop Idol to Actress: \u201cIt\u2019s Really Happening\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/happily-ever-after-shuhua-idle-tiff-rising-star-interview-1236699162/",
+      "summary": "The 26-year-old pop star, a member of girl group I-dle, is finally fulfilling her lifelong dream of acting in Feng-I Fiona Roan\u2019s sophomore outing.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T09:40:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018Look Back\u2019 Breakouts Furi Nanase and Rokka Okada on Growing Up on a Hirokazu Koreeda Set",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/look-back-rising-stars-furi-nanase-rokka-okada-interview-1236698472/",
+      "summary": "In the coming-of-age drama, the 12-year-old co-stars play aspiring manga artists whose rivalry blossoms into a defining friendship, brought to life via the director\u2019s famously intuitive way with child actors.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T08:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Trans Pregnancy Drama \u2018Aman\u2019 Boards Parallax Films for Global Sales Ahead of Toronto and London Premieres (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/trans-pregnancy-drama-aman-parallax-films-global-sales-toronto-1236860312/",
+      "summary": "International sales company Parallax Films has boarded \u201cAman,\u201d writer-director Rahul Roye\u2019s short film about a trans man who discovers he is pregnant on the eve of his gender-affirming surgery, for worldwide sales. The announcement comes ahead of the film\u2019s world premiere in the Short Cuts competition at the Toronto Film Festival, after which it travels [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T07:57:06+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Oscars: Philippines Selects Rafael Manuel\u2019s \u2018Filipi\u00f1ana\u2019 for International Feature Race",
+      "url": "https://variety.com/2026/film/awards/oscars-philippines-selects-rafael-manuels-filipinana-international-feature-1236860043/",
+      "summary": "Rafael Manuel\u2019s \u201cFilipi\u00f1ana\u201d has been chosen as the official entry from the Philippines in the international feature category at the 99th Academy Awards. It was selected from a shortlist of 8 films. The film is written and directed by Manuel and is distributed by Kino Lorber. Richard Lorber, chair and CEO of Kino Lorber, said, \u201cFrom the moment [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T06:45:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Vintage Violence\u2019 Review: Too Much Is Never Enough in\u00a0Eugene Kotlyarenko\u2019s Overstimulating Crime Comedy",
+      "url": "https://www.indiewire.com/criticism/movies/vintage-violence-review-eugene-kotlyarenko-1235216464/",
+      "summary": "TIFF: Gonzo bloodshed and manic camerawork are the focus in this over-the-top crime caper set in the Japanese vintage underworld.",
+      "source": "IndieWire",
+      "published": "2026-09-13T06:05:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Toronto Awards Analysis: \u2018I Play Rocky\u2019 Channels Namesake, Could Follow in Its Oscar Footsteps",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-awards-analysis-i-play-rocky-1236699433/",
+      "summary": "Like Peter Farrelly's earlier film 'Green Book,' this crowd-pleaser could seriously contend for TIFF's audience award en route to major Oscar noms (including best actor for Anthony Ippolito, who plays Sylvester Stallone).",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T05:18:57+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "FCC Chairman Slams James Talarico as Running a \u2018Hoax\u2019 With Jimmy Kimmel Interview, Which ABC Punted to YouTube, to Get \u2018Clicks and Donations\u2019",
+      "url": "https://variety.com/2026/tv/news/fcc-chairman-talarico-hoax-jimmy-kimmel-youtube-1236860262/",
+      "summary": "Brendan Carr, the Trump-aligned Republican chairman of the FCC, accused James Talarico, a Texas Democrat running for the U.S. Senate, of running a \u201choax\u201d to garner attention and campaign donations by sitting for an interview with Jimmy Kimmel \u2014 which ABC put on YouTube instead airing it on broadcast TV to avoid a potential clash [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T04:37:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Chris Rock\u2019s Hollywood Send-Up \u2018Misty Green\u2019 Hits TIFF With Rosalind Eleazar\u2019s Knockout Lead Performance",
+      "url": "https://variety.com/2026/film/awards/misty-green-oscars-rosalind-eleazar-chris-rock-tiff-1236859652/",
+      "summary": "Roughly two-thirds through \u201cMisty Green,\u201d Rosalind Eleazar takes a breath and lets a rendition of \u201cOne Night Only,\u201d from the musical \u201cDreamgirls,\u201d rip. The characters around her go quiet, and the crowd at the Toronto International Film Festival, where Chris Rock\u2019s film made its world premiere, seemed similarly enraptured. But when Rock and his cast [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T04:32:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Mahershala Ali Finally Made His \u2018Blade\u2019 Film With \u2018Your Mother Your Mother Your Mother\u2019",
+      "url": "https://variety.com/2026/film/news/mahershala-ali-blade-your-mother-your-mother-your-mother-tiff-adia-bassam-tariq-1236860243/",
+      "summary": "Bassam Tariq and Mahershala Ali finally made their \u201cBlade\u201d movie. On Saturday night, \u201cYour Mother Your Mother Your Mother\u201d made its world premiere at the Toronto International Film Festival before its theatrical release on Sept. 25. Tariq\u2019s film centers on Latif (Ali), a devout Muslim hitman who, following the sudden death of his wife, goes [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T04:01:23+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Your Mother Your Mother Your Mother\u2019 Review: Faith, Family, and Firearms Drive Bassam Tariq\u2019s Intriguingly Strange Action-Drama",
+      "url": "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/",
+      "summary": "Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.",
+      "source": "IndieWire",
+      "published": "2026-09-13T04:01:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Animal Hospital\u2019 Leads Roblox Innovation Awards 2026 Winners as Roblox Unveils 20th Anniversary Event",
+      "url": "https://variety.com/2026/gaming/news/animal-hospital-roblox-innovation-awards-20th-anniversary-1236860184/",
+      "summary": "The Roblox Innovation Awards (RIAs) unveiled its 2026 winners during a ceremony in San Jose Saturday with new title \u201cAnimal Hospital\u201d taking home several top honors. Part of the 12th annual Roblox Developer Conference, this year\u2019s RIAs were hosted by Roblox\u2019s head of the developer community, Justin Sousa (widely known as \u201cJParty\u201d to Roblox users). [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T03:46:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Misty Green\u2019 Review: Chris Rock Tells the Story of a Party-Girl Actress, Brilliantly Played by Rosalind Eleazar, in The Best Movie About Hollywood in Years",
+      "url": "https://variety.com/2026/film/reviews/misty-green-review-chris-rock-rosiland-eleazar-1236859541/",
+      "summary": "\"Misty Green\" is an amazing slice of showbiz sociology, riveting in the details of what a contemporary Hollywood actress \u2014 even a successful one \u2014 is up against. Rock isn\u2019t casting stones. The warped values he depicts are there in the industry and in Misty herself.",
+      "source": "Variety",
+      "published": "2026-09-13T03:30:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018Misty Green\u2019 Review: Rosalind Eleazar Is a Revelation in Chris Rock\u2019s Sharply Observed Love-Hate Portrait of the Hollywood Hustle",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/misty-green-review-rosalind-eleazar-chris-rock-1236698536/",
+      "summary": "The character study centers on a talented but self-sabotaging actress and singer looking to restart her career, with an ensemble that includes the writer-director alongside Adam Driver, Daniel Kaluuya and Anna Kendrick.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T03:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Misty Green\u2019 Review: Chris Rock\u2019s Tough Hollywood Story Finds a Star in Rosalind Eleazar",
+      "url": "https://www.thewrap.com/creative-content/reviews/misty-green-review-chris-rock-rosalind-eleazar/",
+      "summary": "Toronto International Film Festival 2026: The British actress has the pride, pipes and passion to embody a wildly talented but self-destructive character The post \u2018Misty Green\u2019 Review: Chris Rock\u2019s Tough Hollywood Story Finds a Star in Rosalind Eleazar appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T03:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Misty Green\u2019 Review: Rosalind Eleazar Stuns in Chris Rock\u2019s Raw but Unfocused Hollywood Character Study",
+      "url": "https://www.indiewire.com/criticism/movies/misty-green-movie-review-chris-rock-1235216282/",
+      "summary": "TIFF: The \"Slow Horses\" star is tremendous as a faded Black TV actress whose tendency for self-sabotage threatens to derail her comeback role.",
+      "source": "IndieWire",
+      "published": "2026-09-13T03:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018I Play Rocky\u2019 Review: Anthony Ippolito Channels Sylvester Stallone in Peter Farrelly\u2019s Cleverly Crafted Crowd-Pleaser About the Making of \u2018Rocky\u2019",
+      "url": "https://variety.com/2026/film/reviews/i-play-rocky-review-anthony-ippolito-peter-farrelly-1236859563/",
+      "summary": "For a biographical drama to work, it\u2019s not required that the central actor do a pinpoint uncanny, so-close-to- the-real-thing-you-might-think-it\u2019s-the-real-thing impersonation of the person he\u2019s playing. But Peter Farrelly\u2019s \u201cI Play Rocky\u201d may be a special case. It\u2019s a movie about the making of \u201cRocky\u201d \u2014 about how Sylvester Stallone, then a two-bit actor in his [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T03:25:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "FCC Chairman Brendan Carr Accuses James Talarico Of Running A \u201cHoax\u201d With Jimmy Kimmel Sit-Down; YouTube Interview Nears 7 Million Views",
+      "url": "https://deadline.com/2026/09/jimmy-kimmel-james-talarico-fcc-1237100486/",
+      "summary": "As Jimmy Kimmel\u2019s interview with James Talarico nears 7 million views on YouTube, FCC chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a \u201choax\u201d to drive up \u201cclicks and donations.\u201d Earlier this week, Kimmel told viewers that he would be sitting down with an interview with Talarico [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T02:09:10+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018The Surgeon\u2019 Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/",
+      "summary": "Martin Freeman has a supporting role as a crime boss in this film from Roshan Sethi ('A Nice Indian Boy'), premiering in Toronto.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T02:02:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018I Play Rocky\u2019 Review: Biopic About the Making of Sylvester Stallone\u2019s Classic Is a Hollow Crowdpleaser",
+      "url": "https://www.thewrap.com/creative-content/movies/i-play-rocky-review-sylvester-stallone/",
+      "summary": "TIFF 2026: Peter Farrelly's latest is a faint impersonation of a great movie The post \u2018I Play Rocky\u2019 Review: Biopic About the Making of Sylvester Stallone\u2019s Classic Is a Hollow Crowdpleaser appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T01:44:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Anthony Ippolito on Speaking to Sylvester Stallone Before Filming \u2018I Play Rocky\u2019: \u201cVery Overwhelming and Daunting\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/anthony-ippolito-sylvester-stallone-i-play-rocky-daunting-1236699402/",
+      "summary": "\"It was a lot to take in because I'd spent over a year, by that point, studying him,\u201d the actor said at THR\u2018s Studio at 1 Hotel during TIFF, presented by sponsor Canada Goose.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T01:15:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018I Play Rocky\u2019 Premieres at TIFF: A Movie About a Best Picture Winner That\u2019s a Best Picture Contender?",
+      "url": "https://variety.com/2026/film/awards/i-play-rocky-tiff-premiere-peter-farrelly-stallone-oscars-1236859905/",
+      "summary": "Yo Adrian, Rocky did it \u2026 again! Only this time, the famed character is at TIFF in biopic form, thanks to director Peter Farrelly, screenwriter Peter Gamble and a star-making turn from Anthony Ippolito, who portrays actor Sylvester Stallone in the story of his relentless determination to bring \u201cRocky\u201d to the big screen. This has [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T01:10:02+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018The Julia Set\u2019 Review: Chase Infiniti Shines in Uneven, Heavy-Handed Mathematics Drama",
+      "url": "https://www.thewrap.com/creative-content/movies/the-julia-set-review-chase-infiniti/",
+      "summary": "TIFF 2026: Strong casting and an intriguing premise don\u2019t add up to anything worthwhile in Niki Byrne\u2019s directorial debut The post \u2018The Julia Set\u2019 Review: Chase Infiniti Shines in Uneven, Heavy-Handed Mathematics Drama appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T01:01:58+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Bill Dubuque Crime Drama \u2018M.I.A.\u2019 Canceled By Peacock After One Season",
+      "url": "https://deadline.com/2026/09/bill-dubuque-series-m-i-a-canceled-peacock-1237100435/",
+      "summary": "EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer and executive producer Bill Dubuque, premiered May 7 with all nine hour-long episodes. Following the show\u2019s premiere, there was a lot of buzz around M.I.A. It received an extra push from NBC with a special airing on the network [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T01:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018I Play Rocky\u2019 Star Anthony Ippolito Filmed His Own Audition Before He Even Had the Script",
+      "url": "https://www.thewrap.com/creative-content/movies/anthony-ippolito-i-play-rocky-how-he-was-cast-interview/",
+      "summary": "TIFF 2026: The actor who portrays Sylvester Stallone in Peter Farrelly's film about the making of \"Rocky\" made a self-tape after reading an article about the project The post \u2018I Play Rocky\u2019 Star Anthony Ippolito Filmed His Own Audition Before He Even Had the Script appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T00:41:17+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Paramount Leaving California Could Mean Up to $21 Billion in Lost Annual Economic Output, Leaked Study Finds",
+      "url": "https://www.thewrap.com/industry-news/business/paramount-leaving-california-economic-impact/",
+      "summary": "A leaked economic impact report also states that if Paramount leaves the state, as many as 57,980 full-time jobs would be lost The post Paramount Leaving California Could Mean Up to $21 Billion in Lost Annual Economic Output, Leaked Study Finds appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T00:33:57+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "\u2018Edward Said: Between Worlds\u2019 Review: An Essential Voice for Our Times Is Resurrected in His Own Words",
+      "url": "https://www.thewrap.com/creative-content/movies/edward-said-between-worlds-review-palestine/",
+      "summary": "TIFF 2026: While one wishes there was more creativity to the filmmaking in this documentary, Said's words maintain an enduring power The post \u2018Edward Said: Between Worlds\u2019 Review: An Essential Voice for Our Times Is Resurrected in His Own Words appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T00:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Ted Cruz Shares Video of Crowd Chanting \u2018Ted You Suck!\u2019 During His ESPN College GameDay Appearance: \u2018Never Flinched\u2019",
+      "url": "https://www.thewrap.com/media-platforms/tv/ted-cruz-booed-espn-college-gameday/",
+      "summary": "The Texas senator was met with loud boos through his 9-minute appearance The post Ted Cruz Shares Video of Crowd Chanting \u2018Ted You Suck!\u2019 During His ESPN College GameDay Appearance: \u2018Never Flinched\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T23:54:23+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Paramount Leaving California Would Devastate Los Angeles Economy, Leaked Report Finds",
+      "url": "https://variety.com/2026/film/news/paramount-leaving-california-los-angeles-economy-job-loss-1236860125/",
+      "summary": "A leaked report from the Los Angeles Economic Development Corporation outlines devastating aftershocks that would follow if David Ellison pulled Paramount Skydance out of California. A copy of the report published by Politico reads, \u201cAt a minimum, relocating Paramount\u2019s headquarters and other operations out of California would result in losses of 2,750 and 5,550 job-years [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T23:41:31+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "Sandra Bullock Recalls \u201cAuditioning for Every Pervert\u201d and Being Asked to \u201cDrop My Pants\u201d: \u201cNot the Role for Me\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-pervert-audition-asked-drop-my-pants-1236699363/",
+      "summary": "The Oscar winner looked back on her career in the entertainment industry in conversation with Jennifer Aniston for Interview magazine.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T23:32:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Reacher\u2019 Star Alan Ritchson and His Wife Catherine Ritchson Announce Split After 20 Years of Marriage",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/alan-ritchson-wife-catherine-split-1236699285/",
+      "summary": "\"We grew up together. We built a life and a family together. And we are raising three incredible boys who will always be the center of our world,\" the pair wrote in a joint Instagram post Saturday.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T23:02:14+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Twilight\u2019 Star Kellan Lutz Leading Faith-Based Survival Thriller \u2018The Rescue\u2019; Sales Launch At TIFF",
+      "url": "https://deadline.com/2026/09/twilight-star-kellan-lutz-leading-faith-based-rescue-film-1237100384/",
+      "summary": "EXCLUSIVE: Premiere Entertainment Group is introducing faith-based survival thriller The Rescue, which has Kellan Lutz (Twilight franchise) attached, to international buyers at the TIFF market. The synopsis reads: \u201cAfter a violent storm leaves a rescue team stranded on a frozen Alaskan mountain, survival becomes a test not only of endurance, but of faith, as hope [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T22:42:47+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Juli\u00e1n\u2019 Director Louise Bagnall on Telling a \u2018Joyful\u2019 Story About Kids\u2019 Self-Expression in the Animated Feature",
+      "url": "https://www.thewrap.com/creative-content/movies/julian-director-louise-bagnall-interview-tiff-2026/",
+      "summary": "TIFF 2026: The latest from Cartoon Saloon, the banner behind 'Wolfwalkers,' hails from the Oscar-nominated creative director The post \u2018Juli\u00e1n\u2019 Director Louise Bagnall on Telling a \u2018Joyful\u2019 Story About Kids\u2019 Self-Expression in the Animated Feature appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T22:36:27+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Taylor Frankie Paul Says She\u2019s \u201cStayed In, Single & Celibate\u201d Since Her Season Of \u2018The Bachelorette\u2019 Was Yanked",
+      "url": "https://deadline.com/2026/09/taylor-frankie-paul-single-celibate-the-bachelorette-tabled-1237100373/",
+      "summary": "Taylor Frankie Paul revealed on social media Saturday that she\u2019s \u201cstayed in, single and celibate\u201d since ABC decided to table her run as The Bachelorette. Paul, who can currently be seen in the fifth season of Hulu\u2019s The Secret Lives of Morman Wives that dropped Sept. 10, also said she will not allow anyone \u201cintimate [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T22:30:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Evil Genius\u2019 Review: Patricia Arquette Is Killer in Courteney Cox\u2019s Twisted True Crime Tale",
+      "url": "https://www.thewrap.com/creative-content/movies/evil-genius-review-courteney-cox-patricia-arquette/",
+      "summary": "TIFF 2026: David Harbour and Michael Chernus round out a cast directed by Cox The post \u2018Evil Genius\u2019 Review: Patricia Arquette Is Killer in Courteney Cox\u2019s Twisted True Crime Tale appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T22:23:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Pierce Brosnan Says Next James Bond \u2018Could Probably\u2019 Be \u2018Someone That None of Us Know About\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/pierce-brosnan-next-james-bond-none-of-us-know/",
+      "summary": "The former 007 says there are \"lots of good hats in the ring\" to take over the franchise The post Pierce Brosnan Says Next James Bond \u2018Could Probably\u2019 Be \u2018Someone That None of Us Know About\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T22:22:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Mahershala Ali Reveals He Was \u201cYearning\u201d to Perform Action On-Screen Before Filming \u2018Your Mother, Your Mother, Your Mother\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/mahersala-ali-yearning-your-mother-your-mother-your-mother-1236699277/",
+      "summary": "\u201cIt offered up an opportunity to engage and commit to the type of difficult I want to commit to,\" the Oscar winner said about the Bassam Tariq-directed film.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T22:19:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Leaked Report Details Fallout if Paramount Follows Through on California Exit Threat",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-brothers-california-exit-threat-economy-1236699278/",
+      "summary": "Nearly 58,000 jobs and $21 billion in annual losses are on the line as the Oct. 1 merger deadline approaches.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T22:08:13+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018River\u2019 Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
+      "url": "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/",
+      "summary": "TIFF: Jane Levy and Jessica Rothe lead Joshua Giuliano's slasher that finds evil in beauty, while reminding us that horror is not simply a vehicle for scares.",
+      "source": "IndieWire",
+      "published": "2026-09-12T22:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "May El-Toukhy On Venice Golden Lion Win & Riccardo Scamarcio Remembers Jeremy Thomas \u2014 Winners Press Conference",
+      "url": "https://deadline.com/2026/09/may-el-toukhy-venice-golden-lion-win-and-being-counted-out-1237100346/",
+      "summary": "Venice Golden Lion winner May El-Toukhy is not surprised that some pundits considered her win a shock Saturday evening. Speaking at the winners\u2019 press conference this evening, the Danish director of Woman Unknown responded to a question about her win being called a \u201csurprise\u201d by some in the media: \u201cIt doesn\u2019t surprise me that some [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T21:59:50+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018SNL UK\u2019 Cold Open Lampoons Harry & Meghan\u2019s Return: \u201cDon\u2019t Tell Me You\u2019ve Spent All Your Netflix Money Already!\u201d",
+      "url": "https://deadline.com/2026/09/snl-uk-cold-open-harry-meghan-uk-return-1237100345/",
+      "summary": "Saturday Night Live UK returned for its second season \u2014 and wasted no time getting stuck into Prince Harry and Meghan Markle. The Sky series cold opened with a sketch (watch above) in which the Duke and Duchess of Sussex (as depicted by Jack Shep and Ayoade Bamgboye) visited the King and Queen in Scotland\u2019s [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T21:32:10+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Purgatory\u2019 Review: This Charming Catholic Coming-of-Age Story Never Quite Ascends",
+      "url": "https://www.indiewire.com/criticism/movies/purgatory-review-1235216402/",
+      "summary": "TIFF: A 13-year-old in the 1980s navigates her parents\u2019 separation in this comedy that relies on boilerplate beats.",
+      "source": "IndieWire",
+      "published": "2026-09-12T21:25:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Venice Prizes Elevate John Malkovich, \u2018Possible Love,\u2019 and \u2018NAZA\u2019 to Oscar Frontrunners",
+      "url": "https://www.indiewire.com/awards/predictions/venice-john-malkovich-possible-love-naza-oscar-frontrunners-1235216651/",
+      "summary": "While \"Woman Unknown\" won the Golden Lion and is now automatically eligible for Best International Feature, the Venice jury prizes solidify three other competition titles as major Oscar contenders.",
+      "source": "IndieWire",
+      "published": "2026-09-12T20:57:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Dancing With The Stars\u2019 Pro Emma Slater Pulls Out Stops By Performing With Savannah Bananas Ahead Of Tuesday\u2019s Premiere",
+      "url": "https://deadline.com/2026/09/dwts-pro-emma-slater-performs-savannah-bananas-1237100323/",
+      "summary": "Emma Slater isn\u2019t leaving anything to chance before the Season 35 premiere of Dancing with the Stars. Partnered with Savannah Bananas second baseman Jackson Olson for the season that begins Tuesday on ABC, the popular pro doubled down on her pre-season publicity tour by performing with his exhibition baseball team. Slater and Olson joined the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T20:56:13+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Glen Basner & Roeg Sutherland Open Their Global Sales Playbook: \u201cYou Have To Reset Yourself Every Two Weeks\u201d \u2014 TIFF: The Market",
+      "url": "https://deadline.com/2026/09/glen-basner-roeg-sutherland-indie-film-sales-playbook-tiff-1237100104/",
+      "summary": "Glen Basner and Roeg Sutherland opened their global sales playbook at TIFF: The Market. The duo discussed the realities of working in the modern-day independent film business during a conference session at TIFF\u2019s newly-minted market. They also got into the weeds on the dos and don\u2019ts of packaging indie film projects. Sutherland, CAA\u2019s Co-Head of [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T19:51:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Gary Myers Dies: NASCAR Driver, Patriarch Of Racing Family Was 76",
+      "url": "https://deadline.com/2026/09/gary-myers-dead-1237100249/",
+      "summary": "Gary Myers, the former NASCAR driver, stock car legend and patriarch of a noted racing family, died Thursday, September 10, following an extended period of ill health. He was 76. His death was announced on Facebook by his son, racecar driver Burt Myers. \u201cLast night I lost my hero,\u201d Burt Myers wrote. \u201cHe fought so [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T19:15:56+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Edward Said: Between Worlds\u2019 Brings an Articulate Palestinian Spokesman Back to Life",
+      "url": "https://www.indiewire.com/awards/consider-this/edward-said-between-worlds-palestinian-spokesman-interview-1235216388/",
+      "summary": "With producers Jigsaw, Dogwoof, Impact Partners, and Louverture behind it, the movie is seeking distribution at the Toronto International Film Festival.",
+      "source": "IndieWire",
+      "published": "2026-09-12T19:06:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Venice Film Festival Reveals 2026 Award Winners: \u2018Woman Unknown\u2019 Takes the Golden Lion",
+      "url": "https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/",
+      "summary": "See all this year's 2026 Venice Film Festival award winners here.",
+      "source": "IndieWire",
+      "published": "2026-09-12T18:58:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Courteney Cox Had a Vision for Her \u2018Evil Genius,\u2019 and \u2018Friends\u2019 \u2014 Surprisingly \u2014 Played an Important Role",
+      "url": "https://www.indiewire.com/features/interviews/courteney-cox-evil-genius-friends-pizza-bomber-1235216492/",
+      "summary": "TIFF: Cox's first directorial outing didn't pan out how she wanted it to (\"They probably burned it\"), but as she tells IndieWire, her spin on the shocking real life \"pizza bomber\" story is her brand-new calling card.",
+      "source": "IndieWire",
+      "published": "2026-09-12T18:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Tim Blake Nelson on His 12-Year Battle to Make \u2018The Life and Deaths of Wilson Shedd\u2019 and Joining \u2018Task\u2019 Season 2",
+      "url": "https://www.indiewire.com/features/interviews/tim-blake-nelson-wilson-shedd-task-season-2-mark-ruffalo-1235216434/",
+      "summary": "TIFF: The filmmaker talks about casting Amanda Seyfried and Scoot McNairy: \"I like to write roles I could never play,\" he tells IndieWire.",
+      "source": "IndieWire",
+      "published": "2026-09-12T17:51:47+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Searchlight\u2019s Matthew Greenfield On Getting People Into Movie Theaters & Finding New Talent On YouTube \u2014 TIFF: The Market",
+      "url": "https://deadline.com/2026/09/searchlight-matthew-greenfield-on-youtube-and-filmmaking-1237100025/",
+      "summary": "Searchlight Pictures boss Matthew Greenfield broke down how YouTube has become fertile ground for finding new stories and filmmakers. The Searchlight Pictures boss also spoke about the battle with familiarity and the need for original ideas to get people into movie theaters in the streaming age. After Obsession and Backrooms, studios and producers are scouring [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T17:35:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "Venice Jury President Maggie Gyllenhaal on Her Short \u2018Flesh Impact,\u2019 Casting Ellen Burstyn, and AI",
+      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
+      "summary": "Venice: 2026 competition jury president Maggie Gyllenhaal speaks to IndieWire about also attending the festival as the director of \"Flesh Impact,\" starring Golden Lion recipient Ellen Burstyn, and why her AI experiment failed.",
+      "source": "IndieWire",
+      "published": "2026-09-12T17:23:31+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "May El-Toukhy\u2019s \u2018Woman Unknown\u2019 Wins Golden Lion For Best Film At Venice Film Festival \u2013 Full Winners List",
+      "url": "https://deadline.com/2026/09/venice-winners-2026-1237100060/",
+      "summary": "Danish-Egyptian director May El-Toukhy\u2019s Woman Unknown has won the Golden Lion for Best Film at the 83rd Venice Film Festival. The post-World War II psychological thriller was one of just two films directed by women in the running for the Golden Lion this year. Set in Denmark in the summer of 1945, the picture stars Mathilde Arcel [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T16:56:24+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018ER\u2019s Big Payday: How Hit Medical Drama Scored Record $13M An Episode From NBC \u2013 Book Excerpt",
+      "url": "https://deadline.com/2026/09/er-license-fee-battle-nbc-oral-histiory-book-excerpt-1237098591/",
+      "summary": "ER was an instant hit when it premiered on NBC in October 1994. But the project had not been an easy sell: it was created by an author, Michael Crichton, with no television record and conceived in a style drastically different from any other medical drama. Add to that a cast of then-largely unknowns and [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T16:47:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Everybody Wants to F*ck Me\u2019 Review: Taron Egerton Does \u2018Obsession\u2019 to Every Woman on Earth in Cynical Horror Comedy That Trips Over Its Dick",
+      "url": "https://www.indiewire.com/criticism/movies/everybody-wants-to-fuck-me-movie-review-1235216509/",
+      "summary": "TIFF: A London soft boi gets cursed with his ultimate fantasy in a scattered movie that shares his fear of commitment.",
+      "source": "IndieWire",
+      "published": "2026-09-12T16:38:54+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Emmys Reveal More Presenters, Including Matthew McConaughey, Woody Harrelson, Sof\u00eda Vergara and John Mulaney",
+      "url": "https://www.thewrap.com/media-platforms/tv/emmys-presenters-matthew-mcconaughey-woody-harrelson/",
+      "summary": "The list also includes Stephen Amell, Julia Garner, LL Cool J, Emmy Rossum and newly minted Emmy winner Shailene Woodley The post Emmys Reveal More Presenters, Including Matthew McConaughey, Woody Harrelson, Sof\u00eda Vergara and John Mulaney appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T18:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Onwards and Sideways\u2019 Director John Madden on the Key Decision That Shaped the Parkinson\u2019s Drama",
+      "url": "https://www.thewrap.com/creative-content/movies/onwards-and-sideways-john-madden-laura-linney-rhys-ifans-interview/",
+      "summary": "TIFF 2026: The film stars Laura Linney and Rhys Ifans as two strangers diagnosed with Parkinson's disease at the same time The post \u2018Onwards and Sideways\u2019 Director John Madden on the Key Decision That Shaped the Parkinson\u2019s Drama appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T17:34:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Read the \u201960 Minutes\u2019 Memo Sent to Staff Ahead of Season Premiere Under New Leadership",
+      "url": "https://www.thewrap.com/media-platforms/tv/60-minutesn-leadership-memo-season-premiere/",
+      "summary": "The program's Sunday broadcast marks a major test for CBS News editor in chief Bari Weiss and her newly appointed executive producer Nick Bilton The post Read the \u201960 Minutes\u2019 Memo Sent to Staff Ahead of Season Premiere Under New Leadership appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T17:30:44+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Tim Blake Nelson Says \u2018It Has Never Been This Bad\u2019 for Independent Filmmaking",
+      "url": "https://www.thewrap.com/creative-content/movies/tim-blake-nelson-state-of-independent-film/",
+      "summary": "At a TIFF Director Spotlight conversation presented by TheWrap, the filmmaker and actor gets candid about the state of the industry The post Tim Blake Nelson Says \u2018It Has Never Been This Bad\u2019 for Independent Filmmaking appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T17:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018Crew Girl\u2019 Showrunner Unpacks That Finale Love Triangle Twist, Shares Hopes for More Seasons",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/crew-girl-season-1-finale-vivian-lin-showrunner-interview/",
+      "summary": "Vivian Lin also tells TheWrap about embodying a classic CW show and why she doesn't know who's endgame for Teagan yet The post \u2018Crew Girl\u2019 Showrunner Unpacks That Finale Love Triangle Twist, Shares Hopes for More Seasons appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T17:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Mr. Irrelevant\u2019 Trailer: David Corenswet Toughs and Smiles His Way to the NFL as Last Draft Pick John Tuggle",
+      "url": "https://www.indiewire.com/news/trailers/mr-irrelevant-trailer-david-corenswet-john-tuggle-1235216155/",
+      "summary": "Jonathan Levine directs the inspiring sports story that opens in theaters from Paramount and Skydance Sports on Christmas Day.",
+      "source": "IndieWire",
+      "published": "2026-09-13T17:25:54+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \u00a0\u201cI Was Lucky Coming Up\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
+      "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T17:24:48+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Javier Bardem Swears He Didn\u2019t Base His \u2018The Beloved\u2019 Director Character on Any of His Previous Collaborators",
+      "url": "https://www.thewrap.com/creative-content/movies/the-beloved-javier-bardem-interview-tiff-2026/",
+      "summary": "TIFF 2026: \u201cI haven't had any direct feedback from any of them, but I'm sure some of them are wondering, 'Is that me?'\" he tells TheWrap The post Javier Bardem Swears He Didn\u2019t Base His \u2018The Beloved\u2019 Director Character on Any of His Previous Collaborators appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T17:16:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Peacock Unveils Full Trailer & First-Look Photos For \u2018Crystal Lake\u2019 Series Starring Linda Cardellini",
+      "url": "https://deadline.com/2026/09/crystal-lake-trailer-first-look-photos-release-date-1236981497/",
+      "summary": "The full trailer for Peacock\u2019s Friday the 13th prequel series Crystal Lake, which arrives Oct. 15 on the streamer, has been released. From A24 and creator Brad Caleb Kane, Crystal Lake stars Linda Cardellini as Pam Voorhees, a single mother who has been unable to shake her grief after her young, sickly son Jason tragically [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T17:10:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Nick Bilton, Bari Weiss, Tom Cibrowski Send Congratulatory \u201960 Minutes\u2019 Memo to Staff Ahead of Season Premiere",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nick-bilton-bari-weiss-60-minutes-staff-memo-ahead-premiere-1236699615/",
+      "summary": "The memo comes after '60 Minutes' experienced a major staff overhaul in recent months.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T17:09:59+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Comedian Mojo Brookzz Bringing Debut Special  \u2018I Know You Lying\u2019 To Netflix In October",
+      "url": "https://deadline.com/2026/09/mojo-brookzz-netflix-special-premiere-date-1237076373/",
+      "summary": "EXCLUSIVE: Comedian Dyon \u201cMojo\u201d Brooks (aka Mojo Brookzz) has announced that his debut special, I Know You Lying, is set to premiere globally on Netflix on October 6. No word on what Brooks discusses in the special. Filmed at Atlanta\u2019s Center Stage Theatre in December 2025, it\u2019s directed by Mike \u201cHomeless Pimp\u201d Lavin and produced by 3 [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T17:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Seth Rogen Tells TIFF the Best Advice He\u2019s Ever Received: \u2018Less Semen, More Emotion!\u2019",
+      "url": "https://variety.com/2026/tv/news/seth-rogen-tiff-best-advice-semen-emotion-the-studio-judd-apatow-1236860532/",
+      "summary": "It\u2019s extraordinary just how prolific Seth Rogen has been. He began performing stand-up comedy at clubs around his native Vancouver at the age of 13 \u2014 around the time he and his buddy Evan Goldberg would write the first draft of \u201cSuperbad\u201d \u2014 before featuring in the Judd Apatow shows \u201cFreaks and Geeks\u201d and \u201cUndeclared,\u201d [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T16:58:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018River\u2019 Cast and Director Marvel at Pulling Off Their Long Days in the Water: \u2018This Shoot Was Not Easy\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/river-cast-shooting-on-water-jane-levy-jessica-rothe/",
+      "summary": "TIFF 2026: \"We were actually peeing on the side of the boat because it would take too long to get us back in,\" star Jessica Rothe recalls The post \u2018River\u2019 Cast and Director Marvel at Pulling Off Their Long Days in the Water: \u2018This Shoot Was Not Easy\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T16:57:17+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Teary-Eyed Kaley Cuoco Recalls Death of Her \u20188 Simple Rules\u2019 TV Dad John Ritter: \u2018One of the Worst Days of My Life\u2019",
+      "url": "https://variety.com/2026/tv/columns/kaley-cuoco-death-8-simple-rules-john-ritter-1236860467/",
+      "summary": "Kaley Cuoco stepped out Saturday night to pay tribute to her TV dad, John Ritter. She was starring as the television sitcom icon\u2019s daughter on \u201c8 Simple Rules\u201d in 2003 when Ritter suffered a fatal thoracic aortic dissection \u2013 a tearing of the heart\u2019s main artery \u2014 while on set. \u201cI always cry when I [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T16:50:57+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Chase Infiniti Reveals Her \u2018Cheat Code\u2019 for Playing a Math Prodigy in \u2018The Julia Set\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/chase-infiniti-interview-the-julia-set/",
+      "summary": "TIFF 2026: \u201cI would not call myself a genius in any sense of anything,\u201d the actress tells TheWrap The post Chase Infiniti Reveals Her \u2018Cheat Code\u2019 for Playing a Math Prodigy in \u2018The Julia Set\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T16:48:54+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "THR and SAG-AFTRA Toast This Year\u2019s Top TV Talent at Emmy Nominees Night",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sag-aftra-top-tv-talent-emmy-nominees-night-party-1236699499/",
+      "summary": "Stars from 'The Pitt,' 'Widow's Bay,' 'Pluribus,' 'Hacks' and 'Shrinking' came out for the Saturday night event, which was presented by Snapchat and Waymo.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T16:42:04+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Your Mother Your Mother Your Mother\u2019 Review: Mahershala Ali Is Astounding in Revelatory Action Thriller",
+      "url": "https://www.thewrap.com/creative-content/movies/your-mother-your-mother-your-mother-review-mahershala-ali/",
+      "summary": "TIFF 2026: Bassam Tariq asks big questions about faith against the backdrop of a hitman movie, and the result is nothing short of miraculous The post \u2018Your Mother Your Mother Your Mother\u2019 Review: Mahershala Ali Is Astounding in Revelatory Action Thriller appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T16:26:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Hollywood Ventures Group, Canada\u2019s\u00a0Big Picture Cinema Group, and Morocco\u2019s Pink Sheep Team on Casablanca-Set Thriller \u2018The Final Bet\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/hollywood-ventures-big-picture-cinema-morocco-final-bet-1236859412/",
+      "summary": "Hollywood Ventures Group (HVG), Canadian film finance and production outfit Big Picture Cinema Group, and Morocco\u2019s Pink Sheep Productions are teaming up to bring bestselling Moroccan crime thriller \u201cThe Final Bet\u201d to the big screen. The acclaimed Casablanca-set thriller by Moroccan author and award-winning screenwriter Abdelilah Hamdouchi was first published in 2001. It is touted as [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T16:21:39+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "\u2018Practical Magic 2\u2019 Summons $30M to End Spider-Man\u2019s Streak at No. 1",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+      "summary": "Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T16:17:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Pretenders\u2019 Review: Chrissie Hynde Doesn\u2019t Enjoy Telling Her Story, But You Might Enjoy Watching It",
+      "url": "https://www.thewrap.com/creative-content/movies/pretenders-documentary-review-chrissie-hynde/",
+      "summary": "Toronto Film Festival: Hynde comes across as both wildly frank and thoroughly cautious as she talks about her life and career The post \u2018Pretenders\u2019 Review: Chrissie Hynde Doesn\u2019t Enjoy Telling Her Story, But You Might Enjoy Watching It appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-13T16:17:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nike Unveils Alex Eala T-Shirt Inspired by Tennis Phenom\u2019s Filipino Heritage",
+      "url": "https://variety.com/2026/shopping/news/nike-alexandra-eala-t-shirt-sampaguita-shop-online-1236860470/",
+      "summary": "Nike is honoring rising tennis star Alexandra Eala with her very own T-shirt, inspired by her Filipino heritage. Fresh off her maiden WTA 500 title at the Washington Open, and a third-round appearance at the recent U.S. Open, the 21-year-old\u2019s name adorns the back of this unisex tee, surrounded by a sampaguita motif, paying homage [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T16:15:19+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Box Office: \u2018Practical Magic 2\u2019 Fizzles With $30 Million Debut",
+      "url": "https://variety.com/2026/film/box-office/practical-magic-2-box-office-opening-weekend-disappointment-1236860432/",
+      "summary": "Whatever spell conjured by the witchy Owens sisters, played onscreen by Sandra Bullock and Nicole Kidman in two \u201cPractical Magic\u201d movies, wasn\u2019t powerful enough to lure audiences to theaters. Despite a first-place finish, \u201cPractical Magic 2\u201d disappointed in its box office debut with $30 million from 4,146 North American theaters, arriving on the lower end [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T16:02:37+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Practical Magic 2,\u2019 the Sequel to a 28-Year-Old Box Office Bomb, Opens to Lackluster $30 Million",
+      "url": "https://www.indiewire.com/news/box-office/practical-magic-2-box-office-bomb-sandra-bullock-nicole-kidman-1235216664/",
+      "summary": "Hey Hollywood, stop giving us sequels we didn't ask for to movies that opened way too long ago for us to care.",
+      "source": "IndieWire",
+      "published": "2026-09-13T16:01:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "How Susanna White Brought Lauded One-Woman Play \u2018Prima Facie\u2019 to the Big Screen (Casting Cynthia Erivo Helped)",
+      "url": "https://www.indiewire.com/features/interviews/prima-facie-movie-adaptation-susanna-white-cynthia-erivo-1235216255/",
+      "summary": "TIFF: The director tells IndieWire that turning the celebrated one-woman play into a feature film with multiple locations, characters, and some extremely demanding scenes was exactly the kind of challenge she loves. Plus: a major star.",
+      "source": "IndieWire",
+      "published": "2026-09-13T16:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Severance\u2019 Producer Nicholas Weinstock Boards Indian Fantasy-Horror \u2018Tongue\u2019 Starring Sayani Gupta (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472/",
+      "summary": "Nicholas Weinstock, executive producer of the Apple TV+ series \u201cSeverance,\u201d has boarded \u201cTongue,\u201d an Indian fantasy-horror feature written and directed by Krishnarjun Bhattacharya and starring Sayani Gupta. Weinstock produces through his banner Invention Studios alongside Divya D\u2019Souza, with Gupta serving as the film\u2019s Indian producer. The film earned a spot in the South Asian Canadian [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T15:54:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Practical Magic 2\u2019 Brews Up $46M WW In Global Opening",
+      "url": "https://deadline.com/2026/09/box-office-practical-magic-2-global-1237100627/",
+      "summary": "Warner Bros/Alcon\u2019s Practical Magic 2 wound up flying to a $46M global debut, with $16M overseas and $30M domestic. Note the sequel to this Sandra Bullock and Nicole Kidman 1990s property is stateside driven, so expect a bulk of the gross to come from there. However, the $16M start is under the $18M-$23M that the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T15:52:09+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Union Town\u2019 Review: Barbara Kopple\u2019s Labor Rights Documentary Is Both Aptly Angry and Optimistically Community-Minded",
+      "url": "https://variety.com/2026/film/reviews/union-town-review-1236854414/",
+      "summary": "Across the harrowing financial realities of late capitalism, an indisputable global fact is the injustices faced by countless workers who deliver everything we have come to rely on, from food orders to Amazon purchases. Despite their hard work under unideal, sometimes even unsafe conditions, it\u2019s no secret that delivery staff have been barely compensated with [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T15:45:25+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018The Remotes\u2019 Review: John Torres\u2019 Sci-Fi Noir is an Unshakable Film About a Sinister Navigation App",
+      "url": "https://www.indiewire.com/criticism/movies/the-remotes-movie-review-philippine-new-wave-1235216715/",
+      "summary": "The Philippine New Wave filmmaker's first narrative feature is a gorgeous, frustrating, addictive mediation on grief and national history.",
+      "source": "IndieWire",
+      "published": "2026-09-13T15:44:15+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Celine Dion Makes Tearful Return to the Stage in Paris For First Concert in Six Years",
+      "url": "https://www.hollywoodreporter.com/music/music-news/celine-dion-return-stage-paris-residency-concert-1236699408/",
+      "summary": "Dion opened her nearly 30-night residency at the Plenitude Arena on Saturday night, her first concert since revealing she'd been diagnosed with Stiff Person Syndrome back in 2022.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T15:42:34+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Angh\u2019 Cinematographer on How He Captured the Film\u2019s Challenging Nighttime Sequences",
+      "url": "https://variety.com/2026/artisans/news/angh-cinematography-adam-pietkiewicz-1236846097/",
+      "summary": "Cinematographer Adam Pietkiewicz has been dealing with patchy internet over the past few days. He and his crew have been sailing on the Baltic Sea and have finally docked at an undisclosed location in northeastern Poland. In a few weeks, Pietkiewicz will attend the Toronto International Film Festival to accept the Variety TIFF Artisan Award [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T15:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "TNT\u2019s Iraq War Drama \u2018High Value Target: The Hunt for Saddam\u2019 Is Dull and Deeply Disturbing: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/high-value-target-the-hunt-for-saddam-review-tnt-1236854909/",
+      "summary": "Twenty-three years after the United States invaded Iraq, the American public now knows that despite his horrific reign and brutal dictatorship, Saddam Hussein never had any weapons of mass destruction. Based on former CIA analyst John Nixon\u2019s 2016 memoir \u201cDebriefing the President,\u201d and adapted for television by Daniel Stiepleman and Jonathan Wakeham, TNT\u2019s limited series, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T15:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Crystal Lake\u2019 Trailer Sends Linda Cardellini\u2019s Pam Voorhees Over the Edge",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/peacock-crystal-lake-trailer-linda-cardellini-1236697632/",
+      "summary": "The 'Friday the 13th' prequel series premieres in October on Peacock.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T15:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bertil Nilsson\u2019s TIFF Film \u2018Masc\u2019 Explores Intersectionality Of Queer, Biracial, Autistic Experience \u2014 Clip",
+      "url": "https://deadline.com/2026/09/bertil-nilsson-tiff-masc-clip-1237100332/",
+      "summary": "In Bertil Nillson\u2019s feature directorial debut Masc, the writer/director teams up with co-writer and star Joshua Griffin to share a story of intersectionality and self-love. Making its world premiere last night in TIFF\u2019s Next Wave Selects section, Masc stars Griffin as Robin, a queer, biracial man on the autism spectrum, who struggles over a year [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Betty Thomas, Billy Crystal & The Curious Case Of The Emmy-Thieving Imposter",
+      "url": "https://deadline.com/2026/09/betty-thomas-billy-crystal-barry-bremen-emmys-imposter-1237100046/",
+      "summary": "On Sept. 22, 1985, the Pasadena Civic Auditorium was filled with 2,700 members of the year\u2019s television elite, gathered together for the 37th Annual Primetime Emmy Awards. Hosted by Dynasty star John Forsythe, the ceremony was broadcast on ABC to 15.8 million homes \u2013 a staggering number today \u2013 and the stage was set to [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Ali Asgari Doesn\u2019t Believe in a Bright Future After Iran\u2019s January Massacre \u2013 Just \u2018A Bit of Light\u2019",
+      "url": "https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323/",
+      "summary": "Iranian director Ali Asgari has no desire to repeat clich\u00e9s about great expectations for things to come. \u201cIn Iran, we don\u2019t have high hopes for the future anymore,\u201d he states. \u201cWe\u2019ve been waiting for good news for so many years, and it never came. But I do believe in these small specks of light. For [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-13T14:59:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \u201cI Want to Find the Steeper Hill to Go Down\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/kaelen-ohm-talks-bringing-inner-extreme-skier-to-film-roles-1236689571/",
+      "summary": "Star turns in 'Hit & Run,' 'From' and 'The Betrayers' thriller this year at the Toronto Film Festival have got Ohm onto everyone's call sheets in Canada.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T14:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018Your Mother Your Mother Your Mother\u2019 Review: Mahershala Ali Is a Marvel in a Gripping Crime Film With a Big, Aching Heart",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/your-mother-your-mother-your-mother-review-mahershala-ali-1236699560/",
+      "summary": "The two-time Oscar winner plays a devout Muslim and contract killer forced to care for his three kids after his wife dies in Bassam Tariq's Texas-set thriller.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T14:28:36+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": true,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Midnight Madness! A Caped Canadian Prime Minister Stars In \u2018Ladies And Gentlemen, Brian Mulroney\u2019 \u2013 Toronto Film Festival",
+      "url": "https://deadline.com/2026/09/ladies-and-gentlemen-brian-mulroney-toronto-film-festival-1237100505/",
+      "summary": "Canada\u2019s prime minister, Mark Carney, attended the opening of the Toronto Film Festival last year, helping introduce the documentary John Candy: I Like Me. This year, a former Canadian PM, Brian Mulroney, is appearing at TIFF, in a manner of speaking. The Conservative Party politician, who served from 1984-1993, stars in Ladies and Gentlemen, Brian [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Scooby-Doo: Origins\u2019 Season 1 Production Has Rrrr-Wrapped",
+      "url": "https://deadline.com/2026/09/scooby-doo-origins-season-1-production-wraps-1237099453/",
+      "summary": "The cast, crew and star of Scooby-Doo: Origins can finally take a pawse, as production has wrapped on the first season of the upcoming Netflix live-action series. It\u2019s slated to premiere globally on the streamer in 2027. For the first time in Scooby-Doo franchise history, the title character is being portrayed by a real Great [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-13T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018How We Stand\u2019 Director on Recasting 1950s American Indians Relocation Legacy: \u201cIt\u2019s Such an Epic Story\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/how-we-stand-film-director-interview-toronto-2026-tiff-1236683328/",
+      "summary": "Marie Clements' drama about a single mother and three daughters separated by tragedy after resettling for new lives in 1950s Los Angeles will world premiere at the Toronto Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Israel, Palestine and the Films No One Will Buy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/israel-palestine-films-no-one-will-buy-toronto-1236699243/",
+      "summary": "From Palestinian-focused Watermelon Pictures to new Jewish financing platform Shooq, a parallel industry is forming around the films the majors won't touch.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-13T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 7
+    },
+    {
+      "title": "Why Making Beth de Ara\u00fajo\u2019s \u2018Josephine\u2019 with a Real Kid Had to Be Nothing but Safe",
+      "url": "https://www.indiewire.com/features/interviews/how-beth-de-araujo-josephine-was-made-safely-1235216361/",
+      "summary": "TIFF: As the Sundance winner readies for its fall release, writer/director Ara\u00fajo and star Gemma Chan tell IndieWire how they ensured their revelatory child star Mason Reeves had the best time possible making her first film.",
+      "source": "IndieWire",
+      "published": "2026-09-13T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "\u2018Babies\u2019 Review: Anna Kendrick and Seth Rogen Debate Parenthood in Lauren Miller Rogen\u2019s Warm, Wise Comedy",
+      "url": "https://www.indiewire.com/criticism/movies/babies-review-anna-kendrick-seth-rogen-1235216694/",
+      "summary": "TIFF: The magic of the film lies in the way it elegantly tackles the idea that having kids is the only \u201cnormal\u201d way for someone to be.",
+      "source": "IndieWire",
+      "published": "2026-09-13T13:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "How Teens and Endurance Tests Helped Sailing Doc \u2018Mighty Mary\u2019 Go the Distance",
+      "url": "https://www.indiewire.com/features/craft/mighty-mary-americas-cup-documentary-director-interview-1235216249/",
+      "summary": "Director Mary Mazzio tells IndieWire about putting the story of the first all-women's team at the America's Cup before the world's harshest critics.",
+      "source": "IndieWire",
+      "published": "2026-09-13T13:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    }
+  ],
+  "selected_urls": [
+    "https://www.hollywoodreporter.com/business/business-news/paramount-warner-brothers-california-exit-threat-economy-1236699278/",
+    "https://www.thewrap.com/creative-content/movies/julian-director-louise-bagnall-interview-tiff-2026/",
+    "https://www.thewrap.com/creative-content/tv-shows/crew-girl-season-1-finale-vivian-lin-showrunner-interview/",
+    "https://www.hollywoodreporter.com/movies/movie-news/how-we-stand-film-director-interview-toronto-2026-tiff-1236683328/",
+    "https://www.hollywoodreporter.com/movies/movie-news/israel-palestine-films-no-one-will-buy-toronto-1236699243/",
+    "https://deadline.com/2026/09/ladies-and-gentlemen-brian-mulroney-toronto-film-festival-1237100505/",
+    "https://www.thewrap.com/industry-news/business/paramount-leaving-california-economic-impact/",
+    "https://www.hollywoodreporter.com/tv/tv-news/nick-bilton-bari-weiss-60-minutes-staff-memo-ahead-premiere-1236699615/",
+    "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/",
+    "https://variety.com/2026/gaming/news/animal-hospital-roblox-innovation-awards-20th-anniversary-1236860184/",
+    "https://www.thewrap.com/creative-content/movies/chase-infiniti-interview-the-julia-set/",
+    "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/alan-ritchson-wife-catherine-split-1236699285/",
+    "https://www.thewrap.com/creative-content/movies/your-mother-your-mother-your-mother-review-mahershala-ali/",
+    "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/",
+    "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sag-aftra-top-tv-talent-emmy-nominees-night-party-1236699499/",
+    "https://variety.com/2026/film/awards/misty-green-oscars-rosalind-eleazar-chris-rock-tiff-1236859652/"
+  ]
+}

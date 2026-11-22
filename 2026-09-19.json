@@ -1,0 +1,978 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-19",
+  "captured_at": "2026-09-19T03:00:58.393105",
+  "score_fn_hash": "093f59b0",
+  "raw_count": 53,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "Spain\u2019s SETT Drives $521 Million Investment Push to Build Global Audiovisual Players",
+      "url": "https://variety.com/2026/global/global/sett-spain-audiovisual-hub-anima-kitchent-good-films-1236846260/",
+      "summary": "No Spanish industry initiative is likely to drive more conversation at this year\u2019s San Sebasti\u00e1n Festival than the latest moves by the Spanish Society for Technological Transformation (SETT). Over the past 12 months, state-backed venture capital fund SETT, the investment driver of the Spain Audiovisual Hub, has plowed \u20ac215.6 million ($252.3 million) into Spain\u2019s film, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T09:55:02+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Naomi Watts Believes Standards Have Changed for Older Women in the Industry: \u2018Look at the Emmys Last Week\u2026 That\u2019s Heartening to See\u2019",
+      "url": "https://variety.com/2026/film/global/naomi-watts-older-women-in-the-industry-emmys-san-sebastian-1236867602/",
+      "summary": "British actor Naomi Watts, at the San Sebasti\u00e1n Film Festival to receive this year\u2019s prestigious Donostia Award, spoke about opportunities in the industry for women over 50. Talking a week after Sarah Paulson told Variety about the lack of film offers following her spellbinding portrait of Marcia Clark in \u201cThe People v. O.J. Simpson: American [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T09:48:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Naomi Watts Says She\u2019d Like To Work With Paul Thomas Anderson & Praises The Advancements Older Women Have Made In Hollywood \u2014 San Sebasti\u00e1n",
+      "url": "https://deadline.com/2026/09/naomi-watts-paul-thomas-anderson-san-sebastian-1237108327/",
+      "summary": "\u201cI started, by Hollywood standards, quite late,\u201d Naomi Watts began this morning when quizzed on whether the treatment of older women in Hollywood has improved during a press conference at the San Sebasti\u00e1n Film Festival. The British-Aussie actor is at the Spanish festival to receive an honorary Donostia Award for career achievement. \u201cI launched with [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-19T09:26:10+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Writer-Star Berto Romero, Director Javier Ruiz Caldera Unpack San Sebastian Buzz Title \u20185 More Minutes\u2019: \u2018Characters and Audience Should Feel Every Second\u2019s Weight\u2019",
+      "url": "https://variety.com/2026/film/global/5-more-minutes-berto-romero-javier-camara-san-sebastian-1236855174/",
+      "summary": "World-premiering in San Sebasti\u00e1n main competition, Javier Ruiz Caldera\u2019s time-warping drama \u20185 More Minutes\u2019 (\u20185 Minutos M\u00e1s\u2019) suggests one way an on-the rocks relationship may come closer together again: by plunging them into the makings of a global apocalypse. Writer-star Berto Romero (\u201cThe Other Side\u201d) and Belen Cuesta (\u201cThe Endless Trench\u201d) play a couple who [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T08:38:13+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lego\u2019s \u2018Ninjago Legends: Duskfall\u2019 Anime-Style Shorts Premiere in Korea Ahead of YouTube Release",
+      "url": "https://variety.com/2026/tv/global/legos-ninjago-legends-duskfall-premiere-youtube-1236866920/",
+      "summary": "\u201cNinjago Legends: Duskfall\u201d is premiering in Korea this weekend ahead of a worldwide release on Lego\u2019s YouTube channel. The anime-style shorts feature some of \u201cNinjago\u2019s\u201d most beloved characters as they encounter new challenges and new battles while bringing back some familiar voices from the original show as well as \u201cNinjago Dragons Rising.\u201d The series of [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T07:01:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Portugal\u2019s Queer Lisboa Celebrates 30th Anniversary With Vast Showcase of Latest LGBTQ Titles, Dose of Radical 1970s Counterculture and Family Fare",
+      "url": "https://variety.com/2026/film/global/portugal-queer-lisboa-lgbtq-1236867311/",
+      "summary": "Celebrating its 30th anniversary this year, Portugal\u2019s preeminent Queer Lisboa \u2013 International Queer Film Festival kicked off Friday with a vast program showcasing the latest in LGBTQ cinema, from established filmmakers to new voices, and a look back at the underground counterculture and revolutionary works of activist filmmakers on both sides of the Atlantic. Lisbon\u2019s [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T06:44:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018It\u2019s My Most Personal Film,\u2019 Says Director Rodrigo Garc\u00eda Saiz of His San Sebastian New Directors Title, \u2018Morro\u2019",
+      "url": "https://variety.com/2026/film/global/irodrigo-garcia-saiz-san-sebastian-new-directors-morro-1236856801/",
+      "summary": "A dog is indeed a man\u2019s best friend. A New Directors contender at the San Sebasti\u00e1n Film Festival, \u201cMorro\u201d explores the unlikely bond between a man and the dog he inadvertently adopts. It is Rodrigo Garcia Saiz\u2019s (\u201cLluvia\u201d) sophomore feature and, by his own account, his most personal film to date. The titular Morro is [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T06:28:12+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hudson Williams Shares How \u201cSurreal\u201d It Was for Him and Connor Storrie to Return to \u2018Heated Rivalry\u2019 Set",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-heated-rivalry-tiff-conversation-1236705982/",
+      "summary": "The 26-year-old actor also teased what fans can expect in season two of the hit hockey romance drama: \"If season one/book one is the yearning season, book two is external adversity and [relationship] communication problems.\"",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-19T05:06:27+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "World Premiering at San Sebasti\u00e1n, Igor Legarreta Describes His Third Film \u2018The Blind Ants\u2019 as a Coastal Western Set in the Basque Country",
+      "url": "https://variety.com/2026/film/global/igor-legarreta-the-blind-ants-san-sebastian-lamia-lazona-1236862823/",
+      "summary": "\u201cThe Blind Ants\u201d (\u201cInurri Itsuak\u201d), the third feature by director Igor Legarreta (\u201cAll the Moons,\u201d \u201cWhen You Stop Loving Me\u201d), had it world premiere on Sept. 18 at the 74th San Sebasti\u00e1n International Film Festival. Part of the Zinemira section, which is dedicated to Basque productions, the film is competing for the Irizar Award for [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-19T05:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Duncan Sheik Remembered: Lea Michele, Melissa Barrera and More Pay Tribute to Late Musician",
+      "url": "https://www.thewrap.com/creative-content/theater/duncan-sheik-tributes-lea-michele-melissa-barrera-more/",
+      "summary": "\"This one hurts and does not seem real,\" the \"Glee\" alum, who starred in Sheik's \"Spring Awakening\" musical, writes The post Duncan Sheik Remembered: Lea Michele, Melissa Barrera and More Pay Tribute to Late Musician appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T04:41:56+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Trying to Picture Doomsday? 1983\u2019s \u2018WarGames\u2019 Already Showed Us One Way AI Could End the World",
+      "url": "https://www.indiewire.com/news/general-news/wargames-rewatch-1983-apocalypse-ai-thriller-1235216407/",
+      "summary": "After a former Anthropic researcher warned that humanity's extinction could be as close as 2030, John Badham\u2019s cyber thriller offers a frighteningly clear answer to the question: \"OK, how ?\"",
+      "source": "IndieWire",
+      "published": "2026-09-19T03:59:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Comedian Carrot Top Hospitalized Following Suicide Attempt",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/comedian-carrot-top-hospitalized-following-suicide-attempt/",
+      "summary": "\"His family and those closest to him are deeply grateful for the concern, prayers and respectfully ask for privacy,\" his rep tells TheWrap The post Comedian Carrot Top Hospitalized Following Suicide Attempt appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T03:57:21+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Gerrit Graham Dead: \u2018Star Trek\u2019 & \u2018Phantom of the Paradise\u2019 Actor Was 76",
+      "url": "https://deadline.com/2026/09/gerrit-graham-dead-1237108310/",
+      "summary": "Gerrit Graham, the actor known for roles in Phantom of the Paradise (1974) and Star Trek, has died. He was 76. The actor died of lung disease and other health complications on Tuesday in Rhinebeck, NY, according to Variety. Born Nov. 27, 1949 in New York City, Graham trained at Columbia University, where he was [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-19T03:28:21+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bill Maher Revives Macklemore\u2019s Antisemitic Costume Controversy Amid Ed Sheeran Fallout",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-calls-out-macklemore-antisemitic-costume-controversy-after-ed-sheeran-drama/",
+      "summary": "\"Everyone is just really so stupid,\" the comedian says The post Bill Maher Revives Macklemore\u2019s Antisemitic Costume Controversy Amid Ed Sheeran Fallout appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T03:04:01+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Murderous\u2019 Review: Neil LaBute\u2019s New Film Is Undone by Its Overly Familiar Premise and Obvious Plot Machinations",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/murderous-review-neil-labute-thomas-sadoski-1236705377/",
+      "summary": "A successful filmmaker receives an unwelcome visit from a former collaborator in this thriller receiving its world premiere at the Oldenburg International Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-19T02:57:57+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Deadline\u2019s L.A. Law Summit: Nina Shaw & Patricia Glaser Honored On Day Of Big Ideas, Big Insights; Watch The Video Presentations",
+      "url": "https://deadline.com/2026/09/patricia-glaser-nina-west-honored-1237107005/",
+      "summary": "Deadline\u2019s inaugural L.A. Law Summit honored two powerhouses of the profession with awards Thursday for Patricia Glaser and Nina Shaw \u201cIf you\u2019re perceived, and underline the word perceived, as good, the sky\u2019s the limit in Los Angeles,\u201d Glaser told a packed house at Deadline\u2019s L.A. Law Summit on Thursday at the conference with Los Angeles\u2019 [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-19T02:17:31+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Best Films of the Fall Festivals: THR Critics\u2019 Picks",
+      "url": "https://www.hollywoodreporter.com/lists/best-films-fall-festivals-2026-venice-toronto-telluride/",
+      "summary": "A shape-shifting Elizabeth Holmes doc, a star vehicle for Mahershala Ali, and new gems from Mike Leigh and Lee Chang-dong were among THR reviewers\u2019 13 favorite world premieres out of Venice, Telluride and Toronto.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-19T02:08:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Darlene Love: I Know Where I\u2019ve Been\u2019 Review: A Stirring Pop Doc Traces How the Great Singer of \u2018He\u2019s a Rebel\u2019 and Other Classics Reclaimed Her Name",
+      "url": "https://variety.com/2026/film/reviews/darlene-love-i-know-where-ive-been-review-1236865848/",
+      "summary": "\"Darlene Love: I Know Where I\u2019ve Been\" tracks the unique fusion of glory, injustice, fleeting opportunity, dashed dreams, resilience, and latter-day recognition that defines her story. The movie, like Love\u2019s life and career, is a one-of-a-kind ride, and by the end you don\u2019t just feel like you know and understand this remarkable artist. You feel closer to the center of the mysteries of pop.",
+      "source": "Variety",
+      "published": "2026-09-19T02:02:24+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "White House Correspondents\u2019 Association Condemns Trump\u2019s Journalist Ban as a Constitutional Breach",
+      "url": "https://www.thewrap.com/media-platforms/journalism/white-house-correspondents-association-condemns-trump-ban/",
+      "summary": "WHCA President Jacqui Heinrich defends journalists \"who are being singled out for doing their jobs\" in a statement shared online The post White House Correspondents\u2019 Association Condemns Trump\u2019s Journalist Ban as a Constitutional Breach appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T02:00:32+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hundreds Form Human Chain Around Kennedy Center in Protest of Trump\u2019s Plans: \u2018Hands Off\u2019",
+      "url": "https://www.thewrap.com/media-platforms/politics/kennedy-center-human-chain-protest-trump/",
+      "summary": "The demonstration is led by the Hands Off the Arts advocacy group The post Hundreds Form Human Chain Around Kennedy Center in Protest of Trump\u2019s Plans: \u2018Hands Off\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T01:46:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Chris Brown Turns on Texas Rep. as Congressional Honor Causes Controversy",
+      "url": "https://www.hollywoodreporter.com/music/music-news/chris-brown-jasmine-crockett-venton-jones-texas-honor-backlash-1236705949/",
+      "summary": "The singer thanked Jasmine Crockett but blasted Venton Jones after the state rep tried to walk back their AT&T Stadium tribute amid domestic violence backlash.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-19T01:46:04+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lollipop Chainsaw\u2019: Cult Japanese Video Game Getting The Live Action Feature Treatment",
+      "url": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
+      "summary": "EXCLUSIVE: Cult Japanese video game Lollipop Chainsaw is heading to the big screen. Deadline can reveal that a live action feature version is in the works as the game\u2019s creators look to establish \u201ca new model for building globally recognized entertainment franchises from Asia.\u201d The latest Lollipop Chainsaw video game launches soon alongside an animated [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-19T01:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kohner Agency Lays Off Its Talent Agents Due To \u201cProfound & Unprecedented Economic Pressures\u201d",
+      "url": "https://deadline.com/2026/09/the-kohner-agency-layoffs-talent-agents-downsizing-1237108249/",
+      "summary": "EXCLUSIVE: The Kohner Agency is downsizing. Its three talent agents have been laid off. The talent department will stay open to service existing contracts and collect commission only. Owner and President Pearl Wexler stresses that the agency, which has been in business for almost 90 years, is not closing. Its literary department is staying put, [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-19T01:13:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Up Against It\u2019 Review: A Toothless Rom-Com Misfire With an Overqualified Antonio Banderas",
+      "url": "https://www.thewrap.com/creative-content/movies/up-against-it-review-trudie-styler-antonio-banderas-tiff/",
+      "summary": "TIFF 2026: There\u2019s a confident, thorny message somewhere in Trudie Styler\u2019s film co-starring Eva Birthistle, but it's too shy to come out of hiding The post \u2018Up Against It\u2019 Review: A Toothless Rom-Com Misfire With an Overqualified Antonio Banderas appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T00:47:47+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018VisionQuest\u2019 Creator Terry Matalas Says No GenAI Was Used In Making Of Show: \u201cThere Hasn\u2019t Really Been A Need\u201d",
+      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
+      "summary": "Despite VisionQuest\u2018s subject matter as the first solo outing of the title artificial intelligence, the Marvel series kept things strictly human-made. Series creator Terry Matalas recently confirmed there was no GenAI used in the making of the Disney+ series, which debuts Oct. 14 on the streamer, noting there wasn\u2019t \u201ca need\u201d for the tech. \u201cNo, [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-19T00:40:52+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Between \u2018The Love Hypothesis\u2019 and \u2018Adults,\u2019 Rachel Marsh\u2019s Breakout Moment Is Here",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/next-big-thing-rachel-marsh-the-love-hypothesis-1236705607/",
+      "summary": "The 34-year-old, fresh off a viral turn in the new season FX's 'Adults,' is jumping into the world of romantic comedies, playing Anh in Prime Video's adaptation of 'The Love Hypothesis.'",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-19T00:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nick Reiner Argues His Trust Money Is From Grandfather Carl and Exempt From \u2018Slayer Statute\u2019",
+      "url": "https://www.thewrap.com/industry-news/public-policy-legal/nick-reiner-trust-money-grandfather-carl-exempt-slayer-statute/",
+      "summary": "\"Nick is not accused of causing his death,\" the filing from Rob Reiner's son's legal team notes The post Nick Reiner Argues His Trust Money Is From Grandfather Carl and Exempt From \u2018Slayer Statute\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T00:21:43+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nicolle Wallace Blasts Trump\u2019s MS NOW White House Ban: \u2018Authoritarian in Nature\u2019",
+      "url": "https://www.thewrap.com/media-platforms/journalism/nicolle-wallace-blasts-trump-ms-now-ban-video/",
+      "summary": "\"He wants people to be afraid to cover him aggressively,\" the \"Deadline: White House\" host says The post Nicolle Wallace Blasts Trump\u2019s MS NOW White House Ban: \u2018Authoritarian in Nature\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-19T00:05:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Where to Buy Engagement Rings Online, From Classic Cuts to Sustainable Picks",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/where-to-buy-best-engagement-rings-online-shopping-1236204809/",
+      "summary": "Whether you're looking for edgy styles, classic cuts or lab-grown faves, these online retailers may have your dream ring.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T23:51:19+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount And State AGs Begin Preliminary Talks Ahead Of October Settlement Meetings",
+      "url": "https://deadline.com/2026/09/paramount-antitrust-lawsuit-negotiations-1237108152/",
+      "summary": "They\u2019re talking! Or are they? And what are they actually talking about? Does everyone need to chill out? Paramount and state attorneys general are talking, we are told. However, the discussions that are occurring over coming to a deal in the battle over Paramount\u2019s $111 billion merger with Warner Bros Discovery are far from advanced. [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T23:44:12+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "NFL on Sling TV 2026: Here\u2019s How to Watch Minnesota Vikings vs. Chicago Bears Game Live Online",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-min-vikings-vs-chi-bears-live-online-sling-tv-1236867237/",
+      "summary": "It\u2019s week two in the NFL season and we\u2019re already seeing a big rivalry game between two NFC North teams. Although both the Vikings and the Bears are 1-0 on the season, this game has a little more weight since it\u2019s a division matchup. Whichever teams wins this Sunday, they\u2019re one step closer to winning [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T23:30:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount and California AG Reportedly Closing in on a Settlement",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-and-california-ag-reportedly-closing-in-on-a-settlement-1236705848/",
+      "summary": "Per the Wall Street Journal, the two sides are in \u201cadvanced talks\u201d to resolve the case. A spokesperson for California Attorney General Rob Bonta's office said the discussions are \u201cconfidential.\u201d",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T23:20:53+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount, California AG Rob Bonta in Advanced Talks to Settle Warner Bros. Merger Lawsuit",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-rob-bonta-warner-bros-merger-lawsuit-advanced-settlement-talks/",
+      "summary": "The two sides have reportedly discussed operating the two companies\u2019 movie studios separately for a period of time as a potential compromise The post Paramount, California AG Rob Bonta in Advanced Talks to Settle Warner Bros. Merger Lawsuit appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T23:16:37+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Wilson Lays Down \u2018The History of Concrete\u2019 With \u2018The Weight\u2019, \u2018Shaun The Sheep\u2019 In Packed Indie Weekend \u2013 Specialty Preview",
+      "url": "https://deadline.com/2026/09/indie-films-opening-the-weight-history-of-concrete-aardman-1237108082/",
+      "summary": "It\u2019s a busy specialty weekend with fewer new studio releases. Well-reviewed Depression-era western The Weight starring Ethan Hawke and Russell Crowe in wide release joins comedic doc The History of Concrete by John Wilson in an exclusive engagement. GKids opens Shaun the Sheep: The Beast of Mossy Bottom and Johnny Knoxville stars in R-rated Tiny [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T23:15:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Angelina Jolie and Salma Hayek Pinault on Their New Film \u2018Without Blood\u2019 and Spending \u2018A Lot of Time Talking About Our Pain, Our Losses, Our Traumas\u2019",
+      "url": "https://variety.com/2026/film/columns/angelina-jolie-salma-hayek-without-blood-pain-losses-traumas-1236867367/",
+      "summary": "In \u201cWithout Blood,\u201d written and directed by Angelina Jolie, Salma Hayek plays Nina, a woman who spends her adult life looking for the three men responsible for the wartime murder of her father and brother when she was just a child. In two of the cases, her revenge is fatal. But then she meets the [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T23:12:13+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Sweet Magnolias\u2019 Canceled at Netflix After Five Seasons",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797/",
+      "summary": "Showrunner Sheryl J. Anderson and star JoAnna Garcia Swisher, however, are prepping a new series called 'Ladies of the House.'",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T23:05:04+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nick Reiner Pushes for Release of Trust Money to Fund Criminal Trial in New Court Filings",
+      "url": "https://www.hollywoodreporter.com/business/business-news/nick-reiner-trust-lawsuit-update-1236705763/",
+      "summary": "He's suing his trust's fiduciary, who previously served as Britney Spears' conservator after her father was removed from the role.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T22:58:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The Top 21 New Movies Streaming Now",
+      "url": "https://www.thewrap.com/creative-content/movies/best-new-streaming-movies-september-2026/",
+      "summary": "Including Star Wars and superheroes and BookTok, oh my! The post The Top 21 New Movies Streaming Now appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T22:57:30+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Book-To-Movie Adaptations Coming Out In 2026",
+      "url": "https://deadline.com/feature/book-to-movie-adaptations-1236035322/",
+      "summary": "Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry\u2019s People We Meet on Vacation, which hit Netflix in January, to the Ridley Scott-directed adaptation of The Dog Stars starring Jacob Elordi, Josh Brolin and Margaret Qualley coming in August, several major [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T22:54:39+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 Scaring Up $50M+ U.S. Franchise Record Opening \u2013 Update",
+      "url": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
+      "summary": "FRIDAY PM UPDATE: Zach Cregger\u2019s Resident Evil is bound for the best opening this franchise has ever seen in its 24 years of feature existence; this weekend armed up with at least $50M, and a chance for more. It\u2019s also the best domestic start ever for Cregger as a filmmaker, unloading Weapons ($43.5M). Today plus [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T22:33:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire\u2019s Future of Filmmaking Summit",
+      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/",
+      "summary": "The \"Project Hail Mary\" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.",
+      "source": "IndieWire",
+      "published": "2026-09-18T22:30:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Everything We Know About Netflix\u2019s New \u2018Pride & Prejudice\u2019 Series So Far",
+      "url": "https://deadline.com/feature/netflix-pride-amp-prejudice-series-news-updates-1236968654/",
+      "summary": "The misty moors will be back on the screen \u2014 the small screen this time \u2014 in a new version of Pride & Prejudice by Jane Austen. Headed to Netflix this fall, the series stars a cast of some familiar and some young up and comers, with some well known creative names attached. For everything [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T22:20:27+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Cody Fern Recalls Filming \u2018House Of Cards\u2019 When The Kevin Spacey \u201cNuclear Bomb Hit\u201d",
+      "url": "https://deadline.com/2026/09/cody-fern-house-of-cards-kevin-spacey-nuclear-bomb-1237108089/",
+      "summary": "Nearly eight years later, Cody Fern is looking back on his time on Netflix\u2019s final season of House of Cards, amid the firing of Kevin Spacey. While discussing his feature directorial debut Closing Night at TIFF, the actor recalled playing \u201cthe main villain\u201d on the sixth and final season, before \u201cthe nuclear bomb hit\u201d the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T22:14:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Best of the Best\u2019 Pulls Off the Perfect Heist Through Its Dance Numbers",
+      "url": "https://www.indiewire.com/features/craft/best-of-the-best-bollywood-dances-lena-khan-interview-1235217613/",
+      "summary": "Director Lena Khan; choreographers Phillip Chbeeb, Makenzie Dustman, and Joya Kazi; and DP Adam Carboni tell IndieWire about dances that contain every facet of the characters \u2014 just like a diamond stolen by the British.",
+      "source": "IndieWire",
+      "published": "2026-09-18T19:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mike Leigh Movies Always Start Without a Script. Watch the \u2018Tender Loving Care\u2019 Director and Cast Break Down His Unique Filmmaking Process",
+      "url": "https://www.indiewire.com/news/events/mike-leigh-kate-oflynn-tender-loving-care-breaking-down-film-1235217582/",
+      "summary": "At a TIFF dinner co-hosted by IndieWire and Bleecker Street, Leigh and his longtime collaborators opened up about a lifetime spent creating characters together.",
+      "source": "IndieWire",
+      "published": "2026-09-18T18:05:52+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018NAZA,\u2019 Israeli Military Doc from \u2018No Other Land\u2019 Directors, Sets Speedy Fall Release in U.S.",
+      "url": "https://www.indiewire.com/news/breaking-news/naza-documentary-us-release-1235217799/",
+      "summary": "The controversial documentary is moving ahead with a self-distribution strategy that will roll the film out across American cities beginning in October.",
+      "source": "IndieWire",
+      "published": "2026-09-18T18:05:42+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Monster,\u2019 the TV Show, Devolves Into a Poor Impersonation of \u2018Monster\u2019 the Movie",
+      "url": "https://www.indiewire.com/criticism/shows/monster-season-4-review-monster-the-movie-aileen-wuornos-1235217589/",
+      "summary": "Season 4 of Ryan Murphy's gruesome Netflix anthology is ostensibly about Lizzie Borden, but its side story involving Aileen Wuornos \u2014 memorably realized by Charlize Theron in the 2003 film \u2014 shows how little the series has to say about either killer.",
+      "source": "IndieWire",
+      "published": "2026-09-18T17:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Aaron Sorkin Was His Own \u2018Second Choice\u2019 to Direct \u2018The Social Reckoning\u2019 \u2014 David Fincher Was His First",
+      "url": "https://www.indiewire.com/features/interviews/social-reckoning-why-david-fincher-not-directing-aaron-sorkin-1235217739/",
+      "summary": "Sorkin tells IndieWire about changing his mind on \"not wanting to jump up and down\" on Zuckerberg again and why this is not a \"Social Network\" sequel.",
+      "source": "IndieWire",
+      "published": "2026-09-18T16:50:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "You\u2019ve Never Seen Saoirse Ronan Quite Like This Before",
+      "url": "https://www.indiewire.com/features/interviews/saoirse-ronan-bad-apples-interview-jonatan-etzler-1235147897/",
+      "summary": "In Jonatan Etzler's darkly funny \"Bad Apples,\" the actress plays a harried teacher who does something really crazy to a naughty student. As the pair explain to IndieWire, that's not the wildest part: It's how disarmingly funny Ronan gets to be.",
+      "source": "IndieWire",
+      "published": "2026-09-18T16:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Youth\u2019 Review: Sharon Horgan\u2019s Sharp HBO Comedy Asks What We Really Have to Sacrifice with Age",
+      "url": "https://www.indiewire.com/criticism/shows/youth-review-hbo-sharon-horgan-series-fun-1235216916/",
+      "summary": "The \"Catastrophe\" writer and star returns to HBO (post-\"Divorce\") with a mid-life crisis comedy that's broadly familiar but refreshing in its specific insights, strong performances, and steady laughs.",
+      "source": "IndieWire",
+      "published": "2026-09-18T15:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "James Gray to Receive Directing Award at Virginia Film Fest, Where He\u2019ll Also Join IndieWire\u2019s \u2018Screen Talk\u2019 Live",
+      "url": "https://www.indiewire.com/news/festivals/james-gray-virginia-ff-directing-award-live-screen-talk-1235217710/",
+      "summary": "Exclusive: The \"Paper Tiger\" filmmaker will receive the Virginia Film Festival Outstanding Achievement in Directing Award. On October 22, he'll join IndieWire's \"Screen Talk\" podcast for a live conversation.",
+      "source": "IndieWire",
+      "published": "2026-09-18T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "See Which Films Have Been Submitted for Best International Feature at the 2027 Oscars",
+      "url": "https://www.indiewire.com/awards/industry/best-international-feature-submissions-2027-oscars-1235217533/",
+      "summary": "In addition to all the countries submitting films to represent them in the Best International Feature category at the 2027 Oscars, there are several films in contention for winning the top prize at festivals like Sundance, Cannes, and Venice.",
+      "source": "IndieWire",
+      "published": "2026-09-18T14:22:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Can Being a Crowdpleaser Carry \u2018I Play Rocky\u2019 All the Way to the Oscars?",
+      "url": "https://www.indiewire.com/awards/predictions/i-play-rocky-crowdpleaser-oscars-1235217663/",
+      "summary": "Although Peter Farrelly's latest film, about the making of \"Rocky,\" is a TIFF People's Choice Awards contender, various aspects of the film fall short in the overall Oscar race.",
+      "source": "IndieWire",
+      "published": "2026-09-18T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://www.thewrap.com/media-platforms/journalism/white-house-correspondents-association-condemns-trump-ban/",
+    "https://www.hollywoodreporter.com/movies/movie-features/next-big-thing-rachel-marsh-the-love-hypothesis-1236705607/",
+    "https://variety.com/2026/film/global/5-more-minutes-berto-romero-javier-camara-san-sebastian-1236855174/",
+    "https://www.indiewire.com/news/festivals/james-gray-virginia-ff-directing-award-live-screen-talk-1235217710/",
+    "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
+    "https://www.hollywoodreporter.com/lists/best-films-fall-festivals-2026-venice-toronto-telluride/",
+    "https://www.thewrap.com/media-platforms/journalism/nicolle-wallace-blasts-trump-ms-now-ban-video/",
+    "https://www.hollywoodreporter.com/business/business-news/nick-reiner-trust-lawsuit-update-1236705763/"
+  ]
+}

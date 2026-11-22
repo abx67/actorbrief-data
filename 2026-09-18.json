@@ -1,0 +1,992 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-18",
+  "captured_at": "2026-09-18T03:01:12.021655",
+  "score_fn_hash": "093f59b0",
+  "raw_count": 54,
+  "selected_count": 4,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "Tom Cruise Says Taylor Swift Was \u2018Schooling Me on Football\u2019 at Chiefs Game, Calls Her a \u2018Brilliant Musician and Director\u2019",
+      "url": "https://variety.com/2026/film/news/tom-cruise-taylor-swift-schooling-me-football-chiefs-game-1236866585/",
+      "summary": "Tom Cruise and Taylor Swift made headlines on Monday when they sat next to each other at the Kansas City Chiefs\u2019 first game of the season. But what were the two megastars talking about? \u201cShe was schooling me on football. For real,\u201d Cruise revealed to Jimmy Fallon during an appearance on \u201cThe Tonight Show\u201d on [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T09:40:10+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Best of the Best\u2019 Director Lena Khan on Making a Bollywood Fusion Dance Movie for Netflix, Working With Hasan Minhaj and Telling Maitreyi Ramakrishnan to Bring \u2018Channing Tatum Energy\u2019",
+      "url": "https://variety.com/2026/film/news/bollywood-dance-netflix-movie-lena-khan-best-of-the-best-1236866559/",
+      "summary": "Competitive Bollywood fusion dance has thrived on American college campuses for decades, but it has rarely been the subject of a scripted feature film. Lena Khan\u2019s \u201cBest of the Best,\u201d premiering Friday on Netflix, follows childhood best friends Maya and Anjali as they join UCLA\u2019s competitive dance team, only to discover that the road to [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T08:41:04+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "ZDF Boards BBC Drama \u2018Shy & Lola\u2019 Featuring \u2018Harry Potter\u2019 & \u2018Night Manager\u2019 Stars",
+      "url": "https://deadline.com/2026/09/zdf-bbc-shy-and-lola-bel-powley-hayley-squires-1237107346/",
+      "summary": "EXCLUSIVE: German network ZDF has boarded the BBC\u2019s upcoming drama Shy & Lola starring Harry Potter\u2019s Bel Powley and The Night Manager\u2019s Hayley Squires. ZDFneo is now aboard in association with the series from Baby Reindeer maker Clerkenwell Films and Amanda Coe, which stars Squires and Powley as the titular characters. They are two very [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T08:13:35+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Resident Evil\u2019: What Critics Are Saying About Zach Cregger\u2019s New Horror Film",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/resident-evil-review-roundup-critics-zach-cregger-horror-1236704042/",
+      "summary": "The video game franchise reboot from the 'Weapons' filmmaker, starring Austin Abrams, is now playing in theaters.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T07:09:03+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A+E Global Media Backs Lifetime Korea Series \u2018Oh! My Guard\u2019 Starring K-Pop Performer Jung Yong-hwa & Hong Seung-hee",
+      "url": "https://deadline.com/2026/09/a-and-e-backs-oh-my-guard-lifetime-jung-yong-hwa-1237106305/",
+      "summary": "EXCLUSIVE: A+E Global Media is backing Lifetime Korea series Oh! My Guard starring K-pop performer Jung Yong-hwa and rising star Hong Seung-hee. With A+E prioritizing Korea, the studio is investing in and globally distributing Oh! My Guard, which has been licensed for release in 83 countries including to Asian streamer Viu. Launching next month on [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T07:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Alfonso Cuaron to Make First Korea Visit at Busan as Festival Also Spotlights European Women+ Filmmakers",
+      "url": "https://variety.com/2026/film/festivals/alfonso-cuaron-busan-film-festival-1236866555/",
+      "summary": "The 31st Busan International Film Festival (BIFF) has announced the first-ever Korea visit by Alfonso Cuar\u00f3n, alongside a dedicated spotlight on nine films from European women and genderqueer filmmakers. Cuar\u00f3n, who has won the Academy Award for best director twice, for \u201cGravity\u201d (2013) and \u201cRoma\u201d (2018), also holds the Venice Film Festival\u2019s best screenplay prize [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T06:43:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Tenzing\u2019 Actor Tenzin Dalha Unveiled as Male Lead in Bengali Thriller \u2018Chheledhora\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549/",
+      "summary": "Tenzin Dalha, at the Toronto Film Festival with Jennifer Peedom\u2019s Apple original Film \u201cTenzing,\u201d has been revealed as the male lead in Bengali-language thriller \u201cChheledhora,\u201d opposite Swastika Mukherjee. His casting had been withheld when the Indo-American production was first announced earlier this year, with producers naming only Mukherjee at that point. \u201cTenzing,\u201d a gala presentation [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T06:08:11+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 Scaring Up Franchise Best Previews With $8M-$9M & Rotten Tomatoes 91% Audience Score",
+      "url": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
+      "summary": "Buckle up your 4DX seat because it\u2019s gonna be a fun weekend as out of the gate, Zach Cregger\u2019s take on Resident Evil is already posting the best previews ever for the franchise with tonight north of $8M and maybe even north of $9M. The outlook going into the weekend was $40M-$50M. Those who are [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T05:28:35+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Macklemore Alleged to Have Repeated Palestine Comments Despite Promoter Assurances to NFL Stadium Owners (Report)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-robert-kraft-phonecall-1236705181/",
+      "summary": "The Wall Street Journal reported that Ed Sheeran and New England Patriots owner Robert Kraft held a 40-minute phone call over the controversy.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T05:18:25+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "San Sebasti\u00e1n 2026: \u2018Les Mis,\u2019 Los Javis, Brad Pitt, Pen\u00e9lope Cruz and Much More",
+      "url": "https://variety.com/2026/film/global/les-mis-los-javis-brad-pitt-penelope-cruz-san-sebastian-1236847674/",
+      "summary": "Ten takes on this year\u2019s San Sebasti\u00e1n Film Festival, which runs Sept. 18-26 at the picturesque Basque Country resort: Brad Pitt, Penelope Cruz, Naomi Watts and More Last in San Sebasti\u00e1n way back then with \u201cInglourious Basterds,\u201d Brad Pitt returns for \u201cHeart of the Beast.\u201d Busiest star of the festival? Penelope Cruz, fresh off a [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T05:11:16+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Monster: The Lizzie Borden Story\u2019 Review: Ryan Murphy\u2019s Latest Netflix Serial Killer Saga Is Faux-Feminist Nonsense",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/monster-the-lizzie-borden-story-review-netflix-ryan-murphy-1236705084/",
+      "summary": "Charlie Hunnam, Rebecca Hall and Vicky Krieps join lead Ella Beatty in co-creator Murphy and showrunner Ian Brennan's take on the infamous axe murderess.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T04:30:54+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Bad Lieutenant: Tokyo\u2019 Review: Shun Oguri and Lily James in a Meandering Franchise Entry From Takashi Miike That\u2019s Semi-Coherent at Best",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/bad-lieutenant-tokyo-review-shun-oguri-lily-james-1236705118/",
+      "summary": "The Japanese cult director follows Abel Ferrara and Werner Herzog in charting the downward spiral of a corrupt detective with a drug habit, this time navigating the yakuza underworld.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T04:05:14+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Barbra Streisand Slams Trump\u2019s \u201cUnchecked Ego\u201d Amid His Kennedy Center Demolition Threats",
+      "url": "https://www.hollywoodreporter.com/news/general-news/barbra-streisand-slams-trump-kennedy-center-demolition-threats-1236705117/",
+      "summary": "\"You can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man\u2019s name and unchecked ego,\" she wrote in a lengthy statement.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T02:35:21+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Barbra Streisand Decries Trump\u2019s \u201cUnchecked Ego\u201d Amid His Assertion That The Kennedy Center May Be Torn Down",
+      "url": "https://deadline.com/2026/09/barbra-streisand-trumps-ego-kennedy-center-1237107274/",
+      "summary": "\u201cYou can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man\u2019s name and unchecked ego,\u201d wrote Kennedy Center honoree Barbra Streisand. She was referring to President Donald Trump\u2019s attempts to close down or, in his words, issue a warning that the center would be [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T02:23:07+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "UTA Partner Josh Katz Exits Agency After 30-Year Run",
+      "url": "https://deadline.com/2026/09/josh-katz-exits-uta-after-30-years-1237107278/",
+      "summary": "EXCLUSIVE: Josh Katz, a longtime UTA Partner and Motion Picture Talent Agent, has left the company after a 30-year run. Sources close to the agency indicated that Katz left of his own accord. The veteran rep himself declined to comment when contacted by Deadline. No next destination was given. It\u2019s expected that Katz will remain [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T02:21:34+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Traitors: New Blood\u2019 EPs Break Down NBC Premiere, Sweetening the Pot for the Faithful and Why the Civilian Cast \u2018Played Hard Straight Away\u2019",
+      "url": "https://variety.com/2026/tv/news/the-traitors-new-blood-game-changes-nbc-civilian-version-1236865874/",
+      "summary": "SPOILER ALERT: This post contains spoilers for the two-hour series premiere of NBC\u2019s \u201cThe Traitors: New Blood,\u201d now streaming on Peacock. \u201cThe Traitors\u201d castle isn\u2019t just for the rich and famous anymore. Peacock\u2019s Emmy-winning franchise has arrived on NBC, with \u201cThe Traitors: New Blood,\u201d a new season composed entirely of civilian players in the game [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T02:01:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Traitors: New Blood\u2019 EPs Explain Civilian Season\u2019s Tonal Shift and That Twisty Selection",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-sam-rees-jones-rosie-franks-interview/",
+      "summary": "Sam Rees-Jones and Rosie Franks tell TheWrap about that surprise cameo and giving control to the civilian traitors The post \u2018The Traitors: New Blood\u2019 EPs Explain Civilian Season\u2019s Tonal Shift and That Twisty Selection appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T02:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Big Brother\u2019 Season 28, Week 10 Results: Double Eviction Night Reveals Final 5",
+      "url": "https://deadline.com/2026/09/big-brother-season-28-week-10-double-eviction-final-five-1237107108/",
+      "summary": "SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 35, which aired on Thursday, September 17. Big Brother Season 28 is down to its final weeks, and the latest episode featured a double eviction, the last Block Buster challenge, and two more housemates joining jury. In Week 10 of the competition, Yash Patel [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T01:45:18+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Love of Your Life\u2019 Review: Margaret Qualley Navigates From Rhapsody to Grief",
+      "url": "https://www.thewrap.com/creative-content/movies/love-of-your-life-review-margaret-qualley-rachel-morrison-tiff/",
+      "summary": "TIFF 2026: The \"Maid\" and \"The Substance\" star plays a woman who runs away from her life in Rachel Morrison's drama The post \u2018Love of Your Life\u2019 Review: Margaret Qualley Navigates From Rhapsody to Grief appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T01:39:14+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 Racing Toward Healthy Box Office Haul for Zach Cregger\u2019s Reboot",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/resident-evil-box-office-zach-cregger-reboot-opening-1236705092/",
+      "summary": "Austin Abrams stars in Sony's latest feature adaptation of the video game franchise, with the new movie becoming the first in the series to impress critics.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T01:38:49+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Miley Cyrus Details Final Conversation With Dolly Parton: \u2018She Was Always Right\u2019",
+      "url": "https://www.thewrap.com/creative-content/music/miley-cyrus-details-final-dolly-parton-conversation/",
+      "summary": "The \"Bass Persuades\" singer says she still plans to send her legendary godmother a vinyl copy of her new record The post Miley Cyrus Details Final Conversation With Dolly Parton: \u2018She Was Always Right\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T01:30:14+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Stuart Fails To Save The Universe\u2019 Creators Wanted Green Lantern For Their DC Crossover Episode But Had To Settle For The Flash",
+      "url": "https://deadline.com/2026/09/stuart-fails-to-save-the-universe-dc-crossover-explained-1237099922/",
+      "summary": "SPOILER ALERT! This post contains details from Thursday night\u2019s episode of HBO Max\u2019s Stuart Fails to Save the Universe. As the title of this week\u2019s episode (\u201cSpoiler: We Couldn\u2019t Get Green Lantern\u201d) suggests, the creators of Stuart Fails to Save the Universe really did want the Green Lantern to be at the center of the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T01:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "New York Times Staffers Protest 175th Anniversary Gala Over AI, Health Care Contract Disputes",
+      "url": "https://www.thewrap.com/media-platforms/journalism/new-york-times-guild-protest-175th-anniversary-gala-ai-health-care/",
+      "summary": "\"We\u2019re here to remind the execs throwing this big bash that we are a crucial part of the company\u2019s success and they should commit today to agreeing to a fair contract,\" Times Guild unit chair Jim Luttrell says The post New York Times Staffers Protest 175th Anniversary Gala Over AI, Health Care Contract Disputes appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T01:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Dekanalog Takes North American Rights To Tan Siyou\u2019s Festival Hit \u2018Amoeba\u2019",
+      "url": "https://deadline.com/2026/09/dekanalog-north-america-amoeba-singapore-tan-siyou-1237107256/",
+      "summary": "EXCLUSIVE: Bangkok-based sales agent Diversion has licensed Tan Siyou\u2019s festival hit Amoeba to Dekanalog for North America. Tan\u2019s debut feature premiered in the Discovery section of Toronto International Film Festival in 2025 and went on to win a slew of awards including Best Youth Film at the Asia Pacific Screen Awards and prizes at several [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T01:28:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Universal Still Plans Overseas Release for Alex Gibney\u2019s \u2018Musk\u2019 Documentary Despite Mogul\u2019s Legal Threats",
+      "url": "https://variety.com/2026/film/news/universal-release-alex-gibney-musk-documentary-1236866395/",
+      "summary": "Contrary to a recent report, Universal is moving forward as planned with the international release of Alex Gibney\u2019s Elon Musk documentary \u201cMusk,\u201d sources familiar with the project told Variety. Though a release date has not yet been set for the overseas rollout, that\u2019s not unusual for a film like \u201cMusk,\u201d a nearly 4-hour long documentary [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T01:27:40+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tokyo Film Festival Unveils Gala and Anime Selections, Featuring Cate Blanchett, Tony Gilroy, \u2018Wild Horse Nine\u2019 and \u2018Grotesqqque\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-gala-anime-cate-blanchett-tony-gilroy-1236705102/",
+      "summary": "The festival\u2019s high-profile sidebar will also showcase new films from Cristian Mungiu, Wayne Wang, Jane Schoenbrun and Yukiko Sode, while its animation program spotlights new work from CloverWorks, Madhouse and DreamWorks.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T01:10:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Mellody Hobson Exits LA28 Olympics Board Amid Calls for Reform",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/mellody-hobson-steps-down-from-la-olympics-board/",
+      "summary": "Wife to George Lucas and co-founder of the forthcoming Lucas Museum, Hobson cites that project's demands as her reason for stepping down The post Mellody Hobson Exits LA28 Olympics Board Amid Calls for Reform appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T00:55:08+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nick Kroll Delivers Heartfelt Appeal for Productions to Shoot in L.A.: \u2018It Will Bring Life Back\u2019 to the City",
+      "url": "https://variety.com/2026/tv/news/nick-kroll-la-productions-a-hundred-percent-1236866162/",
+      "summary": "Nick Kroll said upcoming Netflix comedy series \u201cA Hundred Percent,\u201d which he co-created and stars in, is a \u201clove letter\u201d to Los Angeles \u2014 and he expressed hope that a \u201cthriving\u201d entertainment production community will bring \u201cvitality\u201d to the city. The comedian, writer, producer, director and actor was a featured keynote speaker at the Variety [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T00:54:29+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Criminal\u2019 Creator Ed Brubaker\u2019s Accuser Is \u201cOpportunist, Not A Victim,\u201d Amazon MGM Says Of Ex-Crew Member Claiming Sexual & Racial Harassment",
+      "url": "https://deadline.com/2026/09/ed-brubaker-lawsuit-amazon-response-criminal-1237107215/",
+      "summary": "Amazon MGM may not have had anything to say publicly when Criminal creator Ed Brubaker was first accused by a former production assistant of sexual and racial harassment, but today the studio and all the other defendants in the matter spoke very loudly. \u201cWhile Noohu\u2019s allegations must be treated as true on demurrer, the evidence [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-18T00:48:19+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI\u2019s Place in the Industry",
+      "url": "https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/",
+      "summary": "In a world where AI is capturing every conversation, a series of experts is trying to figure out what it actually means for the world of entertainment. \u201cI think the word \u2018AI\u2019 is doing too much right now,\u201d says Mira Line, Google\u2019s vice president of technology and society. \u201dOne of the things that we\u2019re doing, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T00:45:21+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "39 True-Crime Series to Binge Right Now",
+      "url": "https://www.hollywoodreporter.com/lists/best-true-crime-shows-stream/",
+      "summary": "From 'Monster: The Lizzie Borden Story' to 'The Twisted Tale of Amanda Knox' and much more, here are some of the most popular true-crime shows of the last few years.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T00:40:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Greta Gerwig Reveals Why She Cast Meryl Streep as Bowie-Inspired Aslan in \u2018Narnia\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/greta-gerwig-narnia-casting-meryl-streep-aslan-explained/",
+      "summary": "The \"Little Women\" filmmaker calls the Oscar-winning actress \"one of the greatest actors to ever do it\" The post Greta Gerwig Reveals Why She Cast Meryl Streep as Bowie-Inspired Aslan in \u2018Narnia\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T00:38:02+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 Video Game References: All the Zombies, Weapons and Easter Eggs in Zach Cregger\u2019s Reboot",
+      "url": "https://variety.com/lists/resident-evil-video-game-references-easter-eggs/",
+      "summary": "SPOILER ALERT: This article contains major spoilers for \u201cResident Evil,\u201d now playing in theaters. \u201cResident Evil\u201d is one of the longest-running horror video game series, and for a time it was the highest-grossing film series based on a game (until Universal\u2019s \u201cSuper Mario\u201d movies dethroned them). The games started out as scary, third-person shooters that [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-18T00:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Barbra Streisand Blasts Trump\u2019s \u2018Unchecked Ego\u2019 After He Threatens to Demolish Kennedy Center",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/barbra-streisand-trump-unchecked-ego-kennedy-center-threat/",
+      "summary": "\"You can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man\u2019s name,\" the Kennedy Center honoree bemoans The post Barbra Streisand Blasts Trump\u2019s \u2018Unchecked Ego\u2019 After He Threatens to Demolish Kennedy Center appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T00:26:07+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Former Disney Star Debby Ryan Recalls Suffering a \u201cLife-Altering Brain Injury\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/former-disney-star-debby-ryan-life-altering-brain-injury-1236705009/",
+      "summary": "The actress said that \"after the fifth concussion, the brain injury made things significantly worse.\"",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T00:25:13+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Alfonso Cuar\u00f3n to Make First Korea Visit for Busan Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-korea-visit-busan-film-festival-1236705078/",
+      "summary": "The two-time Oscar winner will give a master class and support the Asian premiere of his son Jon\u00e1s Cuar\u00f3n's new feature \u2018Campe\u00f3n Gabacho.\u2019",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-18T00:23:56+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Monster\u2019: Lizzie Borden\u2019s Disgusting Dinner Scene Actually Happened",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/monster-the-lizzie-borden-story-dinner-scene-explained/",
+      "summary": "Here's why Charlie Hunnam's stomach was the \"champion\" of Episode 2 The post \u2018Monster\u2019: Lizzie Borden\u2019s Disgusting Dinner Scene Actually Happened appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-18T00:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Up Against It\u2019 Review: An Uneven Medical Dramedy Relies on Sincerity to Mask Its Flaws",
+      "url": "https://www.indiewire.com/criticism/movies/up-against-it-review-1235217625/",
+      "summary": "TIFF: Broad beats and narrative contrivances nearly bury the glimmers of emotional truth in this ludicrous (but well-meaning) blended family story.",
+      "source": "IndieWire",
+      "published": "2026-09-18T00:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Curry Barker, Alex Gibney, Si\u00e2n Heder, Rachel Morrison & Bassam Tariq On Taking Chances & Conquering Obstacles \u2013 Deadline & DGA\u2019s Art Of Directing At TIFF",
+      "url": "https://deadline.com/2026/09/deadline-dga-art-of-directing-tiff-2026-panel-1237106718/",
+      "summary": "Bold decisions during filming, biggest challenges and first Directors Guild of America cards were among some of the topics we that came up during Deadline and the DGA\u2019s Art of Directing panel at the Toronto Film Festival that featured a conversation with Curry Barker, Si\u00e2n Heder, Alex Gibney, Rachel Morrison and Bassam Tariq. Check out [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T23:57:25+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Fox CEO Lachlan Murdoch\u2019s Total Pay Declines To $31M In Fiscal 2026 From $33M In Prior Year",
+      "url": "https://deadline.com/2026/09/lachlan-murdoch-fox-corp-ceo-pay-2026-1237107190/",
+      "summary": "Fox Corp. CEO Lachlan Murdoch\u2019s total compensation in fiscal 2026 fell to $31 million, from $33 million in the prior year. The pay figures for Murdoch and other execs were disclosed in an SEC filing on Thursday. Murdoch, who was reaffirmed last September as the heir to Rupert Murdoch\u2019s media empire in a settlement reached [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T23:44:19+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hollywood Sign Gets A \u2018Fast & Furious\u2019 Makeover",
+      "url": "https://deadline.com/2026/09/hollywood-sign-fast-furious-makeover-1237107147/",
+      "summary": "Universal Studios Hollywood last night turned a onetime billboard into \u2014 what else? \u2014 a giant, illuminated billboard. The theme park used projection mapping to shower the ionic Hollywood Sign in colorful video imagery from the Fast & Furious films as well as its ambitious new roller coaster themed to the franchise, which opened yesterday. [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-17T23:39:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Half\u2019 Review: A Grisly Indian Vampire Western Tumbles Into Excess",
+      "url": "https://www.indiewire.com/criticism/movies/half-review-tiff-1235217459/",
+      "summary": "TIFF: Samjad\u2019s unique saga of invulnerable, vengeful twins quickly builds and loses steam.",
+      "source": "IndieWire",
+      "published": "2026-09-17T23:32:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018MobLand\u2019 Season 2 Release Schedule",
+      "url": "https://www.thewrap.com/media-platforms/streaming/mobland-season-2-episode-release-schedule/",
+      "summary": "The series returns on Paramount+ on Sept. 18 The post \u2018MobLand\u2019 Season 2 Release Schedule appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T23:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Best of the Best\u2019 Review: Maitreyi Ramakrishnan and Priyanka Kedia Dazzle in Bollywood-Fusion Comedy",
+      "url": "https://www.indiewire.com/criticism/movies/best-of-the-best-netflix-film-review-1235217597/",
+      "summary": "Director Lena Khan\u2019s exuberant third feature pairs collegiate charm and sparkling production design with satire from Hasan Minhaj and his \"Patriot Act\" co-writer, Prashanth Venkataramanujam.",
+      "source": "IndieWire",
+      "published": "2026-09-17T23:14:51+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Best of the Best\u2019 Review: If You Loved \u2018Step Up 2: The Streets,\u2019 This Is the Next Best Thing",
+      "url": "https://www.thewrap.com/creative-content/movies/best-of-the-best-review-netflix/",
+      "summary": "Lena Khan\u2019s Bollywood dance-off college comedy would be a huge crowdpleaser, if Netflix let you watch it with a crowd The post \u2018Best of the Best\u2019 Review: If You Loved \u2018Step Up 2: The Streets,\u2019 This Is the Next Best Thing appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-17T23:12:29+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Marcus Theatres and A24 End Months-Long Standoff Over Film Terms",
+      "url": "https://www.indiewire.com/news/business/marcus-theatres-a24-end-standoff-film-terms-1235216983/",
+      "summary": "\"Onslaught,\" \"Tony,\" and \"The Invite\" haven't played at the Midwest-based fourth-largest theater chain, but tickets are imminently going on sale for \"Primetime.\"",
+      "source": "IndieWire",
+      "published": "2026-09-17T21:21:28+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Why John Wilson Used a 3D-Printed Starbucks to Critique Capitalism (and Documentary Clich\u00e9) in \u2018History of Concrete\u2019",
+      "url": "https://www.indiewire.com/features/craft/the-history-of-concrete-john-wilson-director-interview-1235217501/",
+      "summary": "Documentarian John Wilson also tells IndieWire about how documentaries need to avoid looking like AI while telling human stories.",
+      "source": "IndieWire",
+      "published": "2026-09-17T21:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018MobLand\u2019 Season 2 Is Wasting Tom Hardy\u2019s Time (and Ours)",
+      "url": "https://www.indiewire.com/criticism/shows/mobland-season-2-review-tom-hardy-series-1235217392/",
+      "summary": "Guy Ritchie returns to direct the first two episodes of his Paramount+ gangster series, as the Harrigan family fights among themselves and the once-propulsive action stalls out.",
+      "source": "IndieWire",
+      "published": "2026-09-17T19:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Disney and Sundance Announce Next Round of Project Advancement and Completion Fund and Artist Fellowships",
+      "url": "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541/",
+      "summary": "Exclusive: The two companies have partnered on two funds supporting filmmakers, with recipients including \"Josephine\" director Beth de Ara\u00fajo.",
+      "source": "IndieWire",
+      "published": "2026-09-17T17:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Noah Baumbach Heads from Netflix to Warner Bros.\u2019 Clockwork with New First-Look Film Deal",
+      "url": "https://www.indiewire.com/news/breaking-news/noah-baumbach-warner-bros-clockwork-first-look-film-deal-1235217559/",
+      "summary": "He will write, direct, and produce his next movie alongside Margot Robbie's LuckyChap and David Heyman.",
+      "source": "IndieWire",
+      "published": "2026-09-17T16:56:59+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Wilson\u2019s \u2018The History of Concrete\u2019 from Magnolia Scores Biggest Opening Weekend for Documentary in IFC Center History",
+      "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-box-office-record-1235217528/",
+      "summary": "Exclusive: The documentary has outgrossed previous record-holder Werner Herzog's \"Cave of Forgotten Dreams.\"",
+      "source": "IndieWire",
+      "published": "2026-09-17T16:45:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "James McAvoy Doesn\u2019t Believe in God. That Didn\u2019t Stop Him from Making the Spiritual Drama \u2018Faith\u2019",
+      "url": "https://www.indiewire.com/features/interviews/james-mcavoy-religion-interview-faith-tiff-1235217486/",
+      "summary": "The Scottish actor tells IndieWire about his new spiritual drama, which just premiered at TIFF, and why he opted to become an actor and not a priest.",
+      "source": "IndieWire",
+      "published": "2026-09-17T16:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Life of Jorge Luis Borges\u2019 Review: A Playful Five-Hour Documentary Turns the Argentinian Writer Inside Out",
+      "url": "https://www.indiewire.com/criticism/movies/the-life-of-jorge-luis-borges-movie-review-1235217498/",
+      "summary": "\"La flor\" director Mariano Llin\u00e1s veteran with a sprawling and self-reflexive picaresque that is fascinating but frequently dull, for better or worse.",
+      "source": "IndieWire",
+      "published": "2026-09-17T13:49:16+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How a Sequel to a Movie Barely Anyone Saw Became a Sensational (and Originally X-Rated) 1980s Indie",
+      "url": "https://www.indiewire.com/features/commentary/patti-rocks-x-rated-indie-movie-blu-ray-1235216681/",
+      "summary": "In 1988, \"Patti Rocks\" stood alongside Jim Jarmusch's \"Stranger Than Paradise\" and Spike Lee's \"She's Gotta Have It\" as an indie sensation, but has been largely unavailable for decades. A new Blu-ray from Fun City Editions brings it back to glorious life.",
+      "source": "IndieWire",
+      "published": "2026-09-17T13:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://deadline.com/2026/09/zdf-bbc-shy-and-lola-bel-powley-hayley-squires-1237107346/",
+    "https://www.indiewire.com/features/commentary/patti-rocks-x-rated-indie-movie-blu-ray-1235216681/",
+    "https://www.hollywoodreporter.com/lists/best-true-crime-shows-stream/",
+    "https://www.thewrap.com/culture-lifestyle/culture/mellody-hobson-steps-down-from-la-olympics-board/"
+  ]
+}

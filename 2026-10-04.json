@@ -1,0 +1,3903 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-10-04",
+  "captured_at": "2026-10-04T23:32:33.807436",
+  "score_fn_hash": "a538b874",
+  "raw_count": 182,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "Subscription Preferences",
+      "url": "https://view.mail.hollywoodreporter.com/messages/17910369422149e98b6de6d21/unsubscribe",
+      "summary": "Pam and Mike's Final Weeks; Ryan Murphy's Test; A New Boss; Rebel\r\n Without a Pause\n\nWeekender: What's interesting and what matters in Hollywood.\nView on web\nOctober 03, 2026\nCan you hear it? That's the sound of two studio C-suite org charts jostling for position as Paramount and Warner Bros. merge early next week.\nDavid Ellison\nand\nYnon Kreiz\nare set to greet the staffs, the press and unveil a vision for what the next gen Hollywood empire will prioritize first (along with those feared staff cuts). \u2014\nErik Hayden\nTicker:\nJ.A. Bayona\nleads\nJurassic\nsweepstakes;\nChase Infiniti\npicks first film role after\nOne Battle\n;\nBradley Cooper\ntakes an IP paycheck;\nLaurene Powell Jobs\nlevels up Anonymous Content.\nThe Final Weeks\nAfter surviving the\nDavid Zaslav\nera at Warner Bros. Discovery and the rumor mill that seemed to be saying every other month \"they're on their way out,\" Warner Bros. film co-chiefs\nMike De Luca\nand\nPam Abdy\nwere ankled in a way that suggests the duo were blindsided by the incoming Skydance team. A three-byline\nTHR\nreport\nsets the scene:\nMike De Luca began hearing the rumor over a month ago: He and his Warner Bros. film co-head Pam Abdy were on the chopping block. The source of the rumor was not\nDavid Ellison\n, whom the duo had met months earlier and seemed to indicate they would stay on in a post-merger world. No, De Luca was hearing that this was coming from\nJosh Greenstein\n, co-chair of Paramount Pictures.\nDe Luca, never one to sit on his hands, decided to go head on and called Greenstein:\n\"\nAre you seriously saying this?\"\nMeet the New Boss\nIn Wednesday's early hours a corporate shake-up raised eyebrows: Cond\u00e9 Nast CEO\nRoger Lynch\nabruptly left the magazine giant to run Mattel, the\nBarbie\ntoy giant that also saw its top exec\nYnon Kreiz\ndepart for an unnamed role at another company.\nAlex Weprin\nsoon put the pieces together and broke that Kreiz was heading to\nDavid Ellison\n's Skydance, where he'd be named co-CEO (in what appears as a similar role that\nJeff",
+      "source": "Gmail (mail.hollywoodreporter.com)",
+      "published": "2026-10-03T14:18:24",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "International",
+      "url": "https://deadline.com/v/international/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Television: Docs + Unscripted",
+      "url": "https://deadline.com/p/contenders-television-documentary-unscripted-2026/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Television",
+      "url": "https://deadline.com/p/contenders-television-2026/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Film: Documentary",
+      "url": "https://deadline.com/p/contenders-film-documentary-2025/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Film: International",
+      "url": "https://deadline.com/p/contenders-film-international-2025/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Film: Los Angeles",
+      "url": "https://deadline.com/p/contenders-film-los-angeles-2025/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Film: London",
+      "url": "https://deadline.com/p/contenders-film-london-2025/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Television",
+      "url": "https://deadline.com/p/sound-screen-television-2026/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "For The Love Of Docs",
+      "url": "https://events.deadline.com/fortheloveofdocs",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "News Alerts",
+      "url": "https://preferences.mail.deadline.com/preferences",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Festival Hub",
+      "url": "https://deadline.com/p/film-festival-news/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Twilight Of The Dead\u2019 Filming Wraps; \u201cFinal Chapter\u201d Of George A. Romero\u2019s Zombie Saga Stars Kate Beckinsale & Betty Gabriel",
+      "url": "https://deadline.com/2026/10/twilight-of-the-dead-wraps-kate-beckinsale-stars-1237145256/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jennifer Lawrence & Helmer Gene Stupnitsky Reteam On Rom-Com \u2018One Month Mark\u2019",
+      "url": "https://deadline.com/2026/10/jennifer-lawrence-gene-stupnitsky-one-month-mark-movie-1237145376/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Penelope Ann Miller-Otmara Marrero Film \u2018Made Clean\u2019 First Project For Nashville-Based Cinema Country",
+      "url": "https://deadline.com/2026/10/penelope-ann-miller-otmara-marrero-made-clean-film-1237145272/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018A Statement\u2019 Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy\u2019s Splendid Humanist Look At Climate Change \u2013 New York Film Festival",
+      "url": "https://deadline.com/2026/10/a-statement-review-paul-rudd-paul-giamatti-tom-mccarthy-nyff-1237145997/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Landman\u2019 Promotes Colm Feore & Three Others To Series Regular As Season 3 Starts Production",
+      "url": "https://deadline.com/2026/10/landman-season-3-colm-feore-series-regular-1237144847/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Watcher\u2019 Season 2 To Start Production 4 Years After Renewal: Here\u2019s Who In The Cast Is Returning",
+      "url": "https://deadline.com/2026/10/the-watcher-season-2-start-production-cast-who-returns-1237145096/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018A Different World\u2019 Revival Renewed For Season 2 At Netflix",
+      "url": "https://deadline.com/2026/10/a-different-world-renewal-season-2-netflix-1237145174/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018SNL\u2019s Weekend Update Tackles Cornell Controversy & Return Of \u2018Glee\u2019",
+      "url": "https://deadline.com/2026/10/weekend-update-cornell-controversy-return-of-glee-1237146124/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Joins \u2018SNL\u2019 Host Dakota Johnson During Opening Monologue",
+      "url": "https://deadline.com/2026/10/taylor-swift-joins-snl-host-dakota-johnson-1237146104/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Newsletters",
+      "url": "https://preferences.mail.variety.com/preferences",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He\u2019s \u2018Addicted Like Everybody Else\u2019: \u2018They\u2019re Facilitating Our Own Destruction\u2019",
+      "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jeremy Strong Defends Method Acting, Says He Doesn\u2019t Feel the Need to \u2018Apologize\u2019 to Co-Stars Who May Think \u2018I\u2019m Taking It Too Seriously\u2019",
+      "url": "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Guillermo Del Toro Defends \u2018Digger,\u2019 Calls the Film \u2018Daring, Bold and Cinematically Complex\u2019",
+      "url": "https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tony Gilroy Says Paramount-Warner Bros. Merger Will \u2018Destroy\u2019 a \u2018Healthy and Beautiful Business\u2019 in \u2018The Name of Venture Capital\u2019: \u2018It\u2019s Tragic\u2019",
+      "url": "https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pierre Le Gall\u2019s Passionate Love Story \u2018Flesh and Fuel\u2019 Named Best Film at Zurich Film Festival",
+      "url": "https://variety.com/2026/film/news/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jerry Golod, Producer of \u2018Tales From the Darkside\u2019 and Former CBS And NBC Executive, Dies at 87",
+      "url": "https://variety.com/2026/film/news/jerry-golod-dead-tales-from-the-darkside-1236898234/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Asghar Farhadi Says Films Like \u2018Argo\u2019 Perpetuate American White Savior Myth: \u2018Who Asked You to Come and Save Us?\u2019",
+      "url": "https://variety.com/2026/film/news/asghar-farhadi-argo-american-white-savior-myth-1236898176/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Behemoth!\u2019: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Aaron Sorkin Says It \u2018Never Occurred\u2019 to Him That Jesse Eisenberg Wouldn\u2019t Play Mark Zuckerberg in \u2018The Social Reckoning,\u2019 Claims the Paycheck Was a \u2018Disincentive\u2019",
+      "url": "https://variety.com/2026/film/news/aaron-sorkin-jesse-eisenberg-mark-zuckerberg-social-reckoning-1236898205/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Projeto Paradiso Founder Olga Rabinovich to Receive Inaugural Encounters Award at the S\u00e3o Paulo Film Festival (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
+      "url": "https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018April X\u2019 Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone",
+      "url": "https://variety.com/2026/film/news/april-x-review-connor-storrie-1236898072/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "17 Best New Movies Streaming in October: 'The Invite,' 'Disclosure Day,' 'Evil Dead Burn' and More",
+      "url": "https://variety.com/lists/best-movies-streaming-october-2026/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pete Hegseth Chugs \u2018Spider-Man\u2019s Non-Alcoholic B\u2014- Beer\u2019 in \u2018SNL\u2019 Cold Open That Mocks Tom Holland, Mitch McConnell and JD Vance",
+      "url": "https://variety.com/2026/tv/news/snl-pete-hegseth-spider-man-non-alcoholic-beer-1236898415/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Crashes Dakota Johnson\u2019s \u2018SNL\u2019 Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
+      "url": "https://variety.com/2026/tv/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jerry Golod, Producer of \u2018Tales From the Darkside\u2019 and Former CBS And NBC Executive, Dies at 87",
+      "url": "https://variety.com/2026/tv/news/jerry-golod-dead-tales-from-the-darkside-1236898234/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Coven Academy\u2019 Creator Breaks Down Briar\u2019s Family Tree, Dark Magic as an Addiction Metaphor, \u2018Misogyny\u2019 Against Witches \u2014 and a Deleted Kiss Scene",
+      "url": "https://variety.com/2026/tv/news/coven-academy-creator-graves-briar-mom-dark-magic-season-2-1236894779/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
+      "url": "https://variety.com/2026/tv/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
+      "url": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Leguizamo Has a Message for David Ellison: \u2018Think of What Americans Need and What the Industry Needs\u2019",
+      "url": "https://variety.com/2026/tv/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Celebrity Traitors\u2019 Star Richard E. Grant Accidentally Reveals He\u2019s a Traitor to Cast in Premiere, Calls It the \u2018Biggest Mistake I\u2019ve Made in My Life\u2019",
+      "url": "https://variety.com/2026/tv/news/celebrity-traitors-richard-e-grant-reveals-traitor-premiere-1236897863/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Skydance Says It\u2019s Committed to L.A., but Threat to Leave Has Proved Potent",
+      "url": "https://variety.com/2026/tv/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Starz Executive Vice President of Original Programming Karen Bailey to Exit (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/starz-original-programming-karen-bailey-exits-1236897728/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Great British Bake Off\u2019 Host Alison Hammond Says She\u2019s \u2018Fine\u2019 After Heart Palpitation Scare on Live U.K. Morning Show",
+      "url": "https://variety.com/2026/tv/news/alison-hammond-heart-scare-this-morning-1236897720/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Good Girls\u2019 Lead Ilse Salas to Star in Quijote Films\u2019 \u2018To Die on Your Feet\u2019 (\u2018Morir de Pie\u2019) a Project Pitched at Iberseries & Platino Industria (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Madison Avenue Makeover: Marketers Face Big Challenges in Bid to Reach Elusive Consumers",
+      "url": "https://variety.com/2026/tv/news/madison-avenue-makeover-advertisers-challenges-1236897526/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Newsletters",
+      "url": "https://preferences.mail.hollywoodreporter.com/preferences",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "International",
+      "url": "https://www.hollywoodreporter.com/t/international/",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How \u2018Freaks\u2019 Sent Zach Lipovsky and Adam B. Stein to Hollywood: \u201cThat Film Changed Our Lives\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
+      "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they\u2019re returning with \u2018Freaks 2\u2019 and as bankable horror directors and writers.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Movie News",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-news/",
+      "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they\u2019re returning with \u2018Freaks 2\u2019 and as bankable horror directors and writers.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jeremy Strong Says He Doesn\u2019t \u201cNeed to Apologize\u201d for Method Acting: \u201cIt\u2019s in Service of the Material\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/",
+      "summary": "\"I\u2019m just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Denver Film Festival Unveils Lineup and Honorees",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/denver-film-festival-2026-lineup-schedule-honorees-1236721487/",
+      "summary": "Peter Farrelly's 'I Play Rocky' will open the fest while James Gray's 'Paper Tiger' will close it. In between, Denver Film will honor Carrie Coon, John Cho, Liz Sargent, Fred Hechinger, Benedetta Porcaroli, David Acord and experimental filmmaker Michael Gitlin.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ouster Rumors and a Tense Phone Call: Mike De Luca and Pam Abdy\u2019s Final Weeks at Warners",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/mike-de-luca-pam-abdy-final-weeks-at-warners-1236721241/",
+      "summary": "The exiting Warner Bros. chiefs are in search of a next act (Netflix?) as insiders debate their legacy.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "J.A. Bayona Leads Field to Direct \u2018Jurassic World\u2019 Sequel",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ja-bayona-jurassic-world-rebirth-sequel-frontrunner-1236721214/",
+      "summary": "Universal is eyeing the Spanish filmmaker to return to the dinosaur island and helm the follow-up to 'Jurassic World Rebirth.'",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Crashes Dakota Johnson\u2019s \u2018Saturday Night Live\u2019 Hosting Stint: \u201cMy Literal Therapist!\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/taylor-swift-dakota-johnson-saturday-night-live-1236721702/",
+      "summary": "The \"Patient Zero\" singer gave Travis Kelce a subtle salute during the 'Verity' star's opening monologue.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jerry Golod, \u2018Tales From the Darkside\u2019 Producer, Dies at 87",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jerry-golod-dead-tales-from-the-darkside-producer-1236721586/",
+      "summary": "The onetime CBS and NBC executive also worked on \u2018Adderly,\u2019 \u2018Return to Green Acres\u2019 and a new version of \u2018Land of the Lost.\u2019",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ohio State vs. Iowa: Where to Watch the 2026 College Football Game Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-ohio-state-buckeyes-vs-iowa-hawkeyes-game-free-2026-1236721110/",
+      "summary": "Here's how to livestream the Big Ten matchup between the Buckeyes and Hawkeyes on Saturday, Oct. 3.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Will \u2018The Shards\u2019 Return? FX Show Tests Ryan Murphy\u2019s Sway In Disney Empire",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/shards-renew-fx-show-ryan-murphy-1236721306/",
+      "summary": "The prolific creator has a big overall deal with Disney's 20th TV and a long working relationship with FX. Is that enough to ensure a renewal for a show that wasn't a ratings breakout?",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Watcher\u2019 Season 2 Is Coming: Naomi Watts, Bobby Cannavale Returning",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-watcher-season-2-naomi-watts-bobby-cannavale-1236721015/",
+      "summary": "Margo Martindale and Isabel Gravitt will also reprise their roles when the Netflix series from Ryan Murphy and Ian Brennan returns four-plus years after season one.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tony Romo Out at CBS Sports Following DWI Plea",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-sports-tony-romo-part-ways-1236720996/",
+      "summary": "The NFL commentator and former quarterback pleaded no contest to charges in Wisconsin in September.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Biggest Little Farm\u2019 Sequel Series to Debut Next Month in Follow-Up to 2019 Documentary (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-biggest-little-farm-sequel-series-john-chester-youtube-1236720922/",
+      "summary": "John and Molly Chester return for the 12-part docuseries that launches on YouTube.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018A Different World\u2019 Earns Fast Season 2 Renewal at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/a-different-world-renewed-season-2-netflix-1236720884/",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ken Urker, the Father of Gypsy-Rose Blanchard\u2019s Daughter, Dies at 34",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ken-urker-dead-father-gypsy-rose-blanchard-daughter-1236720726/",
+      "summary": "Urker also appeared in Lifetime's 'Gypsy Rose: Life After Lockup' with Blanchard.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Big Brother\u2019 Reveals Season 28 Winner: See Who Won the Game (and America\u2019s Favorite Houseguest)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/big-brother-season-28-winner-america-favorite-houseguest-1236720612/",
+      "summary": "At the top of the finale episode, Rick Devens, Drew Campbell and Taylor Brown were still in contention to win the show.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Eddie Murphy to Star in First Scripted Series \u2018The Chairman\u2019 at Peacock",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/eddie-murphy-star-the-chairman-peacock-1236720659/",
+      "summary": "",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Streaming Ratings: \u2018Neagley\u2019 Outmuscles \u2018Monster\u2019 and \u2018Reacher\u2019 for Top Spot",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-sept-14-20-2026-1236720517/",
+      "summary": "The Prime Video spinoff puts up premiere week numbers in line with 'Reacher's' 2022 debut.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Interrupts Dakota Johnson\u2019s \u2018SNL\u2019 Monologue With Breakup Advice",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/snl-dakota-johnson-monologue-taylor-swift/",
+      "summary": "The \"Patient Zero\" collaborators reunite to commiserate over their shared romantic experiences with musicians The post Taylor Swift Interrupts Dakota Johnson\u2019s \u2018SNL\u2019 Monologue With Breakup Advice appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T21:07:17-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018SNL\u2019 Cold Open: Trump, Rubio and Hegseth Beg Republican Voters for Help Ahead of \u2018Bleak\u2019 Midterms",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-trump-marco-rubio-pete-hegseth-midterms/",
+      "summary": "The president also wants you to know his $5,000 promise is not a bribe because he has \"no intention of following through\" The post \u2018SNL\u2019 Cold Open: Trump, Rubio and Hegseth Beg Republican Voters for Help Ahead of \u2018Bleak\u2019 Midterms appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T20:49:32-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018A Statement\u2019 Review: Tom McCarthy\u2019s Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment",
+      "url": "https://www.thewrap.com/creative-content/movies/a-statement-review-tom-mccarthy-climate-change-dramedy/",
+      "summary": "New York Film Festival 2026: Paul Giamatti and John Turturro star in an entirely engaging film made from bureaucrats\u2019 transcripts The post \u2018A Statement\u2019 Review: Tom McCarthy\u2019s Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T17:15:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Chris Rock Says \u2018Wokeness\u2019 Has Created a Less Forgiving World: \u2018We\u2019re in the Old Testament Right Now\u2019",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/chris-rock-wokeness-forgiveness-cancel-culture/",
+      "summary": "\u201cIt\u2019s great to help those that need help. We need more of that. The problem is when you institutionalize it,\u201d the \"Misty Green\" filmmaker says The post Chris Rock Says \u2018Wokeness\u2019 Has Created a Less Forgiving World: \u2018We\u2019re in the Old Testament Right Now\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T16:53:24-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "White House Fires Back at Chuck Lorre After Anti-Trump Gala Speech: \u2018Seek Psychiatric Help\u2019",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/white-house-fires-back-chuck-lorre-anti-trump-gala-speech/",
+      "summary": "The veteran TV producer took jabs at President Trump and first lady Melania Trump at a recent charity event The post White House Fires Back at Chuck Lorre After Anti-Trump Gala Speech: \u2018Seek Psychiatric Help\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T15:11:55-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tom Cruise Insists He\u2019s \u2018So Proud\u2019 of \u2018Digger\u2019 Amid Disappointing Box Office",
+      "url": "https://www.thewrap.com/creative-content/movies/tom-cruise-proud-of-digger-amid-disappointing-box-office/",
+      "summary": "\"Thank you to the entire cast and crew for your dedication, hard work and joy,\" the actor adds The post Tom Cruise Insists He\u2019s \u2018So Proud\u2019 of \u2018Digger\u2019 Amid Disappointing Box Office appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T14:10:21-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Aaron Sorkin Explains Jesse Eisenberg Turning Down \u2018The Social Reckoning\u2019: \u2018Money Does Not Motivate\u2019 Him",
+      "url": "https://www.thewrap.com/creative-content/movies/aaron-sorkin-jesse-eisenberg-turning-down-social-reckoning-pay/",
+      "summary": "\"The Social Network\" star allowed the filmmaker to try to convince him to return The post Aaron Sorkin Explains Jesse Eisenberg Turning Down \u2018The Social Reckoning\u2019: \u2018Money Does Not Motivate\u2019 Him appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T13:07:10-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "8 Best New Movies and Shows to Stream This Weekend on Netflix, HBO Max and More",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-shows-streaming-this-weekend-oct-2-4/",
+      "summary": "From \"East of Eden\" to \"Coven Academy\" and everything in between The post 8 Best New Movies and Shows to Stream This Weekend on Netflix, HBO Max and More appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T13:00:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 3 Best New Movies to Watch on Paramount+ This Week",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-paramount-plus-this-week-oct-3/",
+      "summary": "\"Doctor Sleep\" remains one of the more underrated Stephen King adaptations The post The 3 Best New Movies to Watch on Paramount+ This Week appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T13:00:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Scoob! Holiday Haunt\u2019 Director Spikes Pamela Abdy and Mike De Luca After Warner Bros. Shelved Film: \u2018Hurts, Doesn\u2019t It?\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/scoob-director-roasts-mike-de-luca-pamela-abdy/",
+      "summary": "The studio got a tax write-off for never releasing the \"Scooby-Doo\" animated feature The post \u2018Scoob! Holiday Haunt\u2019 Director Spikes Pamela Abdy and Mike De Luca After Warner Bros. Shelved Film: \u2018Hurts, Doesn\u2019t It?\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-03T12:08:04-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018A Statement\u2019 Review: Tom McCarthy\u2019s Talky Climate Crisis Seriocomedy Is Light Entertainment That Hardly Rakes the Muck",
+      "url": "https://www.indiewire.com/criticism/movies/a-statement-review-tom-mccarthy-1235220103/",
+      "summary": "New York Film Festival: The Oscar-winning writer/director turns his spotlight on a plushly appointed ensemble as the environmental stewards and scholars who tried to solve the climate crisis over one long-winded, futile meeting in St. Petersburg, Florida, in 1980.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-03T17:15:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Will \u2018Behemoth!\u2019 Push Pedro Pascal Into Oscar Contention?",
+      "url": "https://www.indiewire.com/awards/predictions/behemoth-oscar-chances-pedro-pascal-1235220080/",
+      "summary": "The movie star is front and center in Tony Gilroy's love letter to film music. But will the Music Branch accept The Behemoth! Collective?",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T21:11:06-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Josephine\u2019 Director Beth De Ara\u00fajo Delivers Powerful Speech Condemning Cornell Rape Case",
+      "url": "https://www.indiewire.com/news/general-news/josephine-director-beth-de-araujo-speech-cornell-rape-case-1235220071/",
+      "summary": "\u201cJosephine\u201d director Beth de Ara\u00fajo used her Breakthrough Director Award acceptance speech to ask men to \u201chold each other accountable\u201d at the Critics Choice Association\u2019s Celebraci\u00f3n of Cinema & Television.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T18:30:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Behemoth!\u2019 Review: Pedro Pascal Plays a Wayward Cellist in Tony Gilroy\u2019s Movingly Atonal Character Study About How People Conduct Themselves",
+      "url": "https://www.indiewire.com/criticism/movies/behemoth-movie-review-pedro-pascal-1235220030/",
+      "summary": "The \"Andor\" creator returns to the big screen with a movie that's smaller and stranger than its title would suggest.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T17:06:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "What Has the Last Decade at Netflix Done for David Fincher?",
+      "url": "https://www.indiewire.com/news/analysis/david-fincher-netflix-deal-expiring-mindhunter-cliff-booth-1235219429/",
+      "summary": "With Fincher letting his Netflix deal expire, it's worth assessing whether \"Mank,\" \"The Killer,\" \"Mindhunter,\" and the upcoming \"Cliff Booth\" movie have had real cultural impact.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T12:45:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Will Nathan Fielder and Lance Oppenheim\u2019s \u2018You Can See Everything\u2019 Score a Best Picture Nomination? Not If Oscar History Is Any Guide",
+      "url": "https://www.indiewire.com/awards/predictions/you-can-see-everything-oscar-chances-nathan-fielder-elizabeth-holmes-1235220022/",
+      "summary": "The look at Theranos founder Elizabeth Holmes is the breakout of fall festival season, but it faces major challenges in the Best Picture or Best Documentary race.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T12:30:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "SCAD Savannah Film Festival Lineup Includes \u2018Being Heumann,\u2019 \u2018A Talent for Murder,\u2019 and More",
+      "url": "https://www.indiewire.com/news/festivals/scad-film-festival-2026-full-lineup-revealed-1235220023/",
+      "summary": "\"The Debut,\" \"Behemoth!\" \"Clarissa,\" and \"Wild Horse Nine\" are among the films playing at the 2026 SCAD Savannah Film Festival.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T12:05:06-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Cameron Winter at Carnegie Hall\u2019 Review: PTA\u2019s Spellbinding Concert Doc Is a Gorgeously Tender Performance",
+      "url": "https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827/",
+      "summary": "New York Film Festival: Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T11:06:32-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Indie Filmmakers Push Back Against Claims That There Aren\u2019t Enough Movies to Buy",
+      "url": "https://www.indiewire.com/features/interviews/indie-filmmakers-push-back-movie-shortage-claims-1235219759/",
+      "summary": "Distributors say there's high demand for indie films that are distinctive and broadly commercial. Artists like Annapurna Sriram want to know how big a movie has to be before it counts.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T10:00:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How Bleecker Street Endured Tragedy and Elon Musk\u2019s Legal Threats to Have Its Hottest Year",
+      "url": "https://www.indiewire.com/news/business/bleecker-street-elon-musk-tragedy-hot-year-1235219768/",
+      "summary": "The independent studio is deep in the awards race with \"Tender Loving Care\" and riding high on the success of \"Hadestown: The Musical\" despite the death of its founder.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T09:15:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Warner Bros. Chiefs Mike De Luca and Pam Abdy Took Big Risks and Made Great Movies. Their Exit Is a Bad Thing for Cinema",
+      "url": "https://www.indiewire.com/features/commentary/mike-de-luca-pam-abdy-over-warner-bros-1235219841/",
+      "summary": "The Pam and Mike era is over. Their sensibility led to big hits and massive flops and was not in sync with new Skydance boss David Ellison.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T09:05:31-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Before David Ellison Took Over Paramount, I Watched the Hollywood That Brought Me Here Disappear",
+      "url": "https://www.indiewire.com/features/commentary/paramount-golden-age-before-merger-1235219744/",
+      "summary": "As the Paramount-Warner Bros. merger hurtles toward the inevitable, an IndieWire writer looks back at his time on the Paramount lot in the mid-1990s.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-02T08:03:41-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Deadline: Breaking News",
+      "url": "https://e.mail.deadline.com/click?ZdNDLavJAGAbguZYBd-Y3c0xG-KHVVoKnIhrbupHJzGcMzSSaFIOU3ntJMaWbrr_D8_I-FtAU0NRlop2-S53O8hZE4w_sMouHmASK-GHAmRKCWS1UKLgIJWO4j807HuKTM54FbfOsAO9Y5vm1KUvr6YPlipLQSq5ABcKYg5GJUOD7NpCWeAT3cdUKPyj-RHHXxiWD5t_3oPvdbgwc1LVOoR78GWtQ6Qatd9HeWdOd7h-Wm_sl8X1OfSoNZSwMeYDmzkp0bhsD-E-eNRxH6RYi8jSteCUTslAzM4eJKRgl1-15-RIzu-vRyapHJ5Kv30Q8Kk4L6TjNXqNZSZNbp7-zcZTqOtpcVmja-eOb_zUA1jfdcbb48f",
+      "summary": "SNL Cold Open Goes Full MAGA Midterms Desperation With Hegseth's\r\n \"Schlong Donkeys,\" Trump's Rambles & A Sad VP\n\nSubject Line: SNL Cold Open Goes Full MAGA Midterms Desperation With Hegseth's \"Schlong Donkeys,\" Trump's Rambles & A Sad VP\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNDLavJAGAbguZYBd-Y3c0xG-KHVVoKnIhrbupHJzGcMzSSaFIOU3ntJMaWbrr_D8_I-FtAU0NRlop2-S53O8hZE4w_sMouHmASK-GHAmRKCWS1UKLgIJWO4j807HuKTM54FbfOsAO9Y5vm1KUvr6YPlipLQSq5ABcKYg5GJUOD7NpCWeAT3cdUKPyj-RHHXxiWD5t_3oPvdbgwc1LVOoR78GWtQ6Qatd9HeWdOd7h-Wm_sl8X1OfSoNZSwMeYDmzkp0bhsD-E-eNRxH6RYi8jSteCUTslAzM4eJKRgl1-15-RIzu-vRyapHJ5Kv30Q8Kk4L6TjNXqNZSZNbp7-zcZTqOtpcVmja-eOb_zUA1jfdcbb48f\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNDbavJAFAXgPMuAd-Y3c0xG-KHVVoKnIh7aeiOTmW0MzSSaqQYpffeSYkpver0361usxwLqAmpXJsqqu9SqLG9Ab_iBbGZQH-FQ4iAKGZWcU6O4jDjjkaAUdZF-R310tNo3oEyeFeAfyjy_1mVpfLU3TBIcGcEkyJBrvdci4RKCwITCYB-jLqoa4QdFn966XeOSQf3v-9BmNx89C86pFFzvz1q9c-HOidNVloC33MY7a3QbsXuYr-7nOAgYCYjQhNIoYqE3tUZ4p2Y5gP_4WcFhkG4gxk_jilUiwTM50VMY6YISfN2c5i9rarYdMlp0yEiw5RtfD4rjTFhGstd4UpLktu3vjsxLlYtXl4U3bv3hzf8aAAdh824ebbf3",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-04T04:19:09",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks",
+      "url": "https://deadline.com/2026/10/channing-dungey-role-skydance-paramount-wbd-cable-networks-1237146154/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Team Discusses How Theme Of Fear Played Part In Finale, Remixing The Oath And The Fate Of Earl",
+      "url": "https://deadline.com/2026/10/lanterns-season-one-finale-recap-1237144840/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Korean Directors Rally Behind \u2018The Assassin(s)\u2019 as Political Firestorm Turns on Its Makers",
+      "url": "https://variety.com/2026/film/news/the-assassins-korea-directors-guild-1236898817/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "James Gunn Confirms He\u2019s \u2018Already\u2019 Writing His Next Film Ahead of \u2018Superman: Man of Tomorrow\u2019",
+      "url": "https://variety.com/2026/film/news/james-gunn-next-project-superman-man-of-tomorrow-1236898696/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Spotlight\u2019 Director Says The Catholic Church Hasn\u2019t Done \u2018Enough\u2019 To Protect Children From Sexual Assault 10 Years After Film\u2019s Best Picture Win: \u2018Not Until Every Child Is Safe\u2019",
+      "url": "https://variety.com/2026/film/news/spotlight-catholic-church-children-sexual-abuse-nyff-1236898551/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Daily Wire\u2019s Pro-ICE Film \u2018Pawn Shop\u2019 Production Temporarily Suspended",
+      "url": "https://variety.com/2026/film/news/daily-wires-pro-ice-film-temporarily-suspended-montana-1236898635/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pedro Pascal in \u2018Behemoth!\u2019: The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For",
+      "url": "https://variety.com/2026/film/news/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in \u2018Earthquake,\u2019 \u2018Falcon Crest,\u2019 Dies at 82",
+      "url": "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pedro Pascal Premieres \u2018Behemoth!\u2019 in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+      "url": "https://variety.com/gallery/stevie-nicks-make-a-fared-carpet-photos-october-2026-celebrity/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Singeetham Srinivasa Rao, Indian Filmmaker Behind \u2018Pushpaka Vimana,\u2019 \u2018Michael Madana Kama Rajan\u2019 and \u2018Aditya 369\u2019 Dies at 95",
+      "url": "https://variety.com/2026/film/news/singeetham-srinivasa-rao-dead-indian-filmmaker-pushpaka-vimana-1236898526/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Taylor Swift Crashes Dakota Johnson\u2019s \u2018SNL\u2019 Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
+      "url": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Finale: Hal Jordan\u2019s Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for \u2018Superman\u2019 Sequel",
+      "url": "https://variety.com/2026/tv/news/lanterns-finale-hal-killer-manhunter-sinestro-yellow-lantern-1236897626/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sarah Jessica Parker Says She\u2019s \u2018Never\u2019 Worn Her Archived \u2018Sex and the City\u2019 Wardrobe: \u2018There\u2019s a Huge Separation Between Myself and Carrie Bradshaw\u2019",
+      "url": "https://variety.com/2026/tv/news/sarah-jessica-parker-carrie-bradshaw-sex-and-the-city-wardrobe-1236898781/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Gypsy-Rose Blanchard Launches Petition to \u2018Fight Online Harassment\u2019 Following Partner Ken Urker\u2019s Death: \u2018Fame Does Not Erase Humanity\u2019",
+      "url": "https://variety.com/2026/tv/news/gypsy-rose-blanchard-petition-online-harassment-ken-urker-1236898652/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018East of Eden\u2019 Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh\u2019s Cathy Is Both a \u2018Murderer\u2019 and \u2018Survivor\u2019 and Making Lee a Central Character",
+      "url": "https://variety.com/2026/tv/news/east-of-eden-explained-ending-cathy-lee-sexuality-1236897001/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "James Van Der Beek Was the \u2018Soul\u2019 of \u2018Dawson\u2019s Creek,\u2019 Says Show Creator Kevin Williamson: \u2018He Handled His Cancer With Such Grace and Courage\u2019",
+      "url": "https://variety.com/2026/tv/news/dawsons-creek-kevin-williamson-james-van-der-beek-cancer-1236898546/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in \u2018Earthquake,\u2019 \u2018Falcon Crest,\u2019 Dies at 82",
+      "url": "https://variety.com/2026/tv/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "J. Todd Anderson, \u2018The Nice Guys\u2019 and \u2018The Big Lebowski\u2019 Storyboard Artist, Dies at 67",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/j-todd-anderson-dead-storyboard-artist-1236721947/",
+      "summary": "He was a frequent collaborator of the Coen Brothers, storyboarding \u2018Fargo,\u2019 \u2018Drive-Away Dolls\u2019 and \u2018The Tragedy of Macbeth,\u2019 among other films.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Ba\u2019s Book\u2019 Director Uncovers Father\u2019s Secrets Over Vietnam War, Revolutionary Iran Upbringing",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bas-book-director-vietnam-war-1236705255/",
+      "summary": "Ashley Duong has created an inventive hybrid film inspired by a memoir that fluidly moves between re-enactments and verite documentary styles.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Marjoe Gortner, Child Preacher and \u2018Earthquake,\u2019 \u2018Falcon Crest\u2019 Actor, Dies at 82",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873/",
+      "summary": "The subject of an Oscar-winning documentary, the Universal Pictures contract player also starred with Lynda Carter in \u2018Bobbie Jo and the Outlaw.\u2019",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": true,
+        "policy": true,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018In The Heart of the South\u2019 Director Wants to Change the Narrative For Indigenous Filmmakers: \u201cYou\u2019ve Been Telling Our Stories Forever\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
+      "summary": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tom Cruise\u2019s \u2018Digger\u2019 Tries New Marketing Tactic: The French Love It, Americans Don\u2019t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/",
+      "summary": "A new ad for Alejandro G. I\u00f1\u00e1rritu's box office bomb shows international critics praising the film compared to their American counterparts.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "So Long, Kody & Robyn: Where to Watch \u2018Sister Wives\u2019 Season 21 for Free Online Featuring Only the OG Spouses",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-sister-wives-season-21-free-online-1236717631/",
+      "summary": "The newest season premieres on Sunday, Oct. 4, and specifically revolves around Meri, Janelle and Christine's lives.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Reggie McFadden, Actor-Comedian Known for \u2018Def Comedy Jam\u2019 and \u2018In Living Color,\u2019 Dies at 57",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/reggie-mcfadden-dead-def-comedy-jam-in-living-color-1236722079/",
+      "summary": "He also appeared on \u2018Martin,\u2019 \u2018Hangin\u2019 With Mr. Cooper,\u2019 \u2018Moesha,\u2019 \u2018Coach\u2019 and 'Curb Your Enthusiasm.\u2019",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Newport Beach Film Fest: \u2018Furious\u2019 Star Emmy Rossum Will Receive TV Performance Award, Guest on Live Episode of \u2018Awards Chatter\u2019 Pod",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/newport-beach-film-fest-furious-emmy-rossum-award-podcast-1236721462/",
+      "summary": "The critically acclaimed and popular actress best known for 'Shameless' will be feted on Oct. 18.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Where to Watch the Chiefs vs. Raiders Game Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-chiefs-vs-raiders-game-free-nfl-streams-2026-1236721201/",
+      "summary": "The NFL Week 4 matchup is set for Sunday, Oct. 4 at Allegiant Stadium in Las Vegas.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Finale Review: HBO\u2019s Epic DC Drama Ends on a Quiet but Promising Note",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-8-review-hbo-dc/",
+      "summary": "Hal Jordan and John Stewart\u2019s saga kept things a little too grounded The post \u2018Lanterns\u2019 Finale Review: HBO\u2019s Epic DC Drama Ends on a Quiet but Promising Note appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T19:05:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Team Breaks Down HBO Drama\u2019s Surprising Murder Reveal and John\u2019s Destiny",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-ending-interview-creators-aaron-pierre-kyle-chandler/",
+      "summary": "Plus, Kyle Chandler and Aaron Pierre discuss their emotional goodbye as Hal Jordan and John Stewart The post \u2018Lanterns\u2019 Team Breaks Down HBO Drama\u2019s Surprising Murder Reveal and John\u2019s Destiny appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T19:00:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Finale Explained: Who Killed Hal Jordan?",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/lanterns-episode-8-ending-explained-who-killed-hal-jordan/",
+      "summary": "John gets to the bottom of who offed his reluctant mentor in Episode 8 The post \u2018Lanterns\u2019 Finale Explained: Who Killed Hal Jordan? appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T19:00:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Marshals\u2019 Boss Explains Season 2\u2019s Tragic Start and Kayce\u2019s Biggest Fear",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/marshals-season-2-premiere-dolly-death/",
+      "summary": "Showrunner Spencer Hudnut tells TheWrap about Dolly\u2019s fate, Cal and Belle\u2019s growing feelings and why Tate will surprise everyone The post \u2018Marshals\u2019 Boss Explains Season 2\u2019s Tragic Start and Kayce\u2019s Biggest Fear appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T18:53:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Tracker\u2019 Release Schedule: When Do New Episodes Air?",
+      "url": "https://www.thewrap.com/industry-news/business/tracker-release-schedule-cbs/",
+      "summary": "Justin Hartley returns as Colter Shaw, a skilled tracker and lone-wolf survivalist The post \u2018Tracker\u2019 Release Schedule: When Do New Episodes Air? appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T17:00:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Trump Lashes Out at Fox News for \u2018Not Covering\u2019 His Ohio Rally: \u2018Who Makes These Decisions?\u2019",
+      "url": "https://www.thewrap.com/media-platforms/tv/trump-lashes-out-fox-news-not-covering-rally/",
+      "summary": "The president says the network could \"soon have the ratings of FAKE NEWS CNN\" The post Trump Lashes Out at Fox News for \u2018Not Covering\u2019 His Ohio Rally: \u2018Who Makes These Decisions?\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T16:56:33-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Marshals\u2019 Season 2 Release Schedule: When Do New Episodes Air?",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/marshals-season-2-release-date-time-epiosdes-schedule/",
+      "summary": "The new season brings back a \"Yellowstone\" favorite The post \u2018Marshals\u2019 Season 2 Release Schedule: When Do New Episodes Air? appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T16:00:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "James Gunn Is \u2018Already\u2019 Writing His Next Film After \u2018Superman\u2019 Sequel",
+      "url": "https://www.thewrap.com/creative-content/movies/james-gunn-already-writing-next-film/",
+      "summary": "The DC Studios head is awaiting an assembly cut of \"Man of Tomorrow\" The post James Gunn Is \u2018Already\u2019 Writing His Next Film After \u2018Superman\u2019 Sequel appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T15:08:14-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 3 Best New Movies to Watch on Hulu This Week",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-hulu-oct-4-10/",
+      "summary": "\"Barbarian\" headlines our picks The post The 3 Best New Movies to Watch on Hulu This Week appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T15:00:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bassam Tariq Defends Kevin Feige After Their Failed \u2018Blade\u2019 Reboot: Competing With Wesley Snipes Was an \u2018Impossible Task\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/blade-director-bassam-tariq-defends-kevin-feige/",
+      "summary": "The filmmaker still calls the Marvel Studios chief \"a good dude\" The post Bassam Tariq Defends Kevin Feige After Their Failed \u2018Blade\u2019 Reboot: Competing With Wesley Snipes Was an \u2018Impossible Task\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "tags": [],
+      "published": "2026-10-04T13:35:18-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kyle Chandler, Aaron Pierre, and the \u2018Lanterns\u2019 Creators on a \u2018Quieter\u2019 Finale, Ending with Love, and the New Oath",
+      "url": "https://www.indiewire.com/features/interviews/kyle-chandler-aaron-pierre-explain-lanterns-finale-new-oath-1235220126/",
+      "summary": "The stars and creators behind HBO's \"grounded\" superhero series break down an ending that focuses on character over spectacle \u2014 and introduces a new oath for our new Green Lantern.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-04T19:05:00-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Finale Review: Episode 8 Makes the Hard Choices \u2014 and Leaves a Light on For Season 2",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-8-review-finale-spoilers-1235219545/",
+      "summary": "Showrunner Chris Mundy joined his co-creators Damon Lindelof and Tom King to write a dense, emotional finale that focuses on characters over spectacle and shows love in all its messy glory.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-04T19:00:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Q3\u2019s Horror Box Office Shows the Trouble with Always Hunting Another \u2018Obsession\u2019",
+      "url": "https://www.indiewire.com/features/commentary/horror-box-office-q3-2026-1235220127/",
+      "summary": "\"Resident Evil\" arrived big, \"Buddy\" built a hit, and \"Evil Dead\" and \"Insidious\" grappled with cost-benefit expectations. Horror\u2019s third quarter explains why the genre needs more than one benchmark.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-04T15:35:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Digger\u2019 Flops with $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise\u2019s Career",
+      "url": "https://www.indiewire.com/news/box-office/digger-flops-tom-cruise-150-million-loss-warner-bros-bomb-1235220093/",
+      "summary": "The expensive satire is on track to lose $150 million or more, studio sources estimate, making it a historic disaster.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-04T08:24:52-07:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Box Office: John Wilson\u2019s \u2018The History of Concrete\u2019 from Magnolia Passes $1 Million",
+      "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-1-million-gross-record-1235220143/",
+      "summary": "Among documentaries, the humorous look at urbanism is the year's highest-grossing platform release.",
+      "source": "IndieWire",
+      "tags": [],
+      "published": "2026-10-04T05:30:00-07:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Breaking News",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT8IwFMX7WZr4JrK7rdtKYiJ_jAMENWAEXkht75YKndg6GjV-dzMDxBef7z3nd_K7rtBX6N3rszDiqjRCbxsg6X9RoxXtUEg5AKTA4zjOGCsSiIQEroCeU_lOO3RnZEtXSqPXFltSBgUXEZMZApPIMigwLqJASowVCNVqcrYpPrHoN3k8Sthr9Be_h1Nl89I26Jwo0bX_ndO2wpPZKl8b7aWulNfrwXTenUIQxGEQJjKMoizLGLn1OiFvjSfEy-3ToKyHy24EZ2Ev1eOc-cl8Yyf7OlE5m33WvXwYjmaDFzcON0HC729W_WVPTYd3uPuw83SxOHj8u4uTUrhRbh_I6EjvH-g_AwAfgaba880d3",
+      "summary": "Box Office: John Wilson's 'The History of Concrete' From Magnolia\r\n Passes $1 Million\n\nSubject Line: Box Office: John Wilson's 'The History of Concrete' From Magnolia Passes $1 Million\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT8IwFMX7WZr4JrK7rdtKYiJ_jAMENWAEXkht75YKndg6GjV-dzMDxBef7z3nd_K7rtBX6N3rszDiqjRCbxsg6X9RoxXtUEg5AKTA4zjOGCsSiIQEroCeU_lOO3RnZEtXSqPXFltSBgUXEZMZApPIMigwLqJASowVCNVqcrYpPrHoN3k8Sthr9Be_h1Nl89I26Jwo0bX_ndO2wpPZKl8b7aWulNfrwXTenUIQxGEQJjKMoizLGLn1OiFvjSfEy-3ToKyHy24EZ2Ev1eOc-cl8Yyf7OlE5m33WvXwYjmaDFzcON0HC729W_WVPTYd3uPuw83SxOHj8u4uTUrhRbh_I6EjvH-g_AwAfgaba880d3\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBdT_JAEIX3t2zy3r1Ip-32g8REPowFBDVgBG7IsjttRmjFXctGjf_d1ADxxuuZc56T57pCV6GzLxtZyquilLRrgKz_yUvSvMMhTgEghjQMw0SIPIJAKkg18P9cvfEO35eqRZUmdGSwpZSXpzIQKkEQCkUCOYZ54CmFoQapW03ONMVnFv9ijycJB0J38XM4VzYv7RKtlQXa9p9z2nVl641VhjbIZqtsXZJTVGlH68F03p2C54W-50fKD4IkSQS7dRSx18YX4uXuaVDUw2U3gH9-L6ZxJtxkvjWTQx3pTMw-6l429EezwbMd-1svSu9vVv1lT0-Hd7h_N_N4sTj6_L0vZYW0o8w8sNGJ3j_SvwcA5j29f91542",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T12:33:49",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Dodges David Ellison-Skydance News on \u2018Last Week Tonight\u2019",
+      "url": "https://variety.com/2026/tv/news/john-oliver-last-week-tonight-david-ellison-skydance-hbo-warner-bros-1236898839/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Variety Breaking News",
+      "url": "https://e.mail.variety.com/click?ZdJBRT_IwFIb7W5pwBx9tt24ryZfYITiMokSEhRtSusNStFVWsoUY_7uZGcYbr8953_fJM3HQOGj8205ZdVVaZV7bQTT-wNYUeIRpLCiNGeciYQnVUUJirhNNQtzH-oRH-N3qQa0qA6fzAEgYRCAKHhZqHwqyK-ieAY8jvk-ooHxAcR9Xbe3PEv5EzxcFtYHm3_ehK2wfhha8VyX44Z8ow0o16GmTbW2tu-T2er6Uc0oIZ4RFmgWBCAhHd7ZO0LGVBPB_ysIeSw9Zvsp6bJo7a8_1cnGopHCQrywJ2HrycpiNl2kh00W8zh5X8mFmYJM7ZSTvsdQd_bwT-QsuIKhU_r68kej2QjDuCL4GAAai78c560df",
+      "summary": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019\n\nSubject Line: John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBRT_IwFIb7W5pwBx9tt24ryZfYITiMokSEhRtSusNStFVWsoUY_7uZGcYbr8953_fJM3HQOGj8205ZdVVaZV7bQTT-wNYUeIRpLCiNGeciYQnVUUJirhNNQtzH-oRH-N3qQa0qA6fzAEgYRCAKHhZqHwqyK-ieAY8jvk-ooHxAcR9Xbe3PEv5EzxcFtYHm3_ehK2wfhha8VyX44Z8ow0o16GmTbW2tu-T2er6Uc0oIZ4RFmgWBCAhHd7ZO0LGVBPB_ysIeSw9Zvsp6bJo7a8_1cnGopHCQrywJ2HrycpiNl2kh00W8zh5X8mFmYJM7ZSTvsdQd_bwT-QsuIKhU_r68kej2QjDuCL4GAAai78c560df\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBRT_owFEf7WZrwBn_abt1Wkn_ihuAwihIRFl5I112Woq2ywhZi_O5mZhhffL4353dyJhYaC417y6WRV6WR-rUdROMPbHSBR5iGgtKQcS4iFlEVRCTkKlLEx32sjniE340a1LLScDwPgPheAKLgfiF3viB5QXcMeBjwXUQF5QOK-7hqsT9L-BM9XxLUGpp_34cO2D4MDTgnS3DDP1WGJ-tOuVOVzgE9bdKtqVVH2F7Pl_GcEsIZYYFinic8wtGdqSN0aGMB_J8yv8eSfZqt0h6bZtaYc71c7KtYWMhWhnhsPXnZz8bLpIiTRbhOH1fxw0zDJrNSx7zHEntw8y7oL0mPoFK6-_ImRrcXg3Fn8DUA8qa4b78689",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T03:57:12",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Breaking News",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT_IwFIf7WXoNL2u3divJm4jTTQhMCZIQbkj_HGYjnZMqJRq_u5kB4o3X5-T3PHluGwgNBP-ipJNXtZN21wFR_omdNXiISSoI4UyIjCQMhEoU4UyLVOEe1m94iFun-7YxFoLdQ59FJuFANDOpMEYJyrUmkBq-lUrHDPoE9_C-G76w8BdaniMcLIR_P4fLZPcycOC9rMEP_tQZ7GVAi_XdxtmgbWOC3dxUj6OKRBGjEeWaxrGggqJpsBy9dp0A_uuyyMupexDVGKaFHLVHeqTbbG5X_rp9ag_3vJxPyuVH8pyx8Xq1g2KWH5t6WRXx4p0uslPF31Yc1dLPynlAkzM7P7G_BwA0v45f10870",
+      "summary": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath\n\nSubject Line: Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter' Finale, Ending with Love, and the New Oath\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT_IwFIf7WXoNL2u3divJm4jTTQhMCZIQbkj_HGYjnZMqJRq_u5kB4o3X5-T3PHluGwgNBP-ipJNXtZN21wFR_omdNXiISSoI4UyIjCQMhEoU4UyLVOEe1m94iFun-7YxFoLdQ59FJuFANDOpMEYJyrUmkBq-lUrHDPoE9_C-G76w8BdaniMcLIR_P4fLZPcycOC9rMEP_tQZ7GVAi_XdxtmgbWOC3dxUj6OKRBGjEeWaxrGggqJpsBy9dp0A_uuyyMupexDVGKaFHLVHeqTbbG5X_rp9ag_3vJxPyuVH8pyx8Xq1g2KWH5t6WRXx4p0uslPF31Yc1dLPynlAkzM7P7G_BwA0v45f10870\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT-owGIf7WXoNh7Vbu5XkJIcz3YTAlCAJ4Yb0z8tspHNSoUTjdzczQLzx-n3ze548tw2EBoJ_UdLJf7WTdtcBUf6BnTV4iEkqCOFMiIwkDIRKFOFMi1ThHtZveIhbp_u2MRaC3UOfRSbhQDQzqTBGCcq1JpAavpVKxwz6BPfwvhu-svAnWl4iHC2EP9-H62T3MnDgvazBD37VGRwaf1Be760CtFjfbZwN2jYm2M1N9TiqSBQxGlGuaRwLKiiaBsvRa9cL4K8ui7ycugdRjWFayFF7oie6zeZ25f-3T-3xnpfzSbl8T54zNl6vdlDM8lNTL6siXhzoIjvX_GnHUS39rJwHNLmw8zP7awAeu20bc6296",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-05T02:06:59",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Variety Breaking News",
+      "url": "https://e.mail.variety.com/click?ZdJBfT_IwFMb7WZrsDl7ajq0tyZuI6MSFgQmQoDfkrDvDRYq4js0_8bubmWG88fqc53l--V0fsDlg455TsHCxs1Ds20Ey-aC2yOiIcqk5DwPFGPeZYsC1xlymuaQ9aio6okdr-jWUBVZvfa1ymWmUYYqQ5Ur6HIb-MPMDrnKJoPqc9mjZ1v4s0U-yPiuoC2z-fR-6wvZhYNE52KEb_IkyKKEhy4fp1tamS26v5qvxnDMWCCZCI3xfCyXIzNaKvLSSEP974nIRL27KWXV7N3mMA75II09E8Xj9DuYk9Gm5MkNPRKE5iun9sZZok33itGMZmsQTkXqym2pTdip_43GyA5dEr2MSnxkmHcPXAAcra24dacef",
+      "summary": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel\n\nSubject Line: 'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT_IwFMb7WZrsDl7ajq0tyZuI6MSFgQmQoDfkrDvDRYq4js0_8bubmWG88fqc53l--V0fsDlg455TsHCxs1Ds20Ey-aC2yOiIcqk5DwPFGPeZYsC1xlymuaQ9aio6okdr-jWUBVZvfa1ymWmUYYqQ5Ur6HIb-MPMDrnKJoPqc9mjZ1v4s0U-yPiuoC2z-fR-6wvZhYNE52KEb_IkyKKEhy4fp1tamS26v5qvxnDMWCCZCI3xfCyXIzNaKvLSSEP974nIRL27KWXV7N3mMA75II09E8Xj9DuYk9Gm5MkNPRKE5iun9sZZok33itGMZmsQTkXqym2pTdip_43GyA5dEr2MSnxkmHcPXAAcra24dacef\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBdT_owFIf7WZrsDv70ha0tyT8R0YkLAxMgQW9I253hIkVct-FL_O5mZhhvvD4nz-_Jc32A0wFO_tlopy92Thf7dhBNPrArMjzCVChKo1ASQjmRRFOlIBcmF7iHbYVH-Ohsv9FlAdVbX8lcZApEZEBnuRSc6iEfZjykMhegZZ_iHi5b7M8S_kTrc4KmgNO_70MHbB8GDrzXO_CDP1UG9cHXxtuyMICWD9Ota2xH2F7NV-M5JSRkhEWWca6YZGjmGole2lgA_wN2uUgWN-Wsur2bPCYhXZg4YHEyXr9rWzNVL1d2GLA4skc2vT82Aly6T73yJAObBiyWT25Tbcou6W9Ninbap_HrGCVnh0nn8DUAcla4d76138",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T02:04:52",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Deadline: Breaking News",
+      "url": "https://e.mail.deadline.com/click?ZdJBdT_IwGED7W5rsjr2sz7qWkbyJY0KIkhlRbrghXVvHcN0YBYoa_7uZYcYbr5-Pc3KmtXa1drbJhRE3hRFl1QFR-oFNqfAYEx4TwkJCOQcmlaKSs1ARkeMBlkc8xnsjfaWFqspa-9umqt5c0yifBVqNIpZzAiDCXDIuIYgjSqliI04in-ABPnSEHyj-RKu-xrnU7t_3oP_dbQyNtlYU2g7_1BoehENP6_nGKNmfbm6z5yQjQRBBAExCGMbAKVoYxVDbFdP6_31KkiOsXkYeTBLLsmy91CZ8d7bdezA7ZTVJjmk7vWgPJsVhsojdcu7BrOXbIr6c6odoN9vt-Nlcu_7246gQdsFfH9Fd75BeHb4GAAfv52852116",
+      "summary": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish\n\nSubject Line: Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks - The Dish\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJBdT_IwGED7W5rsjr2sz7qWkbyJY0KIkhlRbrghXVvHcN0YBYoa_7uZYcYbr5-Pc3KmtXa1drbJhRE3hRFl1QFR-oFNqfAYEx4TwkJCOQcmlaKSs1ARkeMBlkc8xnsjfaWFqspa-9umqt5c0yifBVqNIpZzAiDCXDIuIYgjSqliI04in-ABPnSEHyj-RKu-xrnU7t_3oP_dbQyNtlYU2g7_1BoehENP6_nGKNmfbm6z5yQjQRBBAExCGMbAKVoYxVDbFdP6_31KkiOsXkYeTBLLsmy91CZ8d7bdezA7ZTVJjmk7vWgPJsVhsojdcu7BrOXbIr6c6odoN9vt-Nlcu_7246gQdsFfH9Fd75BeHb4GAAfv52852116\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJBRb6JAFEbnt0zCm6zMBWbEZJNFVmN2DU1tffHFDDO3iGVAHBHbpv-9oZGmL32-N985OfMKuwo7W2fSyD-5kUXZA0nyRk2h6ZQyETHGfRYIAVxpHSjBfc1kRkdUnemUHo1yNUpdFhW6-7osX7q61i73UE9CngkGIP1McaHAi8IgCDSfCBa6jI7oqSd8Qek72Qw1LgV2vz4Pw3b_MTZorczRjn_UGreVbTOrTkWG5GG73Bmthond3_QxTpnnheABV-D7EYiArIzmpOnLIf7-n7D4DJuniQOz2PI03a7R-K-dbY4OLNq0YvE5aeZXdGCWn2arqFsvHVg0Yp9H17a6Cw-Lw0FczK3vd09BcmlX4vme_BsckpvDxwAct269e589a",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-05T01:21:21",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Deadline: Breaking News",
+      "url": "https://e.mail.deadline.com/click?ZdJBbT8IwGED7W5rwxqTtytaSmCi3TIRFmKjhhXRtGdN1Q7oxL_G_mxlmfPH5u5yTM8l1nevaFrEw4ioxIs0aIBh9QpMqOIDY5xhTzijyGRN9RnyPUaU8DbtQlnAAD0Y6SguVpbl29kWWvddFoZydVNJlLGaYUey7PpIMERzznRJEoB13MOzCY0P4hcIvsG5rnFJdX_wM2t_NRs9oa0Wibe9frd5R1CDaBFujZHu6HYf31yFGiBJEPElcl2NKwNwoD7w2xbS-DINSUVtOVqZDhm_jOKo-xv3b_cI-VMX8xUviDpmuDkEVpZtRcHNnTuFyE607ZGo5nT0txTB8RJPFuepfOw4SYefB8xLMWoPR2eB7AA9td3d80363",
+      "summary": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster\n\nSubject Line: Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdJBbT8IwGED7W5rwxqTtytaSmCi3TIRFmKjhhXRtGdN1Q7oxL_G_mxlmfPH5u5yTM8l1nevaFrEw4ioxIs0aIBh9QpMqOIDY5xhTzijyGRN9RnyPUaU8DbtQlnAAD0Y6SguVpbl29kWWvddFoZydVNJlLGaYUey7PpIMERzznRJEoB13MOzCY0P4hcIvsG5rnFJdX_wM2t_NRs9oa0Wibe9frd5R1CDaBFujZHu6HYf31yFGiBJEPElcl2NKwNwoD7w2xbS-DINSUVtOVqZDhm_jOKo-xv3b_cI-VMX8xUviDpmuDkEVpZtRcHNnTuFyE607ZGo5nT0txTB8RJPFuepfOw4SYefB8xLMWoPR2eB7AA9td3d80363\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdJDLbuIwGEb9LJbYkcF2TGIjjTTDTSmFqJDSVmyQb4S0cUIxIb2o716lIlU3Xf-_vnN0JoWpC1O7Ugor_qVWZHkDBKN3aDMNBxCHHGPKGUUhY6LPSBgwqnVgYBeqExzAg1WeNkLnWWG8fZnnr3VZam-ntPIZkwwzikM_RIohgiXfaUEE2nEPwy48NoRvKPwA67bGOTP1n69Du9189KxxTqTG9X7V6lWFq6RTx0wakGyirdWqndiO49v_MUaIEkQCRXyfY0rA3OoAPDfljPkbRydN3Wmysh0yfBnLpHob96_3C3dXlfOnIJUdMl0doirJNqPo6sae4-UmWXfI1HE6e1iKYXyPJotL3Z-WHKTCzaPHJZi1BqOLwecA5ueefaac81",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-04T21:39:25",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Variety Breaking News",
+      "url": "https://e.mail.variety.com/click?ZdJBfT8IwFMX7WfoMsq7bupKYOBkJIkERNOILuesuo0r5N2hZjN_dzAzji8_3nvM7-fU36Dboym0GBm4KA3pdA0nvkxqd0y5lQjLGWcRjGfogVQgSligk0BZVR9qlO6PaFg4aj1U7Dz3EpZShUkGeYSRYlAvGlWBhnPFMtRlt0UNd-0uiX-T5osBqdFc_h6awfugYLEsosOz8O6VzAEemb4OFsapJLtLxLBkzzwt8z4-Uz-sQJyNjY7KvJSFezz_OL0X1tLUmm02G-SA435681evomKeaC7GKJ-l6vNOVC2OezO-mp_7pAaxSyaNLzbtfNQr_zgpIAeV9sp-Q4YXda9jfAwA1p9e1ca603",
+      "summary": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character\n\nSubject Line: 'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central Character\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFMX7WfoMsq7bupKYOBkJIkERNOILuesuo0r5N2hZjN_dzAzji8_3nvM7-fU36Dboym0GBm4KA3pdA0nvkxqd0y5lQjLGWcRjGfogVQgSligk0BZVR9qlO6PaFg4aj1U7Dz3EpZShUkGeYSRYlAvGlWBhnPFMtRlt0UNd-0uiX-T5osBqdFc_h6awfugYLEsosOz8O6VzAEemb4OFsapJLtLxLBkzzwt8z4-Uz-sQJyNjY7KvJSFezz_OL0X1tLUmm02G-SA435681evomKeaC7GKJ-l6vNOVC2OezO-mp_7pAaxSyaNLzbtfNQr_zgpIAeV9sp-Q4YXda9jfAwA1p9e1ca603\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJDfTsIwGEf7LL0GWddtXUlMnIwEkaAIGvGGtN3HqFL-detYjO9uZobxxuv2O-eXM9xBtYPK7qUw4iY3Qm8bIRp8YqMz3MeEcUIoiWjMQ19wFQou1sC4wB2sCtzHB6O6Tpw0FHU3Cz2ANeehUkEmIWIkyhihipEwllSqLsEdfGqwvyb8hZ4vCZyG6urnoQU2H3oGrBU52N6_U3rlzpbSqpOWgOZvo5VxqiWs0ukimRLPC3zPj5RPm2OKJsbF6NjEArhefpxf8vpp74xczMbZKDjflt7mdVJkqaaMbeJZup0edF2FMU2Wd_NyWD4Ip1TyWKXm3a_blH_nBSgX9j45ztD44h607u8BAA0h73d20c8b",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:36:57",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Variety Breaking News",
+      "url": "https://e.mail.variety.com/click?ZdJBNTzIxFIX7W5qwg5fefjAtyZsoo0iAEEVkwYZ02s5QpaiUmQkx_nczZjBuXN97znny3B5cfXB1fM100FdF0H7fDKL0Awdv8RBDogAYMCGpAKEEaKuTPJc57mJzwkP8Fkyv0kfvTuce4USp3CQ0M4InwE1GmDUis8ZJawzvAe7iY1P7s4Q_0dNFQeVd_e_70BY2D_3gYtSFi_0_UfpHXaPHzWQbKtMmtzeL1fUCCOGU0IGhjEklAM1DJdF7I8m5_34C-xVf30uuOnS0ViVZd-ho7tR0s5zJUrjaD56XL2xX7nzFDuNEQ4eOs93AprP0XNwVD1lMTq3I33AUFTpOt7ZA0wtB2hJ8DQAcj6f7f61dc",
+      "summary": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row\n\nSubject Line: Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBNTzIxFIX7W5qwg5fefjAtyZsoo0iAEEVkwYZ02s5QpaiUmQkx_nczZjBuXN97znny3B5cfXB1fM100FdF0H7fDKL0Awdv8RBDogAYMCGpAKEEaKuTPJc57mJzwkP8Fkyv0kfvTuce4USp3CQ0M4InwE1GmDUis8ZJawzvAe7iY1P7s4Q_0dNFQeVd_e_70BY2D_3gYtSFi_0_UfpHXaPHzWQbKtMmtzeL1fUCCOGU0IGhjEklAM1DJdF7I8m5_34C-xVf30uuOnS0ViVZd-ho7tR0s5zJUrjaD56XL2xX7nzFDuNEQ4eOs93AprP0XNwVD1lMTq3I33AUFTpOt7ZA0wtB2hJ8DQAcj6f7f61dc\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBLTzIxGEb7W5qwg49emZbkS5RRJECIIrJgQ3qboUpHpXMJMf53M2Ywbly_b85zcm4L1xSuia9aBXWVB-WP7SBIP2DwFo4hTiTGFFMuCMdccqysSrJMZLAPTQnH8C2YQa1O3pXnAWJIyswkRBvOEsyMRtQarq1xwhrDBhj24anF_izBT_B0SVB71_z7PnTA9mEYXIwqd3H4p8qwKmKlozl57cDjbrYPtekI-5vV5nqFEWIEkZEhlArJMViGWoD3NpZz__0MHzdsey-Y7JHJVlZo2yOTpZPz3XohKu4aP3pev9BDdfA1LaaJwj0y1YeRTRfpOb_LH3RMyi7ob0kCchXne5uD-cUg7Qy-BgA3l12f03f3d",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:31:50",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Variety Breaking News",
+      "url": "https://e.mail.variety.com/click?ZdJBfT_IwFMb7WZq8d_DSf6yDxEQcoFkImqAC3pCuLVtlnbB1G9P43c3MMN54fc55fs_5zTJdZ7ou3iJhxXVshUlbIAg-oDUKjiHmI4wp8gnFPuZM7ofKI2ovI9iD0sExPFrZr0RutGv6girNOfYEihiVvP1AET5EgnmID5nuY9iDeRv7Q4Kf4OmioDK6_v896ALbhYHVRSFiXQz-rDLIRQ1WL3c7W8nucjddPk6WGCFGEPEkodQfMQwWtvLBqZWk9VWKt2tzKFX2HMzT5JDqE_1H5vcbl96UsXNbl5ToGJzXk9twShPT5OHDBr2yUi5m0-1ZNqv3TuLvYgTEogj9XQ3CCz3o6F8DAA9r54fefd4d",
+      "summary": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For\n\nSubject Line: Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT_IwFMb7WZq8d_DSf6yDxEQcoFkImqAC3pCuLVtlnbB1G9P43c3MMN54fc55fs_5zTJdZ7ou3iJhxXVshUlbIAg-oDUKjiHmI4wp8gnFPuZM7ofKI2ovI9iD0sExPFrZr0RutGv6girNOfYEihiVvP1AET5EgnmID5nuY9iDeRv7Q4Kf4OmioDK6_v896ALbhYHVRSFiXQz-rDLIRQ1WL3c7W8nucjddPk6WGCFGEPEkodQfMQwWtvLBqZWk9VWKt2tzKFX2HMzT5JDqE_1H5vcbl96UsXNbl5ToGJzXk9twShPT5OHDBr2yUi5m0-1ZNqv3TuLvYgTEogj9XQ3CCz3o6F8DAA9r54fefd4d\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBdT_IwHEf7WZo8d_DQN9ZBYiIO0CwETVABb0jX_RmVdcK6F9D43c3MMN543eac3_9MMqgzqN1bpKy6TqwyaSNEwQe2JsZDTOWAUk58xqlPpdDbfuyxeKsj3MG6wEN8sLpbqdxAce4qHoOU1FMkElzL5oKYyT5RwiOyL6BLcQfnDfbHhD_R0yVBZaD-__3QApsPPQvOqQRc788pvTJzZeR0biJAi5e7ja10S9iM54-jOSVEMMI8zTj3B4Kima18dGxiAVyldL00-zLOnoNputuncOT_2PR-VaQ3ZVIU62JXkkNwWo5uwzHfmXMePqzIqyj1bDJen_R58d7G_D2QoUS50N_UKLzYg9b-NQA0j64a2db05",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:21:19",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Breaking News",
+      "url": "https://e.mail.indiewire.com/click?ZdJBdS8MwFIbzWwLeOZeTNE07ENROGMWtyvzczcjXSsaS1dYZVPzvUtmGN16f877Py3MdbAw2dlslvbyovXSbHoiKL-ydwSMMIgegggsOlCaGaS4IWRkAfIr1Gx7hxuuBC8bZ6Fo7kITwTGnIMkEgBZaZ1ILOrOGM5oabQZ9r--IjC3-jh4OEd2fj2e_hWNm_DL3tOlnbbvjvnGErI5ovJkvvonbBRLccz-4vZ0BIQglNNWUsyylDN9Gl6LX3ZO35LmmSOctBbgvxuC6r9VikYV41KtkyWnyCXtUvm_GUf0wUuSVPFagmVM9uVy42K3VCr_R07_HvLoZq2ZXxLqLyQC_29J8BAA0k8d72f036",
+      "summary": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career\n\nSubject Line: 'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise's Career\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBdS8MwFIbzWwLeOZeTNE07ENROGMWtyvzczcjXSsaS1dYZVPzvUtmGN16f877Py3MdbAw2dlslvbyovXSbHoiKL-ydwSMMIgegggsOlCaGaS4IWRkAfIr1Gx7hxuuBC8bZ6Fo7kITwTGnIMkEgBZaZ1ILOrOGM5oabQZ9r--IjC3-jh4OEd2fj2e_hWNm_DL3tOlnbbvjvnGErI5ovJkvvonbBRLccz-4vZ0BIQglNNWUsyylDN9Gl6LX3ZO35LmmSOctBbgvxuC6r9VikYV41KtkyWnyCXtUvm_GUf0wUuSVPFagmVM9uVy42K3VCr_R07_HvLoZq2ZXxLqLyQC_29J8BAA0k8d72f036\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBdS8MwFIbzWwLeOZeTNE07ENROGMWtyvzczcjXSsaa1cUaVPzvUtmGN16f877Py3PtbfQ2hq2SjbyoG-k2PRAVX7hxBo8wiByACi44UJoYprkgZGUA8CnWb3iE20YPnDfORrezA0kIz5SGLBMEUmCZSS3ozBrOaG64GfS5XV98ZOFv9HCQ8O5sPPs9HCv7l2FjQ5C1DcN_5ww7HzoV9M4pi-aLybJxUTtvoluOZ_eXMyAkoYSmmjKW5ZShm-hS9Nr7sva8S9pkznKQ20I8rstqPRapn1etSraMFp-gV_XLZjzlHxNFbslTBar11bPrysVmpU7olZ7uff7dx1AtQxnvIioP9GJP_xkAbo7262a5d0",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T15:26:59",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Variety Breaking News",
+      "url": "https://e.mail.variety.com/click?ZdJBdT_IwGIb7W5q8Z_DSFtqtJCbyISGIKEN02Qlpu-4jodN1o4MY_7uZGcYTj5_nvq87112hm0I31ZsURtymRuTHFghmH9DkMRxD7HGMCR0hzEY-JZwhxIZC-wL2oKrhGL4b1XfC5rq-9BNNYppwXyLOEsmSmHiMISYF8SjiUvYx7EHb1v6Q4CfYXxW4XDf_vw9dYfswMLqqRKqrwZ9TBlY0YBctD8apLnmYb54nG4zQiCDCFBkOfY4xWBvng7KVpPUNyQKaRWTnzlFwfry8TupQbZflbN7Yh_vS2TCTp6dNmHlmGtFa27UKX_b_yJRmwWJ7DBcB7iT-GkYRSEW1Kk4TsLrSZx39awA9pbfcfcf57",
+      "summary": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release\n\nSubject Line: 'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBdT_IwGIb7W5q8Z_DSFtqtJCbyISGIKEN02Qlpu-4jodN1o4MY_7uZGcYTj5_nvq87112hm0I31ZsURtymRuTHFghmH9DkMRxD7HGMCR0hzEY-JZwhxIZC-wL2oKrhGL4b1XfC5rq-9BNNYppwXyLOEsmSmHiMISYF8SjiUvYx7EHb1v6Q4CfYXxW4XDf_vw9dYfswMLqqRKqrwZ9TBlY0YBctD8apLnmYb54nG4zQiCDCFBkOfY4xWBvng7KVpPUNyQKaRWTnzlFwfry8TupQbZflbN7Yh_vS2TCTp6dNmHlmGtFa27UKX_b_yJRmwWJ7DBcB7iT-GkYRSEW1Kk4TsLrSZx39awA9pbfcfcf57\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBfT_IwFIf7WZq8d_DSFtptJCbyR0IQUYboshvSljO2hE5Ztw5i_O5mZhhvvD4nz_PLc5dDnUNt35Q08vZgZHZshGjygU22x0NMvYBSxgeEioHPWSAIEX0JvsQdrEs8xO9Gd50sMigv3QTYnieBr0ggEiWSPfOEIEJJ5nESKNWluIOLBvtjwp9oe03gMqj_fx9aYPPQM2CtPIDt_TmlV-W2UlYXmQK0iec743RL2E1Xz6MVJWTACBOa9ft-QClaGuejUxML4IalIU9jtnHnODw_Xl5HZaTX89NkWhcP9ydXRKmqnlZR6plxzEsoljp62f5jY56Gs_UxmoW0jflrICfoIO0ir0ZocbVPWvvXAA9i8c39a1f1",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T14:50:32",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Breaking News",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT8IwFMX7WZrwBtJ7u3WMxEQcoCFmRP6I8kJK22HRjkmVxhi_u5kB4ouPN_fknF9-g9KE0gS_W0snrzZO2td6kGRf1FlNuxSSFABRRJwDEx3NYhAiERGnTareaZdWTrVsqa0Jdm9aMoklAAOII1zLQjFeYKq5qm-lE9YC2qT7uvi8Rb_J_CThYE24-H2cK-tI2xnv5cb49r847b0MZLq8XTkblC11sKt-PuvlwFiEDIVCzjspi8ldsIK81Z6MuWQz2981cOiqm7zKDJ8v0u1LsZ1l9w-VxmmxSyEvniaLzjj6KKv5YQyf0MChmGTeLQeTBl4_ivXz0eVfNiQb6Ucq7ZHRiSA7EvwMAA2ic106fed1",
+      "summary": "The 7 Most Anticipated Netflix Shows in October\n\nSubject Line: The 7 Most Anticipated Netflix Shows in October\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT8IwFMX7WZrwBtJ7u3WMxEQcoCFmRP6I8kJK22HRjkmVxhi_u5kB4ouPN_fknF9-g9KE0gS_W0snrzZO2td6kGRf1FlNuxSSFABRRJwDEx3NYhAiERGnTareaZdWTrVsqa0Jdm9aMoklAAOII1zLQjFeYKq5qm-lE9YC2qT7uvi8Rb_J_CThYE24-H2cK-tI2xnv5cb49r847b0MZLq8XTkblC11sKt-PuvlwFiEDIVCzjspi8ldsIK81Z6MuWQz2981cOiqm7zKDJ8v0u1LsZ1l9w-VxmmxSyEvniaLzjj6KKv5YQyf0MChmGTeLQeTBl4_ivXz0eVfNiQb6Ucq7ZHRiSA7EvwMAA2ic106fed1\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT_IwFMb7WZpwBy897dYxkjcRB2iIGZE_otyQru2waMukjsYYv7uZAeKNlyfnyfP88hs5HZwOfl8IK662VpjXZhBln9gahfsYkhSAUh4xBoT3FImB84RHDLexfMd9XFnZMU4ZHcxBd0QSCwACEEe0EKUkrKSpYrK5pUpIB3AbH5riyxb-QsuzhKPR4d_P41LZRLpWey-22nf_xOnWzteFlwdTaDRf326sCdI4FcxmmC8GORASUUK5pIz1UhKju2A4emt8af2fLMxw36JjW93kVabZcpXuXsrdIrt_qBSdl_sU8vJptupNo9pVy-MUPqBFx3yWebsezVr0-pEXzyenvxkp2go_kekATc4E2YngewA7o36f06b21",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T14:04:36",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019",
+      "url": "https://view.mail.variety.com/messages/17911725598281c68075c8c04/unsubscribe",
+      "summary": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019\n\nJohn Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T03:57:12",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath",
+      "url": "https://view.mail.indiewire.com/messages/1791165998145e9b4b165c97b/unsubscribe",
+      "summary": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath\n\nKyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter' Finale, Ending with Love, and the New Oath",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-05T02:06:59",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel",
+      "url": "https://view.mail.variety.com/messages/179116580013080a199ef7bf7/unsubscribe",
+      "summary": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel\n\n'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T02:04:52",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish",
+      "url": "https://view.mail.deadline.com/messages/1791163147726cdd4c763d1ab/unsubscribe",
+      "summary": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish\n\nChanning Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks - The Dish",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-05T01:21:21",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster",
+      "url": "https://view.mail.deadline.com/messages/1791149840788a5827684dd6e/unsubscribe",
+      "summary": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster\n\nTom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-04T21:39:25",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character",
+      "url": "https://view.mail.variety.com/messages/1791131638952a9c5a9afe79a/unsubscribe",
+      "summary": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character\n\n'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central Character",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:36:57",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row",
+      "url": "https://view.mail.variety.com/messages/17911313582515951ada7ff8f/unsubscribe",
+      "summary": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row\n\nZach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:31:50",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For",
+      "url": "https://view.mail.variety.com/messages/179113082318174cf5d62dfcb/unsubscribe",
+      "summary": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For\n\nPedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:21:19",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career",
+      "url": "https://view.mail.indiewire.com/messages/17911275751224d3c5700fd11/unsubscribe",
+      "summary": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career\n\n'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise's Career",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T15:26:59",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release",
+      "url": "https://view.mail.variety.com/messages/179112540164852960063ae8a/unsubscribe",
+      "summary": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release\n\n'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T14:50:32",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 7 Most Anticipated Netflix Shows in October",
+      "url": "https://view.mail.indiewire.com/messages/179112264331068d051667643/unsubscribe",
+      "summary": "The 7 Most Anticipated Netflix Shows in October\n\nThe 7 Most Anticipated Netflix Shows in October",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T14:04:36",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Has Re-Acquired Russell Crowe\u2019s Iconic Jock Strap",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-russell-crowe-jock-strap-1236722165/",
+      "summary": "This marks the third time the undergarment, which Crowe wore in 2005's 'Cinderella Man,' has been in the possession of the 'Last Week Tonight' host.",
+      "source": "The Hollywood Reporter",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019",
+      "url": "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+      "summary": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019\n\nJohn Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T03:57:12",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath",
+      "url": "https://=",
+      "summary": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath\n\nKyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter' Finale, Ending with Love, and the New Oath",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-05T02:06:59",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel",
+      "url": "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+      "summary": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel\n\n'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T02:04:52",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish",
+      "url": "https://=",
+      "summary": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish\n\nChanning Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks - The Dish",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-05T01:21:21",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster",
+      "url": "https://=",
+      "summary": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster\n\nTom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-04T21:39:25",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character",
+      "url": "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+      "summary": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character\n\n'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central Character",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:36:57",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row",
+      "url": "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+      "summary": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row\n\nZach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:31:50",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For",
+      "url": "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+      "summary": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For\n\nPedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:21:19",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career",
+      "url": "https://=",
+      "summary": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career\n\n'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise's Career",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T15:26:59",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release",
+      "url": "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+      "summary": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release\n\n'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T14:50:32",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 7 Most Anticipated Netflix Shows in October",
+      "url": "https://=",
+      "summary": "The 7 Most Anticipated Netflix Shows in October\n\nThe 7 Most Anticipated Netflix Shows in October",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T14:04:36",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019",
+      "url": "",
+      "summary": "John Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019\n\nJohn Oliver Dodges David Ellison Skydance News on \u2018Last Week Tonight\u2019",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T03:57:12",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath",
+      "url": "http://www.w3.org/1999/xhtml",
+      "summary": "Kyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter'\r\n Finale, Ending with Love, and the New Oath\n\nKyle Chandler, Aaron Pierre, and the 'Lanterns' Creators on a 'Quieter' Finale, Ending with Love, and the New Oath",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-05T02:06:59",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel",
+      "url": "",
+      "summary": "'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro\r\n Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel\n\n'Lanterns' Finale: Hal Jordan's Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for 'Superman' Sequel",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-05T02:04:52",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish",
+      "url": "http://www.w3.org/1999/xhtml",
+      "summary": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing\r\n Paramount & WBD Cable Networks - The Dish\n\nChanning Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks - The Dish",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-05T01:21:21",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster",
+      "url": "http://www.w3.org/1999/xhtml",
+      "summary": "Tom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster\n\nTom Cruise's 'Digger' To Lose Around $150M: Deconstructing The Disaster",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-10-04T21:39:25",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character",
+      "url": "",
+      "summary": "'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence\r\n Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central\r\n Character\n\n'East of Eden' Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh's Cathy Is Both a 'Murderer' and 'Survivor' and Making Lee a Central Character",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:36:57",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row",
+      "url": "",
+      "summary": "Zach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row\n\nZach Bryan Breaks Attendance Record at Robert Kraft\u2019s Gillette Stadium While Wearing \u2018Free Palestine\u2019 Shirt for Second Night in a Row",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:31:50",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For",
+      "url": "",
+      "summary": "Pedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and\r\n Latinos) Have Been Waiting For\n\nPedro Pascal in 'Behemoth!': The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T16:21:19",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career",
+      "url": "http://www.w3.org/1999/xhtml",
+      "summary": "'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of\r\n Tom Cruise's Career\n\n'Digger' Flops With $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise's Career",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T15:26:59",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release",
+      "url": "",
+      "summary": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in\r\n History With $2.925 Billion After 'Encore' Re-Release\n\n'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-10-04T14:50:32",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 7 Most Anticipated Netflix Shows in October",
+      "url": "http://www.w3.org/1999/xhtml",
+      "summary": "The 7 Most Anticipated Netflix Shows in October\n\nThe 7 Most Anticipated Netflix Shows in October",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-10-04T14:04:36",
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A+E Global Media Hires Banijay Distribution Veteran Chris Stewart",
+      "url": "https://deadline.com/2026/10/ae-global-networks-hires-chris-stewart-banijay-veteran-1237146153/",
+      "summary": "",
+      "source": "Deadline",
+      "tags": [
+        "CASTING",
+        "GREENLIT"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj\u2019s Debut Feature \u2018The Method\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Elizabeth Holmes Posts Cryptic Message From Prison Ahead of \u2018You Can See Everything\u2019 Release: \u2018I Was Silenced for a Long Time\u2019",
+      "url": "https://variety.com/2026/film/news/elizabeth-holmes-you-can-see-everything-1236877293/",
+      "summary": "",
+      "source": "Variety",
+      "tags": [
+        "CASTING",
+        "GREENLIT",
+        "AWARDS",
+        "RULES"
+      ],
+      "published": null,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "",
+    "https://www.indiewire.com/news/general-news/josephine-director-beth-de-araujo-speech-cornell-rape-case-1235220071/",
+    "https://variety.com/2026/tv/news/starz-original-programming-karen-bailey-exits-1236897728/",
+    "http://www.w3.org/1999/xhtml",
+    "https://www.thewrap.com/creative-content/what-to-watch/lanterns-episode-8-ending-explained-who-killed-hal-jordan/",
+    "https://deadline.com/2026/10/lanterns-season-one-finale-recap-1237144840/",
+    "https://deadline.com/p/contenders-film-documentary-2025/",
+    "https://view.mail.variety.com/messages/17911725598281c68075c8c04/unsubscribe",
+    "https://deadline.com/2026/10/a-different-world-renewal-season-2-netflix-1237145174/",
+    "https://view.mail.variety.com/messages/179113082318174cf5d62dfcb/unsubscribe",
+    "https://view.mail.variety.com/messages/179116580013080a199ef7bf7/unsubscribe",
+    "https://www.indiewire.com/awards/predictions/behemoth-oscar-chances-pedro-pascal-1235220080/",
+    "https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/",
+    "https://view.mail.indiewire.com/messages/17911275751224d3c5700fd11/unsubscribe",
+    "https://fonts.googleapis.com/css2?family=3DInter:ital,opsz,=",
+    "https://www.hollywoodreporter.com/tv/tv-news/taylor-swift-dakota-johnson-saturday-night-live-1236721702/",
+    "https://e.mail.indiewire.com/click?ZdJBdS8MwFIbzWwLeOZeTNE07ENROGMWtyvzczcjXSsaS1dYZVPzvUtmGN16f877Py3MdbAw2dlslvbyovXSbHoiKL-ydwSMMIgegggsOlCaGaS4IWRkAfIr1Gx7hxuuBC8bZ6Fo7kITwTGnIMkEgBZaZ1ILOrOGM5oabQZ9r--IjC3-jh4OEd2fj2e_hWNm_DL3tOlnbbvjvnGErI5ovJkvvonbBRLccz-4vZ0BIQglNNWUsyylDN9Gl6LX3ZO35LmmSOctBbgvxuC6r9VikYV41KtkyWnyCXtUvm_GUf0wUuSVPFagmVM9uVy42K3VCr_R07_HvLoZq2ZXxLqLyQC_29J8BAA0k8d72f036",
+    "https://events.deadline.com/fortheloveofdocs",
+    "https://variety.com/2026/tv/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
+    "https://deadline.com/2026/10/taylor-swift-joins-snl-host-dakota-johnson-1237146104/",
+    "https://deadline.com/2026/10/landman-season-3-colm-feore-series-regular-1237144847/",
+    "https://deadline.com/2026/10/ae-global-networks-hires-chris-stewart-banijay-veteran-1237146153/",
+    "https://deadline.com/2026/10/penelope-ann-miller-otmara-marrero-made-clean-film-1237145272/",
+    "https://view.mail.indiewire.com/messages/1791165998145e9b4b165c97b/unsubscribe",
+    "https://www.hollywoodreporter.com/tv/tv-news/the-biggest-little-farm-sequel-series-john-chester-youtube-1236720922/",
+    "https://deadline.com/2026/10/jennifer-lawrence-gene-stupnitsky-one-month-mark-movie-1237145376/",
+    "https://view.mail.deadline.com/messages/1791163147726cdd4c763d1ab/unsubscribe",
+    "https://deadline.com/2026/10/the-watcher-season-2-start-production-cast-who-returns-1237145096/",
+    "https://variety.com/2026/tv/news/snl-pete-hegseth-spider-man-non-alcoholic-beer-1236898415/",
+    "https://view.mail.deadline.com/messages/1791149840788a5827684dd6e/unsubscribe",
+    "https://deadline.com/p/contenders-film-london-2025/",
+    "https://variety.com/2026/film/news/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464/"
+  ]
+}

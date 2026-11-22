@@ -1,0 +1,978 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-12",
+  "captured_at": "2026-09-12T03:04:26.830375",
+  "score_fn_hash": "95589781",
+  "raw_count": 53,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "Almod\u00f3var\u2019s Deep Dive Into \u2026 Almod\u00f3var",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/pedro-almodovar-says-bitter-christmas-is-most-personal-film-1236698333/",
+      "summary": "With the very meta 'Bitter Christmas,' the Spanish auteur goes further into autofiction than ever \u2014 and grapples with where to draw the line: \"I really expose myself a lot.\"",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T09:25:06+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018The Face of Horror\u2019 Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)",
+      "url": "https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/",
+      "summary": "TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a sophomore feature as visually striking and blunt in its messaging as \"The Love Witch.\"",
+      "source": "IndieWire",
+      "published": "2026-09-12T06:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Gary Oldman Predicts HBO\u2019s \u2018Harry Potter\u2019 Series Will Be \u2018More Satisfying\u2019 for Fans Than the Movies",
+      "url": "https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/",
+      "summary": "Gary Oldman, who played Sirius Black in four \u201cHarry Potter\u201d movies, said he believes HBO\u2019s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser than the Warner Bros. films. That\u2019s because the movies were significantly abridged from J.K. Rowling\u2019s original books, whereas HBO\u2019s \u201cHarry Potter\u201d is including far more of [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T05:54:51+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Paramount Argues States\u2019 Antitrust Suit Will \u2018Collapse Under Scrutiny\u2019",
+      "url": "https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/",
+      "summary": "Paramount\u2019s lawyers filed a legal response to the states\u2019 antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial next March. Among other defenses, Paramount\u2019s lawyers said they may claim that the coalition of 12 states lacks the authority to regulate the merger, \u201cwhich [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T04:16:38+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Ocean Way Festival Canceled In Santa Monica Due To Beach Erosion & \u201cCan No Longer Be Safely Held As Planned\u201d",
+      "url": "https://deadline.com/2026/09/ocean-way-festival-canceled-beach-erosion-1237099766/",
+      "summary": "Ocean Way Festival has been canceled because of beach erosion caused by Hurricane Marie. The two-day festival was scheduled for Saturday, September 26, and Sunday, September 27, with headliners The Killers and Olivia Dean, along with artists like Jack White, Sublime, Alvvays, Khruangbin, Durand Jones & The Indications, and Hiatus Kaiyote. \u201cDue to the impacts [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T03:55:08+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Gary Oldman Says HBO\u2019s \u2018Harry Potter\u2019 TV Series Will Be \u201cMore Satisfying\u201d Than The Movies",
+      "url": "https://deadline.com/2026/09/gary-oldman-hbo-harry-potter-tv-series-1237099755/",
+      "summary": "Gary Oldman is weighing in on the HBO adaptation of the Harry Potter saga and says one key difference from the films will make it \u201cmore satisfying\u201d for fans. In a new interview, the actor who played Sirius Black across multiple movies in the Harry Potter universe revealed why he thinks the TV series will [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T03:30:41+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Bill Maher Walks Comedy Tightrope With Pair of 9/11 Jokes on 25th Anniversary",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-september-11-jokes-trump-real-time-hbo/",
+      "summary": "Still, the \"Real Time\" host's opening digs against President Trump's D.C. ceremony land with his studio audience The post Bill Maher Walks Comedy Tightrope With Pair of 9/11 Jokes on 25th Anniversary appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T03:16:28+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/",
+      "summary": "Jimmy Kimmel\u2019s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was revealed during Wednesday night\u2019s episode of \u201cJimmy Kimmel Live!\u201d that the interview would not air on his ABC show because of threats [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T03:15:43+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018The Julia Set\u2019 Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne\u2019s Riveting Math-Geek Bad Romance",
+      "url": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/",
+      "summary": "In \"The Julia Set,\" she portrays a numbers genius in the most convincing way possible \u2014 by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it is). But she also makes Julia a highly focused and mature young woman who is still, by virtue of age and inexperience, just na\u00efve enough to be poised between assertion and following the lead of a dude she should have steered clear of.",
+      "source": "Variety",
+      "published": "2026-09-12T02:54:48+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018The Stunt Driver\u2019 Review: Jay Baruchel Plays a Canadian Daredevil Trying to Pull Off an Impossible Stunt in a Fun 1970s Throwback",
+      "url": "https://www.indiewire.com/criticism/movies/the-stunt-driver-movie-review-1235216178/",
+      "summary": "TIFF: Michael Dowse\u2019s tribute to Ken Carter mines comedy and tragedy from the stuntman\u2019s unwavering dedication to jumping the Saint Lawrence River in a rocket car.",
+      "source": "IndieWire",
+      "published": "2026-09-12T02:45:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Sorry, Caleb Hearon Is Not Your Clown in \u2018Trash Mountain\u2019 Grief Dramedy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/caleb-hearon-trash-mountain-tiff-2026-1236698499/",
+      "summary": "The comic and actor and co-star Zooey Deschanel helped unveil Kris Rey\u2019s indie about love and death penned by Hearon and Ruby Caster during a world premiere at the Toronto Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T02:32:19+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Courteney Cox Says She Decided to Direct \u2018Evil Genius\u2019 After Chance Encounter at the Beverly Hills Hotel: \u201cI Made a Lot of Deals There\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/courteney-cox-direct-evil-genius-beverly-hills-hotel-1236698506/",
+      "summary": "The 'Friends' alum reveals the role the iconic Beverly Hills property played in bringing the crime thriller to life.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T02:25:22+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018The View\u2019s Sunny Hostin Defends AI As \u201cNew Art Form\u201d Amid \u201cGatekeeping In Hollywood Around Black & Brown Creative Content\u201d",
+      "url": "https://deadline.com/2026/09/the-view-sunny-hostin-defends-ai-gatekeeping-hollywood-1237099723/",
+      "summary": "Sunny Hostin received pushback from her co-hosts on The View as she defended the use of AI in Hollywood. Hostin, who recently licensed her name and likeness to AI company Fountain 0, argued that generative AI should be considered a \u201cnew art form,\u201d noting that it can help the entertainment industry show more Black and [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T01:52:58+00:00",
+      "_score": 0.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "\u2018Girl Group\u2019 Review: Rebel Wilson\u2019s Underwhelming Ode to Female Empowerment Falls Flat",
+      "url": "https://www.thewrap.com/creative-content/movies/girl-group-review-rebel-wilson-tiff/",
+      "summary": "Toronto International Film Festival 2026: Wilson writes, directs and stars as a washed-up pop star forced to confront new beginnings The post \u2018Girl Group\u2019 Review: Rebel Wilson\u2019s Underwhelming Ode to Female Empowerment Falls Flat appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T01:51:22+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Sydney Sweeney Faces Backlash for Sexualized Novig Ad: \u201cExactly Why Women in Sports Aren\u2019t Taken Seriously\u201d",
+      "url": "https://www.hollywoodreporter.com/business/digital/sydney-sweeney-sports-ad-backlash-sexualization-women-1236698224/",
+      "summary": "Many online users, including women who work in the sports industry, have shared their frustration with the actress' campaign for the sports trading app, which features multiple shots of her mostly naked body covered with different sports balls and uniforms.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T01:50:46+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Slow Horses\u2019 Season 6 Is \u2018Darker and Heavier,\u2019 but Gary Oldman Says It Packs the Same Old Punch",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/slow-horses-season-6-darker-gary-oldman-interview/",
+      "summary": "Toronto International Film Festival 2026: Oldman, Saskia Reeves, Rosalind Eleazar, Christopher Chung, Aimee-Ffion Edwards and more talk to TheWrap about the new season and beyond The post \u2018Slow Horses\u2019 Season 6 Is \u2018Darker and Heavier,\u2019 but Gary Oldman Says It Packs the Same Old Punch appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T01:49:23+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Josh Hartnett Reveals He Was \u201cActively Not Looking to Do a TV Show\u201d Before Joining \u2018Below\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463/",
+      "summary": "The actor says he wanted to star in \"another movie\" before accepting his role in the Netflix miniseries.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T01:25:44+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Lady Gaga Welcomes First Child With Fianc\u00e9 Michael Polansky",
+      "url": "https://www.hollywoodreporter.com/music/music-news/lady-gaga-first-baby-1236698474/",
+      "summary": "The Oscar winner and the entrepreneur are parents.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T01:22:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Pink Doubles Down Against Macklemore for \u2018Free Palestine\u2019 Show: \u2018I\u2019m Standing Up for My Own People\u2019",
+      "url": "https://www.thewrap.com/creative-content/music/pink-criticizes-macklemore-free-palestine-performance/",
+      "summary": "\"I thought I knew going in how lonely that would be. And it's lonelier than that. But I'm doing it anyway,\" the popstar writes The post Pink Doubles Down Against Macklemore for \u2018Free Palestine\u2019 Show: \u2018I\u2019m Standing Up for My Own People\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T01:19:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Venice Film Festival\u2019s Muted Red Carpet Fashion Is a Sign of the Times",
+      "url": "https://www.thewrap.com/culture-lifestyle/fashion/venice-film-festivals-muted-red-carpet-fashion/",
+      "summary": "WrapStyle: There were fewer of the barely-there gowns and viral-bait fashion moments we've come to expect on the Lido this year The post Venice Film Festival\u2019s Muted Red Carpet Fashion Is a Sign of the Times appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T01:11:09+00:00",
+      "_score": 0.3,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": true
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Pink Issues Statement Following Backlash for Critiquing Macklemore\u2019s Pro-Palestine Comments: \u201cStanding Up for My Own People\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/pink-anti-macklemore-palestine-post-1236698412/",
+      "summary": "Pink broke her silence a week after receiving extensive backlash for resharing a post calling for Macklemore to get dropped from Ed Sheeran's tour over his Free Palestine messaging.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-12T01:08:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
+      "url": "https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/",
+      "summary": "A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo\u2019s cousin, according to the Los Angeles Times. Prosecutors alleged that rapper (real name: Durk Banks) directed hit men to target rapper Quando Rondo, born [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T00:48:11+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018The Uprising\u2019 Star Woody Norman on the \u2018Power Trip\u2019 Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix",
+      "url": "https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/",
+      "summary": "Filming \u201cThe Uprising\u201d gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use during the shoot got damaged the first day of filming. \u201cSo it didn\u2019t fit my head,\u201d Norman, 17, tells me over [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T00:36:21+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces",
+      "url": "https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/",
+      "summary": "Ocean Way is going away, at least for a year. Goldenvoice\u2019s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with city officials saying the culprit is erosion along the shore caused by recent hurricane-level forces off the coast. A statement from [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-12T00:16:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Russell Crowe Charms 1,400-Strong Venice Audience With \u2018What Love Builds\u2019 Doc Charting His Musical Career",
+      "url": "https://deadline.com/2026/09/russell-crowe-charms-1400-venice-audience-love-builds-1237099686/",
+      "summary": "Russell Crowe enjoyed an enthusiastic response to his bio-doc meets concert film What Love Builds as it premiered Out of Competition to a 1,400-strong crowd at the Venice Film Festival on Friday evening. The documentary sets out to show that music has been part of Crowes\u2019s life long before he decided to move to Sydney [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T00:10:08+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018The Housewife\u2019 Director Says His Nazi Period Drama Echoes Today\u2019s \u2018Grossly Polarized World\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/the-housewife-naomi-watts-ben-shirinian-tiff-interview/",
+      "summary": "Toronto International Film Festival 2026: \"Hate is the most dangerous when it stops looking like hate,\" Ben Shirinian tells TheWrap The post \u2018The Housewife\u2019 Director Says His Nazi Period Drama Echoes Today\u2019s \u2018Grossly Polarized World\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-12T00:03:08+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "International Insider: European TV In Peril; Venice & TIFF Latest; Mercedes Ron Interview",
+      "url": "https://deadline.com/2026/09/international-insider-european-tv-peril-venice-tiff-1237098577/",
+      "summary": "Welcome once again, Insiders. Jesse Whittock here to take you through the top film and TV stories from the international community, and you can sign up to the newsletter here. We\u2019re also taking a moment to pay our respects to the victims of 9/11, 25 years ago in New York. European TV In Peril Uneasy [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-12T00:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "\u201860 Minutes\u2019 to Tackle Trump Pardons in Season Premiere",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/cbs-60-minutes-segment-lesley-stahl-trump-pardons-1236698386/",
+      "summary": "Lesley Stahl will lead the segment, titled 'The Pardon Economy,' for the show's season 59 premiere.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T23:51:01+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Minka Kelly Reacts To \u2018Ransom Canyon\u2019s Cancellation After \u201cTwo Beautiful Seasons\u201d",
+      "url": "https://deadline.com/2026/09/minka-kelly-reacts-ransom-canyon-cancellation-1237099675/",
+      "summary": "Minka Kelly is focusing at the positives as she bids farewell to Ransom Canyon, which was canceled by Netflix after two seasons. Kelly, who starred opposite Josh Duhamel in the Texas romantic drama, posted a video of her and Duhamel\u2019s characters Quinn and Staten\u2019s romantic journey, which saw plenty of ups and downs during the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T23:45:30+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Trash Mountain\u2019 Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy",
+      "url": "https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/",
+      "summary": "TIFF: Kris Rey directs a tender gem from Hearon's own script (written alongside Ruby Caster) about the pleasures and perils of returning home under duress.",
+      "source": "IndieWire",
+      "published": "2026-09-11T23:45:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Sebastian Stan Says \u201cInvitation to Be Negative\u201d in Society \u201cStarts at the Top\u201d: \u201cIt\u2019s Just So Lazy\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sebastian-stan-invitation-negative-starts-top-1236698355/",
+      "summary": "The \u2018Fjord\u2019 actor criticized the current climate while speaking at the Toronto International Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T23:39:22+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Toronto Film Festival: THR\u2019s Studio With Gary Oldman, Michelle Yeoh, Naomi Watts, Ziwe and More",
+      "url": "https://www.hollywoodreporter.com/gallery/tiff-2026-portrait-studio-photos-1236698283/",
+      "summary": "Other stars who stopped by the 1 Hotel space, sponsored by Canada Goose, include Sebastian Stan, Jodie Comer, Michael Imperioli, Martin Freeman and Buddy the dog.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T23:29:54+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "AI Creator Day Adds Adobe, Fox, IAB and More",
+      "url": "https://www.thewrap.com/industry-news/business/ai-creator-day-adds-adobe-fox-iab/",
+      "summary": "AI is changing how we make things. These are the people figuring out what comes next. The post AI Creator Day Adds Adobe, Fox, IAB and More appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T23:26:33+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "Pink Explains Slamming Macklemore\u2019s Pro-Palestine Performances, Acknowledges Heavy Backlash: \u2018I\u2019m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It\u2019s Lonelier Than That\u2019",
+      "url": "https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/",
+      "summary": "Pink had fallen silent in the face of backlash from many quarters following her reposting a call for Macklemore to be dropped from the Ed Sheeran tour in the wake of his nightly pro-Palestinian songs and statements. Now she has spoken up about the controversy and her part in it in a big way, with [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T23:15:42+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Trash Mountain\u2019 Review: Caleb Hearon Finds Emotional Treasures in Moving, Mirthful Dramedy",
+      "url": "https://www.thewrap.com/creative-content/movies/trash-mountain-review-caleb-hearon-movie/",
+      "summary": "Toronto International Film Festival 2026: The comedian, writer and actor shines like never before with his feature writing debut The post \u2018Trash Mountain\u2019 Review: Caleb Hearon Finds Emotional Treasures in Moving, Mirthful Dramedy appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T23:15:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "Josh Giuliano\u2019s \u2018Occupant\u2019 Lands at Focus, Blumhouse Atomic Monster After Buzzy TIFF Debut \u2018River\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/focus-blumhouse-josh-giuliano-film-tiff-premiere/",
+      "summary": "Divide/Conquer and Spooky Pictures also board the horror filmmaker's sophomore feature after a buzzy TIFF premiere The post Josh Giuliano\u2019s \u2018Occupant\u2019 Lands at Focus, Blumhouse Atomic Monster After Buzzy TIFF Debut \u2018River\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T23:03:05+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "Curry Barker Initially Planned To Get Tattoos If \u2018Obsession\u2019 Opened To $20M; Inde Navarrette Has Plans To Direct \u2013 TIFF",
+      "url": "https://deadline.com/2026/09/obsession-curry-barker-inde-navarrette-tiff-1237099345/",
+      "summary": "\u201cAll we can hope for is that it sustains\u201d That\u2019s what Curry Barker was first told by his reps and those around him about the domestic box office prospects for his horror pic Obsession. He wasn\u2019t expecting too much. Then the horror romance wound up making more than Star Wars: The Mandalorian and Grogu, $512.6M [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T22:57:56+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Fjord\u2019 Star Sebastian Stan Didn\u2019t Set Out to Play Another Conservative After Trump",
+      "url": "https://www.thewrap.com/creative-content/movies/sebastian-stan-tiff-interview-donald-trump-conservative-characters/",
+      "summary": "Toronto International Film Festival: The actor next stars in \"Fjord\" after his Oscar-nominated turn in \"The Apprentice\" The post \u2018Fjord\u2019 Star Sebastian Stan Didn\u2019t Set Out to Play Another Conservative After Trump appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T22:56:52+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Amy Ryan Joins Emilia Jones In Netflix Drama Series \u2018The Retrievals\u2019 From Molly Smith Metzler",
+      "url": "https://deadline.com/2026/09/amy-ryan-the-retrievals-netflix-series-molly-smith-metzler-1237099613/",
+      "summary": "EXCLUSIVE: Amy Ryan (Birdman) is set to star opposite Emilia Jones in The Retrievals, Netflix\u2019s third series from Maid and Sirens creator/executive producer Molly Smith Metzler. Inspired by the Peabody-winning NYT podcast by Susan Burton, The Retrievals follows an unlikely community of IVF patients who come together to crusade against Yale University after they are [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T22:10:37+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Sebastian Stan on Why \u2018Fjord\u2019 Is Being Called a \u2018MAGA Movie\u2019 and How Making \u2018The Batman 2\u2019 Feels Like \u2018F\u2014ing Godfather Part 2\u2019",
+      "url": "https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/",
+      "summary": "Sebastian Stan has been running around the city of Toronto. We\u2019re sitting in a restaurant, having lunch between his multiple studio visits for various publications. It\u2019s busy and bustling around us, the way TIFF tends to transform every hotel and restaurant over its 11-day period. Stan settles in at the table and digs into a [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T22:08:15+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "\u2018Onwards and Sideways\u2019 Director John Madden on Returning to TIFF After 16 Years With His Parkinson\u2019s Romantic Drama Starring Laura Linney and Rhys Ifans",
+      "url": "https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/",
+      "summary": "When director John Madden first read Paul Mayhew-Archer\u2019s script that was based on his experience living with Parkinson\u2019s disease, he knew it had a ways to go. But he recognized its potential. Now nearly a decade later, Madden is ready to show \u201cOnwards and Sideways\u201d to buyers at the Toronto Intl. Film Festival. What initially [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T22:05:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Fall Festival Movies Sold So Far: \u2018Rapinoe\u2019 About US Women\u2019s Soccer Icon Lands at HBO Documentary Films",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "summary": "Rebecca Huntt directed the documentary about Megan Rapinoe that premiered at TIFF on Thursday.",
+      "source": "IndieWire",
+      "published": "2026-09-11T22:01:43+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "South Korean Monster Thriller \u2018Hope\u2019, Andrew Garfield In \u2018The Uprising\u2019, Doc \u2018Black Zombie\u2019 & Comedy \u2018On A String\u2019 \u2013 Specialty Preview",
+      "url": "https://deadline.com/2026/09/indie-films-opening-monster-thriller-hope-the-uprising-1237099382/",
+      "summary": "South Korean sci-fi thriller Hope joins actioner Runner, historical epic The Uprising and a handful of interesting limited releases this weekend, a few by new indie distributors. With fall festival season in full swing and eyes on the next crop of independent standouts, it\u2019s slower for new entrants in the specialty space. Wide: Neon is [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T21:18:25+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "A24 Boards SCP Foundation Movie From Spooky Pictures & Image Nation, Sets 2027 Release",
+      "url": "https://deadline.com/2026/09/scp-foundation-movie-a24-theaters-2027-1237099512/",
+      "summary": "EXCLUSIVE: A24 is teaming with Spooky Pictures and Image Nation Studios to bring the SCP Foundation, one of the internet\u2019s largest fan-built horror and science-fiction universes, to the big screen for the first time. Taking worldwide rights to the project, an untitled extension of the V/H/S horror series, A24 is targeting a 2027 theatrical release. Plot details are [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T21:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Gary Oldman Reveals Jack Lowden\u2019s Response To His Bond Comments",
+      "url": "https://deadline.com/2026/09/bond-gary-oldman-jack-lowden-interview-1237099407/",
+      "summary": "\u201cIt\u2019s Deadline Hollywood, so I\u2019m going to set the record straight,\u201d Gary Oldman said during an interview on Friday at Deadline\u2019s Toronto Film Festival studio. He was, of course, referring to the recent furor around some off-the-cuff remarks he made about the casting of James Bond in a recent interview, and the resulting speculation that [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T20:55:03+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Is Josh Giuliano the Next Curry Barker or Kane Parsons? Blumhouse Atomic Monster Seems to Think So",
+      "url": "https://www.indiewire.com/news/breaking-news/josh-giuliano-next-curry-barker-kane-parsons-blumhouse-obsession-1235216344/",
+      "summary": "After Giuliano's feature directing debut \"River\" premiered at TIFF, the horror company made a deal to produce his next film, \"Occupant.\"",
+      "source": "IndieWire",
+      "published": "2026-09-11T20:18:20+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "From Nathan Fielder\u2019s Buzzy Elizabeth Holmes Doc to Robert Pattinson\u2019s Divisive \u2018Primetime\u2019: Venice and Telluride\u2019s Winners and Losers",
+      "url": "https://www.indiewire.com/features/podcast/fall-film-festival-winners-losers-telluride-venice-1235216317/",
+      "summary": "\"Screen Talk\" co-hosts Anne Thompson and Ryan Lattanzio convene after seeing a ton of movies in Colorado and Italy. What played well, and what didn't?",
+      "source": "IndieWire",
+      "published": "2026-09-11T19:37:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018The Housewife\u2019 Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight",
+      "url": "https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/",
+      "summary": "TIFF: In the feature debut from Ben Shirinian and first-time screenwriter Alyssa Hill, an inherently chilling story about evil hiding within ordinary American life is done in by an uneven cast and script that connects too many dots.",
+      "source": "IndieWire",
+      "published": "2026-09-11T19:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Makikiraan Po (Let Us Through, Dear Ancestors)\u2019 Review: Lav Diaz and Isabel Sandoval Team Up for a Mournful, Modest Anti-Colonial Drama",
+      "url": "https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/",
+      "summary": "Venice: The Filipino filmmaker\u2019s swift return to his signature black-and-white converses thematically with last year\u2019s bracing epic \"Magellan.\"",
+      "source": "IndieWire",
+      "published": "2026-09-11T18:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018American Hostage\u2019 Review: Jon Hamm Anchors a Tepid Period Drama on Timely Threats to the Fourth Estate",
+      "url": "https://www.indiewire.com/criticism/shows/american-hostage-review-jon-hamm-series-mgm-1235216097/",
+      "summary": "Inspired by a true story, co-creators Shawn Ryan and Eileen Myers' eight-episode period drama follows Indianapolis radio reporter Fred Heckman (Jon Hamm) as he tries to cover a hostage crisis without compromising his ethics \u2014 or getting anyone killed.",
+      "source": "IndieWire",
+      "published": "2026-09-11T18:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Lovers in the Blue Night\u2019 Review: Anuparna Roy Returns with a Dreamy, Pained Drama About Desire and Displacement",
+      "url": "https://www.indiewire.com/criticism/movies/lovers-in-the-blue-night-review-anuparna-roy-1235216099/",
+      "summary": "Venice: Four restless migrants in Mumbai grapple with forbidden desires and lost futures in this compelling tale from the director of \"Songs of Forgotten Trees.\"",
+      "source": "IndieWire",
+      "published": "2026-09-11T15:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018A Bit of Light\u2019 Review: Ali Asgari\u2019s Iranian Answer to \u2018It\u2019s a Wonderful Life\u2019 Is a Bit of a Miracle",
+      "url": "https://www.indiewire.com/criticism/movies/a-bit-of-light-review-ali-asgari-1235216265/",
+      "summary": "Venice: On the eve of the current Iran war, a doctor prepares for suicide in a day-in-the-life drama that offers a mighty and coherent outlook on the big questions.",
+      "source": "IndieWire",
+      "published": "2026-09-11T15:15:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018One Minute to Midnight\u2019 Review: Melvil Poupaud Reckons with His Past in a Too-Talky Parisian Drama",
+      "url": "https://www.indiewire.com/criticism/movies/one-minute-to-midnight-review-melvil-poupaud-1235215912/",
+      "summary": "Venice: Poupaud plays a former culture writer on an apology tour in a Nicolas Pariser film that could've been an article. Or a play.",
+      "source": "IndieWire",
+      "published": "2026-09-11T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    }
+  ],
+  "selected_urls": [
+    "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463/",
+    "https://deadline.com/2026/09/scp-foundation-movie-a24-theaters-2027-1237099512/",
+    "https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/",
+    "https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/",
+    "https://www.thewrap.com/creative-content/movies/girl-group-review-rebel-wilson-tiff/",
+    "https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/",
+    "https://www.hollywoodreporter.com/music/music-news/lady-gaga-first-baby-1236698474/",
+    "https://www.thewrap.com/culture-lifestyle/fashion/venice-film-festivals-muted-red-carpet-fashion/"
+  ]
+}

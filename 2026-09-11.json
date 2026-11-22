@@ -1,0 +1,796 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-11",
+  "captured_at": "2026-09-11T03:04:02.277131",
+  "score_fn_hash": "95589781",
+  "raw_count": 43,
+  "selected_count": 6,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "John Trengove\u2019s \u2018The Smell Of Apples\u2019 Sells To France Ahead Of TIFF Debut",
+      "url": "https://deadline.com/2026/09/john-trengove-smell-apples-france-sells-1237098680/",
+      "summary": "EXCLUSIVE: ARP S\u00e9lection has acquired French rights to South African director and writer John Trengove\u2019s Apartheid era drama The Smell of Apples ahead of its world premiere in Toronto. Based on Mark Behr\u2019s eponymous 1993 Booker Prize-nominated novel, the film follows a young boy growing up in a white utopia in Cape Town in the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T09:58:23+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Venice Final Cut Winner Mach\u00e9rie Ekwa Bahango on \u2018Madi Makambu\u2019 and Why She Wants Congo to Be Seen: \u2018We\u2019re a Great Nation That Needs to Write Its Own History\u2019",
+      "url": "https://variety.com/2026/film/awards/venice-final-cut-macherie-ekwa-bahango-madi-makambu-congo-1236858450/",
+      "summary": "Mach\u00e9rie Ekwa Bahango wants Congo to be noticed by the industry. \u201cThrough my films, I would like Congo to be seen as part of the world. Not for the labels people stick on it, but for what it really is,\u201d she tells Variety. \u201cThe subjects in my films are difficult, but they are issues that people [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T09:41:09+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "France, South Korea Take Center Stage as Global Film and TV Leaders Confront Industry Upheaval at Lumiere Summit: \u2018Culture Itself Is Becoming a Driver of Growth\u2019",
+      "url": "https://variety.com/2026/film/news/france-korea-macron-lumiere-summit-ai-saint-paul-de-vence-1236857980/",
+      "summary": "From Hollywood heavyweights and festival chiefs to exhibitors, broadcasters, streamers, heads of state and industry figures from more than 60 countries converged at a historic site in the south of France, where pine trees, sculpture gardens and sun-drenched terraces offered a postcard-worthy backdrop to timely conversations about an industry in upheaval. The Lumiere Summit gathering [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T09:22:22+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "Oscars: Singapore Selects Anthony Chen\u2019s \u2018We Are All Strangers\u2019 for International Feature Race",
+      "url": "https://variety.com/2026/film/awards/oscars-singapore-anthony-chen-we-are-all-strangers-1236858452/",
+      "summary": "\u201cWe Are All Strangers,\u201d written and directed by Anthony Chen, has been selected as Singapore\u2019s official entry in the international feature category at the 99th Academy Awards, the Infocomm Media Development Authority (IMDA) said. The pick was made by a Selection Committee drawn from eligible members of the Singapore Film Commission Advisory Committee (SFCAC). Set [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T09:03:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "French TV Disruptor Jeremy Zag Talks Building \u2018Miraculous\u2019 Universe, Plans For A Live-Action Series & Latest On Katy Perry Animated Movie \u2018Melody\u2019",
+      "url": "https://deadline.com/2026/09/jeremy-zag-miraculous-katy-perry-animated-movie-melody-1237073728/",
+      "summary": "Fans of Miraculous: Tales of Ladybug & Cat Noir can expect a live-action version of the animated series, its co-creator Jeremy Zag has said. Meanwhile, his studio, Zag Entertainment, is also making headway on Melody, an animated feature film with Katy Perry. Zag co-created French animated show Miraculous through Zag. He was feted as Deadline\u2019s [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T09:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "Female-Led Producer Candid Broads Is Proud to Stand for New Voices, Impact and Representation",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/meet-candid-broads-productions-female-impact-representation-1236695881/",
+      "summary": "CEO Oriane Pick and producer Ana\u00efs Ferrato discuss the company's shorts that have left a mark, moving into feature films and series, and ensuring that \"representation is not just a word.\"",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T09:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 5
+    },
+    {
+      "title": "BBC Stokes Anger By Curbing Cab Rides For Night Shift Workers\u2026 As Senior Managers Spend $17,000 On Taxis In Three Months",
+      "url": "https://deadline.com/2026/09/bbc-anger-curbing-cab-usage-night-shift-workers-1237073318/",
+      "summary": "EXCLUSIVE: The BBC has sparked unrest among staff with plans to slash taxi usage for night shift workers. Bosses at the UK broadcaster want to change the qualifying time for expensable cab fares, meaning employees would have to leave work 30 minutes later or start 30 minutes earlier for the BBC to foot the bill [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T08:37:55+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Pierce Brosnan Says Tom Hardy \u2018MobLand\u2019 Feud Was \u201cStorm In A Teacup\u201d",
+      "url": "https://deadline.com/2026/09/pierce-brosnan-tom-hardy-mobland-feud-storm-in-a-teacup-1237098657/",
+      "summary": "Pierce Brosnan has said that it is all happy families on the set of Paramount+\u2019s MobLand. At the Season 2 premiere in London, Brosnan was asked about the behind-the-scenes drama involving Tom Hardy, who reportedly clashed with showrunner Jez Butterworth and had timekeeping issues on set. \u201cOh my God, it was a storm in a [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T08:34:08+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Charli xcx Announces U.K. and Europe \u2018Music, Fashion, Film\u2019 Tour Dates, With Audrey Hobert Opening",
+      "url": "https://variety.com/2026/music/global/charli-xcx-uk-europe-music-fashion-film-tour-dates-1236858435/",
+      "summary": "Charli xcx is bringing the \u201cMusic, Fashion, Film\u201d tour overseas. The avant-garde pop star has announced six U.K. and Europe dates in February 2027, including in Dublin, Ireland; Glasgow, Scotland; Manchester, England; London, England; Amsterdam, The Netherlands; and Paris, France. \u201cSue Me\u201d and \u201cBowling Alley\u201d singer Audrey Hobert will open for all dates. Charli is [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T08:30:35+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "San Sebastian Competition Title \u2018Border\u2019 Boards Reel Suspects for Global Sales (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/san-sebastian-competition-border-boards-reel-suspects-sales-1236858429/",
+      "summary": "Paris-based international sales company Reel Suspects has boarded worldwide sales on Chinese filmmaker Ah Biao\u2019s feature debut \u201cBorder\u201d (\u201cBian Jing\u201d), which will world premiere in the official selection of the San Sebasti\u00e1n Film Festival, where it competes for the Golden Shell. The cast includes Zheyan Li, Feng Qi, Sanming Han, Gang Zheng and Tao Guo, [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T07:15:46+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "J. M. Stelly\u2019s Anatomica Films Taps Black Mandala for Global Sales on Horror Trio (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/jm-stelly-anatomica-films-black-mandala-sales-horror-trio-1236858413/",
+      "summary": "New Zealand\u2019s Black Mandala has acquired worldwide sales rights to three horror films from Anatomica Films: \u201cWithin Madness,\u201d \u201cVessel\u201d and \u201cThe Thirteenth Gate.\u201d J. M. Stelly wrote and directed all three, producing alongside Johnny Stassi through the Anatomica Films label. Stelly and Black Mandala co-founder Michael Kraetzer negotiated the agreement on Anatomica Films\u2019 behalf. \u201cWithin [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T06:25:57+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Cricket Legend Virender Sehwag To Host \u2018Rise And Fall\u2019 Season 2 For Prime Video",
+      "url": "https://deadline.com/2026/09/virender-sehwag-host-rise-and-fall-season-2-prime-video-1237098549/",
+      "summary": "EXCLUSIVE: Indian cricket legend Virender Sehwag is swapping the bat and pads for a suit and microphone. The sporting superstar, known as the Sultan of Multan, has been unveiled as host for Season 2 of Rise and Fall, Prime Video India\u2019s reality series to replace Ashnee Grover. This marks the first time he\u2019ll front a [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T06:25:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Na Hong-Jin, Lav Diaz, Bertrand Mandico, Rintaro Headline Busan Master Class Lineup",
+      "url": "https://variety.com/2026/film/festivals/na-hong-jin-lav-diaz-rintaro-busan-master-class-1236858402/",
+      "summary": "The 31st Busan International Film Festival (BIFF) has unveiled the lineup for its Master Class, Cine Class and Special Talk programs. Master Class brings together four directors reflecting on their creative work. Na Hong-Jin, who drew global attention this year with \u201cHope,\u201d will discuss the roots of his creative vision. Filipino auteur Lav Diaz and [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T06:10:40+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Being Heumann\u2019 Review:\u00a0Si\u00e2n Heder\u2019s Drama About the Fight for Disability Rights Strikes Familiar Notes but Gets the Inspirational Uplift Job Done",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/being-heumann-review-sian-heder-ruth-madeley-apple-tv-1236697415/",
+      "summary": "Ruth Madeley plays the leader of a milestone 1977 anti-discrimination protest, Judy Heumann, in Apple\u2019s crowd-pleaser from the \u2018CODA\u2019 director, which opened the Toronto Film Festival.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T06:09:59+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "CBS Moves to Dismiss Former \u2018Matlock\u2019 Writer\u2019s Racism, Sexism Lawsuit",
+      "url": "https://www.thewrap.com/media-platforms/tv/matlock-lawsuit-motion-to-dismiss-racism-sexism-cbs/",
+      "summary": "\"False allegations are deeply damaging, both to those wrongly accused, and to anyone with a serious and legitimate claim of discrimination,\" a CBS Studios spokesperson tells TheWrap The post CBS Moves to Dismiss Former \u2018Matlock\u2019 Writer\u2019s Racism, Sexism Lawsuit appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T05:52:33+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Toronto Film Festival 2026: Read All Of Deadline\u2019s Reviews",
+      "url": "https://deadline.com/2026/09/tiff-2026-movie-reviews-toronto-1237073927/",
+      "summary": "The 2026 Toronto Film Festival kicked off Thursday, September 10, and features a slew of world premieres including the official opening-night film Being Heumann, Oscar winner Si\u00e2n Heder\u2018s follow-up to her Best Picture winner CODA. The event\u2019s 51st edition features 10 days of premieres, gala presentations and more as the third leg of the fall [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T05:48:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Drops on YouTube as Texas Senate Candidate Says: \u2018They\u2019re Worried We\u2019re Going to Win This Race\u2019",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-pulled-james-talarico-inteview-youtube-watch-1236857444/",
+      "summary": "Jimmy Kimmel turned to YouTube on Thursday night to house his interview with Texas Democratic Senate candidate James Talarico \u2014 in light of fears that the FCC would punish ABC stations for running the chat. \u201cWhat are they so scared of you?\u201d Kimmel asked the candidate. Said Talarico: \u201cWell, they\u2019re worried that we\u2019re going to [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T05:04:50+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "CBS Files Motion to Dismiss Former \u2018Matlock\u2019 Writer\u2019s Lawsuit Alleging Racist, Sexist Comments: \u2018We Stand Firmly Behind Our Producers\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/cbs-motion-dismiss-matlock-writer-lawsuit-jennie-urman-1236858189/",
+      "summary": "CBS Studios has filed a motion in Los Angeles Superior Court under the anti-SLAPP statute to strike a lawsuit filed earlier this summer by former \u201cMatlock\u201d writer John Lowe. The CBS Studios filing included multiple declarations disputing his allegations against three of the show\u2019s executive producers. Lowe\u2019s suit against CBS Studios, showrunner Jennie Snyder Urman [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T05:03:12+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "Sian Heder Says \u201cCollective Action Matters\u201d as \u2018Being Heumann\u2019 Opens Toronto Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-film-festival-2026-opening-night-being-heumann-1236697379/",
+      "summary": "Toronto Mayor Olivia Chow declared her city\u2019s waterfront \u201cwill always be Lake Ontario\u201d during a gala opening night for TIFF overshadowed by Donald Trump\u2019s trade war with Canada.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T04:52:52+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/",
+      "summary": "Sony's 'Brand New Day' has held the top spot on the domestic chart for six straight weeks.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T04:37:04+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "TIFF Opens With Si\u00e2n Heder\u2019s Crowd-Pleasing \u2018Being Heumann\u2019 \u2014 and Apple Has Its Next Oscar Contender",
+      "url": "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078/",
+      "summary": "\u201cBeing Heumann\u201d opens on a New York sidewalk that doesn\u2019t allow Judy Heumann to climb it. There\u2019s no curb cut or ramp. Just a woman and her wheelchair. Director Si\u00e2n Heder holds on it \u2014 and then Judy gives the middle finger. And it immediately hooks the viewer in for the ride. At least that [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-11T04:16:17+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "Jimmy Kimmel\u2019s James Talarico Interview Posted To YouTube As Host Calls Out Trump And FCC: \u201cThey Want To Make Our Editorial Decisions For Us\u201d",
+      "url": "https://deadline.com/2026/09/jimmy-kimmel-james-talarico-trump-fcc-1237098522/",
+      "summary": "Jimmy Kimmel\u2019s interview with James Talarico was posted to YouTube on Thursday evening rather than the late-night host\u2019s ABC broadcast amid concerns over an FCC enforcement action. \u201cWhy are they so scared of you?\u201d Kimmel asked Talarico at the outset of the 20 minute interview, noting that Stephen Colbert also posted a sit down with [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T04:09:59+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "On September 11 Anniversary, Robert De Niro Calls for Mamdani to Be a \u201cBridge\u201d for New York City",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/september-11-anniversary-robert-de-niro-mamdani-memorial-1236697211/",
+      "summary": "Also, how the Tribeca Festival co-founder and star of a new Netflix doc got me (and so many others) through the worst event of our public lives.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T04:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Stephen King Calls Mike Flanagan\u2019s \u2018Carrie\u2019 Miniseries \u201cBrilliant\u201d",
+      "url": "https://deadline.com/2026/09/stephen-king-reaction-mike-flanagan-carrie-1237098524/",
+      "summary": "Stephen King has weighed in on Mike Flanagan\u2019s adaptation of Carrie, and he has a positive review. The supernatural horror miniseries premieres on October 7 on Prime Video with Summer H. Howell in the title role. Ahead of its release, the author of the 1974 novel the series is based on shared his take on [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T03:45:09+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Rapinoe\u2019 Review: Doc Portrait of American Soccer Icon Is Engaging and Inspiring, if Necessarily Incomplete",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/rapinoe-review-megan-rapinoe-documentary-1236696927/",
+      "summary": "Debuting at TIFF, the feature from Rebeca Huntt ('Beba') sees the two-time World Cup champion reflecting on her life and career in the wake of her retirement as a player in 2023.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T03:45:02+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Being Heumann\u2019 Review: Si\u00e2n Heder\u2019s \u2018CODA\u2019 Follow-Up Is an Essential Biopic That\u2019s Not Afraid to Have Some Fun",
+      "url": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/",
+      "summary": "TIFF: Heder's look at a remarkable period in activist Judy Heumann's work is life-affirming in myriad ways, and boasts a star turn from Ruth Madeley.",
+      "source": "IndieWire",
+      "published": "2026-09-11T03:44:41+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "9/11 Programming Guide: Everything Airing and Streaming for the 25th Anniversary",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/911-25th-anniversary-tv-schedule-september-11-2026-specials-1236696881/",
+      "summary": "A comprehensive rundown of day-of news coverage, primetime TV specials and newly released docuseries streaming on demand.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-11T03:41:37+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Jimmy Kimmel Brings James Talarico to YouTube After Being \u2018Targeted by the FCC\u2019",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-live-james-talarico-interview-youtube-fcc-threat/",
+      "summary": "\"We are bypassing the public airwaves and hosting this interview on YouTube, even though our government would clearly prefer that we not do it at all,\" the ABC late night host says The post Jimmy Kimmel Brings James Talarico to YouTube After Being \u2018Targeted by the FCC\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T03:17:40+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Erika Kirk Shares Tribute to Late Husband Charlie Kirk One Year Later",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/erika-kirk-charlie-kirk-tribute-one-year-later/",
+      "summary": "\"...until Heaven,\" the Turning Point USA co-founder's widow writes on the first anniversary of his assassination The post Erika Kirk Shares Tribute to Late Husband Charlie Kirk One Year Later appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T02:33:27+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "The White House Insists FCC Did Not Threaten Kimmel to Pull Talarico Interview",
+      "url": "https://www.thewrap.com/media-platforms/politics/white-house-responds-fcc-kimmel-james-talarico-interview/",
+      "summary": "\"Jimmy Kimmel is play-acting \u2014 as he often does \u2014 to create a false narrative about this administration\u2019s policies,\" Assistant White House Press Secretary Davis Ingle says The post The White House Insists FCC Did Not Threaten Kimmel to Pull Talarico Interview appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T01:29:49+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Jesse Watters Bizarrely Compares Trump\u2019s $5,000 Midterms Promise to a Woman Showing Her Cleavage: \u2018It Keeps You Interested\u2019",
+      "url": "https://www.thewrap.com/media-platforms/tv/jesse-watters-trump-5000-checks-woman-lowering-brasiere/",
+      "summary": "The Fox News anchor says the president's pledge to pay voters in the case of a Republican midterms victory is an \"enticement\" The post Jesse Watters Bizarrely Compares Trump\u2019s $5,000 Midterms Promise to a Woman Showing Her Cleavage: \u2018It Keeps You Interested\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-11T00:57:12+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Big Brother\u2019 Season 28, Week 9 Eviction: A Reality TV Competition Icon Becomes 2nd Jury Member",
+      "url": "https://deadline.com/2026/09/big-brother-season-28-week-9-eviction-cbs-1237084415/",
+      "summary": "SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 32, which aired on Thursday, September 10. As Big Brother Season 28 winds down, the game intensifies, and big moves have to be made to make it to finale night. Host Julie Chen Moonves returned for a new live eviction episode where one [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T00:49:19+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018Ransom Canyon\u2019 Canceled By Netflix After 2 Seasons",
+      "url": "https://deadline.com/2026/09/ransom-canyon-canceled-netflix-minka-kelly-josh-duhamel-1237081961/",
+      "summary": "EXCLUSIVE: Staten and Quinn will be staying together forever as Netflix has opted not to proceed with a third season of the Texas romantic drama Ransom Canyon starring Josh Duhamel and Minka Kelly. The decision comes a month and a half after Season 2 was released on July 23. Ransom Canyon, an adaptation of the [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-11T00:43:26+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "McClatchy Guts Newsrooms Nationwide Months After Controversial Push to AI",
+      "url": "https://www.thewrap.com/media-platforms/journalism/mcclatchy-newspapers-layoffs-ai-tool/",
+      "summary": "Papers in Miami, Kentucky and the Pacific Northwest saw as much as 30% of their staff cut on Thursday The post McClatchy Guts Newsrooms Nationwide Months After Controversial Push to AI appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-10T22:47:39+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Dan Schneider Loses Appeal in \u2018Quiet on Set\u2019 Documentary Defamation Lawsuit",
+      "url": "https://www.thewrap.com/media-platforms/tv/dan-schneider-loses-appeal-quiet-on-set-documentary-defamation-lawsuit/",
+      "summary": "The Nickelodeon creator had argued the Investigation Discovery doc implied he \u201ccommitted crimes of child sexual abuse\" The post Dan Schneider Loses Appeal in \u2018Quiet on Set\u2019 Documentary Defamation Lawsuit appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-10T22:43:42+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
+      "url": "https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142/",
+      "summary": "For Toronto-based fans of the beloved physical media distributor, the just-opened Cinema Cellar is a must-shop. IndieWire stopped by on opening day.",
+      "source": "IndieWire",
+      "published": "2026-09-10T22:41:07+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "\u2018Colin from Accounts\u2019 Final Season Is for the F*ck-Ups",
+      "url": "https://www.indiewire.com/criticism/shows/colin-from-accounts-final-season-review-1235215748/",
+      "summary": "The Australian romantic-comedy series returns with a third and final season that sees its central couple summoning the courage to decide what's right for them, even if it looks wrong to everyone else.",
+      "source": "IndieWire",
+      "published": "2026-09-10T19:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 1
+    },
+    {
+      "title": "Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off",
+      "url": "https://www.indiewire.com/features/interviews/tessa-blake-on-if-i-tell-you-1235215941/",
+      "summary": "The director of \"If I Tell You\" says years of training on shows as varied as \"American Horror Story,\" \"Matlock,\" and \"NCIS: Hawai'i\" helped her develop a clear, precise visual language for her powerful debut feature.",
+      "source": "IndieWire",
+      "published": "2026-09-10T18:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 4
+    },
+    {
+      "title": "Cody Fern Wrote\u00a0His Directing Debut \u2018Closing Night\u2019 for\u00a0Sarah Paulson: \u2018She\u2019s\u00a0Like a Bugatti\u2019",
+      "url": "https://www.indiewire.com/features/interviews/cody-fern-directorial-debut-closing-night-sarah-paulson-1235215928/",
+      "summary": "Ahead of the Toronto International Film Festival, the \"American Horror Story\" star and first-time filmmaker talks directing a powerhouse coterie of actresses: not only Paulson, but also Naomi Watts and Dianne Wiest.",
+      "source": "IndieWire",
+      "published": "2026-09-10T18:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 3
+    },
+    {
+      "title": "\u2018Arrested Memory\u2019 Review: Sabu Plays Amnesia for Gentle Comedy",
+      "url": "https://www.indiewire.com/criticism/movies/arrested-memory-review-1235216116/",
+      "summary": "Venice: The Japanese genre auteur's approach to memory loss is more interested in slapstick than existential rumination, but that doesn't dampen his affection for his characters.",
+      "source": "IndieWire",
+      "published": "2026-09-10T16:38:21+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "\u2018All of a Sudden\u2019 Trailer: Ryusuke Hamaguchi\u2019s Epic Two-Hander Stars Virginie Efira and Tao Okamoto",
+      "url": "https://www.indiewire.com/news/trailers/all-of-a-sudden-trailer-ryusuke-hamaguchi-1235215841/",
+      "summary": "Exclusive: A hit out of Cannes, the film is Japan's entry for Best International Feature. It may go even further than that.",
+      "source": "IndieWire",
+      "published": "2026-09-10T16:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "Louis Garrel Looks Back on the X-Rated Classic \u2018The Dreamers\u2019 and Being \u2018Shocked\u2019 by His Sex Scenes with Isabelle Huppert in \u2018Ma M\u00e8re\u2019",
+      "url": "https://www.indiewire.com/features/interviews/louis-garrel-looks-back-the-dreamers-sex-scenes-1235215920/",
+      "summary": "Venice: The French actor/filmmaker stars in Nanni Moretti's frothy comedy of romantic destiny, \"It Will Happen Tonight,\" during a Venice Film Festival haunted by the ghost of \"The Dreamers\" director Bernardo Bertolucci across the programming.",
+      "source": "IndieWire",
+      "published": "2026-09-10T15:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    },
+    {
+      "title": "No One Knows Better Than Filmmaker Scott Waugh Why Authenticity Is the Ultimate Special Effect",
+      "url": "https://www.indiewire.com/features/commentary/filmmaker-scott-waugh-authenticity-special-effect-stunts-1235213272/",
+      "summary": "The stunt performer-turned-filmmaker comes from the kind of Hollywood lineage that epitomized one essential ethos: put your audience inside your story.",
+      "source": "IndieWire",
+      "published": "2026-09-10T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": 2
+    }
+  ],
+  "selected_urls": [
+    "https://deadline.com/2026/09/tiff-2026-movie-reviews-toronto-1237073927/",
+    "https://www.hollywoodreporter.com/tv/tv-news/911-25th-anniversary-tv-schedule-september-11-2026-specials-1236696881/",
+    "https://www.thewrap.com/media-platforms/journalism/mcclatchy-newspapers-layoffs-ai-tool/",
+    "https://www.indiewire.com/criticism/movies/arrested-memory-review-1235216116/",
+    "https://www.hollywoodreporter.com/news/politics-news/september-11-anniversary-robert-de-niro-mamdani-memorial-1236697211/",
+    "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/"
+  ]
+}

@@ -1,0 +1,1498 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-09-21",
+  "captured_at": "2026-09-21T03:02:45.617908",
+  "score_fn_hash": "64ce434e",
+  "raw_count": 81,
+  "selected_count": 8,
+  "config": {
+    "min_score": 3.5,
+    "max_items": 8
+  },
+  "articles": [
+    {
+      "title": "BBC Removes Blackface Sketches From \u2018That Mitchell And Webb Look\u2019",
+      "url": "https://deadline.com/2026/09/bbc-cut-blackface-that-mitchell-and-webb-look-1237109112/",
+      "summary": "The BBC has cut Blackface and other sketches from That Mitchell and Webb Look after making the comedy series available on iPlayer. The British broadcaster recently reinstated That Mitchell and Webb Look online to mark its 20th anniversary, but eagle-eyed Reddit users pointed out that the broadcaster had removed sketches. As many as 11 sketches [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-21T09:47:18+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pablo Larra\u00edn Ventures Into Argentina With His San Sebasti\u00e1n Golden Shell Contender \u2018My Sad Dead\u2019",
+      "url": "https://variety.com/2026/film/global/pablo-larrain-my-sad-dead-mariana-enriquez-1236870553/",
+      "summary": "Writer-director Pablo Larra\u00edn, best known for his trilogy \u201cJackie,\u201d \u201cSpencer\u201d and \u201cMaria,\u201d ventures into Argentina for the first time in \u201cMy Sad Dead\u201d (\u201cMis muertos tristes\u201d), based on three stories by Argentinean writer Mariana Enriquez. It stars some of Argentina\u2019s brightest talent, led by Mercedes Moran, Dolores Fonzi, Alejandra Flechner and Carolina \u00c1lvarez. Not unlike [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T09:40:59+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Eagle Eye Drama Acquires \u2018The Great Dictator\u2019, Matthew Sweet\u2019s Biography Of Barbara Cartland",
+      "url": "https://deadline.com/2026/09/barbara-cartland-biography-tv-adaptation-eagle-eye-drama-1237109132/",
+      "summary": "EXCLUSIVE: Eagle Eye Drama has acquired the rights to The Great Dictator, Matthew Sweet\u2019s biography of the flamboyant and eccentric late Dame Barbara Cartland. Historian, novelist and screenwriter Sweet\u2019s book tells the story of author known as \u2018The Queen of Romance\u2019 Cartland, who was one of the UK\u2019s most recognizable figures across the 20th century. [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-21T09:29:54+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bestselling Japanese Novelist Maha Harada Says \u2018If This Is a Dream, I Hope I Never Wake Up\u2019 About Her San Sebastian \u2013 and Busan \u2013 Bound Directing Debut \u2018In My Father\u2019s Room\u2019",
+      "url": "https://variety.com/2026/film/festivals/maha-harada-in-my-fathers-room-interview-1236865727/",
+      "summary": "Maha Harada spent two decades building scenes on the page before she ever stood behind a camera. Now 64, the best-selling Japanese author is making her feature directorial debut with \u201cIn My Father\u2019s Room,\u201d a film adapted from her own short story \u201cAn Unnecessary Man,\u201d and it arrives in competition at the San Sebastian Film [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T09:08:17+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sean Hogan\u2019s \u2018The Dark Gets In\u2019 Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861/",
+      "summary": "Blue Finch Films has boarded worldwide sales rights to \u201cThe Dark Gets In,\u201d a supernatural thriller directed by Sean Hogan that will premiere at Beyond Fest later this month. The story centers on a documentary crew investigating a young girl\u2019s disappearance, only to find themselves drawn into events far darker and stranger than they anticipated. [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T09:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "San Sebastian Winner Yesim Ustaoglu Returns to Competition With \u2018What Remains\u2019 (Exclusive Clip)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-yesim-ustaoglu-what-remains-film-clip-turkey-1236706356/",
+      "summary": "The prolific Turkish director tells the story of Elif, a poet who breaks free from a suffocating life in an attempt to rediscover her creative flow.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-21T09:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tobias Forge\u2019s \u2018V/H/S Mixtape\u2019 Segment, Swedish Horror \u2018Trespassers,\u2019 \u2018The End\u2019 by \u2018Midsommar\u2019 Production Designer on Mylla Films Slate (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/mylla-films-trespassers-tobias-forge-1236870062/",
+      "summary": "Swedish boutique genre specialist Mylla Films, brainchild of \u201cMidsommar\u201d producer Patrik Andersson and Nordic indie distribution heavyweight Jakob Abrahamsson (CEO of NonStop Entertainment), has turned into a magnet for Nordic genre talent since its splashy launch in Cannes in 2022. \u201cPeople with tremendous CVs and filmographies are reaching out to us,\u201d Abrahamsson told Variety on [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T08:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Spanish Government Pledges to Continue Audiovisual Hub Through Spain Crece Fund",
+      "url": "https://variety.com/2026/film/global/spanish-government-audiovisual-hub-through-spain-crece-fund-1236870443/",
+      "summary": "Spain plans to press on with its commitment to the country\u2019s audiovisual industry, said \u00d3scar L\u00f3pez, Minister for Digital Transformation and Public Administration. Speaking at the conference titled The New Script of the Audiovisual Industry at the San Sebastian Festival, L\u00f3pez said Sunday that his Ministry would continue supporting its audiovisual industry through the Spain [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T05:45:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Chile Film Industry Surges 20.5% Compared to Previous Season, New Catalog Reveals (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/chile-film-industry-surges-20-5-per-cent-unveils-catalog-1236870115/",
+      "summary": "CinemaChile unveils its 2026-2027 catalog at the San Sebasti\u00e1n Festival on Sept. 21 where it has much to celebrate, with eight titles screening across seven sections, led by Pablo Larrain\u2019s \u201cMy Sad Dead,\u201d a 4-part Netflix series that has been combined to make a roughly three-hour feature that competes for the Golden Shell. Unsurprisingly, the [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T05:30:11+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Karan Johar\u2019s Dharma Productions Confirms Film on Indian Spymaster Rameshwar Nath Kao, Targets 2028 Release (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/karan-johar-dharma-raw-rameshwar-nath-kao-film-1236867651/",
+      "summary": "Karan Johar\u2019s Dharma Productions is teaming with Leo Media Collective on a theatrical feature about Rameshwar Nath Kao, founder of India\u2019s Research and Analysis Wing, targeting an Aug. 11, 2028 release timed to the Indian Independence Day holiday weekend. R&AW, India\u2019s primary external intelligence agency, was established in 1968 to consolidate the country\u2019s foreign intelligence [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T05:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Takes Jab at \u201cSoon-to-Be Business Daddy\u201d David Ellison on \u2018Last Week Tonight\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-business-daddy-david-ellison-last-week-tonight-1236706792/",
+      "summary": "During a segment on UnitedHealthCare's history of denying claims, Oliver said: \"Having access to wealthy parents just cannot be the system to get badly needed healthcare, even if it is apparently the system that lets you be in charge of HBO.\"",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-21T05:29:54+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Latido Takes Isaki Lacuesta\u2019s \u2018Flamenco Sketches,\u2019 San Sebastian\u2019s Zabaltegi-Tabakalera Closer (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/isaki-lacuesta-flamenco-sketches-latido-san-sebastian-1236870389/",
+      "summary": "SAN SEBASTIAN, Spain \u2013 Madrid-based Latido Films has picked up international sales rights to Isaki Lacuesta\u2019s \u201cFlamenco Sketches\u201d (\u201cJaleos\u201d), the latest film from Isaki Lacuesta, one of Spain\u2019s most singular filmmakers, which plays this week at the San Sebastian Film Festival. Lacuesta has twice won San Sebastian\u2019s top prize, the Golden Shell, with \u201cThe Double [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T05:15:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Secuoya Studios Taps Carla G\u00f3mez to Lead Latin American Development as Regional Expansion Accelerates (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/secuoya-studios-carla-gomez-latin-america-development-1236870069/",
+      "summary": "Spain\u2019s Secuoya Studios has tapped Carla G\u00f3mez as head of development and executive producer for Latin America, strengthening its creative and production operations in the region. Bringing more than two decades of experience in the television and streaming sector, G\u00f3mez will oversee the development of original projects from initial concept through production. She also brings [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T05:01:48+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Mocks Ted Cruz With Dr. Seuss-Style Rhyme After Senator Was Booed During ESPN Interview",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-ted-cruz-espn-interview-you-suck-1236706751/",
+      "summary": "The poem was prompted by a recent interview the Texas senator gave amid chants of \"Ted, you suck.\"",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-21T04:58:32+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Tatiana Huezo, Juan Sebasti\u00e1n Mesa, M\u00f3nica Lima, Val Jashari Among 10 Filmmakers Vying for WIP LatAm and Europa Awards at San Sebasti\u00e1n",
+      "url": "https://variety.com/2026/film/global/tatiana-huezo-juan-sebastian-mesa-wips-san-sebastian-1236866661/",
+      "summary": "A total of 10 projects are taking part in the San Sebastian Film Festival\u2019s Latin America and Europe WIP competition showcases, which will help the winning projects jump their last hurdles towards release. Selected from hundreds of submissions, six projects are vying for for the coveted WIP Latam Industry Award and four titles from across [\u2026]",
+      "source": "Variety",
+      "published": "2026-09-21T04:50:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/",
+      "summary": "\"The family is asking for privacy during this very difficult and painful time,\" a rep said.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-21T03:25:28+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Youth\u2019 Creator Sharon Horgan Explains the Premiere\u2019s Emotional Rug-Pull Ending",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/hbo-youth-episode-1-sharon-horgan-interview/",
+      "summary": "\"It was always going to end like that,\" The actress and writer tells TheWrap of her HBO comedy's unexpected bait-and-switch The post \u2018Youth\u2019 Creator Sharon Horgan Explains the Premiere\u2019s Emotional Rug-Pull Ending appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-21T03:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal",
+      "url": "https://deadline.com/2026/09/paramount-settlement-latest-opposition-bonta-1237109024/",
+      "summary": "EXCLUSIVE: As Hollywood celebrates Yom Kippur tonight, a framework for a settlement of the antitrust suit hampering Paramount\u2019s $111 billion acquisition of Warner Bros Discovery has hit some political potholes, even as some hoped for a quick deal. Four of the 12 Attorneys General that took the David Ellison-run company to federal court are breaking [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-21T02:43:07+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Deal or No Deal? The Contours of a Paramount Settlement for WBD Begin to Take Shape",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-settlement-terms-leak-talks-continue-1236706694/",
+      "summary": "Production or job commitments? A 30-film minimum guarantee? Selling off cable channels? A CNN oversight board? It is all on the table.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-21T02:41:51+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Paradise Lost\u2019 Review: \u2018Train to Busan\u2019 Director Yeon Sang-ho Returns with a Limp and Lurid Grief Drama About Virtual Reality",
+      "url": "https://www.indiewire.com/criticism/movies/paradise-lost-movie-review-yeon-sang-ho-1235217943/",
+      "summary": "The Korean auteur throws too much at the wall without ensuring much of it sticks.",
+      "source": "IndieWire",
+      "published": "2026-09-21T02:06:57+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Star Nathan Fillion on His Corporate-Sponsored Superhero and How \u2018Man of Tomorrow\u2019 Differs From \u2018Superman\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-nathan-fillion-guy-gardner-1236705700/",
+      "summary": "The trusted James Gunn collaborator also unpacks the lasting fallout from Hal Jordan and John Stewart\u2019s fateful decisions during the Battle of Rushville a decade earlier.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-21T02:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Nathan Fillion Unpacks Guy Gardner\u2019s \u2018Lanterns\u2019 Cameo: \u2018What Took You So Long?\u2019",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-6-nathan-fillion-guy-gardner-interview/",
+      "summary": "The actor tells TheWrap why he loves playing unlikable characters and how Hal and John did \"damage to the Green Lantern brand\" The post Nathan Fillion Unpacks Guy Gardner\u2019s \u2018Lanterns\u2019 Cameo: \u2018What Took You So Long?\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-21T02:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018Lanterns\u2019 Review: Episode 6 Embraces \u2018Bad Optics\u2019 with a Clever Revival \u2014\u00a0Spoilers",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-6-review-bad-optics-hal-revival-spoilers-1235217814/",
+      "summary": "Change is in the air as our story shifts to 2026 and a ring-less John Stewart returns to Rushville to investigate Hal Jordan's death \u2014 and find closure of his own.",
+      "source": "IndieWire",
+      "published": "2026-09-21T02:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jake & Logan Paul Address Troops At The Pentagon",
+      "url": "https://deadline.com/2026/09/jake-paul-logan-address-troops-pentagon-1237109028/",
+      "summary": "The day before National POW/MIA Recognition Day, Jake and Logan Paul addressed troops gathered at the Pentagon. From the podium, Logan Paul told those gathered that touring the building was \u201ca cool experience.\u201d He added, \u201cI don\u2019t think there is any greater commitment to sacrifice than those who are willing to live, die and fight [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-21T01:54:43+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ke Huy Quan Reveals \u201cLife Changing\u201d Gesture From Spielberg & Lucas When He Was A Kid",
+      "url": "https://deadline.com/2026/09/ke-huy-quan-spielberg-lucas-indiana-jones-payment-1237109016/",
+      "summary": "Ke Huy Quan was 12 years old when he made Indiana Jones and the Temple of Doom. In his new memoir, Never Say Die, excerpted in Entertainment Weekly, the Oscar-winning actor reveals that producer George Lucas and director Steven Spielberg took care of him in way he didn\u2019t know about until after filming had concluded. [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-21T00:44:54+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ben Affleck Almost Cast Ex-Wife Jennifer Garner in His Netflix Film \u2018Animals\u2019: \u2018We Don\u2019t Want to Do That\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/ben-affleck-almost-cast-jennifer-garner-animals/",
+      "summary": "The star and director still says he would \"love to work\" with Garner The post Ben Affleck Almost Cast Ex-Wife Jennifer Garner in His Netflix Film \u2018Animals\u2019: \u2018We Don\u2019t Want to Do That\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-21T00:35:34+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Former FTC Chair Lina Khan Says Paramount Merger \u2018Seems Facially Illegal,\u2019 Slams \u2018Troubling\u2019 Settlement Talks",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/ftc-lina-khan-paramount-merger-illegal/",
+      "summary": "\"Behavioral remedies routinely fail,\" warns Khan, who led the Federal Trade Commission during Joe Biden's administration The post Former FTC Chair Lina Khan Says Paramount Merger \u2018Seems Facially Illegal,\u2019 Slams \u2018Troubling\u2019 Settlement Talks appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T22:23:21+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Aaron Sorkin Confesses David Fincher Was His First Choice to Direct \u2018The Social Reckoning\u2019",
+      "url": "https://www.thewrap.com/creative-content/movies/aaron-sorkin-david-fincher-first-choice-social-reckoning/",
+      "summary": "The writer-director says Fincher's exclusive deal with Netflix was part of why he was unavailable The post Aaron Sorkin Confesses David Fincher Was His First Choice to Direct \u2018The Social Reckoning\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T21:54:23+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ke Huy Quan on Receiving \u201cGenerous\u201d $100K Residuals Check for \u2018Indiana Jones and the Temple of Doom\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ke-huy-quan-100k-residuals-check-temple-of-doom-1236706633/",
+      "summary": "The Oscar winner admitted he \"didn\u2019t understand how more money could suddenly appear\" after already being compensated for his work on Steven Spielberg's 1984 film.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-20T21:44:45+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Colts vs. Chiefs: Where to Watch the \u2018Sunday Night Football\u2019 Game Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-colts-vs-chiefs-game-online-nfl-streams-2026-1236706587/",
+      "summary": "The NFL Week 2 matchup is set for Sept. 20 at Kansas City's Arrowhead Stadium.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-20T21:13:02+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Chad Gilbert, New Found Glory Guitarist, Dies at 45",
+      "url": "https://www.hollywoodreporter.com/music/music-news/chad-gilbert-dead-new-found-glory-guitarist-1236706616/",
+      "summary": "\"He was a legendary musician, but his favorite accomplishment was being a husband and father. His biggest dreams came true,\" his band and wife wrote in a joint statement.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-20T21:10:34+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018History Of Concrete\u2019 Rocks IFC Center As \u2018Daniel And The Fiery Furnace\u2019 Brings Biblical Heat To Top 10 \u2014 Specialty Box Office",
+      "url": "https://deadline.com/2026/09/indie-film-box-office-john-wilson-the-history-of-concrete-1237108942/",
+      "summary": "John Wilson\u2019s The History Of Concrete had a record-breaking IFC Center debut, grossing $90k in three days for the top doc opening and the second-highest weekend gross in the NYC theater\u2019s 21-year history after only Parasite ($119k in 2019). Nearly every available ticket sold for the entire weekend, including for shows added Saturday afternoon for [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T21:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Alan Ritchson Says \u2018Reacher\u2019 Axed Plans to Adapt Novel About Fighting White Supremacists When \u2018Someone Got Re-Elected\u2019",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/alan-ritchson-suggests-reached-axed-plot-trump/",
+      "summary": "\"Die Trying,\" the second Jack Reacher novel by Lee Child, follows the hero dismantling a militia wishing to secede from the U.S. The post Alan Ritchson Says \u2018Reacher\u2019 Axed Plans to Adapt Novel About Fighting White Supremacists When \u2018Someone Got Re-Elected\u2019 appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T20:48:35+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Chad Gilbert Dead: New Found Glory Guitarist Was 45",
+      "url": "https://deadline.com/2026/09/chad-gilbert-dead-new-found-glory-1237108950/",
+      "summary": "Chad Gilbert, the New Found Glory founding member and lead guitarist, has died. He was 45. On Sunday, Gilbert\u2019s wife Lisa Cimorelli announced that he \u201cpassed away peacefully in his sleep,\u201d following his emergency brain surgery in March when three tumors were discovered and his metastatic pheochromocytoma was upgraded to stage 4 adrenocortical carcinoma. \u201cOn [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T20:39:28+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sylvester Stallone Learned About Trump Hollywood Ambassadorship While Watching TV: \u201cIt Won\u2019t Work\u201d",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sylvester-stallone-trump-hollywood-ambassadorship-watching-tv-1236706583/",
+      "summary": "Last year, Donald Trump named Stallone, along with Jon Voight and Mel Gibson, as Hollywood's \"special ambassadors\" who \"will be my eyes and ears\" in the industry.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-20T20:30:37+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "JoAnna Garcia Swisher Thanks \u2018Sweet Magnolias\u2019 Team For Giving Her \u201cSomewhere To Belong\u201d",
+      "url": "https://deadline.com/2026/09/joanna-garcia-swisher-thanks-sweet-magnolias-team-1237108944/",
+      "summary": "As Sweet Magnolias comes to an end, JoAnna Garcia Swisher is grateful for all the friends and fans she made in Serenity, South Carolina. On Sunday, the actress reflected on the \u201creally beautiful chapter of my life\u201d as she penned a heartfelt statement after Netflix canceled the series following five seasons. \u201cHow do you say [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T20:09:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jessica Chastain\u2019s \u2018The Savant\u2019 Locks 2027 Release After Being Shelved Following Charlie Kirk Assassination",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/the-savant-sets-2027-release-apple-delayed-charlie-kirk/",
+      "summary": "The star had expressed disagreement with Apple TV's decision to postpone the series The post Jessica Chastain\u2019s \u2018The Savant\u2019 Locks 2027 Release After Being Shelved Following Charlie Kirk Assassination appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T19:37:13+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jessica Chastain Thriller \u2018The Savant\u2019 Getting 2027 Release On Apple TV After Year On Hold",
+      "url": "https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/",
+      "summary": "EXCLUSIVE: The release of The Savant is back on. A year after Apple TV put the thriller starring Jessica Chastain on hold three days before it was slated to premiere on Sept. 26, 2025, the streamer has rescheduled it for spring, 2027. The exact timing, which is still being finalized, will make the series eligible [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T19:00:39+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018They Poll Way Too Many Democrats\u2019: Trump\u2019s Economic Council Director Challenges Fox News Polling On Air",
+      "url": "https://www.thewrap.com/media-platforms/tv/trump-economic-director-fox-news-polls-too-many-democrat/",
+      "summary": "\"No far-left media here!\" says Fox News host Peter Doocy in defense The post \u2018They Poll Way Too Many Democrats\u2019: Trump\u2019s Economic Council Director Challenges Fox News Polling On Air appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T18:44:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zach Cregger\u2019s \u2018Resident Evil\u2019 Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run",
+      "url": "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930/",
+      "summary": "The new film from the \"Weapons\" and \"Barbarian\" director opens to $108.3 million, making him one of Hollywood's biggest hitmakers.",
+      "source": "IndieWire",
+      "published": "2026-09-20T18:43:55+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Which Fall Festival Favorites Are Now in the Oscar Race?",
+      "url": "https://www.indiewire.com/awards/predictions/fall-festival-best-picture-oscar-race-bola-negra-wild-horse-nine-1235217890/",
+      "summary": "Best Picture frontrunners like \"La Bola Negra\" and \"Wild Horse Nine\" emerge as TIFF, Telluride, and Venice come to an end.",
+      "source": "IndieWire",
+      "published": "2026-09-20T18:30:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 3 Best New Movies to Watch on Prime Video This Week",
+      "url": "https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-to-watch-prime-video-9-20-26/",
+      "summary": "Including a 2026 blockbuster, a brilliant debut feature and one of the decade's most haunting movies The post The 3 Best New Movies to Watch on Prime Video This Week appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T18:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Ben Affleck Nearly Cast Ex Jennifer Garner As His Wife In \u2018Animals\u2019: \u201cYou Just Get Baggage\u201d",
+      "url": "https://deadline.com/2026/09/ben-affleck-nearly-cast-jennifer-garner-wife-animals-1237108825/",
+      "summary": "As Ben Affleck takes the lead in his next directorial outing, he\u2019s recounting the casting game of musical chairs that almost resulted in his onscreen reunion with ex-wife Jennifer Garner. The co-writer, director and star of Animals, premiering Oct. 9 on Netflix, explained how he came to take over the lead role of Mark Kimball [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T17:52:46+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sylvester Stallone Rejected Trump\u2019s Hollywood Ambassador Role, Found Out While Watching TV",
+      "url": "https://www.thewrap.com/creative-content/movies/sylvester-stallone-never-accepted-trump-hollywood-ambassador/",
+      "summary": "\"Corporate people won\u2019t want to hear me tell them about finance,\" the star explains The post Sylvester Stallone Rejected Trump\u2019s Hollywood Ambassador Role, Found Out While Watching TV appeared first on TheWrap .",
+      "source": "The Wrap",
+      "published": "2026-09-20T17:27:07+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Aaron Sorkin Says Jeremy Strong Treated \u2018Social Reckoning\u2019 Co-Stars \u201cThe Way He Imagines Mark Zuckerberg Treats People\u201d",
+      "url": "https://deadline.com/2026/09/jeremy-strong-treated-social-reckoning-cast-like-zuckerberg-1237108812/",
+      "summary": "As Jeremy Strong delivers his portrayal of Mark Zuckerberg, Aaron Sorkin has shed some light on the method actor\u2019s process for this role. The Social Reckoning writer/director was \u201cnot shocked\u201d that Strong didn\u2019t tell him about writing an email to Zuckerberg, confirming that the Oscar-nominated actor stayed in character as the Meta founder and CEO [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T17:21:03+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Duncan Jones on Why It\u2019s \u2018Harder Than Ever\u2019 to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)",
+      "url": "https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/",
+      "summary": "TIFF: It took almost a decade for the \"Moon\" and \"Mute\" filmmaker to get his animated adaptation of \"Rogue Trooper\" off the ground. Sometimes, the filmmaker tells IndieWire, that's just what the vision entails.",
+      "source": "IndieWire",
+      "published": "2026-09-20T17:11:43+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Movistar Plus Announces 2027 Slate, Including JA Bayona & Fernando Le\u00f3n Projects, At San Sebasti\u00e1n",
+      "url": "https://deadline.com/2026/09/movistar-plus-2027-slate-ja-bayona-san-sebastian-1237108799/",
+      "summary": "Movistar Plus debuted some of the projects that will feature as part of its 2027 content slate, including two projects executive-produced by JA Bayona and a new comedy series by Fernando Le\u00f3n de Aranoa (The Good Boss), this morning at the San Sebasti\u00e1n Film Festival. The Le\u00f3n series will be titled The Castaway. Le\u00f3n has [\u2026]",
+      "source": "Deadline",
+      "published": "2026-09-20T17:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018La Bola Negra\u2019 Wins the 2026 Toronto International Film Festival People\u2019s Choice Award",
+      "url": "https://www.indiewire.com/awards/results/2026-tiff-awards-winners-full-list-1235217520/",
+      "summary": "The Spanish epic was already a hit out of its Cannes premiere, but now it's firmly launched into the heart of this year's awards season. Plus: check out the full list of winners.",
+      "source": "IndieWire",
+      "published": "2026-09-20T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Wilson\u2019s \u2018The History of Concrete\u2019 from Magnolia Becomes IFC Center\u2019s Second Biggest Debut",
+      "url": "https://www.indiewire.com/news/box-office/box-office-john-wilson-history-of-concrete-ifc-center-record-1235217860/",
+      "summary": "The offbeat documentary earned $90,000, second only to \"Parasite.\"",
+      "source": "IndieWire",
+      "published": "2026-09-20T12:59:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Other Bennet Sister\u2019 Fans, Rejoice! D\u00f3nal Finn Will Be Back for Three-Part Christmas Special",
+      "url": "https://www.indiewire.com/news/breaking-news/the-other-bennet-sister-donal-finn-return-christmas-special-1235217829/",
+      "summary": "Mary Bennet's beloved husband, Tom Hayward, is officially back for the much-anticipated special. But so is his rival!",
+      "source": "IndieWire",
+      "published": "2026-09-19T15:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "How to Run a Microcinema with John Wilson",
+      "url": "https://www.indiewire.com/features/craft/john-wilson-filmmaker-interview-low-cinema-queens-1235217504/",
+      "summary": "Filmmaker John Wilson tells IndieWire about helping to run the Low Cinema in Queens while also working on his new film \u201cThe History of Concrete.\"",
+      "source": "IndieWire",
+      "published": "2026-09-19T14:00:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "\u2018The Daughters of Abraham\u2019 Review: Individualism and Community Test Each Other\u2019s Limits in an Interfaith Friendship Drama",
+      "url": "https://www.indiewire.com/criticism/movies/the-daughters-of-abraham-review-1235217809/",
+      "summary": "TIFF: Hana\u00ebl El Yousfi's feature debut follows the ongoing relationship between a Jewish woman and her Muslim friend, illustrating how the conflicting desires for independence and family connection are universal.",
+      "source": "IndieWire",
+      "published": "2026-09-19T13:00:00+00:00",
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Trying to Picture Doomsday? 1983\u2019s \u2018WarGames\u2019 Already Showed Us One Way AI Could End the World",
+      "url": "https://www.indiewire.com/news/general-news/wargames-rewatch-1983-apocalypse-ai-thriller-1235216407/",
+      "summary": "After a former Anthropic researcher warned that humanity's extinction could be as close as 2030, John Badham\u2019s cyber thriller offers a frighteningly clear answer to the question: \"OK, how ?\"",
+      "source": "IndieWire",
+      "published": "2026-09-19T03:59:00+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire\u2019s Future of Filmmaking Summit",
+      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/",
+      "summary": "The \"Project Hail Mary\" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.",
+      "source": "IndieWire",
+      "published": "2026-09-18T22:30:49+00:00",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Hawaii Five-O' Movie In Works From 'Spider-Man' Director Destin Daniel Cretton",
+      "url": "https://deadline.com/2026/09/hawaii-five-o-movie-destin-daniel-cretton-spider-man-1237073354/",
+      "summary": "EXCLUSIVE: Paramount Pictures has the chance to finally give movie treatment to the \u201860s TV seriesHawaii Five-O, withSpider-Man: Brand New DayhelmerDestin Daniel Crettonleading the wave.",
+      "source": "Deadline",
+      "category": "greenlight",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Point Break TV Show Greenlit at AMC",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/point-break-tv-show-spinoff-amc/",
+      "summary": "A spinoff of the 1991 film, the series follows a new heist crew with ties to the notorious Ex-Presidents gang",
+      "source": "Wrap",
+      "category": "greenlight",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Diablo TV Series in the Works at Netflix",
+      "url": "https://variety.com/2026/tv/news/diablo-tv-series-netflix-1236859591/",
+      "summary": "An animated TV series adaptation of Blizzard Entertainment\u2019s popular \u201cDiablo\u201d video game franchise is in development atNetflix.",
+      "source": "Variety",
+      "category": "greenlight",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Mulaney Looking To Star In 'Get Smart' Reboot at Warner Bros",
+      "url": "https://deadline.com/2026/09/john-mulaney-get-smart-reboot-1237071666/",
+      "summary": "EXCLUSIVE:Talk about a dead ringer when it comes to casting: We\u2019re getting word that 4x Emmy winnerJohn Mulaneyis eyeing to star as wisenheimer Agent Maxwell Smart in Warner Bros\u2019 upcoming reimagining ofGet Smart.",
+      "source": "Deadline",
+      "category": "greenlight",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paul Feig in Talks to Direct Sequel to 'The Italian Job' at Paramount",
+      "url": "https://www.thewrap.com/creative-content/movies/paul-feig-the-italian-job-sequel-paramount/",
+      "summary": "The 2003 heist film starring Mark Wahlberg, Charlize Theron and Edward Norton made $176 million worldwide",
+      "source": "Wrap",
+      "category": "greenlight",
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Orders 'Lonesome Dove' Series From Zoe Kazan & Jeb Stuart",
+      "url": "https://deadline.com/2026/09/lonesome-dove-netflix-series-zoe-kazan-jeb-stuart-1237071579/",
+      "summary": "Larry McMurtry\u2019s classicLonesome Dovenovel is returning to television as aNetflixseries. The streamer has greenlighted the Western drama fromZoe KazanandJeb Stuart, co-showrunners of Netflix\u2019s upcomingEast of Edenlimited series, and Teton Ridge Entertainment.",
+      "source": "Deadline",
+      "category": "greenlight",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Congress Begins Drafting 20% Federal Film Incentive With Trump's OK",
+      "url": "https://variety.com/2026/film/news/congress-draft-federal-film-incentive-trump-1236855119/",
+      "summary": "Members of Congress are drafting legislation that would create a 20% federal film and TV incentive \u2014 with bonuses that could bring it as high as 30% \u2014 after President Trump endorsed the idea last week.",
+      "source": "Variety",
+      "category": "union_rule",
+      "published": null,
+      "_score": -100.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": true,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "IMDb Adds Digital Creator Profiles for the First Time",
+      "url": "https://variety.com/2026/digital/news/imdb-digital-creator-profiles-1236855930/",
+      "summary": "Since it was launched nearly 36 years ago,IMDbhas served as an online directory of TV shows and movies and the actors who appear in them.",
+      "source": "Variety",
+      "category": "union_rule",
+      "published": null,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sarah Catherine Hook Joins 'Crush' Thriller From 20th Century Studios",
+      "url": "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236/",
+      "summary": "EXCLUSIVE:Sarah Catherine Hook, the actress who broke out with her role in the Thailand-set third season of HBO\u2019sThe White Lotus, is set to star inCrush, the snake-themed thriller from20th Century Studios.",
+      "source": "Deadline",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Keanu Reeves To Star In 'Kill Current,' Produce Under New Two Dragonflies Label",
+      "url": "https://deadline.com/2026/09/keanu-reeves-kill-current-movie-1237072325/",
+      "summary": "EXCLUSIVE:When Erik Feig launchedThe Arena, an independent studio focused on the creation of global franchises in event action and more, aKeanu Reevescollaboration seemed inevitable. And now, it\u2019s coming to pass.",
+      "source": "Deadline",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jessica Gunning To Star In Thriller TV Series 'Feral' For Netflix",
+      "url": "https://deadline.com/2026/09/jessica-gunning-to-star-feral-netflix-1237072540/",
+      "summary": "EXCLUSIVE:For the first time since her big breakout moment withBaby Reindeer, the darkly comedic stalker thriller turned water cooler phenomenon,Jessica Gunningis returning toNetflix.",
+      "source": "Deadline",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Thunder Road, Lit Entertainment Group Launch TR/AK Banner",
+      "url": "https://www.thewrap.com/creative-content/movies/thunder-road-lit-entertainment-group-merge-tr-ak-banner/",
+      "summary": "Films by the \u201cJohn Wick\u201d production company have collectively grossed more than $4.4 billion worldwide, while projects written by Lit clients have generated more than $7 billion",
+      "source": "Wrap",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Halle Berry, Zo\u00eb Kravitz & Jack Whitehall Set For 'Otherwise Engaged'",
+      "url": "https://deadline.com/2026/09/halle-berry-zoe-kravitz-jack-whitehall-otherwise-engaged-1237067845/",
+      "summary": "EXCLUSIVE: Here\u2019s a fun one. Oscar winnersHalle Berry(Monster\u2019s Ball) andColin Firth(The King\u2019s Speech), Emmy nominee Zo\u00eb Kravitz (The Studio), and British Comedy Award winnerJack Whitehall(The \u2018Burbs) have been set to star in rom-comOtherwise Engaged.",
+      "source": "Deadline",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'The Inbetweeners 3' Movie Set for Netflix With Original Lead Cast",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-inbetweeners-3-movie-netflix-original-lead-cast-1236693063/",
+      "summary": "If you\u2019ve never loved anything before, apart from a car or a sandwich orThe Inbetweeners, this news is for you!Netflixunveiled on Monday that a third movie in the raunchy franchise is moving ahead, with production beginning on Monday in the U.K. onThe Inbetweeners 3, which the streamer described as \u201ca continuation of the hugely popular sitcom and its two record-breaking films.\u201d",
+      "source": "Hollywoodreporter",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "HBO\u2019s \u2018Harry Potter\u2019 Recasts Ginny Weasley, Finds Dobby and Tom Riddle",
+      "url": "https://www.thewrap.com/media-platforms/tv/harry-potter-show-ginny-recasting-dobby-tom-riddle-actors/",
+      "summary": "Gracie Cochrane will star as Ginny in Season 1,\u00a0but exited due to \u201cunforeseen circumstances\u201d",
+      "source": "Wrap",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Rob Rausch and Maura Higgins to Host Peacock Competition Series Get Me Out of Here",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/rob-rausch-maura-higgins-host-peacock-competition-show-get-me-out-of-here/",
+      "summary": "The show from \u201cLove Island USA\u201d producer ITV America pairs celebrities with a non-famous friend or family member in the jungle",
+      "source": "Wrap",
+      "category": "casting",
+      "published": null,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "John Oliver Takes Swipe at David Ellison and His \u2018Business Daddy\u2019 Larry Ellison on \u2018Last Week Tonight\u2019",
+      "url": "https://e.mail.variety.com/click?ZdJBfT8IwFMX7WZrsDYTesW4lMREq-AdCgoIYXkjXXWcJZbiSNWj87mZkGF98vvec88tvtEe_R--KVFl1k1tldvUgkV_Umoz2KYsTITiELBS9JFY8jHXENWJMW1QfaZ8erG5XqjR4PLWjHqQAXEDMMMYkxQiyFMJuqgVLEoQ2oy1a1rW_S_SbLC8KKoP-6nxoCuuHjkXnVI6u8y9Kp1SePK_vN7bSTXJzO1sMZl0BDLrA9TnEGZnaKiEftSTEaxiPln5vFvMim0bSjOyhVwQwfH-Rwk12DzZXd5PFdrYKYPyZObmde7V6CmBs1rbk0VwOTtVrAEPeqPyLJ0iuSlm85eTxwiAbhp8BAA9u4a39843b",
+      "summary": "John Oliver Takes Swipe at David Ellison and His \u2018Business Daddy\u2019 Larry Ellison on \u2018Last Week Tonight\u2019\n\nSubject Line: John Oliver Takes Swipe at David Ellison and His \u2018Business Daddy\u2019 Larry Ellison on \u2018Last Week Tonight\u2019\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFMX7WZrsDYTesW4lMREq-AdCgoIYXkjXXWcJZbiSNWj87mZkGF98vvec88tvtEe_R--KVFl1k1tldvUgkV_Umoz2KYsTITiELBS9JFY8jHXENWJMW1QfaZ8erG5XqjR4PLWjHqQAXEDMMMYkxQiyFMJuqgVLEoQ2oy1a1rW_S_SbLC8KKoP-6nxoCuuHjkXnVI6u8y9Kp1SePK_vN7bSTXJzO1sMZl0BDLrA9TnEGZnaKiEftSTEaxiPln5vFvMim0bSjOyhVwQwfH-Rwk12DzZXd5PFdrYKYPyZObmde7V6CmBs1rbk0VwOTtVrAEPeqPyLJ0iuSlm85eTxwiAbhp8BAA9u4a39843b\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.variety.com/click?ZdJBfT8IwFEf3WZrsDYTesW4lMREq-AdCgoIYXkjbXWcJ3XCFLWj87mZkGF98bu_5nZxRhlWGlcuVtPImtdLs6kFPfBFrEtInNIo5ZxDQgPfiSLIg0iHTiBFpEX0gfbK3ul3KwuDh1A57oAAYh4hihLHCEBIFQVdpTuMYoU1JixQ19neJfHvLS4LSYHV1fmiA9YeORedkiq7zr0rnmLmjcrowCr3n9f3GlrohbG5ni8Gsy4FCF5g-HzPqTW0Zex91LMRrGI-WVWYW8zyZhsKM7L6X-zB8fxHcTXYPNpV3k8V2tvJh_Jk4sZ1XcvXkw9isbcHCuRicylcfhqxJ-leTe6ksRP6Weo8XB9E4_AwA4se3f985df",
+      "source": "Gmail (mail.variety.com)",
+      "published": "2026-09-21T03:46:06",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs\r\n Resist Quick Ellison Deal",
+      "url": "https://e.mail.deadline.com/click?ZdNBbT8IwGAbg_pYm3DFpO7q1JCYqoISM88GEG9Ku32C6broZxjD-dzPDjDdef4fnzTtMoUyhLDKtrLo7WBUnNYj6n9jGBvcw9YWUXEghCBcq0syXroogUriNww_cw282dAwok8QpOMcsSaoyy4zjGiUooZzpbheIEZILHvkgfE2J15XcobiN81r4RfEX2jRtnGIob34Gze96o2OhKNQBis6_sTq5KtFqN9pbEzan-8F0fT8lklFGmBcyl7qSuyiwxkPvdWMAt2IE682FDvSSvi4Ww2Ayy3ZwrLbpfDyZ50_b5xZ7rIJiVp2Wazfe7FrsQQbs_FLly1Wiz5bAIrx2-iebR9BB5X19KdG48ftX_3sAcrfac67024",
+      "summary": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs\r\n Resist Quick Ellison Deal\n\nSubject Line: Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBbT8IwGAbg_pYm3DFpO7q1JCYqoISM88GEG9Ku32C6broZxjD-dzPDjDdef4fnzTtMoUyhLDKtrLo7WBUnNYj6n9jGBvcw9YWUXEghCBcq0syXroogUriNww_cw282dAwok8QpOMcsSaoyy4zjGiUooZzpbheIEZILHvkgfE2J15XcobiN81r4RfEX2jRtnGIob34Gze96o2OhKNQBis6_sTq5KtFqN9pbEzan-8F0fT8lklFGmBcyl7qSuyiwxkPvdWMAt2IE682FDvSSvi4Ww2Ayy3ZwrLbpfDyZ50_b5xZ7rIJiVp2Wazfe7FrsQQbs_FLly1Wiz5bAIrx2-iebR9BB5X19KdG48ftX_3sAcrfac67024\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNDNbuIwFAXgPIsldmSwHZzYSCPNFGgRCv8_ldggO76BtHHSxoUQqr57lYpU3XR9r853dIYZlBmUNlfSyH8HI5O0Bp3-OzKJRj1EAi4E44JzzLiMFQ2EJ2OIJWqj6A310IuJXA1Sp0kG7jFP06rMc-16WnKCCaOq2wWsuWCcxQHwQBHsdwVzCWqjoha-UfThbJo1zgmUf74OTXb90TFgrTyA7fxaq3PK7EnZqEgUOKvdaG901ETsB9P1_ykWlFBM_Yh6xBPMc0Kjfee1Xg7gLx_BenMlA7Ukz4vFMJzM8h0cq202H0_mxcP2sUXvq9DOqvNy7SWbXYveiZBenqpiuUrVxWBYRLdtf3T0sXOQRV9dS2fc-P2b_zkA9h641a7022",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-21T02:51:59",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'Lanterns' Review: Episode 6 Embraces 'Bad Optics' with a Clever Revival \u2014\u00a0Spoilers",
+      "url": "https://e.mail.indiewire.com/click?ZdJBdT_owFIf7WZpwB3_6AltL8k_UCSEg6CIvkRvStWek0w7pkKLG725mAK-8Pie_58nTLyGUEKptppy62jhlX2ogSj6xswb3MI2FlN2IdQmTkhstI5kTkQmFm1jvcQ-_Ot2ypbEQrIcWiSUFIkQe01x0GeNEahN1OgaEyXLBWxQ3sa-HLyz8hebnCAcL4d_P4TJZv7QdVJXaQNX-U6ftVUCPq-Ha2aBtaYJd305n11MiGWWERZpxyiWP0V2wEdrVnQD-L0rxxh6y4Ug32MAdhE_L-yQ9znaLot9gN8v9OEskDGDSKXgg4-eP2fu2wQZ84qPiab4q0nhilvtTy183TijaKJ-kxxSNzgbJyeB7AA4p3ab3c9d8",
+      "summary": "'Lanterns' Review: Episode 6 Embraces 'Bad Optics' with a Clever Revival \u2014\u00a0Spoilers\n\nSubject Line: 'Lanterns' Review: Episode 6 Embraces 'Bad Optics' with a Clever Revival \u2014\u00a0Spoilers\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBdT_owFIf7WZpwB3_6AltL8k_UCSEg6CIvkRvStWek0w7pkKLG725mAK-8Pie_58nTLyGUEKptppy62jhlX2ogSj6xswb3MI2FlN2IdQmTkhstI5kTkQmFm1jvcQ-_Ot2ypbEQrIcWiSUFIkQe01x0GeNEahN1OgaEyXLBWxQ3sa-HLyz8hebnCAcL4d_P4TJZv7QdVJXaQNX-U6ftVUCPq-Ha2aBtaYJd305n11MiGWWERZpxyiWP0V2wEdrVnQD-L0rxxh6y4Ug32MAdhE_L-yQ9znaLot9gN8v9OEskDGDSKXgg4-eP2fu2wQZ84qPiab4q0nhilvtTy183TijaKJ-kxxSNzgbJyeB7AA4p3ab3c9d8\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDdTioxFEb7LE24g0N_YKYlOck5jhACgk7kJ3JDpu0e0tEWmQGKGt_djAG88nrvfGtl9T0ED6Haqsxl_zYusy81ECUf2FmDe5jGQspuxLqEScmNlpHMiVAiw02s97iHX51uWW8sBFtCi8SSAhEij2kuuoxxIrWJOh0Dwqhc8BbFTVzWw1cW_kTzS4SjhfDn-3CdrF_aDqoq20DV_lWnffDVQVW6tArQ42q4djZo602w69vp7P-USEYZYZFmnHLJY3QXbIR2dS-AvwsvDuxBDUe6wQbuKMrU3yfpabZbFP0Gu1nuxyqRMIBJp-CBjJ_fZ2_bBhvwSRkVT_NVkcYTs9yfm_44ckLRJiuT9JSi0cUgORt8DQAek359896f2",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-21T02:04:53",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Jessica Chastain Thriller \u2018The Savant\u2019 Getting 2027 Release On Apple TV After Year On Hold",
+      "url": "https://e.mail.deadline.com/click?ZdNDbTsIwHAbwPkuvmfSw9UBiIgIewKAJkgg3pGs7GFkptMIkxnc3M8x44_X_8PvyjXa23tk6-lw5dbN2qqwaEAw-oSsN7EHMhZQ0Y1xIhrDkIi0oyrOCww7U77AH904nxipTlTubbHxVnWvvTSJzmaEcm5ymmhaFJYpgJhUnDGWCC5Fg2IGhEX5R-AXmbRun0tZXP4P2d7PRdTZGtbax-2-sblA1mC0fVs7o9nQ1nL72p0gSRBBhmlBMBePgyRkGDk1j1l7vN8cPrz3az8xiE-XSPStpghrdv7HstKjIaHg2k-1yOz6KMCcvi8chHUyCS9N44HdkSi59_s2FwVqF2_6xD8atPbjY3wMA5rc57f081f",
+      "summary": "Jessica Chastain Thriller \u2018The Savant\u2019 Getting 2027 Release On Apple TV After Year On Hold\n\nSubject Line: Jessica Chastain Thriller \u2018The Savant\u2019 Getting 2027 Release On Apple TV After Year On Hold\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNDbTsIwHAbwPkuvmfSw9UBiIgIewKAJkgg3pGs7GFkptMIkxnc3M8x44_X_8PvyjXa23tk6-lw5dbN2qqwaEAw-oSsN7EHMhZQ0Y1xIhrDkIi0oyrOCww7U77AH904nxipTlTubbHxVnWvvTSJzmaEcm5ymmhaFJYpgJhUnDGWCC5Fg2IGhEX5R-AXmbRun0tZXP4P2d7PRdTZGtbax-2-sblA1mC0fVs7o9nQ1nL72p0gSRBBhmlBMBePgyRkGDk1j1l7vN8cPrz3az8xiE-XSPStpghrdv7HstKjIaHg2k-1yOz6KMCcvi8chHUyCS9N44HdkSi59_s2FwVqF2_6xD8atPbjY3wMA5rc57f081f\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNDLTsJAGAXgeZZZU5lLOxcSExHwAgZNkETYkLkVSjotdCyVGN_d1FDjxvX_53wnZ1K4pnBNKLXy6mbrVZa3IBh9Qp9ZOICYCylpwriQDGHJRZxSpJOUwx4073AAD95E1imbZ4WLdmWen5uytJHUMkEaW01jQ9PUEUUwk4oThhLBhYgw7MGqFX5R-AWW3RqnzDVXP4cuu_3oexeC2rrQ_7dWvy5CrYOpMu3AYv2w8dZ0EZvx_HU4R5IggggzhGIqGAdP3jJwbJdz7vqwqz9KU6LDwq52Qa79s5K2UpP7N5acVjmZjM92tl_vp7WoluRl9Timo1nl4zgc-R2Zk8uuf_thsFXV7bAegmlnjy729wA6qa79126d5",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-20T20:23:20",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Which Fall Festival Favorites Are Now in the Oscar Race?",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfT_IwFIf7WZpwBy_tYe1akjdxjH8xiHECGm5I19ZZpRM2YjHG725mgHjj9Tn5PU-eUWlDaUP9liuvrgqv3LYBovQTe2dwH9NYSAkSgBESR0TlSueSRfQJt7E-4D7eed1xpXE2uMp2CNdMgtFGMhpJmQujophCxI3iFJTsUNzGVTN8YeEvtDxHeHc2_Ps5XCabl663da0KW3f_1OlWKqD79XTjXdCuNMFthvNFMicSCBDgGnq0J2gPzYLjaN90sva_Grysbh6W-jgrmHteiluWeDFZbHlIk49MH1swSHXIzHTSgvF4ved3I1avYuFaMCbZ4PA43En_emr5202iQlVJmQV0fTZITwbfAwAam8b69c07b",
+      "summary": "Which Fall Festival Favorites Are Now in the Oscar Race?\n\nSubject Line: Which Fall Festival Favorites Are Now in the Oscar Race?\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfT_IwFIf7WZpwBy_tYe1akjdxjH8xiHECGm5I19ZZpRM2YjHG725mgHjj9Tn5PU-eUWlDaUP9liuvrgqv3LYBovQTe2dwH9NYSAkSgBESR0TlSueSRfQJt7E-4D7eed1xpXE2uMp2CNdMgtFGMhpJmQujophCxI3iFJTsUNzGVTN8YeEvtDxHeHc2_Ps5XCabl663da0KW3f_1OlWKqD79XTjXdCuNMFthvNFMicSCBDgGnq0J2gPzYLjaN90sva_Grysbh6W-jgrmHteiluWeDFZbHlIk49MH1swSHXIzHTSgvF4ved3I1avYuFaMCbZ4PA43En_emr5202iQlVJmQV0fTZITwbfAwAam8b69c07b\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDNbuIwFEb9LJbYwWCb2ImRRpoQ_jRiGDUFWrFBju2mt8UpxFBTVX33KhWgbrq-V985OqPKhsoG_1Iop_6UTsG2AaLsHTswuI9pnEjJJGOckDgiqlC6kDyiD7iN9QH38c7pDlQGbIDadojQXDKjjeQ0krJIjIpiyiJhlKBMyQ7FbVw3w1cW_kDLS4RXsOHX1-E62bx0nfVeldZ3f9TpHit_LLyuobDodj3dOAgaKhNgM5wv0jmRjDDChGY92ktoD80CCLRveln7Ww2eVv_ulvo0Kzk8LpP_PHXJZLEVIUvfcn1qsUGmQ26mkxYbj9d7cTPifhUn0GJjkg8O98OddM_npt8dJSpVnVZ5QH8vBtnZ4HMA0u0bbc1e4c",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-20T18:34:47",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies\r\n (and Why He Refused to Use AI for His Newest One)",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfa8IwFMXzWQK-6cw_20YYTDqrbipjaoW9SFJvS9R0a6OGMfbdR4fKXvZ87zm_w29Ygi_Bu3etrHoorDKHBojiL2zNFvcxDSMpmQgCJrmgIgiJBBLSUOI2zo64jz9s1jHl1oA3NXSk1kBJIKimvBcKEYksF1meaw5NKOpQ3MZ1U3xj4W-0uko4G_B3v4dbZfPSteCcKsB1_53TrZVHi7fxxhqfmXLrzeZxvhzMiWSEERZkjFMeEY6m3gSoajwB3OsRI2W9fk1PXBymE5UcqlOoo9nyPKtyU41c0mLJ8XM_G8WeqHTPixZLUjfcrcaLl_VzPJE7dzH5d1kPFaoepKlHT1d-fOH_DAAej5d1e7989",
+      "summary": "Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies\r\n (and Why He Refused to Use AI for His Newest One)\n\nSubject Line: Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa8IwFMXzWQK-6cw_20YYTDqrbipjaoW9SFJvS9R0a6OGMfbdR4fKXvZ87zm_w29Ygi_Bu3etrHoorDKHBojiL2zNFvcxDSMpmQgCJrmgIgiJBBLSUOI2zo64jz9s1jHl1oA3NXSk1kBJIKimvBcKEYksF1meaw5NKOpQ3MZ1U3xj4W-0uko4G_B3v4dbZfPSteCcKsB1_53TrZVHi7fxxhqfmXLrzeZxvhzMiWSEERZkjFMeEY6m3gSoajwB3OsRI2W9fk1PXBymE5UcqlOoo9nyPKtyU41c0mLJ8XM_G8WeqHTPixZLUjfcrcaLl_VzPJE7dzH5d1kPFaoepKlHT1d-fOH_DAAej5d1e7989\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDdaupAFIXnWQa80-P8mWSEA0dyjNqqlKoReiMz404YNWmTMQ6l9N1Likpver33Wt_iG5fgS_DuVatC_csLZU8tEMUfuLB7PMQ0jKRkIgiY5IKKICQSSEhDibvYnPEQvxWmZ8u9BW9r6EmtgZJAUE35IBQiEiYTJss0hzYU9Sju4rotvrPwJ9rcJFws-D_fh3tl-9IvwDmVg-v_OqfflK7RztRWA1q9THeF9caWe293_5fr0ZJIRhhhgWGc8ohwNPc2QFXrC-CvnjBS1tvntOHiNJ-p5FQ1oY4W68uiymw1cUmHJef342ISe6LSI887LEnd-LCZrp62j_FMHtzV6M-FA5SrepSmHj3c-PGV_zUA5v36449790",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-20T17:18:15",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Hollywood Came Out In Full Force For Opening Of George Lucas' Museum Of\r\n Narrative Art",
+      "url": "https://e.mail.deadline.com/click?ZdNDfTsIwFAbwPksT7pisZ93WkpjIAGN0IQwVDTekaw9juG66EScxvruZYcYbr8-f35dvXmJbYttUqbLqKrMqLzqQTD-pzQ0dUxYKKYEFoZDcV0wBlwJczjgdUn2kY_pqtWNQmSIv0dlXRXFqq8o4PnCFmnHjCx8NgidlGgQyBU-qVGjtMDqkdSf8ovSLPPZtvOfYXvwM-t_dxshi06gMm9G_sUa1asn95mZrje5Pt7PFw2ThSnDBhUCDx7xQSBJbE5C3rjHEy3yWHVZxZE9T_bTL3GQ5gOtDErtzNvlYbfaz487fJ-UyZGs-gGi9ieqg8MKVxZcqeW4OxuMRnDv9m02QTNWTu7glt70_PfvfAwA2l36e25bfc",
+      "summary": "Hollywood Came Out In Full Force For Opening Of George Lucas' Museum Of\r\n Narrative Art\n\nSubject Line: Hollywood Came Out In Full Force For Opening Of George Lucas' Museum Of Narrative Art\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNDfTsIwFAbwPksT7pisZ93WkpjIAGN0IQwVDTekaw9juG66EScxvruZYcYbr8-f35dvXmJbYttUqbLqKrMqLzqQTD-pzQ0dUxYKKYEFoZDcV0wBlwJczjgdUn2kY_pqtWNQmSIv0dlXRXFqq8o4PnCFmnHjCx8NgidlGgQyBU-qVGjtMDqkdSf8ovSLPPZtvOfYXvwM-t_dxshi06gMm9G_sUa1asn95mZrje5Pt7PFw2ThSnDBhUCDx7xQSBJbE5C3rjHEy3yWHVZxZE9T_bTL3GQ5gOtDErtzNvlYbfaz487fJ-UyZGs-gGi9ieqg8MKVxZcqeW4OxuMRnDv9m02QTNWTu7glt70_PfvfAwA2l36e25bfc\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBRT8IwFAXg_pYmvDFZu25rSUxkgDG6EIaKhhfStZexuW66gpMY_7uZYcYXn-_N-U7OvIK2gtbWqTTyKjMyLzsQTT-xyTUeYxJyISgJQi6YL4mkTHDqMsLwEKsDHuNXoxwNUpd5Bc6-LstTW9fa8SmToAjTPvdBA_WESINApNQTMuVKOQQPcdMJvyj-Qo_9Gu85tBc_hz67-xgZsFZmYEf_1hodK3tMrWryFND95mZrtOojtrPFw2ThCupSlwaKesQLuUCx0QF665YDuMxnWbGKI3Oaqqdd5ibLAb0uktidk8nHarOfHXb-PqmWIVmzAY3Wm6gJSi9cGXipk2dbaI9F9Lzt344cZbKZ3MUtuu396dn_HgA5hef1d7c87",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-20T16:30:39",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'La Bola Negra' Wins the 2026 Toronto International Film Festival\r\n People's Choice Award",
+      "url": "https://e.mail.indiewire.com/click?ZdJBfi-IwFEfzWQK-6drcaJoIC-tqy674B0ZFxhdJ05sSMdVp1YDDfPehg8q8zPO9_M7hJCWGEkN9zLTXfwqv3aEBktE79S6nA8piqRREfcaEEtCXPdCGSS4sbVNzpgN68qbjytxhcBV2VGSthV6MNrMmk9wKVFKDybjSwHjWYbRNq2b4yaIfZP2IcHUYfn0dnpPNS9djXesC6-6POt1KB7Lc_tt5F4wr8-B24_lqOI8URBCBMMAZjyUj0-AEeWs6If6ejnPstSCdlbhH9Xo7iaOftyBdL5LF_yI5h-HskiZ_YXPc1Ie12l_FanqD68uEa3ZZbtmI5fJe8rtZTApdDdNZQSYP_ujO_xwA9hb2687e67",
+      "summary": "'La Bola Negra' Wins the 2026 Toronto International Film Festival\r\n People's Choice Award\n\nSubject Line: 'La Bola Negra' Wins the 2026 Toronto International Film Festival People's Choice Award\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBfi-IwFEfzWQK-6drcaJoIC-tqy674B0ZFxhdJ05sSMdVp1YDDfPehg8q8zPO9_M7hJCWGEkN9zLTXfwqv3aEBktE79S6nA8piqRREfcaEEtCXPdCGSS4sbVNzpgN68qbjytxhcBV2VGSthV6MNrMmk9wKVFKDybjSwHjWYbRNq2b4yaIfZP2IcHUYfn0dnpPNS9djXesC6-6POt1KB7Lc_tt5F4wr8-B24_lqOI8URBCBMMAZjyUj0-AEeWs6If6ejnPstSCdlbhH9Xo7iaOftyBdL5LF_yI5h-HskiZ_YXPc1Ie12l_FanqD68uEa3ZZbtmI5fJe8rtZTApdDdNZQSYP_ujO_xwA9hb2687e67\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJBfa_IwFIf7WQLe6WtzqmkjvDCnLZv4B6Yi80aS9KRETHWNNeDYdx8dKrvZ9Tn8nocnLdGX6N1RCiueCivMoQEGo09iTU4GhMYJ5xD2KWWcQT_pgVA0iZgmbaLOZEBOVnVMmRv0psIOD7XW0ItRS61kEmmGPBGgZMQF0Eh2KGmTqhl-sMhXsL5HuBj0_34Oj8nmpWvROVGg6_6p061LV0unKiMxWG5fdtZ4Zcrcm914vhrOQw4hhMAURDSKExpMvWHBR9ML8f90nGOvBdmsxD3y9-uJHe28Bdl6kS5ei_Tsh7M6S59hc9y4w5rvL2w1vcLlbRIJWi-3dETz5Fb0t2EcFKIaZrMimNz5oxv_ewAeh889c62f4",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-20T16:09:22",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "'La Bola Negra' Wins Oscar Predictive Toronto Film Festival People's\r\n Choice Award",
+      "url": "https://e.mail.deadline.com/click?ZdNBba6NAFAdwP8tA3uJGZ9RxAgurUTeXJQtNeiEv4ThzYgRHYwyZlNLvXiyx9KXP5_L7809rNDWarslBw59CQ1n1oDV7I7pUZEpcHgpBHSY8EQgfkHPORK5YSMZEXsiUnLS0FYKqyhrtY1NVr6ZplM0oOsz1gIHrex7CAcDjPPC4nx_8XHLbJWNy7oUvlLxbj0Mb1xLNr8_B8LvfmGjsOiiwm_wYa3IGY212871WcjjdJ-tttHYEdahDA0mZyzjn1j-tAqvtG0P8jSvpZen_Vdokf-twm3VtIkc03l3TXbZ5EYsRjZs2mMeoktuzWa7V9fJQRItDkkDVPsWn5S083jv9lo07VgHnKIuMtRz82d3_GAAci985f75c3",
+      "summary": "'La Bola Negra' Wins Oscar Predictive Toronto Film Festival People's\r\n Choice Award\n\nSubject Line: 'La Bola Negra' Wins Oscar Predictive Toronto Film Festival People's Choice Award\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.deadline.com/click?ZdNBba6NAFAdwP8tA3uJGZ9RxAgurUTeXJQtNeiEv4ThzYgRHYwyZlNLvXiyx9KXP5_L7809rNDWarslBw59CQ1n1oDV7I7pUZEpcHgpBHSY8EQgfkHPORK5YSMZEXsiUnLS0FYKqyhrtY1NVr6ZplM0oOsz1gIHrex7CAcDjPPC4nx_8XHLbJWNy7oUvlLxbj0Mb1xLNr8_B8LvfmGjsOiiwm_wYa3IGY212871WcjjdJ-tttHYEdahDA0mZyzjn1j-tAqvtG0P8jSvpZen_Vdokf-twm3VtIkc03l3TXbZ5EYsRjZs2mMeoktuzWa7V9fJQRItDkkDVPsWn5S083jv9lo07VgHnKIuMtRz82d3_GAAci985f75c3\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.deadline.com/click?ZdNBdb7owFAZwPksT7-QvtIVSk38yEJgvi0ume4k3prRHJKEgVsVl2XdfWGTZza7PyfN78iQVtBW0ps6EFne5FkXZgdbkA-lCoTFyWcA5dgin3OeeAMYY4ZkiARoieUJjdNDSViBUWVRg7-uyfG_rWtkEg0NcKohwPUpB7ISgjPmUednOyySzXTREx074QdGn9dyvcSmg_fd96LO7j5EGY0QOZvRnrdG5MufMyGORgbXaTLdayT5iGy_X4dLh2MEO9iUmLmGMWQ9a-VbTLQfwHxaSpsnjIqnj-ypYp6aJ5QBHm0uySVdvfDbAUd340whUfH1t50t1OT3l4WwXx6JsXqLD_Brsb9v-6sgcKxfHMA1ba977k5v_NQA1v9dc63b99",
+      "source": "Gmail (mail.deadline.com)",
+      "published": "2026-09-20T16:08:35",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "The 2026 Toronto International Film Festival Awards Are Being Announced\r\n Right Now (Updating)",
+      "url": "https://e.mail.indiewire.com/click?ZdJBRa_owFEfzWQK-6d8m0Vwr_GHqVpxU7aZzsBe5ba41aONstwUc--6jQ2Uve76X3zmcO0feka8OKRZ4kxdo9zWQjT55YQ3vcwG9MBQalBJaYMdstNqkCqXhTZ698T5_LbKWdcaStyW1VMeAAehQTwZIYFI0JHRPSwgoo1S3BG_ysh6-svgXe7pE-LDk__0crpP1S7ugqsKcqvafOu0SPVu8jNeF9Zl1xtv17Ww5mAWhDGQgdSaVUKC7LPZWs2Pdiej_eLiLYOkmc4HxWO-T7g4gzKeDbSLjKHpe3SenR8gaMnLT7cPqME3T2Dbk8JT7hXhPqqWY7_Bc8reZZDke15JyNrnwR2f-9wAeldb74a7f7",
+      "summary": "The 2026 Toronto International Film Festival Awards Are Being Announced\r\n Right Now (Updating)\n\nSubject Line: The 2026 Toronto International Film Festival Awards Are Being Announced Right Now (Updating)\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBRa_owFEfzWQK-6d8m0Vwr_GHqVpxU7aZzsBe5ba41aONstwUc--6jQ2Uve76X3zmcO0feka8OKRZ4kxdo9zWQjT55YQ3vcwG9MBQalBJaYMdstNqkCqXhTZ698T5_LbKWdcaStyW1VMeAAehQTwZIYFI0JHRPSwgoo1S3BG_ysh6-svgXe7pE-LDk__0crpP1S7ugqsKcqvafOu0SPVu8jNeF9Zl1xtv17Ww5mAWhDGQgdSaVUKC7LPZWs2Pdiej_eLiLYOkmc4HxWO-T7g4gzKeDbSLjKHpe3SenR8gaMnLT7cPqME3T2Dbk8JT7hXhPqqWY7_Bc8reZZDke15JyNrnwR2f-9wAeldb74a7f7\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDNTgIxFEb7LE3YgUxbaBkSEwGdIBlgFMTEDenPZWigRajYBOO7mzFA3Li-N985OQ8eoocYdko6eVc6abcVEA2-sLMGdzERnTQlXDBGOJEts-JspZikBtex_sBd_O50w3pjIdoDNFjLCCNECzo0kSCMkgYI73AqEtCgeIPgOj5Uw1cW_kYvlwifFuLN7-E6Wb00HYQgSwjNf3WaRx-OKuiDVYBmb8Ols1Fbb6Jd3k_mvUmS0oQmlGvKCBO8jfJoOdpXvQBuh_1NJuZ-NCUyH_Jt0d4IkZbj3rqgeZa9Lh6L07PQNZr58fppsRsrldsa7Z_KOCPHIszJdCPPRf8aUlTK_ZJCiUYX_uDM_xkA6n347d326b",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-20T15:06:34",
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Box Office: John Wilson's 'The History of Concrete' from Magnolia\r\n Becomes IFC Center's Second Biggest Debut",
+      "url": "https://e.mail.indiewire.com/click?ZdJBNTzIxFIX7W7p-eWlvpzMtiYmCH6B8jeCGDSltmVRphRmhgPG_mzFA3Li-95zn5LkLNgYbq_eF8uq68MqtaiDqfGLvDG5hmgkpiUw4TRMiKBhQoAwQiv9h_YFbeO11wwXjbHSlbRBjKEiacWmWVDKwiiouiMgEE6AS3qhzZV18YeEv9HKWsHM2_v85XCrrl6a3VaUKWzX_nNMsVUSTWXfuXdQumOjmt8PpzZBIIEAg1cAoy1iG-tGlaFN7svZqP8lheRxs9WHmuDx2e2-pmT70uMj0aH3IV8vFuL_LWfk0CmMxeG3n7ZBYIbf7vLpnzyI5Wfy9ClChNvMZL9Djmd05sb8HAA0ta3bc1c57",
+      "summary": "Box Office: John Wilson's 'The History of Concrete' from Magnolia\r\n Becomes IFC Center's Second Biggest Debut\n\nSubject Line: Box Office: John Wilson's 'The History of Concrete' from Magnolia Becomes IFC Center's Second Biggest Debut\r\n\r\nIt looks like your email client might not support HTML formatted email.\r\n\r\nTry opening this email in another email client.\r\n\r\nOr, open the following link to view this email in a browser:\r\nhttps://e.mail.indiewire.com/click?ZdJBNTzIxFIX7W7p-eWlvpzMtiYmCH6B8jeCGDSltmVRphRmhgPG_mzFA3Li-95zn5LkLNgYbq_eF8uq68MqtaiDqfGLvDG5hmgkpiUw4TRMiKBhQoAwQiv9h_YFbeO11wwXjbHSlbRBjKEiacWmWVDKwiiouiMgEE6AS3qhzZV18YeEv9HKWsHM2_v85XCrrl6a3VaUKWzX_nNMsVUSTWXfuXdQumOjmt8PpzZBIIEAg1cAoy1iG-tGlaFN7svZqP8lheRxs9WHmuDx2e2-pmT70uMj0aH3IV8vFuL_LWfk0CmMxeG3n7ZBYIbf7vLpnzyI5Wfy9ClChNvMZL9Djmd05sb8HAA0ta3bc1c57\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nWe respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:\r\nhttps://e.mail.indiewire.com/click?ZdJDLbuowFEXzLR5fLvZxnNhIlVroA1peKXTCBDm2idwSF-IGA1X_vUoFqJOOz9l7ba07Z4Izwb_nspTXRSntugFGvU9UWo06iKRcCCxiRpIYcwIaJEgNmKB_SH2gDtqUqmWdtibYyrSw1gQESZnQKyIoGEkk45innHKQMWs1uaopvrDQV_RylrCzJvz_OVwqm5d2abyXhfHtP-e0a-fr3KvK5iaaLfrL0gZlnQ52eTue34yxAAwYEgWU0JSm0TDYJNo2voy52s8yWB1HtTosLBPH_uAt0fOHAeOpmmwO2XqVT4e7jFZPEzflo9du1nWx4aLeZ_6ePvP4ZPP3OogKuV0uWBE9ntm9E_t7AA1vcf45c082",
+      "source": "Gmail (mail.indiewire.com)",
+      "published": "2026-09-20T13:04:38",
+      "_score": 1.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://e.mail.indiewire.com/click?ZdJBfT_IwFIf7WZpwBy_tYe1akjdxjH8xiHECGm5I19ZZpRM2YjHG725mgHjj9Tn5PU-eUWlDaUP9liuvrgqv3LYBovQTe2dwH9NYSAkSgBESR0TlSueSRfQJt7E-4D7eed1xpXE2uMp2CNdMgtFGMhpJmQujophCxI3iFJTsUNzGVTN8YeEvtDxHeHc2_Ps5XCabl663da0KW3f_1OlWKqD79XTjXdCuNMFthvNFMicSCBDgGnq0J2gPzYLjaN90sva_Grysbh6W-jgrmHteiluWeDFZbHlIk49MH1swSHXIzHTSgvF4ved3I1avYuFaMCbZ4PA43En_emr5202iQlVJmQV0fTZITwbfAwAam8b69c07b",
+    "https://deadline.com/2026/09/john-mulaney-get-smart-reboot-1237071666/",
+    "https://www.thewrap.com/creative-content/tv-shows/rob-rausch-maura-higgins-host-peacock-competition-show-get-me-out-of-here/",
+    "https://deadline.com/2026/09/keanu-reeves-kill-current-movie-1237072325/",
+    "https://www.hollywoodreporter.com/business/business-news/sylvester-stallone-trump-hollywood-ambassadorship-watching-tv-1236706583/",
+    "https://www.hollywoodreporter.com/movies/movie-news/the-inbetweeners-3-movie-netflix-original-lead-cast-1236693063/",
+    "https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-to-watch-prime-video-9-20-26/",
+    "https://www.thewrap.com/media-platforms/tv/trump-economic-director-fox-news-polls-too-many-democrat/"
+  ]
+}
