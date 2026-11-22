@@ -1,17 +1,24 @@
-# StagePulse Evaluation Data (`stagepulse-eval`)
+# StagePulse Data Repository (`stagepulse-data`)
 
-Dedicated repository storing daily evaluation snapshots and benchmark datasets for [StagePulse](https://github.com/abx67/stagepulse).
+Dedicated data repository storing evaluation snapshots, benchmarks, and dataset assets for [StagePulse](https://github.com/abx67/stagepulse).
 
-## Overview
-StagePulse's evaluator records daily pipeline execution outputs (`<run_date>.json`), capturing:
+## Directory Structure
+```
+stagepulse-data/
+├── eval/             # Daily evaluation run snapshots (*.json)
+└── (future datasets) # Benchmarks, golden sets, scraped archives, etc.
+```
+
+## Data Categories
+
+### 1. `eval/` — Daily Evaluation Snapshots
+Records daily pipeline execution outputs (`<run_date>.json`), capturing:
 - Raw scraped articles
 - Selected article batches
 - Scoring function hashes and per-article signal classifications (casting, career, business, awards, etc.)
 - Breadth scoring and deduplication results
 
-Separating this evaluation data from the main application codebase keeps the primary repository lightweight while preserving version history, diffs, and historical replays for evaluation experiments.
-
-## Snapshot Structure
+#### Snapshot Structure
 Each daily file (`YYYY-MM-DD.json`) conforms to schema version 1:
 ```json
 {
@@ -30,14 +37,16 @@ Each daily file (`YYYY-MM-DD.json`) conforms to schema version 1:
 ```
 
 ## Usage with StagePulse
-When cloned alongside `stagepulse` (as a sibling folder `../stagepulse-eval`), StagePulse automatically detects and reads evaluation snapshots from this repository.
+When cloned alongside `stagepulse` (as sibling folder `../stagepulse-data`), StagePulse automatically discovers the data directory.
 
 Alternatively, configure the path via environment variable:
 ```bash
-export STAGEPULSE_EVAL_DIR="/path/to/stagepulse-eval"
+export STAGEPULSE_DATA_DIR="/path/to/stagepulse-data"
+# or point directly to the eval subfolder:
+export STAGEPULSE_EVAL_DIR="/path/to/stagepulse-data/eval"
 ```
 
-To replay an evaluation run:
+To replay an evaluation run in StagePulse:
 ```bash
 python -m src.evaluator --run 2026-11-14
 ```
