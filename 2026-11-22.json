@@ -1,0 +1,522 @@
+{
+  "schema_version": 1,
+  "run_date": "2026-11-22",
+  "captured_at": "2026-11-22T07:14:43.681492",
+  "score_fn_hash": "69e3455b",
+  "raw_count": 25,
+  "selected_count": 8,
+  "config": {
+    "standard_max_items": 8,
+    "extended_max_items": 20
+  },
+  "articles": [
+    {
+      "title": "Kit Connor and Diana Silvers To Star In Preppy Film (ID 0)",
+      "url": "https://example.com/article/0",
+      "source": "Deadline",
+      "summary": "Summary for test article 0",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "SAG-AFTRA Reaches Landmark Agreement on AI Voice Rights (ID 1)",
+      "url": "https://example.com/article/1",
+      "source": "Deadline",
+      "summary": "Summary for test article 1",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": true,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Christopher Nolan Sets Next Feature Film at Universal with Matt Damon (ID 2)",
+      "url": "https://example.com/article/2",
+      "source": "Deadline",
+      "summary": "Summary for test article 2",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Zendaya Signs On for Leading Role in Sci-Fi Drama (ID 3)",
+      "url": "https://example.com/article/3",
+      "source": "Deadline",
+      "summary": "Summary for test article 3",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Open Casting Call Announced for Broadway Revival of Hamlet (ID 4)",
+      "url": "https://example.com/article/4",
+      "source": "Deadline",
+      "summary": "Summary for test article 4",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "HBO Renews Euphoria for Fourth Season Ahead of Production (ID 5)",
+      "url": "https://example.com/article/5",
+      "source": "Deadline",
+      "summary": "Summary for test article 5",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Greta Gerwig to Direct Chronicles of Narnia for Netflix (ID 6)",
+      "url": "https://example.com/article/6",
+      "source": "Deadline",
+      "summary": "Summary for test article 6",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paul Mescal Cast in Ridley Scott Historical Epic (ID 7)",
+      "url": "https://example.com/article/7",
+      "source": "Deadline",
+      "summary": "Summary for test article 7",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Margot Robbie Produces New Indie Comedy Feature Starring Colin Farrell (ID 8)",
+      "url": "https://example.com/article/8",
+      "source": "Deadline",
+      "summary": "Summary for test article 8",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "A24 Acquires Worldwide Rights to Cannes Breakthrough Drama (ID 9)",
+      "url": "https://example.com/article/9",
+      "source": "Deadline",
+      "summary": "Summary for test article 9",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": true,
+        "business": false,
+        "awards": true,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Denis Villeneuve to Helm Secret Space Project Following Dune (ID 10)",
+      "url": "https://example.com/article/10",
+      "source": "Deadline",
+      "summary": "Summary for test article 10",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Pedro Pascal Joins Cast of Marvel Fantastic Four Reboot (ID 11)",
+      "url": "https://example.com/article/11",
+      "source": "Deadline",
+      "summary": "Summary for test article 11",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Universal Pictures Greenlights Jordan Peele Horror Thriller (ID 12)",
+      "url": "https://example.com/article/12",
+      "source": "Deadline",
+      "summary": "Summary for test article 12",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Florence Pugh Sets Sights on Mystery Project with Searchlight (ID 13)",
+      "url": "https://example.com/article/13",
+      "source": "Deadline",
+      "summary": "Summary for test article 13",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Steven Spielberg Developing Original UFO Feature at Amblin (ID 14)",
+      "url": "https://example.com/article/14",
+      "source": "Deadline",
+      "summary": "Summary for test article 14",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Timothee Chalamet Cast as Lead in Sports Biopic (ID 15)",
+      "url": "https://example.com/article/15",
+      "source": "Deadline",
+      "summary": "Summary for test article 15",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Quentin Tarantino Prepares Final Movie with Brad Pitt in Talks (ID 16)",
+      "url": "https://example.com/article/16",
+      "source": "Deadline",
+      "summary": "Summary for test article 16",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Bong Joon Ho Wraps Production on Sci-Fi Feature Starring Robert Pattinson (ID 17)",
+      "url": "https://example.com/article/17",
+      "source": "Deadline",
+      "summary": "Summary for test article 17",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Emma Stone and Jesse Plemons Reunite for Yorgos Lanthimos Project (ID 18)",
+      "url": "https://example.com/article/18",
+      "source": "Deadline",
+      "summary": "Summary for test article 18",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Lionsgate Expands John Wick Universe with New Spinoff Feature (ID 19)",
+      "url": "https://example.com/article/19",
+      "source": "Deadline",
+      "summary": "Summary for test article 19",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Netflix Greenlights Crime Drama Series Starring Idris Elba (ID 20)",
+      "url": "https://example.com/article/20",
+      "source": "Deadline",
+      "summary": "Summary for test article 20",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 2.0,
+      "_signals": {
+        "casting": true,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Apple TV+ Orders Limited Thriller Series with George Clooney (ID 21)",
+      "url": "https://example.com/article/21",
+      "source": "Deadline",
+      "summary": "Summary for test article 21",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "FX Renews The Bear for Season 5 Following Record Viewership (ID 22)",
+      "url": "https://example.com/article/22",
+      "source": "Deadline",
+      "summary": "Summary for test article 22",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": false,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Sony Pictures Schedules New Karate Kid Movie with Ralph Macchio (ID 23)",
+      "url": "https://example.com/article/23",
+      "source": "Deadline",
+      "summary": "Summary for test article 23",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.0,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    },
+    {
+      "title": "Paramount Sets Star Trek Prequel Film with Toby Haynes Directing (ID 24)",
+      "url": "https://example.com/article/24",
+      "source": "Deadline",
+      "summary": "Summary for test article 24",
+      "published": "2026-11-18T00:00:00Z",
+      "_breadth": 1,
+      "_score": 1.5,
+      "_signals": {
+        "casting": false,
+        "career": false,
+        "business": true,
+        "awards": false,
+        "policy": false,
+        "hard_reject": false,
+        "soft_reject": false
+      },
+      "_llm_score": -1
+    }
+  ],
+  "selected_urls": [
+    "https://example.com/article/9",
+    "https://example.com/article/15",
+    "https://example.com/article/8",
+    "https://example.com/article/7",
+    "https://example.com/article/16",
+    "https://example.com/article/11",
+    "https://example.com/article/0",
+    "https://example.com/article/3"
+  ],
+  "extended_selected_count": 20,
+  "extended_selected_urls": [
+    "https://example.com/article/17",
+    "https://example.com/article/21",
+    "https://example.com/article/7",
+    "https://example.com/article/1",
+    "https://example.com/article/0",
+    "https://example.com/article/24",
+    "https://example.com/article/19",
+    "https://example.com/article/6",
+    "https://example.com/article/15",
+    "https://example.com/article/11",
+    "https://example.com/article/9",
+    "https://example.com/article/5",
+    "https://example.com/article/16",
+    "https://example.com/article/2",
+    "https://example.com/article/3",
+    "https://example.com/article/18",
+    "https://example.com/article/8",
+    "https://example.com/article/4",
+    "https://example.com/article/20",
+    "https://example.com/article/14"
+  ]
+}
