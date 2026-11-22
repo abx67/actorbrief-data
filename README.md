@@ -1,10 +1,10 @@
-# StagePulse Data Repository (`stagepulse-data`)
+# ActorBrief Data Repository (`actorbrief-data`)
 
-Dedicated data repository storing evaluation snapshots, benchmarks, and dataset assets for [StagePulse](https://github.com/abx67/stagepulse).
+Dedicated data repository storing evaluation snapshots, benchmarks, and dataset assets for **ActorBrief** (formerly StagePulse).
 
 ## Directory Structure
 ```
-stagepulse-data/
+actorbrief-data/
 ├── eval/             # Daily evaluation run snapshots (*.json)
 └── (future datasets) # Benchmarks, golden sets, scraped archives, etc.
 ```
@@ -36,17 +36,17 @@ Each daily file (`YYYY-MM-DD.json`) conforms to schema version 1:
 }
 ```
 
-## Usage with StagePulse
-When cloned alongside `stagepulse` (as sibling folder `../stagepulse-data`), StagePulse automatically discovers the data directory.
+## Usage with ActorBrief
+When cloned alongside the codebase (as sibling folder `../actorbrief-data`), ActorBrief automatically discovers the evaluation directory.
 
 Alternatively, configure the path via environment variable:
 ```bash
-export STAGEPULSE_DATA_DIR="/path/to/stagepulse-data"
+export ACTORBRIEF_DATA_DIR="/path/to/actorbrief-data"
 # or point directly to the eval subfolder:
-export STAGEPULSE_EVAL_DIR="/path/to/stagepulse-data/eval"
+export ACTORBRIEF_EVAL_DIR="/path/to/actorbrief-data/eval"
 ```
 
-To replay an evaluation run in StagePulse:
+To replay an evaluation run:
 ```bash
 python -m src.evaluator --run 2026-11-14
 ```
